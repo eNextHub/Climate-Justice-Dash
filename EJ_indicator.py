@@ -13,7 +13,7 @@ def read_dims():
     for dim,indicators in DIMS.items():
         dfs[dim] = []
         for indicator in indicators:
-            dfs[dim].append(pd.read_csv(f"indicators/{indicator}.csv"))
+            dfs[dim].append(pd.read_csv(f"data/{indicator}.csv"))
            
         dim_value = dfs[dim][0]
         dim_value["Normalized"] = sum([df["Normalized"] for df in dfs[dim]])/len(dfs[dim])
@@ -35,7 +35,7 @@ def calc_EJ_index(dfs,weights = DEFAULT_WEIGHTS):
     df["Normalized"] = sum(indicator["Normalized"]*weights[dim] for dim,indicator in dfs.items())
     df["Indicator"] = "EJ Index"
 
-    df.to_csv("indicators/EJ index.csv")
+    # df.to_csv("data/EJ index.csv")
     return df
 
 def plot(data):
