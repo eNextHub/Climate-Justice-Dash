@@ -1,0 +1,861 @@
+Region,Year,Indicator,Value,continent,UNregion,name_official,Normalized
+AFG,2007,Protected Areas,0.0,Asia,Southern Asia,Islamic Republic of Afghanistan,0.0
+AFG,2012,Protected Areas,0.0,Asia,Southern Asia,Islamic Republic of Afghanistan,0.0
+AFG,2017,Protected Areas,0.0132,Asia,Southern Asia,Islamic Republic of Afghanistan,0.0132
+AFG,2022,Protected Areas,0.0132,Asia,Southern Asia,Islamic Republic of Afghanistan,0.0132
+AGO,2007,Protected Areas,0.0134,Africa,Middle Africa,Republic of Angola,0.0134
+AGO,2012,Protected Areas,0.0134,Africa,Middle Africa,Republic of Angola,0.0134
+AGO,2017,Protected Areas,0.0134,Africa,Middle Africa,Republic of Angola,0.0134
+AGO,2022,Protected Areas,0.0134,Africa,Middle Africa,Republic of Angola,0.0134
+ALB,2007,Protected Areas,0.34455,Europe,Southern Europe,Republic of Albania,0.34455
+ALB,2012,Protected Areas,0.297275,Europe,Southern Europe,Republic of Albania,0.297275
+ALB,2017,Protected Areas,0.0,Europe,Southern Europe,Republic of Albania,0.0
+ALB,2022,Protected Areas,0.0,Europe,Southern Europe,Republic of Albania,0.0
+AND,2007,Protected Areas,0.0,Europe,Southern Europe,Principality of Andorra,0.0
+AND,2012,Protected Areas,0.0,Europe,Southern Europe,Principality of Andorra,0.0
+AND,2017,Protected Areas,0.0,Europe,Southern Europe,Principality of Andorra,0.0
+AND,2022,Protected Areas,0.0,Europe,Southern Europe,Principality of Andorra,0.0
+ARE,2007,Protected Areas,0.09596388888888889,Asia,Western Asia,United Arab Emirates,0.09596388888888889
+ARE,2012,Protected Areas,0.10451666666666666,Asia,Western Asia,United Arab Emirates,0.10451666666666666
+ARE,2017,Protected Areas,0.09689444444444445,Asia,Western Asia,United Arab Emirates,0.09689444444444445
+ARE,2022,Protected Areas,0.09689444444444445,Asia,Western Asia,United Arab Emirates,0.09689444444444445
+ARG,2007,Protected Areas,0.05985,America,South America,Argentine Republic,0.05985
+ARG,2012,Protected Areas,0.0619,America,South America,Argentine Republic,0.0619
+ARG,2017,Protected Areas,0.0638,America,South America,Argentine Republic,0.0638
+ARG,2022,Protected Areas,0.0638,America,South America,Argentine Republic,0.0638
+ARM,2007,Protected Areas,0.09596388888888889,Asia,Western Asia,Republic of Armenia,0.09596388888888889
+ARM,2012,Protected Areas,0.10451666666666666,Asia,Western Asia,Republic of Armenia,0.10451666666666666
+ARM,2017,Protected Areas,0.09689444444444445,Asia,Western Asia,Republic of Armenia,0.09689444444444445
+ARM,2022,Protected Areas,0.09689444444444445,Asia,Western Asia,Republic of Armenia,0.09689444444444445
+ASM,2007,Protected Areas,0.1493,Oceania,Polynesia,American Samoa,0.1493
+ASM,2012,Protected Areas,0.1499,Oceania,Polynesia,American Samoa,0.1499
+ASM,2017,Protected Areas,0.1499,Oceania,Polynesia,American Samoa,0.1499
+ASM,2022,Protected Areas,0.1499,Oceania,Polynesia,American Samoa,0.1499
+ATG,2007,Protected Areas,0.2002903846153846,America,Caribbean,Antigua and Barbuda,0.2002903846153846
+ATG,2012,Protected Areas,0.22780192307692307,America,Caribbean,Antigua and Barbuda,0.22780192307692307
+ATG,2017,Protected Areas,0.22717692307692308,America,Caribbean,Antigua and Barbuda,0.22717692307692308
+ATG,2022,Protected Areas,0.22717692307692308,America,Caribbean,Antigua and Barbuda,0.22717692307692308
+AUS,2007,Protected Areas,0.129025,Oceania,Australia and New Zealand,Commonwealth of Australia,0.129025
+AUS,2012,Protected Areas,0.22157500000000002,Oceania,Australia and New Zealand,Commonwealth of Australia,0.22157500000000002
+AUS,2017,Protected Areas,0.253,Oceania,Australia and New Zealand,Commonwealth of Australia,0.253
+AUS,2022,Protected Areas,0.253,Oceania,Australia and New Zealand,Commonwealth of Australia,0.253
+AUT,2007,Protected Areas,0.29255,Europe,Western Europe,Republic of Austria,0.29255
+AUT,2012,Protected Areas,0.351325,Europe,Western Europe,Republic of Austria,0.351325
+AUT,2017,Protected Areas,0.3625,Europe,Western Europe,Republic of Austria,0.3625
+AUT,2022,Protected Areas,0.3625,Europe,Western Europe,Republic of Austria,0.3625
+AZE,2007,Protected Areas,0.3442,Asia,Western Asia,Republic of Azerbaijan,0.3442
+AZE,2012,Protected Areas,0.3442,Asia,Western Asia,Republic of Azerbaijan,0.3442
+AZE,2017,Protected Areas,0.3442,Asia,Western Asia,Republic of Azerbaijan,0.3442
+AZE,2022,Protected Areas,0.3442,Asia,Western Asia,Republic of Azerbaijan,0.3442
+BDI,2007,Protected Areas,0.41119999999999995,Africa,Eastern Africa,Republic of Burundi,0.41119999999999995
+BDI,2012,Protected Areas,0.41119999999999995,Africa,Eastern Africa,Republic of Burundi,0.41119999999999995
+BDI,2017,Protected Areas,0.41119999999999995,Africa,Eastern Africa,Republic of Burundi,0.41119999999999995
+BDI,2022,Protected Areas,0.41119999999999995,Africa,Eastern Africa,Republic of Burundi,0.41119999999999995
+BEL,2007,Protected Areas,0.019424999999999998,Europe,Western Europe,Kingdom of Belgium,0.019424999999999998
+BEL,2012,Protected Areas,0.18655,Europe,Western Europe,Kingdom of Belgium,0.18655
+BEL,2017,Protected Areas,0.0,Europe,Western Europe,Kingdom of Belgium,0.0
+BEL,2022,Protected Areas,0.0,Europe,Western Europe,Kingdom of Belgium,0.0
+BEN,2007,Protected Areas,0.46562499999999996,Africa,Western Africa,Republic of Benin,0.46562499999999996
+BEN,2012,Protected Areas,0.5701,Africa,Western Africa,Republic of Benin,0.5701
+BEN,2017,Protected Areas,0.58145,Africa,Western Africa,Republic of Benin,0.58145
+BEN,2022,Protected Areas,0.58145,Africa,Western Africa,Republic of Benin,0.58145
+BFA,2007,Protected Areas,0.11069999999999999,Africa,Western Africa,Burkina Faso,0.11069999999999999
+BFA,2012,Protected Areas,0.125375,Africa,Western Africa,Burkina Faso,0.125375
+BFA,2017,Protected Areas,0.13795,Africa,Western Africa,Burkina Faso,0.13795
+BFA,2022,Protected Areas,0.13795,Africa,Western Africa,Burkina Faso,0.13795
+BGD,2007,Protected Areas,0.247,Asia,Southern Asia,People's Republic of Bangladesh,0.247
+BGD,2012,Protected Areas,0.247,Asia,Southern Asia,People's Republic of Bangladesh,0.247
+BGD,2017,Protected Areas,0.247,Asia,Southern Asia,People's Republic of Bangladesh,0.247
+BGD,2022,Protected Areas,0.247,Asia,Southern Asia,People's Republic of Bangladesh,0.247
+BGR,2007,Protected Areas,0.498425,Europe,Eastern Europe,Republic of Bulgaria,0.498425
+BGR,2012,Protected Areas,0.557275,Europe,Eastern Europe,Republic of Bulgaria,0.557275
+BGR,2017,Protected Areas,0.5736,Europe,Eastern Europe,Republic of Bulgaria,0.5736
+BGR,2022,Protected Areas,0.5736,Europe,Eastern Europe,Republic of Bulgaria,0.5736
+BHR,2007,Protected Areas,0.09596388888888889,Asia,Western Asia,Kingdom of Bahrain,0.09596388888888889
+BHR,2012,Protected Areas,0.10451666666666666,Asia,Western Asia,Kingdom of Bahrain,0.10451666666666666
+BHR,2017,Protected Areas,0.09689444444444445,Asia,Western Asia,Kingdom of Bahrain,0.09689444444444445
+BHR,2022,Protected Areas,0.09689444444444445,Asia,Western Asia,Kingdom of Bahrain,0.09689444444444445
+BHS,2007,Protected Areas,0.2002903846153846,America,Caribbean,Commonwealth of the Bahamas,0.2002903846153846
+BHS,2012,Protected Areas,0.22780192307692307,America,Caribbean,Commonwealth of the Bahamas,0.22780192307692307
+BHS,2017,Protected Areas,0.22717692307692308,America,Caribbean,Commonwealth of the Bahamas,0.22717692307692308
+BHS,2022,Protected Areas,0.22717692307692308,America,Caribbean,Commonwealth of the Bahamas,0.22717692307692308
+BIH,2007,Protected Areas,0.20186136363636364,Europe,Southern Europe,Bosnia and Herzegovina,0.20186136363636364
+BIH,2012,Protected Areas,0.22596136363636363,Europe,Southern Europe,Bosnia and Herzegovina,0.22596136363636363
+BIH,2017,Protected Areas,0.17157272727272727,Europe,Southern Europe,Bosnia and Herzegovina,0.17157272727272727
+BIH,2022,Protected Areas,0.17157272727272727,Europe,Southern Europe,Bosnia and Herzegovina,0.17157272727272727
+BLR,2007,Protected Areas,0.535225,Europe,Eastern Europe,Republic of Belarus,0.535225
+BLR,2012,Protected Areas,0.5639,Europe,Eastern Europe,Republic of Belarus,0.5639
+BLR,2017,Protected Areas,0.56765,Europe,Eastern Europe,Republic of Belarus,0.56765
+BLR,2022,Protected Areas,0.56765,Europe,Eastern Europe,Republic of Belarus,0.56765
+BLZ,2007,Protected Areas,0.5619,America,Central America,Belize,0.5619
+BLZ,2012,Protected Areas,0.56975,America,Central America,Belize,0.56975
+BLZ,2017,Protected Areas,0.5681,America,Central America,Belize,0.5681
+BLZ,2022,Protected Areas,0.5681,America,Central America,Belize,0.5681
+BMU,2007,Protected Areas,0.2239,America,Northern America,Bermuda,0.2239
+BMU,2012,Protected Areas,0.2333333333333333,America,Northern America,Bermuda,0.2333333333333333
+BMU,2017,Protected Areas,0.23981666666666665,America,Northern America,Bermuda,0.23981666666666665
+BMU,2022,Protected Areas,0.23981666666666665,America,Northern America,Bermuda,0.23981666666666665
+BOL,2007,Protected Areas,0.060825000000000004,America,South America,Plurinational State of Bolivia,0.060825000000000004
+BOL,2012,Protected Areas,0.09745000000000001,America,South America,Plurinational State of Bolivia,0.09745000000000001
+BOL,2017,Protected Areas,0.23515,America,South America,Plurinational State of Bolivia,0.23515
+BOL,2022,Protected Areas,0.23515,America,South America,Plurinational State of Bolivia,0.23515
+BRA,2007,Protected Areas,0.138925,America,South America,Federative Republic of Brazil,0.138925
+BRA,2012,Protected Areas,0.16799999999999998,America,South America,Federative Republic of Brazil,0.16799999999999998
+BRA,2017,Protected Areas,0.1809,America,South America,Federative Republic of Brazil,0.1809
+BRA,2022,Protected Areas,0.1809,America,South America,Federative Republic of Brazil,0.1809
+BRB,2007,Protected Areas,0.023799999999999998,America,Caribbean,Barbados,0.023799999999999998
+BRB,2012,Protected Areas,0.047599999999999996,America,Caribbean,Barbados,0.047599999999999996
+BRB,2017,Protected Areas,0.047599999999999996,America,Caribbean,Barbados,0.047599999999999996
+BRB,2022,Protected Areas,0.047599999999999996,America,Caribbean,Barbados,0.047599999999999996
+BRN,2007,Protected Areas,0.05,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.05
+BRN,2012,Protected Areas,0.05,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.05
+BRN,2017,Protected Areas,0.05,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.05
+BRN,2022,Protected Areas,0.05,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.05
+BTN,2007,Protected Areas,0.23795,Asia,Southern Asia,Kingdom of Bhutan,0.23795
+BTN,2012,Protected Areas,0.250175,Asia,Southern Asia,Kingdom of Bhutan,0.250175
+BTN,2017,Protected Areas,0.2711,Asia,Southern Asia,Kingdom of Bhutan,0.2711
+BTN,2022,Protected Areas,0.2711,Asia,Southern Asia,Kingdom of Bhutan,0.2711
+BWA,2007,Protected Areas,0.1081,Africa,Southern Africa,Republic of Botswana,0.1081
+BWA,2012,Protected Areas,0.1081,Africa,Southern Africa,Republic of Botswana,0.1081
+BWA,2017,Protected Areas,0.1081,Africa,Southern Africa,Republic of Botswana,0.1081
+BWA,2022,Protected Areas,0.1081,Africa,Southern Africa,Republic of Botswana,0.1081
+CAF,2007,Protected Areas,0.013250000000000001,Africa,Middle Africa,Central African Republic,0.013250000000000001
+CAF,2012,Protected Areas,0.052474999999999994,Africa,Middle Africa,Central African Republic,0.052474999999999994
+CAF,2017,Protected Areas,0.08639999999999999,Africa,Middle Africa,Central African Republic,0.08639999999999999
+CAF,2022,Protected Areas,0.08639999999999999,Africa,Middle Africa,Central African Republic,0.08639999999999999
+CAN,2007,Protected Areas,0.3042,America,Northern America,Canada,0.3042
+CAN,2012,Protected Areas,0.31275,America,Northern America,Canada,0.31275
+CAN,2017,Protected Areas,0.3307,America,Northern America,Canada,0.3307
+CAN,2022,Protected Areas,0.3307,America,Northern America,Canada,0.3307
+CHE,2007,Protected Areas,0.371475,Europe,Western Europe,Swiss Confederation,0.371475
+CHE,2012,Protected Areas,0.453975,Europe,Western Europe,Swiss Confederation,0.453975
+CHE,2017,Protected Areas,0.51565,Europe,Western Europe,Swiss Confederation,0.51565
+CHE,2022,Protected Areas,0.51565,Europe,Western Europe,Swiss Confederation,0.51565
+CHL,2007,Protected Areas,0.103175,America,South America,Republic of Chile,0.103175
+CHL,2012,Protected Areas,0.10585,America,South America,Republic of Chile,0.10585
+CHL,2017,Protected Areas,0.10765000000000001,America,South America,Republic of Chile,0.10765000000000001
+CHL,2022,Protected Areas,0.10765000000000001,America,South America,Republic of Chile,0.10765000000000001
+CHN,2007,Protected Areas,0.31110000000000004,Asia,Eastern Asia,People's Republic of China,0.31110000000000004
+CHN,2012,Protected Areas,0.372275,Asia,Eastern Asia,People's Republic of China,0.372275
+CHN,2017,Protected Areas,0.41350000000000003,Asia,Eastern Asia,People's Republic of China,0.41350000000000003
+CHN,2022,Protected Areas,0.41350000000000003,Asia,Eastern Asia,People's Republic of China,0.41350000000000003
+CIV,2007,Protected Areas,0.599025,Africa,Western Africa,Republic of Côte d'Ivoire,0.599025
+CIV,2012,Protected Areas,0.5347999999999999,Africa,Western Africa,Republic of Côte d'Ivoire,0.5347999999999999
+CIV,2017,Protected Areas,0.49629999999999996,Africa,Western Africa,Republic of Côte d'Ivoire,0.49629999999999996
+CIV,2022,Protected Areas,0.49629999999999996,Africa,Western Africa,Republic of Côte d'Ivoire,0.49629999999999996
+CMR,2007,Protected Areas,0.3621,Africa,Middle Africa,Republic of Cameroon,0.3621
+CMR,2012,Protected Areas,0.3621,Africa,Middle Africa,Republic of Cameroon,0.3621
+CMR,2017,Protected Areas,0.39045,Africa,Middle Africa,Republic of Cameroon,0.39045
+CMR,2022,Protected Areas,0.39045,Africa,Middle Africa,Republic of Cameroon,0.39045
+COD,2007,Protected Areas,0.061900000000000004,Africa,Middle Africa,Democratic Republic of the Congo,0.061900000000000004
+COD,2012,Protected Areas,0.077075,Africa,Middle Africa,Democratic Republic of the Congo,0.077075
+COD,2017,Protected Areas,0.09225,Africa,Middle Africa,Democratic Republic of the Congo,0.09225
+COD,2022,Protected Areas,0.09225,Africa,Middle Africa,Democratic Republic of the Congo,0.09225
+COG,2007,Protected Areas,0.150325,Africa,Middle Africa,Republic of the Congo,0.150325
+COG,2012,Protected Areas,0.225875,Africa,Middle Africa,Republic of the Congo,0.225875
+COG,2017,Protected Areas,0.25115,Africa,Middle Africa,Republic of the Congo,0.25115
+COG,2022,Protected Areas,0.25115,Africa,Middle Africa,Republic of the Congo,0.25115
+COL,2007,Protected Areas,0.1988,America,South America,Republic of Colombia,0.1988
+COL,2012,Protected Areas,0.27425,America,South America,Republic of Colombia,0.27425
+COL,2017,Protected Areas,0.32325,America,South America,Republic of Colombia,0.32325
+COL,2022,Protected Areas,0.32325,America,South America,Republic of Colombia,0.32325
+COM,2007,Protected Areas,0.042074999999999994,Africa,Eastern Africa,Union of the Comoros,0.042074999999999994
+COM,2012,Protected Areas,0.042074999999999994,Africa,Eastern Africa,Union of the Comoros,0.042074999999999994
+COM,2017,Protected Areas,0.0,Africa,Eastern Africa,Union of the Comoros,0.0
+COM,2022,Protected Areas,0.0,Africa,Eastern Africa,Union of the Comoros,0.0
+CPV,2007,Protected Areas,0.078,Africa,Western Africa,Republic of Cabo Verde,0.078
+CPV,2012,Protected Areas,0.078,Africa,Western Africa,Republic of Cabo Verde,0.078
+CPV,2017,Protected Areas,0.078,Africa,Western Africa,Republic of Cabo Verde,0.078
+CPV,2022,Protected Areas,0.078,Africa,Western Africa,Republic of Cabo Verde,0.078
+CRI,2007,Protected Areas,0.0,America,Central America,Republic of Costa Rica,0.0
+CRI,2012,Protected Areas,0.19722499999999998,America,Central America,Republic of Costa Rica,0.19722499999999998
+CRI,2017,Protected Areas,0.4,America,Central America,Republic of Costa Rica,0.4
+CRI,2022,Protected Areas,0.4,America,Central America,Republic of Costa Rica,0.4
+CUB,2007,Protected Areas,0.31965,America,Caribbean,Republic of Cuba,0.31965
+CUB,2012,Protected Areas,0.39005,America,Caribbean,Republic of Cuba,0.39005
+CUB,2017,Protected Areas,0.41635,America,Caribbean,Republic of Cuba,0.41635
+CUB,2022,Protected Areas,0.41635,America,Caribbean,Republic of Cuba,0.41635
+CUW,2007,Protected Areas,0.2002903846153846,America,Caribbean,Country of Curaçao,0.2002903846153846
+CUW,2012,Protected Areas,0.22780192307692307,America,Caribbean,Country of Curaçao,0.22780192307692307
+CUW,2017,Protected Areas,0.22717692307692308,America,Caribbean,Country of Curaçao,0.22717692307692308
+CUW,2022,Protected Areas,0.22717692307692308,America,Caribbean,Country of Curaçao,0.22717692307692308
+CYM,2007,Protected Areas,0.31055,America,Caribbean,Cayman Islands,0.31055
+CYM,2012,Protected Areas,0.561125,America,Caribbean,Cayman Islands,0.561125
+CYM,2017,Protected Areas,0.5617,America,Caribbean,Cayman Islands,0.5617
+CYM,2022,Protected Areas,0.5617,America,Caribbean,Cayman Islands,0.5617
+CYP,2007,Protected Areas,0.3527,Asia,Western Asia,Republic of Cyprus,0.3527
+CYP,2012,Protected Areas,0.3588,Asia,Western Asia,Republic of Cyprus,0.3588
+CYP,2017,Protected Areas,0.38055000000000005,Asia,Western Asia,Republic of Cyprus,0.38055000000000005
+CYP,2022,Protected Areas,0.38055000000000005,Asia,Western Asia,Republic of Cyprus,0.38055000000000005
+CZE,2007,Protected Areas,0.51955,Europe,Eastern Europe,Czech Republic,0.51955
+CZE,2012,Protected Areas,0.524875,Europe,Eastern Europe,Czech Republic,0.524875
+CZE,2017,Protected Areas,0.5274,Europe,Eastern Europe,Czech Republic,0.5274
+CZE,2022,Protected Areas,0.5274,Europe,Eastern Europe,Czech Republic,0.5274
+DEU,2007,Protected Areas,0.449975,Europe,Western Europe,Federal Republic of Germany,0.449975
+DEU,2012,Protected Areas,0.47664999999999996,Europe,Western Europe,Federal Republic of Germany,0.47664999999999996
+DEU,2017,Protected Areas,0.47664999999999996,Europe,Western Europe,Federal Republic of Germany,0.47664999999999996
+DEU,2022,Protected Areas,0.47664999999999996,Europe,Western Europe,Federal Republic of Germany,0.47664999999999996
+DJI,2007,Protected Areas,0.0,Africa,Eastern Africa,Republic of Djibouti,0.0
+DJI,2012,Protected Areas,0.040175,Africa,Eastern Africa,Republic of Djibouti,0.040175
+DJI,2017,Protected Areas,0.08035,Africa,Eastern Africa,Republic of Djibouti,0.08035
+DJI,2022,Protected Areas,0.08035,Africa,Eastern Africa,Republic of Djibouti,0.08035
+DMA,2007,Protected Areas,0.447,America,Caribbean,Commonwealth of Dominica,0.447
+DMA,2012,Protected Areas,0.447,America,Caribbean,Commonwealth of Dominica,0.447
+DMA,2017,Protected Areas,0.447,America,Caribbean,Commonwealth of Dominica,0.447
+DMA,2022,Protected Areas,0.447,America,Caribbean,Commonwealth of Dominica,0.447
+DNK,2007,Protected Areas,0.250175,Europe,Northern Europe,Kingdom of Denmark,0.250175
+DNK,2012,Protected Areas,0.282375,Europe,Northern Europe,Kingdom of Denmark,0.282375
+DNK,2017,Protected Areas,0.28245,Europe,Northern Europe,Kingdom of Denmark,0.28245
+DNK,2022,Protected Areas,0.28245,Europe,Northern Europe,Kingdom of Denmark,0.28245
+DOM,2007,Protected Areas,0.2002903846153846,America,Caribbean,Dominican Republic,0.2002903846153846
+DOM,2012,Protected Areas,0.22780192307692307,America,Caribbean,Dominican Republic,0.22780192307692307
+DOM,2017,Protected Areas,0.22717692307692308,America,Caribbean,Dominican Republic,0.22717692307692308
+DOM,2022,Protected Areas,0.22717692307692308,America,Caribbean,Dominican Republic,0.22717692307692308
+DZA,2007,Protected Areas,0.049824999999999994,Africa,Northern Africa,People's Democratic Republic of Algeria,0.049824999999999994
+DZA,2012,Protected Areas,0.06924999999999999,Africa,Northern Africa,People's Democratic Republic of Algeria,0.06924999999999999
+DZA,2017,Protected Areas,0.0897,Africa,Northern Africa,People's Democratic Republic of Algeria,0.0897
+DZA,2022,Protected Areas,0.0897,Africa,Northern Africa,People's Democratic Republic of Algeria,0.0897
+ECU,2007,Protected Areas,0.312225,America,South America,Republic of Ecuador,0.312225
+ECU,2012,Protected Areas,0.34435,America,South America,Republic of Ecuador,0.34435
+ECU,2017,Protected Areas,0.34985,America,South America,Republic of Ecuador,0.34985
+ECU,2022,Protected Areas,0.34985,America,South America,Republic of Ecuador,0.34985
+EGY,2007,Protected Areas,0.20698125,Africa,Northern Africa,Arab Republic of Egypt,0.20698125
+EGY,2012,Protected Areas,0.24630000000000002,Africa,Northern Africa,Arab Republic of Egypt,0.24630000000000002
+EGY,2017,Protected Areas,0.2624375,Africa,Northern Africa,Arab Republic of Egypt,0.2624375
+EGY,2022,Protected Areas,0.2624375,Africa,Northern Africa,Arab Republic of Egypt,0.2624375
+ERI,2007,Protected Areas,0.04995,Africa,Eastern Africa,State of Eritrea,0.04995
+ERI,2012,Protected Areas,0.0999,Africa,Eastern Africa,State of Eritrea,0.0999
+ERI,2017,Protected Areas,0.0999,Africa,Eastern Africa,State of Eritrea,0.0999
+ERI,2022,Protected Areas,0.0999,Africa,Eastern Africa,State of Eritrea,0.0999
+ESP,2007,Protected Areas,0.130875,Europe,Southern Europe,Kingdom of Spain,0.130875
+ESP,2012,Protected Areas,0.19892500000000002,Europe,Southern Europe,Kingdom of Spain,0.19892500000000002
+ESP,2017,Protected Areas,0.0,Europe,Southern Europe,Kingdom of Spain,0.0
+ESP,2022,Protected Areas,0.0,Europe,Southern Europe,Kingdom of Spain,0.0
+EST,2007,Protected Areas,0.36224999999999996,Europe,Northern Europe,Republic of Estonia,0.36224999999999996
+EST,2012,Protected Areas,0.431575,Europe,Northern Europe,Republic of Estonia,0.431575
+EST,2017,Protected Areas,0.45404999999999995,Europe,Northern Europe,Republic of Estonia,0.45404999999999995
+EST,2022,Protected Areas,0.45404999999999995,Europe,Northern Europe,Republic of Estonia,0.45404999999999995
+ETH,2007,Protected Areas,0.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.0
+ETH,2012,Protected Areas,0.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.0
+ETH,2017,Protected Areas,0.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.0
+ETH,2022,Protected Areas,0.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.0
+FIN,2007,Protected Areas,0.556425,Europe,Northern Europe,Republic of Finland,0.556425
+FIN,2012,Protected Areas,0.5632,Europe,Northern Europe,Republic of Finland,0.5632
+FIN,2017,Protected Areas,0.56315,Europe,Northern Europe,Republic of Finland,0.56315
+FIN,2022,Protected Areas,0.56315,Europe,Northern Europe,Republic of Finland,0.56315
+FJI,2007,Protected Areas,0.0460375,Oceania,Melanesia,Republic of Fiji,0.0460375
+FJI,2012,Protected Areas,0.048787500000000004,Oceania,Melanesia,Republic of Fiji,0.048787500000000004
+FJI,2017,Protected Areas,0.1756125,Oceania,Melanesia,Republic of Fiji,0.1756125
+FJI,2022,Protected Areas,0.1756125,Oceania,Melanesia,Republic of Fiji,0.1756125
+FRA,2007,Protected Areas,0.209975,Europe,Western Europe,French Republic,0.209975
+FRA,2012,Protected Areas,0.283975,Europe,Western Europe,French Republic,0.283975
+FRA,2017,Protected Areas,0.3463,Europe,Western Europe,French Republic,0.3463
+FRA,2022,Protected Areas,0.3463,Europe,Western Europe,French Republic,0.3463
+FRO,2007,Protected Areas,0.0,Europe,Northern Europe,Faroe Islands,0.0
+FRO,2012,Protected Areas,0.0,Europe,Northern Europe,Faroe Islands,0.0
+FRO,2017,Protected Areas,0.0,Europe,Northern Europe,Faroe Islands,0.0
+FRO,2022,Protected Areas,0.0,Europe,Northern Europe,Faroe Islands,0.0
+FSM,2007,Protected Areas,0.10863826923076923,Oceania,Micronesia,Federated States of Micronesia,0.10863826923076923
+FSM,2012,Protected Areas,0.12315134615384614,Oceania,Micronesia,Federated States of Micronesia,0.12315134615384614
+FSM,2017,Protected Areas,0.16872634615384616,Oceania,Micronesia,Federated States of Micronesia,0.16872634615384616
+FSM,2022,Protected Areas,0.16872634615384616,Oceania,Micronesia,Federated States of Micronesia,0.16872634615384616
+GAB,2007,Protected Areas,0.201125,Africa,Middle Africa,Gabonese Republic,0.201125
+GAB,2012,Protected Areas,0.260025,Africa,Middle Africa,Gabonese Republic,0.260025
+GAB,2017,Protected Areas,0.30010000000000003,Africa,Middle Africa,Gabonese Republic,0.30010000000000003
+GAB,2022,Protected Areas,0.30010000000000003,Africa,Middle Africa,Gabonese Republic,0.30010000000000003
+GBR,2007,Protected Areas,0.26252499999999995,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.26252499999999995
+GBR,2012,Protected Areas,0.32147499999999996,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.32147499999999996
+GBR,2017,Protected Areas,0.34245,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.34245
+GBR,2022,Protected Areas,0.34245,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.34245
+GEO,2007,Protected Areas,0.05365,Asia,Western Asia,Georgia,0.05365
+GEO,2012,Protected Areas,0.081075,Asia,Western Asia,Georgia,0.081075
+GEO,2017,Protected Areas,0.0817,Asia,Western Asia,Georgia,0.0817
+GEO,2022,Protected Areas,0.0817,Asia,Western Asia,Georgia,0.0817
+GHA,2007,Protected Areas,0.19990000000000002,Africa,Western Africa,Republic of Ghana,0.19990000000000002
+GHA,2012,Protected Areas,0.228275,Africa,Western Africa,Republic of Ghana,0.228275
+GHA,2017,Protected Areas,0.21710000000000002,Africa,Western Africa,Republic of Ghana,0.21710000000000002
+GHA,2022,Protected Areas,0.21710000000000002,Africa,Western Africa,Republic of Ghana,0.21710000000000002
+GIB,2007,Protected Areas,0.0,Europe,Southern Europe,Gibraltar,0.0
+GIB,2012,Protected Areas,0.0,Europe,Southern Europe,Gibraltar,0.0
+GIB,2017,Protected Areas,0.0,Europe,Southern Europe,Gibraltar,0.0
+GIB,2022,Protected Areas,0.0,Europe,Southern Europe,Gibraltar,0.0
+GIN,2007,Protected Areas,0.2542,Africa,Western Africa,Republic of Guinea,0.2542
+GIN,2012,Protected Areas,0.2542,Africa,Western Africa,Republic of Guinea,0.2542
+GIN,2017,Protected Areas,0.2542,Africa,Western Africa,Republic of Guinea,0.2542
+GIN,2022,Protected Areas,0.2542,Africa,Western Africa,Republic of Guinea,0.2542
+GMB,2007,Protected Areas,0.0,Africa,Western Africa,Republic of the Gambia,0.0
+GMB,2012,Protected Areas,0.10735,Africa,Western Africa,Republic of the Gambia,0.10735
+GMB,2017,Protected Areas,0.2147,Africa,Western Africa,Republic of the Gambia,0.2147
+GMB,2022,Protected Areas,0.2147,Africa,Western Africa,Republic of the Gambia,0.2147
+GNB,2007,Protected Areas,0.0134,Africa,Western Africa,Republic of Guinea-Bissau,0.0134
+GNB,2012,Protected Areas,0.0134,Africa,Western Africa,Republic of Guinea-Bissau,0.0134
+GNB,2017,Protected Areas,0.0129,Africa,Western Africa,Republic of Guinea-Bissau,0.0129
+GNB,2022,Protected Areas,0.0129,Africa,Western Africa,Republic of Guinea-Bissau,0.0129
+GNQ,2007,Protected Areas,0.11,Africa,Middle Africa,Republic of Equatorial Guinea,0.11
+GNQ,2012,Protected Areas,0.11,Africa,Middle Africa,Republic of Equatorial Guinea,0.11
+GNQ,2017,Protected Areas,0.11,Africa,Middle Africa,Republic of Equatorial Guinea,0.11
+GNQ,2022,Protected Areas,0.11,Africa,Middle Africa,Republic of Equatorial Guinea,0.11
+GRC,2007,Protected Areas,0.20186136363636364,Europe,Southern Europe,Hellenic Republic,0.20186136363636364
+GRC,2012,Protected Areas,0.22596136363636363,Europe,Southern Europe,Hellenic Republic,0.22596136363636363
+GRC,2017,Protected Areas,0.17157272727272727,Europe,Southern Europe,Hellenic Republic,0.17157272727272727
+GRC,2022,Protected Areas,0.17157272727272727,Europe,Southern Europe,Hellenic Republic,0.17157272727272727
+GRD,2007,Protected Areas,0.1311,America,Caribbean,Grenada,0.1311
+GRD,2012,Protected Areas,0.1311,America,Caribbean,Grenada,0.1311
+GRD,2017,Protected Areas,0.1311,America,Caribbean,Grenada,0.1311
+GRD,2022,Protected Areas,0.1311,America,Caribbean,Grenada,0.1311
+GRL,2007,Protected Areas,0.0,America,Northern America,Greenland,0.0
+GRL,2012,Protected Areas,0.0,America,Northern America,Greenland,0.0
+GRL,2017,Protected Areas,0.0,America,Northern America,Greenland,0.0
+GRL,2022,Protected Areas,0.0,America,Northern America,Greenland,0.0
+GTM,2007,Protected Areas,0.28752500000000003,America,Central America,Republic of Guatemala,0.28752500000000003
+GTM,2012,Protected Areas,0.2675,America,Central America,Republic of Guatemala,0.2675
+GTM,2017,Protected Areas,0.26575000000000004,America,Central America,Republic of Guatemala,0.26575000000000004
+GTM,2022,Protected Areas,0.26575000000000004,America,Central America,Republic of Guatemala,0.26575000000000004
+GUM,2007,Protected Areas,0.10863826923076923,Oceania,Micronesia,Guam,0.10863826923076923
+GUM,2012,Protected Areas,0.12315134615384614,Oceania,Micronesia,Guam,0.12315134615384614
+GUM,2017,Protected Areas,0.16872634615384616,Oceania,Micronesia,Guam,0.16872634615384616
+GUM,2022,Protected Areas,0.16872634615384616,Oceania,Micronesia,Guam,0.16872634615384616
+GUY,2007,Protected Areas,0.450075,America,South America,Co-operative Republic of Guyana,0.450075
+GUY,2012,Protected Areas,0.451,America,South America,Co-operative Republic of Guyana,0.451
+GUY,2017,Protected Areas,0.44920000000000004,America,South America,Co-operative Republic of Guyana,0.44920000000000004
+GUY,2022,Protected Areas,0.44920000000000004,America,South America,Co-operative Republic of Guyana,0.44920000000000004
+HKG,2007,Protected Areas,0.4352125,Asia,Eastern Asia,Hong Kong SAR,0.4352125
+HKG,2012,Protected Areas,0.461175,Asia,Eastern Asia,Hong Kong SAR,0.461175
+HKG,2017,Protected Areas,0.466725,Asia,Eastern Asia,Hong Kong SAR,0.466725
+HKG,2022,Protected Areas,0.466725,Asia,Eastern Asia,Hong Kong SAR,0.466725
+HND,2007,Protected Areas,0.0,America,Central America,Republic of Honduras,0.0
+HND,2012,Protected Areas,0.08132500000000001,America,Central America,Republic of Honduras,0.08132500000000001
+HND,2017,Protected Areas,0.21539999999999998,America,Central America,Republic of Honduras,0.21539999999999998
+HND,2022,Protected Areas,0.21539999999999998,America,Central America,Republic of Honduras,0.21539999999999998
+HRV,2007,Protected Areas,0.38487499999999997,Europe,Southern Europe,Republic of Croatia,0.38487499999999997
+HRV,2012,Protected Areas,0.414325,Europe,Southern Europe,Republic of Croatia,0.414325
+HRV,2017,Protected Areas,0.46404999999999996,Europe,Southern Europe,Republic of Croatia,0.46404999999999996
+HRV,2022,Protected Areas,0.46404999999999996,Europe,Southern Europe,Republic of Croatia,0.46404999999999996
+HTI,2007,Protected Areas,0.0867,America,Caribbean,Republic of Haiti,0.0867
+HTI,2012,Protected Areas,0.0867,America,Caribbean,Republic of Haiti,0.0867
+HTI,2017,Protected Areas,0.0876,America,Caribbean,Republic of Haiti,0.0876
+HTI,2022,Protected Areas,0.0876,America,Caribbean,Republic of Haiti,0.0876
+HUN,2007,Protected Areas,0.577075,Europe,Eastern Europe,Republic of Hungary,0.577075
+HUN,2012,Protected Areas,0.6086499999999999,Europe,Eastern Europe,Republic of Hungary,0.6086499999999999
+HUN,2017,Protected Areas,0.6105,Europe,Eastern Europe,Republic of Hungary,0.6105
+HUN,2022,Protected Areas,0.6105,Europe,Eastern Europe,Republic of Hungary,0.6105
+IDN,2007,Protected Areas,0.36605,Asia,South-eastern Asia,Republic of Indonesia,0.36605
+IDN,2012,Protected Areas,0.388575,Asia,South-eastern Asia,Republic of Indonesia,0.388575
+IDN,2017,Protected Areas,0.38875,Asia,South-eastern Asia,Republic of Indonesia,0.38875
+IDN,2022,Protected Areas,0.38875,Asia,South-eastern Asia,Republic of Indonesia,0.38875
+IMN,2007,Protected Areas,0.5,Europe,Northern Europe,Isle of Man,0.5
+IMN,2012,Protected Areas,1.0,Europe,Northern Europe,Isle of Man,1.0
+IMN,2017,Protected Areas,1.0,Europe,Northern Europe,Isle of Man,1.0
+IMN,2022,Protected Areas,1.0,Europe,Northern Europe,Isle of Man,1.0
+IND,2007,Protected Areas,0.46340000000000003,Asia,Southern Asia,Republic of India,0.46340000000000003
+IND,2012,Protected Areas,0.4721,Asia,Southern Asia,Republic of India,0.4721
+IND,2017,Protected Areas,0.4726,Asia,Southern Asia,Republic of India,0.4726
+IND,2022,Protected Areas,0.4726,Asia,Southern Asia,Republic of India,0.4726
+IRL,2007,Protected Areas,0.381325,Europe,Northern Europe,Ireland,0.381325
+IRL,2012,Protected Areas,0.446275,Europe,Northern Europe,Ireland,0.446275
+IRL,2017,Protected Areas,0.45585000000000003,Europe,Northern Europe,Ireland,0.45585000000000003
+IRL,2022,Protected Areas,0.45585000000000003,Europe,Northern Europe,Ireland,0.45585000000000003
+IRN,2007,Protected Areas,0.12,Asia,Southern Asia,Islamic Republic of Iran,0.12
+IRN,2012,Protected Areas,0.1945,Asia,Southern Asia,Islamic Republic of Iran,0.1945
+IRN,2017,Protected Areas,0.21555,Asia,Southern Asia,Islamic Republic of Iran,0.21555
+IRN,2022,Protected Areas,0.21555,Asia,Southern Asia,Islamic Republic of Iran,0.21555
+IRQ,2007,Protected Areas,0.0,Asia,Western Asia,Republic of Iraq,0.0
+IRQ,2012,Protected Areas,0.0,Asia,Western Asia,Republic of Iraq,0.0
+IRQ,2017,Protected Areas,0.0,Asia,Western Asia,Republic of Iraq,0.0
+IRQ,2022,Protected Areas,0.0,Asia,Western Asia,Republic of Iraq,0.0
+ISL,2007,Protected Areas,0.30084999999999995,Europe,Northern Europe,Republic of Iceland,0.30084999999999995
+ISL,2012,Protected Areas,0.39402499999999996,Europe,Northern Europe,Republic of Iceland,0.39402499999999996
+ISL,2017,Protected Areas,0.42290000000000005,Europe,Northern Europe,Republic of Iceland,0.42290000000000005
+ISL,2022,Protected Areas,0.42290000000000005,Europe,Northern Europe,Republic of Iceland,0.42290000000000005
+ISR,2007,Protected Areas,0.083325,Asia,Western Asia,State of Israel,0.083325
+ISR,2012,Protected Areas,0.096975,Asia,Western Asia,State of Israel,0.096975
+ISR,2017,Protected Areas,0.0,Asia,Western Asia,State of Israel,0.0
+ISR,2022,Protected Areas,0.0,Asia,Western Asia,State of Israel,0.0
+ITA,2007,Protected Areas,0.20749999999999996,Europe,Southern Europe,Italian Republic,0.20749999999999996
+ITA,2012,Protected Areas,0.21802499999999997,Europe,Southern Europe,Italian Republic,0.21802499999999997
+ITA,2017,Protected Areas,0.17559999999999998,Europe,Southern Europe,Italian Republic,0.17559999999999998
+ITA,2022,Protected Areas,0.17559999999999998,Europe,Southern Europe,Italian Republic,0.17559999999999998
+JAM,2007,Protected Areas,0.201325,America,Caribbean,Jamaica,0.201325
+JAM,2012,Protected Areas,0.20685,America,Caribbean,Jamaica,0.20685
+JAM,2017,Protected Areas,0.20815,America,Caribbean,Jamaica,0.20815
+JAM,2022,Protected Areas,0.20815,America,Caribbean,Jamaica,0.20815
+JOR,2007,Protected Areas,0.09596388888888889,Asia,Western Asia,Hashemite Kingdom of Jordan,0.09596388888888889
+JOR,2012,Protected Areas,0.10451666666666666,Asia,Western Asia,Hashemite Kingdom of Jordan,0.10451666666666666
+JOR,2017,Protected Areas,0.09689444444444445,Asia,Western Asia,Hashemite Kingdom of Jordan,0.09689444444444445
+JOR,2022,Protected Areas,0.09689444444444445,Asia,Western Asia,Hashemite Kingdom of Jordan,0.09689444444444445
+JPN,2007,Protected Areas,0.543625,Asia,Eastern Asia,Japan,0.543625
+JPN,2012,Protected Areas,0.589125,Asia,Eastern Asia,Japan,0.589125
+JPN,2017,Protected Areas,0.59065,Asia,Eastern Asia,Japan,0.59065
+JPN,2022,Protected Areas,0.59065,Asia,Eastern Asia,Japan,0.59065
+KAZ,2007,Protected Areas,0.553025,Asia,Central Asia,Republic of Kazakhstan,0.553025
+KAZ,2012,Protected Areas,0.6357999999999999,Asia,Central Asia,Republic of Kazakhstan,0.6357999999999999
+KAZ,2017,Protected Areas,0.66315,Asia,Central Asia,Republic of Kazakhstan,0.66315
+KAZ,2022,Protected Areas,0.66315,Asia,Central Asia,Republic of Kazakhstan,0.66315
+KEN,2007,Protected Areas,0.184775,Africa,Eastern Africa,Republic of Kenya,0.184775
+KEN,2012,Protected Areas,0.186275,Africa,Eastern Africa,Republic of Kenya,0.186275
+KEN,2017,Protected Areas,0.18874999999999997,Africa,Eastern Africa,Republic of Kenya,0.18874999999999997
+KEN,2022,Protected Areas,0.18874999999999997,Africa,Eastern Africa,Republic of Kenya,0.18874999999999997
+KGZ,2007,Protected Areas,0.370875,Asia,Central Asia,Kyrgyz Republic,0.370875
+KGZ,2012,Protected Areas,0.39897499999999997,Asia,Central Asia,Kyrgyz Republic,0.39897499999999997
+KGZ,2017,Protected Areas,0.4452,Asia,Central Asia,Kyrgyz Republic,0.4452
+KGZ,2022,Protected Areas,0.4452,Asia,Central Asia,Kyrgyz Republic,0.4452
+KHM,2007,Protected Areas,0.3573,Asia,South-eastern Asia,Kingdom of Cambodia,0.3573
+KHM,2012,Protected Areas,0.3547,Asia,South-eastern Asia,Kingdom of Cambodia,0.3547
+KHM,2017,Protected Areas,0.3547,Asia,South-eastern Asia,Kingdom of Cambodia,0.3547
+KHM,2022,Protected Areas,0.3547,Asia,South-eastern Asia,Kingdom of Cambodia,0.3547
+KIR,2007,Protected Areas,0.10863826923076923,Oceania,Micronesia,Republic of Kiribati,0.10863826923076923
+KIR,2012,Protected Areas,0.12315134615384614,Oceania,Micronesia,Republic of Kiribati,0.12315134615384614
+KIR,2017,Protected Areas,0.16872634615384616,Oceania,Micronesia,Republic of Kiribati,0.16872634615384616
+KIR,2022,Protected Areas,0.16872634615384616,Oceania,Micronesia,Republic of Kiribati,0.16872634615384616
+KNA,2007,Protected Areas,0.2002903846153846,America,Caribbean,Saint Kitts and Nevis,0.2002903846153846
+KNA,2012,Protected Areas,0.22780192307692307,America,Caribbean,Saint Kitts and Nevis,0.22780192307692307
+KNA,2017,Protected Areas,0.22717692307692308,America,Caribbean,Saint Kitts and Nevis,0.22717692307692308
+KNA,2022,Protected Areas,0.22717692307692308,America,Caribbean,Saint Kitts and Nevis,0.22717692307692308
+KOR,2007,Protected Areas,0.3024,Asia,Eastern Asia,Republic of Korea,0.3024
+KOR,2012,Protected Areas,0.28842500000000004,Asia,Eastern Asia,Republic of Korea,0.28842500000000004
+KOR,2017,Protected Areas,0.2579,Asia,Eastern Asia,Republic of Korea,0.2579
+KOR,2022,Protected Areas,0.2579,Asia,Eastern Asia,Republic of Korea,0.2579
+KWT,2007,Protected Areas,0.09596388888888889,Asia,Western Asia,State of Kuwait,0.09596388888888889
+KWT,2012,Protected Areas,0.10451666666666666,Asia,Western Asia,State of Kuwait,0.10451666666666666
+KWT,2017,Protected Areas,0.09689444444444445,Asia,Western Asia,State of Kuwait,0.09689444444444445
+KWT,2022,Protected Areas,0.09689444444444445,Asia,Western Asia,State of Kuwait,0.09689444444444445
+LAO,2007,Protected Areas,0.19635,Asia,South-eastern Asia,Lao People's Democratic Republic,0.19635
+LAO,2012,Protected Areas,0.1958,Asia,South-eastern Asia,Lao People's Democratic Republic,0.1958
+LAO,2017,Protected Areas,0.1923,Asia,South-eastern Asia,Lao People's Democratic Republic,0.1923
+LAO,2022,Protected Areas,0.1923,Asia,South-eastern Asia,Lao People's Democratic Republic,0.1923
+LBN,2007,Protected Areas,0.0,Asia,Western Asia,Lebanese Republic,0.0
+LBN,2012,Protected Areas,0.0,Asia,Western Asia,Lebanese Republic,0.0
+LBN,2017,Protected Areas,0.006,Asia,Western Asia,Lebanese Republic,0.006
+LBN,2022,Protected Areas,0.006,Asia,Western Asia,Lebanese Republic,0.006
+LBR,2007,Protected Areas,0.20319833333333334,Africa,Western Africa,Republic of Liberia,0.20319833333333334
+LBR,2012,Protected Areas,0.21983833333333333,Africa,Western Africa,Republic of Liberia,0.21983833333333333
+LBR,2017,Protected Areas,0.23317666666666667,Africa,Western Africa,Republic of Liberia,0.23317666666666667
+LBR,2022,Protected Areas,0.23317666666666667,Africa,Western Africa,Republic of Liberia,0.23317666666666667
+LBY,2007,Protected Areas,0.20698125,Africa,Northern Africa,State of Libya,0.20698125
+LBY,2012,Protected Areas,0.24630000000000002,Africa,Northern Africa,State of Libya,0.24630000000000002
+LBY,2017,Protected Areas,0.2624375,Africa,Northern Africa,State of Libya,0.2624375
+LBY,2022,Protected Areas,0.2624375,Africa,Northern Africa,State of Libya,0.2624375
+LCA,2007,Protected Areas,0.4482,America,Caribbean,Saint Lucia,0.4482
+LCA,2012,Protected Areas,0.4482,America,Caribbean,Saint Lucia,0.4482
+LCA,2017,Protected Areas,0.4482,America,Caribbean,Saint Lucia,0.4482
+LCA,2022,Protected Areas,0.4482,America,Caribbean,Saint Lucia,0.4482
+LIE,2007,Protected Areas,0.2612,Europe,Western Europe,Principality of Liechtenstein,0.2612
+LIE,2012,Protected Areas,0.2612,Europe,Western Europe,Principality of Liechtenstein,0.2612
+LIE,2017,Protected Areas,0.2612,Europe,Western Europe,Principality of Liechtenstein,0.2612
+LIE,2022,Protected Areas,0.2612,Europe,Western Europe,Principality of Liechtenstein,0.2612
+LKA,2007,Protected Areas,0.27865,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.27865
+LKA,2012,Protected Areas,0.44120000000000004,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.44120000000000004
+LKA,2017,Protected Areas,0.5849,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.5849
+LKA,2022,Protected Areas,0.5849,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.5849
+LSO,2007,Protected Areas,0.1448,Africa,Southern Africa,Kingdom of Lesotho,0.1448
+LSO,2012,Protected Areas,0.1448,Africa,Southern Africa,Kingdom of Lesotho,0.1448
+LSO,2017,Protected Areas,0.1448,Africa,Southern Africa,Kingdom of Lesotho,0.1448
+LSO,2022,Protected Areas,0.1448,Africa,Southern Africa,Kingdom of Lesotho,0.1448
+LTU,2007,Protected Areas,0.5760000000000001,Europe,Northern Europe,Republic of Lithuania,0.5760000000000001
+LTU,2012,Protected Areas,0.602525,Europe,Northern Europe,Republic of Lithuania,0.602525
+LTU,2017,Protected Areas,0.655,Europe,Northern Europe,Republic of Lithuania,0.655
+LTU,2022,Protected Areas,0.655,Europe,Northern Europe,Republic of Lithuania,0.655
+LUX,2007,Protected Areas,0.27570625,Europe,Western Europe,Grand Duchy of Luxembourg,0.27570625
+LUX,2012,Protected Areas,0.3384625,Europe,Western Europe,Grand Duchy of Luxembourg,0.3384625
+LUX,2017,Protected Areas,0.3315625,Europe,Western Europe,Grand Duchy of Luxembourg,0.3315625
+LUX,2022,Protected Areas,0.3315625,Europe,Western Europe,Grand Duchy of Luxembourg,0.3315625
+LVA,2007,Protected Areas,0.5680750000000001,Europe,Northern Europe,Republic of Latvia,0.5680750000000001
+LVA,2012,Protected Areas,0.578025,Europe,Northern Europe,Republic of Latvia,0.578025
+LVA,2017,Protected Areas,0.58255,Europe,Northern Europe,Republic of Latvia,0.58255
+LVA,2022,Protected Areas,0.58255,Europe,Northern Europe,Republic of Latvia,0.58255
+MAC,2007,Protected Areas,0.4352125,Asia,Eastern Asia,Macau SAR,0.4352125
+MAC,2012,Protected Areas,0.461175,Asia,Eastern Asia,Macau SAR,0.461175
+MAC,2017,Protected Areas,0.466725,Asia,Eastern Asia,Macau SAR,0.466725
+MAC,2022,Protected Areas,0.466725,Asia,Eastern Asia,Macau SAR,0.466725
+MAF,2007,Protected Areas,0.11289999999999999,America,Caribbean,Saint-Martin (French part),0.11289999999999999
+MAF,2012,Protected Areas,0.11289999999999999,America,Caribbean,Saint-Martin (French part),0.11289999999999999
+MAF,2017,Protected Areas,0.11289999999999999,America,Caribbean,Saint-Martin (French part),0.11289999999999999
+MAF,2022,Protected Areas,0.11289999999999999,America,Caribbean,Saint-Martin (French part),0.11289999999999999
+MAR,2007,Protected Areas,0.1822,Africa,Northern Africa,Kingdom of Morocco,0.1822
+MAR,2012,Protected Areas,0.2615,Africa,Northern Africa,Kingdom of Morocco,0.2615
+MAR,2017,Protected Areas,0.30469999999999997,Africa,Northern Africa,Kingdom of Morocco,0.30469999999999997
+MAR,2022,Protected Areas,0.30469999999999997,Africa,Northern Africa,Kingdom of Morocco,0.30469999999999997
+MCO,2007,Protected Areas,0.0,Europe,Western Europe,Principality of Monaco,0.0
+MCO,2012,Protected Areas,0.0,Europe,Western Europe,Principality of Monaco,0.0
+MCO,2017,Protected Areas,0.0,Europe,Western Europe,Principality of Monaco,0.0
+MCO,2022,Protected Areas,0.0,Europe,Western Europe,Principality of Monaco,0.0
+MDA,2007,Protected Areas,0.46105,Europe,Eastern Europe,Republic of Moldova,0.46105
+MDA,2012,Protected Areas,0.48685,Europe,Eastern Europe,Republic of Moldova,0.48685
+MDA,2017,Protected Areas,0.50015,Europe,Eastern Europe,Republic of Moldova,0.50015
+MDA,2022,Protected Areas,0.50015,Europe,Eastern Europe,Republic of Moldova,0.50015
+MDG,2007,Protected Areas,0.31020000000000003,Africa,Eastern Africa,Republic of Madagascar,0.31020000000000003
+MDG,2012,Protected Areas,0.38915,Africa,Eastern Africa,Republic of Madagascar,0.38915
+MDG,2017,Protected Areas,0.39799999999999996,Africa,Eastern Africa,Republic of Madagascar,0.39799999999999996
+MDG,2022,Protected Areas,0.39799999999999996,Africa,Eastern Africa,Republic of Madagascar,0.39799999999999996
+MDV,2007,Protected Areas,0.2639107142857143,Asia,Southern Asia,Republic of Maldives,0.2639107142857143
+MDV,2012,Protected Areas,0.3007107142857143,Asia,Southern Asia,Republic of Maldives,0.3007107142857143
+MDV,2017,Protected Areas,0.3291928571428571,Asia,Southern Asia,Republic of Maldives,0.3291928571428571
+MDV,2022,Protected Areas,0.3291928571428571,Asia,Southern Asia,Republic of Maldives,0.3291928571428571
+MEX,2007,Protected Areas,0.07317499999999999,America,Central America,United Mexican States,0.07317499999999999
+MEX,2012,Protected Areas,0.10095,America,Central America,United Mexican States,0.10095
+MEX,2017,Protected Areas,0.098,America,Central America,United Mexican States,0.098
+MEX,2022,Protected Areas,0.098,America,Central America,United Mexican States,0.098
+MHL,2007,Protected Areas,0.10863826923076923,Oceania,Micronesia,Republic of the Marshall Islands,0.10863826923076923
+MHL,2012,Protected Areas,0.12315134615384614,Oceania,Micronesia,Republic of the Marshall Islands,0.12315134615384614
+MHL,2017,Protected Areas,0.16872634615384616,Oceania,Micronesia,Republic of the Marshall Islands,0.16872634615384616
+MHL,2022,Protected Areas,0.16872634615384616,Oceania,Micronesia,Republic of the Marshall Islands,0.16872634615384616
+MKD,2007,Protected Areas,0.20186136363636364,Europe,Southern Europe,Republic of North Macedonia,0.20186136363636364
+MKD,2012,Protected Areas,0.22596136363636363,Europe,Southern Europe,Republic of North Macedonia,0.22596136363636363
+MKD,2017,Protected Areas,0.17157272727272727,Europe,Southern Europe,Republic of North Macedonia,0.17157272727272727
+MKD,2022,Protected Areas,0.17157272727272727,Europe,Southern Europe,Republic of North Macedonia,0.17157272727272727
+MLI,2007,Protected Areas,0.157725,Africa,Western Africa,Republic of Mali,0.157725
+MLI,2012,Protected Areas,0.157725,Africa,Western Africa,Republic of Mali,0.157725
+MLI,2017,Protected Areas,0.14665,Africa,Western Africa,Republic of Mali,0.14665
+MLI,2022,Protected Areas,0.14665,Africa,Western Africa,Republic of Mali,0.14665
+MLT,2007,Protected Areas,0.0,Europe,Southern Europe,Republic of Malta,0.0
+MLT,2012,Protected Areas,0.0,Europe,Southern Europe,Republic of Malta,0.0
+MLT,2017,Protected Areas,0.1143,Europe,Southern Europe,Republic of Malta,0.1143
+MLT,2022,Protected Areas,0.1143,Europe,Southern Europe,Republic of Malta,0.1143
+MMR,2007,Protected Areas,0.48792500000000005,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.48792500000000005
+MMR,2012,Protected Areas,0.546925,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.546925
+MMR,2017,Protected Areas,0.5524,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.5524
+MMR,2022,Protected Areas,0.5524,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.5524
+MNE,2007,Protected Areas,0.11725,Europe,Southern Europe,Montenegro,0.11725
+MNE,2012,Protected Areas,0.2345,Europe,Southern Europe,Montenegro,0.2345
+MNE,2017,Protected Areas,0.2345,Europe,Southern Europe,Montenegro,0.2345
+MNE,2022,Protected Areas,0.2345,Europe,Southern Europe,Montenegro,0.2345
+MNG,2007,Protected Areas,0.583725,Asia,Eastern Asia,Mongolia,0.583725
+MNG,2012,Protected Areas,0.594875,Asia,Eastern Asia,Mongolia,0.594875
+MNG,2017,Protected Areas,0.60485,Asia,Eastern Asia,Mongolia,0.60485
+MNG,2022,Protected Areas,0.60485,Asia,Eastern Asia,Mongolia,0.60485
+MNP,2007,Protected Areas,0.10863826923076923,Oceania,Micronesia,Northern Mariana Islands,0.10863826923076923
+MNP,2012,Protected Areas,0.12315134615384614,Oceania,Micronesia,Northern Mariana Islands,0.12315134615384614
+MNP,2017,Protected Areas,0.16872634615384616,Oceania,Micronesia,Northern Mariana Islands,0.16872634615384616
+MNP,2022,Protected Areas,0.16872634615384616,Oceania,Micronesia,Northern Mariana Islands,0.16872634615384616
+MOZ,2007,Protected Areas,0.2525,Africa,Eastern Africa,Republic of Mozambique,0.2525
+MOZ,2012,Protected Areas,0.3317,Africa,Eastern Africa,Republic of Mozambique,0.3317
+MOZ,2017,Protected Areas,0.43729999999999997,Africa,Eastern Africa,Republic of Mozambique,0.43729999999999997
+MOZ,2022,Protected Areas,0.43729999999999997,Africa,Eastern Africa,Republic of Mozambique,0.43729999999999997
+MRT,2007,Protected Areas,0.075275,Africa,Western Africa,Islamic Republic of Mauritania,0.075275
+MRT,2012,Protected Areas,0.075275,Africa,Western Africa,Islamic Republic of Mauritania,0.075275
+MRT,2017,Protected Areas,0.0735,Africa,Western Africa,Islamic Republic of Mauritania,0.0735
+MRT,2022,Protected Areas,0.0735,Africa,Western Africa,Islamic Republic of Mauritania,0.0735
+MUS,2007,Protected Areas,0.296625,Africa,Eastern Africa,Republic of Mauritius,0.296625
+MUS,2012,Protected Areas,0.3013,Africa,Eastern Africa,Republic of Mauritius,0.3013
+MUS,2017,Protected Areas,0.30155,Africa,Eastern Africa,Republic of Mauritius,0.30155
+MUS,2022,Protected Areas,0.30155,Africa,Eastern Africa,Republic of Mauritius,0.30155
+MWI,2007,Protected Areas,0.3091,Africa,Eastern Africa,Republic of Malawi,0.3091
+MWI,2012,Protected Areas,0.3091,Africa,Eastern Africa,Republic of Malawi,0.3091
+MWI,2017,Protected Areas,0.3091,Africa,Eastern Africa,Republic of Malawi,0.3091
+MWI,2022,Protected Areas,0.3091,Africa,Eastern Africa,Republic of Malawi,0.3091
+MYS,2007,Protected Areas,0.28264999999999996,Asia,South-eastern Asia,Malaysia,0.28264999999999996
+MYS,2012,Protected Areas,0.31832499999999997,Asia,South-eastern Asia,Malaysia,0.31832499999999997
+MYS,2017,Protected Areas,0.35219999999999996,Asia,South-eastern Asia,Malaysia,0.35219999999999996
+MYS,2022,Protected Areas,0.35219999999999996,Asia,South-eastern Asia,Malaysia,0.35219999999999996
+NAM,2007,Protected Areas,0.132425,Africa,Southern Africa,Republic of Namibia,0.132425
+NAM,2012,Protected Areas,0.135575,Africa,Southern Africa,Republic of Namibia,0.135575
+NAM,2017,Protected Areas,0.13665,Africa,Southern Africa,Republic of Namibia,0.13665
+NAM,2022,Protected Areas,0.13665,Africa,Southern Africa,Republic of Namibia,0.13665
+NCL,2007,Protected Areas,0.08845,Oceania,Melanesia,New Caledonia,0.08845
+NCL,2012,Protected Areas,0.09945000000000001,Oceania,Melanesia,New Caledonia,0.09945000000000001
+NCL,2017,Protected Areas,0.1081,Oceania,Melanesia,New Caledonia,0.1081
+NCL,2022,Protected Areas,0.1081,Oceania,Melanesia,New Caledonia,0.1081
+NER,2007,Protected Areas,0.19269999999999998,Africa,Western Africa,Republic of Niger,0.19269999999999998
+NER,2012,Protected Areas,0.19269999999999998,Africa,Western Africa,Republic of Niger,0.19269999999999998
+NER,2017,Protected Areas,0.19269999999999998,Africa,Western Africa,Republic of Niger,0.19269999999999998
+NER,2022,Protected Areas,0.19269999999999998,Africa,Western Africa,Republic of Niger,0.19269999999999998
+NGA,2007,Protected Areas,0.22672499999999998,Africa,Western Africa,Federal Republic of Nigeria,0.22672499999999998
+NGA,2012,Protected Areas,0.182225,Africa,Western Africa,Federal Republic of Nigeria,0.182225
+NGA,2017,Protected Areas,0.1469,Africa,Western Africa,Federal Republic of Nigeria,0.1469
+NGA,2022,Protected Areas,0.1469,Africa,Western Africa,Federal Republic of Nigeria,0.1469
+NIC,2007,Protected Areas,0.24327500000000002,America,Central America,Republic of Nicaragua,0.24327500000000002
+NIC,2012,Protected Areas,0.20540000000000003,America,Central America,Republic of Nicaragua,0.20540000000000003
+NIC,2017,Protected Areas,0.1886,America,Central America,Republic of Nicaragua,0.1886
+NIC,2022,Protected Areas,0.1886,America,Central America,Republic of Nicaragua,0.1886
+NLD,2007,Protected Areas,0.60105,Europe,Western Europe,Kingdom of the Netherlands,0.60105
+NLD,2012,Protected Areas,0.6940250000000001,Europe,Western Europe,Kingdom of the Netherlands,0.6940250000000001
+NLD,2017,Protected Areas,0.6902,Europe,Western Europe,Kingdom of the Netherlands,0.6902
+NLD,2022,Protected Areas,0.6902,Europe,Western Europe,Kingdom of the Netherlands,0.6902
+NOR,2007,Protected Areas,0.184625,Europe,Northern Europe,Kingdom of Norway,0.184625
+NOR,2012,Protected Areas,0.2107,Europe,Northern Europe,Kingdom of Norway,0.2107
+NOR,2017,Protected Areas,0.27675,Europe,Northern Europe,Kingdom of Norway,0.27675
+NOR,2022,Protected Areas,0.27675,Europe,Northern Europe,Kingdom of Norway,0.27675
+NPL,2007,Protected Areas,0.500375,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.500375
+NPL,2012,Protected Areas,0.5,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.5
+NPL,2017,Protected Areas,0.5,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.5
+NPL,2022,Protected Areas,0.5,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.5
+NRU,2007,Protected Areas,0.0,Oceania,Polynesia,Republic of Nauru,0.0
+NRU,2012,Protected Areas,0.0,Oceania,Polynesia,Republic of Nauru,0.0
+NRU,2017,Protected Areas,0.0,Oceania,Polynesia,Republic of Nauru,0.0
+NRU,2022,Protected Areas,0.0,Oceania,Polynesia,Republic of Nauru,0.0
+NZL,2007,Protected Areas,0.546325,Oceania,Australia and New Zealand,New Zealand,0.546325
+NZL,2012,Protected Areas,0.5586749999999999,Oceania,Australia and New Zealand,New Zealand,0.5586749999999999
+NZL,2017,Protected Areas,0.5549,Oceania,Australia and New Zealand,New Zealand,0.5549
+NZL,2022,Protected Areas,0.5549,Oceania,Australia and New Zealand,New Zealand,0.5549
+OMN,2007,Protected Areas,0.09596388888888889,Asia,Western Asia,Sultanate of Oman,0.09596388888888889
+OMN,2012,Protected Areas,0.10451666666666666,Asia,Western Asia,Sultanate of Oman,0.10451666666666666
+OMN,2017,Protected Areas,0.09689444444444445,Asia,Western Asia,Sultanate of Oman,0.09689444444444445
+OMN,2022,Protected Areas,0.09689444444444445,Asia,Western Asia,Sultanate of Oman,0.09689444444444445
+PAK,2007,Protected Areas,0.2639107142857143,Asia,Southern Asia,Islamic Republic of Pakistan,0.2639107142857143
+PAK,2012,Protected Areas,0.3007107142857143,Asia,Southern Asia,Islamic Republic of Pakistan,0.3007107142857143
+PAK,2017,Protected Areas,0.3291928571428571,Asia,Southern Asia,Islamic Republic of Pakistan,0.3291928571428571
+PAK,2022,Protected Areas,0.3291928571428571,Asia,Southern Asia,Islamic Republic of Pakistan,0.3291928571428571
+PAN,2007,Protected Areas,0.2366,America,Central America,Republic of Panama,0.2366
+PAN,2012,Protected Areas,0.4732,America,Central America,Republic of Panama,0.4732
+PAN,2017,Protected Areas,0.4732,America,Central America,Republic of Panama,0.4732
+PAN,2022,Protected Areas,0.4732,America,Central America,Republic of Panama,0.4732
+PER,2007,Protected Areas,0.09720000000000001,America,South America,Republic of Peru,0.09720000000000001
+PER,2012,Protected Areas,0.17677500000000002,America,South America,Republic of Peru,0.17677500000000002
+PER,2017,Protected Areas,0.18380000000000002,America,South America,Republic of Peru,0.18380000000000002
+PER,2022,Protected Areas,0.18380000000000002,America,South America,Republic of Peru,0.18380000000000002
+PHL,2007,Protected Areas,0.227275,Asia,South-eastern Asia,Republic of the Philippines,0.227275
+PHL,2012,Protected Areas,0.22565,Asia,South-eastern Asia,Republic of the Philippines,0.22565
+PHL,2017,Protected Areas,0.2313,Asia,South-eastern Asia,Republic of the Philippines,0.2313
+PHL,2022,Protected Areas,0.2313,Asia,South-eastern Asia,Republic of the Philippines,0.2313
+PLW,2007,Protected Areas,0.10863826923076923,Oceania,Micronesia,Republic of Palau,0.10863826923076923
+PLW,2012,Protected Areas,0.12315134615384614,Oceania,Micronesia,Republic of Palau,0.12315134615384614
+PLW,2017,Protected Areas,0.16872634615384616,Oceania,Micronesia,Republic of Palau,0.16872634615384616
+PLW,2022,Protected Areas,0.16872634615384616,Oceania,Micronesia,Republic of Palau,0.16872634615384616
+PNG,2007,Protected Areas,0.0888,Oceania,Melanesia,Independent State of Papua New Guinea,0.0888
+PNG,2012,Protected Areas,0.0888,Oceania,Melanesia,Independent State of Papua New Guinea,0.0888
+PNG,2017,Protected Areas,0.0888,Oceania,Melanesia,Independent State of Papua New Guinea,0.0888
+PNG,2022,Protected Areas,0.0888,Oceania,Melanesia,Independent State of Papua New Guinea,0.0888
+POL,2007,Protected Areas,0.46905,Europe,Eastern Europe,Republic of Poland,0.46905
+POL,2012,Protected Areas,0.555875,Europe,Eastern Europe,Republic of Poland,0.555875
+POL,2017,Protected Areas,0.64515,Europe,Eastern Europe,Republic of Poland,0.64515
+POL,2022,Protected Areas,0.64515,Europe,Eastern Europe,Republic of Poland,0.64515
+PRI,2007,Protected Areas,0.12845,America,Caribbean,Puerto Rico,0.12845
+PRI,2012,Protected Areas,0.1358,America,Caribbean,Puerto Rico,0.1358
+PRI,2017,Protected Areas,0.0986,America,Caribbean,Puerto Rico,0.0986
+PRI,2022,Protected Areas,0.0986,America,Caribbean,Puerto Rico,0.0986
+PRK,2007,Protected Areas,0.4352125,Asia,Eastern Asia,Democratic People's Republic of Korea,0.4352125
+PRK,2012,Protected Areas,0.461175,Asia,Eastern Asia,Democratic People's Republic of Korea,0.461175
+PRK,2017,Protected Areas,0.466725,Asia,Eastern Asia,Democratic People's Republic of Korea,0.466725
+PRK,2022,Protected Areas,0.466725,Asia,Eastern Asia,Democratic People's Republic of Korea,0.466725
+PRT,2007,Protected Areas,0.099525,Europe,Southern Europe,Portuguese Republic,0.099525
+PRT,2012,Protected Areas,0.212725,Europe,Southern Europe,Portuguese Republic,0.212725
+PRT,2017,Protected Areas,0.0,Europe,Southern Europe,Portuguese Republic,0.0
+PRT,2022,Protected Areas,0.0,Europe,Southern Europe,Portuguese Republic,0.0
+PRY,2007,Protected Areas,0.22367954545454544,America,South America,Republic of Paraguay,0.22367954545454544
+PRY,2012,Protected Areas,0.25233181818181816,America,South America,Republic of Paraguay,0.25233181818181816
+PRY,2017,Protected Areas,0.27278636363636366,America,South America,Republic of Paraguay,0.27278636363636366
+PRY,2022,Protected Areas,0.27278636363636366,America,South America,Republic of Paraguay,0.27278636363636366
+PSE,2007,Protected Areas,0.09596388888888889,Asia,Western Asia,State of Palestine,0.09596388888888889
+PSE,2012,Protected Areas,0.10451666666666666,Asia,Western Asia,State of Palestine,0.10451666666666666
+PSE,2017,Protected Areas,0.09689444444444445,Asia,Western Asia,State of Palestine,0.09689444444444445
+PSE,2022,Protected Areas,0.09689444444444445,Asia,Western Asia,State of Palestine,0.09689444444444445
+PYF,2007,Protected Areas,0.0495,Oceania,Polynesia,French Polynesia,0.0495
+PYF,2012,Protected Areas,0.0495,Oceania,Polynesia,French Polynesia,0.0495
+PYF,2017,Protected Areas,0.0495,Oceania,Polynesia,French Polynesia,0.0495
+PYF,2022,Protected Areas,0.0495,Oceania,Polynesia,French Polynesia,0.0495
+QAT,2007,Protected Areas,0.0,Asia,Western Asia,State of Qatar,0.0
+QAT,2012,Protected Areas,0.0,Asia,Western Asia,State of Qatar,0.0
+QAT,2017,Protected Areas,0.0,Asia,Western Asia,State of Qatar,0.0
+QAT,2022,Protected Areas,0.0,Asia,Western Asia,State of Qatar,0.0
+ROU,2007,Protected Areas,0.490375,Europe,Eastern Europe,Romania,0.490375
+ROU,2012,Protected Areas,0.564875,Europe,Eastern Europe,Romania,0.564875
+ROU,2017,Protected Areas,0.59365,Europe,Eastern Europe,Romania,0.59365
+ROU,2022,Protected Areas,0.59365,Europe,Eastern Europe,Romania,0.59365
+RUS,2007,Protected Areas,0.50865,Europe,Eastern Europe,Russian Federation,0.50865
+RUS,2012,Protected Areas,0.5109250000000001,Europe,Eastern Europe,Russian Federation,0.5109250000000001
+RUS,2017,Protected Areas,0.5114,Europe,Eastern Europe,Russian Federation,0.5114
+RUS,2022,Protected Areas,0.5114,Europe,Eastern Europe,Russian Federation,0.5114
+RWA,2007,Protected Areas,0.7815000000000001,Africa,Eastern Africa,Republic of Rwanda,0.7815000000000001
+RWA,2012,Protected Areas,0.7815000000000001,Africa,Eastern Africa,Republic of Rwanda,0.7815000000000001
+RWA,2017,Protected Areas,0.7815000000000001,Africa,Eastern Africa,Republic of Rwanda,0.7815000000000001
+RWA,2022,Protected Areas,0.7815000000000001,Africa,Eastern Africa,Republic of Rwanda,0.7815000000000001
+SAU,2007,Protected Areas,0.00155,Asia,Western Asia,Kingdom of Saudi Arabia,0.00155
+SAU,2012,Protected Areas,0.0031,Asia,Western Asia,Kingdom of Saudi Arabia,0.0031
+SAU,2017,Protected Areas,0.0031,Asia,Western Asia,Kingdom of Saudi Arabia,0.0031
+SAU,2022,Protected Areas,0.0031,Asia,Western Asia,Kingdom of Saudi Arabia,0.0031
+SDN,2007,Protected Areas,0.21127500000000002,Africa,Northern Africa,Republic of the Sudan,0.21127500000000002
+SDN,2012,Protected Areas,0.250925,Africa,Northern Africa,Republic of the Sudan,0.250925
+SDN,2017,Protected Areas,0.2514,Africa,Northern Africa,Republic of the Sudan,0.2514
+SDN,2022,Protected Areas,0.2514,Africa,Northern Africa,Republic of the Sudan,0.2514
+SEN,2007,Protected Areas,0.5734,Africa,Western Africa,Republic of Senegal,0.5734
+SEN,2012,Protected Areas,0.657,Africa,Western Africa,Republic of Senegal,0.657
+SEN,2017,Protected Areas,0.7698,Africa,Western Africa,Republic of Senegal,0.7698
+SEN,2022,Protected Areas,0.7698,Africa,Western Africa,Republic of Senegal,0.7698
+SGP,2007,Protected Areas,0.2034,Asia,South-eastern Asia,Republic of Singapore,0.2034
+SGP,2012,Protected Areas,0.2034,Asia,South-eastern Asia,Republic of Singapore,0.2034
+SGP,2017,Protected Areas,0.2034,Asia,South-eastern Asia,Republic of Singapore,0.2034
+SGP,2022,Protected Areas,0.2034,Asia,South-eastern Asia,Republic of Singapore,0.2034
+SLB,2007,Protected Areas,0.0,Oceania,Melanesia,Solomon Islands,0.0
+SLB,2012,Protected Areas,0.0,Oceania,Melanesia,Solomon Islands,0.0
+SLB,2017,Protected Areas,0.49865,Oceania,Melanesia,Solomon Islands,0.49865
+SLB,2022,Protected Areas,0.49865,Oceania,Melanesia,Solomon Islands,0.49865
+SLE,2007,Protected Areas,0.0213,Africa,Western Africa,Republic of Sierra Leone,0.0213
+SLE,2012,Protected Areas,0.040425,Africa,Western Africa,Republic of Sierra Leone,0.040425
+SLE,2017,Protected Areas,0.05955,Africa,Western Africa,Republic of Sierra Leone,0.05955
+SLE,2022,Protected Areas,0.05955,Africa,Western Africa,Republic of Sierra Leone,0.05955
+SLV,2007,Protected Areas,0.006999999999999999,America,Central America,Republic of El Salvador,0.006999999999999999
+SLV,2012,Protected Areas,0.014074999999999999,America,Central America,Republic of El Salvador,0.014074999999999999
+SLV,2017,Protected Areas,0.014249999999999999,America,Central America,Republic of El Salvador,0.014249999999999999
+SLV,2022,Protected Areas,0.014249999999999999,America,Central America,Republic of El Salvador,0.014249999999999999
+SMR,2007,Protected Areas,0.20186136363636364,Europe,Southern Europe,Republic of San Marino,0.20186136363636364
+SMR,2012,Protected Areas,0.22596136363636363,Europe,Southern Europe,Republic of San Marino,0.22596136363636363
+SMR,2017,Protected Areas,0.17157272727272727,Europe,Southern Europe,Republic of San Marino,0.17157272727272727
+SMR,2022,Protected Areas,0.17157272727272727,Europe,Southern Europe,Republic of San Marino,0.17157272727272727
+SOM,2007,Protected Areas,0.26873214285714286,Africa,Eastern Africa,Federal Republic of Somalia,0.26873214285714286
+SOM,2012,Protected Areas,0.2868910714285714,Africa,Eastern Africa,Federal Republic of Somalia,0.2868910714285714
+SOM,2017,Protected Areas,0.295125,Africa,Eastern Africa,Federal Republic of Somalia,0.295125
+SOM,2022,Protected Areas,0.295125,Africa,Eastern Africa,Federal Republic of Somalia,0.295125
+SRB,2007,Protected Areas,0.36525,Europe,Southern Europe,Republic of Serbia,0.36525
+SRB,2012,Protected Areas,0.312,Europe,Southern Europe,Republic of Serbia,0.312
+SRB,2017,Protected Areas,0.30255000000000004,Europe,Southern Europe,Republic of Serbia,0.30255000000000004
+SRB,2022,Protected Areas,0.30255000000000004,Europe,Southern Europe,Republic of Serbia,0.30255000000000004
+SSD,2007,Protected Areas,0.26873214285714286,Africa,Eastern Africa,Republic of South Sudan,0.26873214285714286
+SSD,2012,Protected Areas,0.2868910714285714,Africa,Eastern Africa,Republic of South Sudan,0.2868910714285714
+SSD,2017,Protected Areas,0.295125,Africa,Eastern Africa,Republic of South Sudan,0.295125
+SSD,2022,Protected Areas,0.295125,Africa,Eastern Africa,Republic of South Sudan,0.295125
+STP,2007,Protected Areas,0.2682,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.2682
+STP,2012,Protected Areas,0.5364,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.5364
+STP,2017,Protected Areas,0.5364,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.5364
+STP,2022,Protected Areas,0.5364,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.5364
+SUR,2007,Protected Areas,0.19824999999999998,America,South America,Republic of Suriname,0.19824999999999998
+SUR,2012,Protected Areas,0.20715,America,South America,Republic of Suriname,0.20715
+SUR,2017,Protected Areas,0.19115000000000001,America,South America,Republic of Suriname,0.19115000000000001
+SUR,2022,Protected Areas,0.19115000000000001,America,South America,Republic of Suriname,0.19115000000000001
+SVK,2007,Protected Areas,0.5745,Europe,Eastern Europe,Slovak Republic,0.5745
+SVK,2012,Protected Areas,0.641425,Europe,Eastern Europe,Slovak Republic,0.641425
+SVK,2017,Protected Areas,0.6488,Europe,Eastern Europe,Slovak Republic,0.6488
+SVK,2022,Protected Areas,0.6488,Europe,Eastern Europe,Slovak Republic,0.6488
+SVN,2007,Protected Areas,0.57065,Europe,Southern Europe,Republic of Slovenia,0.57065
+SVN,2012,Protected Areas,0.5978,Europe,Southern Europe,Republic of Slovenia,0.5978
+SVN,2017,Protected Areas,0.5963,Europe,Southern Europe,Republic of Slovenia,0.5963
+SVN,2022,Protected Areas,0.5963,Europe,Southern Europe,Republic of Slovenia,0.5963
+SWE,2007,Protected Areas,0.47625000000000006,Europe,Northern Europe,Kingdom of Sweden,0.47625000000000006
+SWE,2012,Protected Areas,0.44267500000000004,Europe,Northern Europe,Kingdom of Sweden,0.44267500000000004
+SWE,2017,Protected Areas,0.444,Europe,Northern Europe,Kingdom of Sweden,0.444
+SWE,2022,Protected Areas,0.444,Europe,Northern Europe,Kingdom of Sweden,0.444
+SWZ,2007,Protected Areas,0.0001,Africa,Southern Africa,Kingdom of Eswatini,0.0001
+SWZ,2012,Protected Areas,0.008349999999999998,Africa,Southern Africa,Kingdom of Eswatini,0.008349999999999998
+SWZ,2017,Protected Areas,0.016499999999999997,Africa,Southern Africa,Kingdom of Eswatini,0.016499999999999997
+SWZ,2022,Protected Areas,0.016499999999999997,Africa,Southern Africa,Kingdom of Eswatini,0.016499999999999997
+SXM,2007,Protected Areas,0.0,America,Caribbean,Sint Maarten (Dutch part),0.0
+SXM,2012,Protected Areas,0.0,America,Caribbean,Sint Maarten (Dutch part),0.0
+SXM,2017,Protected Areas,0.0,America,Caribbean,Sint Maarten (Dutch part),0.0
+SXM,2022,Protected Areas,0.0,America,Caribbean,Sint Maarten (Dutch part),0.0
+SYC,2007,Protected Areas,0.26873214285714286,Africa,Eastern Africa,Republic of Seychelles,0.26873214285714286
+SYC,2012,Protected Areas,0.2868910714285714,Africa,Eastern Africa,Republic of Seychelles,0.2868910714285714
+SYC,2017,Protected Areas,0.295125,Africa,Eastern Africa,Republic of Seychelles,0.295125
+SYC,2022,Protected Areas,0.295125,Africa,Eastern Africa,Republic of Seychelles,0.295125
+SYR,2007,Protected Areas,0.09596388888888889,Asia,Western Asia,Syrian Arab Republic,0.09596388888888889
+SYR,2012,Protected Areas,0.10451666666666666,Asia,Western Asia,Syrian Arab Republic,0.10451666666666666
+SYR,2017,Protected Areas,0.09689444444444445,Asia,Western Asia,Syrian Arab Republic,0.09689444444444445
+SYR,2022,Protected Areas,0.09689444444444445,Asia,Western Asia,Syrian Arab Republic,0.09689444444444445
+TCA,2007,Protected Areas,0.2002903846153846,America,Caribbean,Turks and Caicos Islands,0.2002903846153846
+TCA,2012,Protected Areas,0.22780192307692307,America,Caribbean,Turks and Caicos Islands,0.22780192307692307
+TCA,2017,Protected Areas,0.22717692307692308,America,Caribbean,Turks and Caicos Islands,0.22717692307692308
+TCA,2022,Protected Areas,0.22717692307692308,America,Caribbean,Turks and Caicos Islands,0.22717692307692308
+TCD,2007,Protected Areas,0.20547500000000002,Africa,Middle Africa,Republic of Chad,0.20547500000000002
+TCD,2012,Protected Areas,0.20537500000000003,Africa,Middle Africa,Republic of Chad,0.20537500000000003
+TCD,2017,Protected Areas,0.17725000000000002,Africa,Middle Africa,Republic of Chad,0.17725000000000002
+TCD,2022,Protected Areas,0.17725000000000002,Africa,Middle Africa,Republic of Chad,0.17725000000000002
+TGO,2007,Protected Areas,0.08,Africa,Western Africa,Togolese Republic,0.08
+TGO,2012,Protected Areas,0.08072499999999999,Africa,Western Africa,Togolese Republic,0.08072499999999999
+TGO,2017,Protected Areas,0.11595,Africa,Western Africa,Togolese Republic,0.11595
+TGO,2022,Protected Areas,0.11595,Africa,Western Africa,Togolese Republic,0.11595
+THA,2007,Protected Areas,0.27316111111111113,Asia,South-eastern Asia,Kingdom of Thailand,0.27316111111111113
+THA,2012,Protected Areas,0.28791666666666665,Asia,South-eastern Asia,Kingdom of Thailand,0.28791666666666665
+THA,2017,Protected Areas,0.29412222222222223,Asia,South-eastern Asia,Kingdom of Thailand,0.29412222222222223
+THA,2022,Protected Areas,0.29412222222222223,Asia,South-eastern Asia,Kingdom of Thailand,0.29412222222222223
+TJK,2007,Protected Areas,0.5268333333333334,Asia,Central Asia,Republic of Tajikistan,0.5268333333333334
+TJK,2012,Protected Areas,0.6074166666666666,Asia,Central Asia,Republic of Tajikistan,0.6074166666666666
+TJK,2017,Protected Areas,0.6802999999999999,Asia,Central Asia,Republic of Tajikistan,0.6802999999999999
+TJK,2022,Protected Areas,0.6802999999999999,Asia,Central Asia,Republic of Tajikistan,0.6802999999999999
+TKM,2007,Protected Areas,0.5268333333333334,Asia,Central Asia,Turkmenistan,0.5268333333333334
+TKM,2012,Protected Areas,0.6074166666666666,Asia,Central Asia,Turkmenistan,0.6074166666666666
+TKM,2017,Protected Areas,0.6802999999999999,Asia,Central Asia,Turkmenistan,0.6802999999999999
+TKM,2022,Protected Areas,0.6802999999999999,Asia,Central Asia,Turkmenistan,0.6802999999999999
+TLS,2007,Protected Areas,0.27316111111111113,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.27316111111111113
+TLS,2012,Protected Areas,0.28791666666666665,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.28791666666666665
+TLS,2017,Protected Areas,0.29412222222222223,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.29412222222222223
+TLS,2022,Protected Areas,0.29412222222222223,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.29412222222222223
+TON,2007,Protected Areas,0.2235,Oceania,Polynesia,Kingdom of Tonga,0.2235
+TON,2012,Protected Areas,0.2235,Oceania,Polynesia,Kingdom of Tonga,0.2235
+TON,2017,Protected Areas,0.2235,Oceania,Polynesia,Kingdom of Tonga,0.2235
+TON,2022,Protected Areas,0.2235,Oceania,Polynesia,Kingdom of Tonga,0.2235
+TTO,2007,Protected Areas,0.08470000000000001,America,Caribbean,Republic of Trinidad and Tobago,0.08470000000000001
+TTO,2012,Protected Areas,0.08470000000000001,America,Caribbean,Republic of Trinidad and Tobago,0.08470000000000001
+TTO,2017,Protected Areas,0.08470000000000001,America,Caribbean,Republic of Trinidad and Tobago,0.08470000000000001
+TTO,2022,Protected Areas,0.08470000000000001,America,Caribbean,Republic of Trinidad and Tobago,0.08470000000000001
+TUN,2007,Protected Areas,0.384625,Africa,Northern Africa,Republic of Tunisia,0.384625
+TUN,2012,Protected Areas,0.403525,Africa,Northern Africa,Republic of Tunisia,0.403525
+TUN,2017,Protected Areas,0.40395000000000003,Africa,Northern Africa,Republic of Tunisia,0.40395000000000003
+TUN,2022,Protected Areas,0.40395000000000003,Africa,Northern Africa,Republic of Tunisia,0.40395000000000003
+TUR,2007,Protected Areas,0.09596388888888889,Asia,Western Asia,Republic of Türkiye,0.09596388888888889
+TUR,2012,Protected Areas,0.10451666666666666,Asia,Western Asia,Republic of Türkiye,0.10451666666666666
+TUR,2017,Protected Areas,0.09689444444444445,Asia,Western Asia,Republic of Türkiye,0.09689444444444445
+TUR,2022,Protected Areas,0.09689444444444445,Asia,Western Asia,Republic of Türkiye,0.09689444444444445
+TUV,2007,Protected Areas,0.08446000000000001,Oceania,Polynesia,Tuvalu,0.08446000000000001
+TUV,2012,Protected Areas,0.09613000000000001,Oceania,Polynesia,Tuvalu,0.09613000000000001
+TUV,2017,Protected Areas,0.08458,Oceania,Polynesia,Tuvalu,0.08458
+TUV,2022,Protected Areas,0.08458,Oceania,Polynesia,Tuvalu,0.08458
+TZA,2007,Protected Areas,0.31855,Africa,Eastern Africa,United Republic of Tanzania,0.31855
+TZA,2012,Protected Areas,0.31855,Africa,Eastern Africa,United Republic of Tanzania,0.31855
+TZA,2017,Protected Areas,0.31855,Africa,Eastern Africa,United Republic of Tanzania,0.31855
+TZA,2022,Protected Areas,0.31855,Africa,Eastern Africa,United Republic of Tanzania,0.31855
+UGA,2007,Protected Areas,0.26873214285714286,Africa,Eastern Africa,Republic of Uganda,0.26873214285714286
+UGA,2012,Protected Areas,0.2868910714285714,Africa,Eastern Africa,Republic of Uganda,0.2868910714285714
+UGA,2017,Protected Areas,0.295125,Africa,Eastern Africa,Republic of Uganda,0.295125
+UGA,2022,Protected Areas,0.295125,Africa,Eastern Africa,Republic of Uganda,0.295125
+UKR,2007,Protected Areas,0.470375,Europe,Eastern Europe,Ukraine,0.470375
+UKR,2012,Protected Areas,0.5143,Europe,Eastern Europe,Ukraine,0.5143
+UKR,2017,Protected Areas,0.44475000000000003,Europe,Eastern Europe,Ukraine,0.44475000000000003
+UKR,2022,Protected Areas,0.44475000000000003,Europe,Eastern Europe,Ukraine,0.44475000000000003
+URY,2007,Protected Areas,0.2087,America,South America,Oriental Republic of Uruguay,0.2087
+URY,2012,Protected Areas,0.259825,America,South America,Oriental Republic of Uruguay,0.259825
+URY,2017,Protected Areas,0.29015,America,South America,Oriental Republic of Uruguay,0.29015
+URY,2022,Protected Areas,0.29015,America,South America,Oriental Republic of Uruguay,0.29015
+USA,2007,Protected Areas,0.3675,America,Northern America,United States of America,0.3675
+USA,2012,Protected Areas,0.38725,America,Northern America,United States of America,0.38725
+USA,2017,Protected Areas,0.38874999999999993,America,Northern America,United States of America,0.38874999999999993
+USA,2022,Protected Areas,0.38874999999999993,America,Northern America,United States of America,0.38874999999999993
+UZB,2007,Protected Areas,0.6566000000000001,Asia,Central Asia,Republic of Uzbekistan,0.6566000000000001
+UZB,2012,Protected Areas,0.7874749999999999,Asia,Central Asia,Republic of Uzbekistan,0.7874749999999999
+UZB,2017,Protected Areas,0.93255,Asia,Central Asia,Republic of Uzbekistan,0.93255
+UZB,2022,Protected Areas,0.93255,Asia,Central Asia,Republic of Uzbekistan,0.93255
+VCT,2007,Protected Areas,0.30939999999999995,America,Caribbean,Saint Vincent and the Grenadines,0.30939999999999995
+VCT,2012,Protected Areas,0.30939999999999995,America,Caribbean,Saint Vincent and the Grenadines,0.30939999999999995
+VCT,2017,Protected Areas,0.30939999999999995,America,Caribbean,Saint Vincent and the Grenadines,0.30939999999999995
+VCT,2022,Protected Areas,0.30939999999999995,America,Caribbean,Saint Vincent and the Grenadines,0.30939999999999995
+VEN,2007,Protected Areas,0.63245,America,South America,Bolivarian Republic of Venezuela,0.63245
+VEN,2012,Protected Areas,0.6291,America,South America,Bolivarian Republic of Venezuela,0.6291
+VEN,2017,Protected Areas,0.6257499999999999,America,South America,Bolivarian Republic of Venezuela,0.6257499999999999
+VEN,2022,Protected Areas,0.6257499999999999,America,South America,Bolivarian Republic of Venezuela,0.6257499999999999
+VGB,2007,Protected Areas,0.2002903846153846,America,Caribbean,British Virgin Islands,0.2002903846153846
+VGB,2012,Protected Areas,0.22780192307692307,America,Caribbean,British Virgin Islands,0.22780192307692307
+VGB,2017,Protected Areas,0.22717692307692308,America,Caribbean,British Virgin Islands,0.22717692307692308
+VGB,2022,Protected Areas,0.22717692307692308,America,Caribbean,British Virgin Islands,0.22717692307692308
+VIR,2007,Protected Areas,0.2002903846153846,America,Caribbean,Virgin Islands of the United States,0.2002903846153846
+VIR,2012,Protected Areas,0.22780192307692307,America,Caribbean,Virgin Islands of the United States,0.22780192307692307
+VIR,2017,Protected Areas,0.22717692307692308,America,Caribbean,Virgin Islands of the United States,0.22717692307692308
+VIR,2022,Protected Areas,0.22717692307692308,America,Caribbean,Virgin Islands of the United States,0.22717692307692308
+VNM,2007,Protected Areas,0.2875,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.2875
+VNM,2012,Protected Areas,0.307875,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.307875
+VNM,2017,Protected Areas,0.32205,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.32205
+VNM,2022,Protected Areas,0.32205,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.32205
+VUT,2007,Protected Areas,0.0069,Oceania,Melanesia,Republic of Vanuatu,0.0069
+VUT,2012,Protected Areas,0.0069,Oceania,Melanesia,Republic of Vanuatu,0.0069
+VUT,2017,Protected Areas,0.0069,Oceania,Melanesia,Republic of Vanuatu,0.0069
+VUT,2022,Protected Areas,0.0069,Oceania,Melanesia,Republic of Vanuatu,0.0069
+WSM,2007,Protected Areas,0.0,Oceania,Polynesia,Independent State of Samoa,0.0
+WSM,2012,Protected Areas,0.05775,Oceania,Polynesia,Independent State of Samoa,0.05775
+WSM,2017,Protected Areas,0.0,Oceania,Polynesia,Independent State of Samoa,0.0
+WSM,2022,Protected Areas,0.0,Oceania,Polynesia,Independent State of Samoa,0.0
+XKX,2007,Protected Areas,0.20186136363636364,Europe,Southern Europe,Republic of Kosovo,0.20186136363636364
+XKX,2012,Protected Areas,0.22596136363636363,Europe,Southern Europe,Republic of Kosovo,0.22596136363636363
+XKX,2017,Protected Areas,0.17157272727272727,Europe,Southern Europe,Republic of Kosovo,0.17157272727272727
+XKX,2022,Protected Areas,0.17157272727272727,Europe,Southern Europe,Republic of Kosovo,0.17157272727272727
+YEM,2007,Protected Areas,0.02825,Asia,Western Asia,Republic of Yemen,0.02825
+YEM,2012,Protected Areas,0.0565,Asia,Western Asia,Republic of Yemen,0.0565
+YEM,2017,Protected Areas,0.0565,Asia,Western Asia,Republic of Yemen,0.0565
+YEM,2022,Protected Areas,0.0565,Asia,Western Asia,Republic of Yemen,0.0565
+ZAF,2007,Protected Areas,0.08587499999999999,Africa,Southern Africa,Republic of South Africa,0.08587499999999999
+ZAF,2012,Protected Areas,0.086925,Africa,Southern Africa,Republic of South Africa,0.086925
+ZAF,2017,Protected Areas,0.0874,Africa,Southern Africa,Republic of South Africa,0.0874
+ZAF,2022,Protected Areas,0.0874,Africa,Southern Africa,Republic of South Africa,0.0874
+ZMB,2007,Protected Areas,0.6957,Africa,Eastern Africa,Republic of Zambia,0.6957
+ZMB,2012,Protected Areas,0.6957,Africa,Eastern Africa,Republic of Zambia,0.6957
+ZMB,2017,Protected Areas,0.6957,Africa,Eastern Africa,Republic of Zambia,0.6957
+ZMB,2022,Protected Areas,0.6957,Africa,Eastern Africa,Republic of Zambia,0.6957
+ZWE,2007,Protected Areas,0.110075,Africa,Eastern Africa,Republic of Zimbabwe,0.110075
+ZWE,2012,Protected Areas,0.10985,Africa,Eastern Africa,Republic of Zimbabwe,0.10985
+ZWE,2017,Protected Areas,0.10985,Africa,Eastern Africa,Republic of Zimbabwe,0.10985
+ZWE,2022,Protected Areas,0.10985,Africa,Eastern Africa,Republic of Zimbabwe,0.10985

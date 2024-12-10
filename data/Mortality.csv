@@ -1,0 +1,861 @@
+Region,Year,Indicator,Value,continent,UNregion,name_official,Normalized
+AFG,2007,Mortality,643.49,Asia,Southern Asia,Islamic Republic of Afghanistan,0.07518133266636264
+AFG,2012,Mortality,643.49,Asia,Southern Asia,Islamic Republic of Afghanistan,0.07518133266636264
+AFG,2017,Mortality,643.49,Asia,Southern Asia,Islamic Republic of Afghanistan,0.07518133266636264
+AFG,2022,Mortality,538.16,Asia,Southern Asia,Islamic Republic of Afghanistan,0.23014903853227214
+AGO,2007,Mortality,363.97,Africa,Middle Africa,Republic of Angola,0.4864276361282349
+AGO,2012,Mortality,363.97,Africa,Middle Africa,Republic of Angola,0.4864276361282349
+AGO,2017,Mortality,363.97,Africa,Middle Africa,Republic of Angola,0.4864276361282349
+AGO,2022,Mortality,296.37,Africa,Middle Africa,Republic of Angola,0.5858847415733643
+ALB,2007,Mortality,178.17000000000002,Europe,Southern Europe,Republic of Albania,0.759787550206712
+ALB,2012,Mortality,178.17000000000002,Europe,Southern Europe,Republic of Albania,0.759787550206712
+ALB,2017,Mortality,178.17000000000002,Europe,Southern Europe,Republic of Albania,0.759787550206712
+ALB,2022,Mortality,184.03,Europe,Southern Europe,Republic of Albania,0.751165972722859
+AND,2007,Mortality,127.645,Europe,Southern Europe,Principality of Andorra,0.8341229089732084
+AND,2012,Mortality,127.645,Europe,Southern Europe,Principality of Andorra,0.8341229089732084
+AND,2017,Mortality,127.645,Europe,Southern Europe,Principality of Andorra,0.8341229089732084
+AND,2022,Mortality,103.1675,Europe,Southern Europe,Principality of Andorra,0.8701356500757698
+ARE,2007,Mortality,153.95999999999998,Asia,Western Asia,United Arab Emirates,0.7954067295384661
+ARE,2012,Mortality,153.95999999999998,Asia,Western Asia,United Arab Emirates,0.7954067295384661
+ARE,2017,Mortality,153.95999999999998,Asia,Western Asia,United Arab Emirates,0.7954067295384661
+ARE,2022,Mortality,140.09,Asia,Western Asia,United Arab Emirates,0.815813091262193
+ARG,2007,Mortality,71.61,America,South America,Argentine Republic,0.9165649045888566
+ARG,2012,Mortality,71.61,America,South America,Argentine Republic,0.9165649045888566
+ARG,2017,Mortality,71.61,America,South America,Argentine Republic,0.9165649045888566
+ARG,2022,Mortality,59.6,America,South America,Argentine Republic,0.9342347246538862
+ARM,2007,Mortality,185.13,Asia,Western Asia,Republic of Armenia,0.7495475878709411
+ARM,2012,Mortality,185.13,Asia,Western Asia,Republic of Armenia,0.7495475878709411
+ARM,2017,Mortality,185.13,Asia,Western Asia,Republic of Armenia,0.7495475878709411
+ARM,2022,Mortality,148.5,Asia,Western Asia,Republic of Armenia,0.8034398034398034
+ASM,2007,Mortality,237.845,Oceania,Polynesia,American Samoa,0.671990171990172
+ASM,2012,Mortality,237.845,Oceania,Polynesia,American Samoa,0.671990171990172
+ASM,2017,Mortality,237.845,Oceania,Polynesia,American Samoa,0.671990171990172
+ASM,2022,Mortality,197.62,Oceania,Polynesia,American Samoa,0.7311715635068928
+ATG,2007,Mortality,43.04,America,Caribbean,Antigua and Barbuda,0.9585987729700305
+ATG,2012,Mortality,43.04,America,Caribbean,Antigua and Barbuda,0.9585987729700305
+ATG,2017,Mortality,43.04,America,Caribbean,Antigua and Barbuda,0.9585987729700305
+ATG,2022,Mortality,38.56,America,Caribbean,Antigua and Barbuda,0.9651900130942046
+AUS,2007,Mortality,25.869999999999997,Oceania,Australia and New Zealand,Commonwealth of Australia,0.9838602892495107
+AUS,2012,Mortality,25.869999999999997,Oceania,Australia and New Zealand,Commonwealth of Australia,0.9838602892495107
+AUS,2017,Mortality,25.869999999999997,Oceania,Australia and New Zealand,Commonwealth of Australia,0.9838602892495107
+AUS,2022,Mortality,19.61,Oceania,Australia and New Zealand,Commonwealth of Australia,0.9930703703158792
+AUT,2007,Mortality,50.089999999999996,Europe,Western Europe,Republic of Austria,0.9482263973281937
+AUT,2012,Mortality,50.089999999999996,Europe,Western Europe,Republic of Austria,0.9482263973281937
+AUT,2017,Mortality,50.089999999999996,Europe,Western Europe,Republic of Austria,0.9482263973281937
+AUT,2022,Mortality,34.97,Europe,Western Europe,Republic of Austria,0.9704718327472818
+AZE,2007,Mortality,301.61,Asia,Western Asia,Republic of Azerbaijan,0.5781753446424105
+AZE,2012,Mortality,301.61,Asia,Western Asia,Republic of Azerbaijan,0.5781753446424105
+AZE,2017,Mortality,301.61,Asia,Western Asia,Republic of Azerbaijan,0.5781753446424105
+AZE,2022,Mortality,243.78,Asia,Western Asia,Republic of Azerbaijan,0.6632582500845974
+BDI,2007,Mortality,500.01,Africa,Eastern Africa,Republic of Burundi,0.2862775677146935
+BDI,2012,Mortality,500.01,Africa,Eastern Africa,Republic of Burundi,0.2862775677146935
+BDI,2017,Mortality,500.01,Africa,Eastern Africa,Republic of Burundi,0.2862775677146935
+BDI,2022,Mortality,418.62,Africa,Eastern Africa,Republic of Burundi,0.4060233341670467
+BEL,2007,Mortality,47.18,Europe,Western Europe,Kingdom of Belgium,0.9525077608909944
+BEL,2012,Mortality,47.18,Europe,Western Europe,Kingdom of Belgium,0.9525077608909944
+BEL,2017,Mortality,47.18,Europe,Western Europe,Kingdom of Belgium,0.9525077608909944
+BEL,2022,Mortality,30.7,Europe,Western Europe,Kingdom of Belgium,0.9767541084906354
+BEN,2007,Mortality,459.58000000000004,Africa,Western Africa,Republic of Benin,0.3457605673174535
+BEN,2012,Mortality,459.58000000000004,Africa,Western Africa,Republic of Benin,0.3457605673174535
+BEN,2017,Mortality,459.58000000000004,Africa,Western Africa,Republic of Benin,0.3457605673174535
+BEN,2022,Mortality,413.40999999999997,Africa,Western Africa,Republic of Benin,0.41368859332931196
+BFA,2007,Mortality,460.34999999999997,Africa,Western Africa,Burkina Faso,0.34462769792111114
+BFA,2012,Mortality,460.34999999999997,Africa,Western Africa,Burkina Faso,0.34462769792111114
+BFA,2017,Mortality,460.34999999999997,Africa,Western Africa,Burkina Faso,0.34462769792111114
+BFA,2022,Mortality,413.42,Africa,Western Africa,Burkina Faso,0.413673880739749
+BGD,2007,Mortality,371.19,Asia,Southern Asia,People's Republic of Bangladesh,0.4758051464638291
+BGD,2012,Mortality,371.19,Asia,Southern Asia,People's Republic of Bangladesh,0.4758051464638291
+BGD,2017,Mortality,371.19,Asia,Southern Asia,People's Republic of Bangladesh,0.4758051464638291
+BGD,2022,Mortality,288.61,Asia,Southern Asia,People's Republic of Bangladesh,0.5973017110741662
+BGR,2007,Mortality,157.49222222222224,Europe,Eastern Europe,Republic of Bulgaria,0.7902099159584188
+BGR,2012,Mortality,157.49222222222224,Europe,Eastern Europe,Republic of Bulgaria,0.7902099159584188
+BGR,2017,Mortality,157.49222222222224,Europe,Eastern Europe,Republic of Bulgaria,0.7902099159584188
+BGR,2022,Mortality,108.11555555555555,Europe,Eastern Europe,Republic of Bulgaria,0.8628557790234438
+BHR,2007,Mortality,179.56,Asia,Western Asia,Kingdom of Bahrain,0.7577425002574703
+BHR,2012,Mortality,179.56,Asia,Western Asia,Kingdom of Bahrain,0.7577425002574703
+BHR,2017,Mortality,179.56,Asia,Western Asia,Kingdom of Bahrain,0.7577425002574703
+BHR,2022,Mortality,136.31,Asia,Western Asia,Kingdom of Bahrain,0.821374450116965
+BHS,2007,Mortality,18.369999999999997,America,Caribbean,Commonwealth of the Bahamas,0.9948947314216775
+BHS,2012,Mortality,18.369999999999997,America,Caribbean,Commonwealth of the Bahamas,0.9948947314216775
+BHS,2017,Mortality,18.369999999999997,America,Caribbean,Commonwealth of the Bahamas,0.9948947314216775
+BHS,2022,Mortality,20.839,America,Caribbean,Commonwealth of the Bahamas,0.9912621930586001
+BIH,2007,Mortality,253.8,Europe,Southern Europe,Bosnia and Herzegovina,0.6485162353425826
+BIH,2012,Mortality,253.8,Europe,Southern Europe,Bosnia and Herzegovina,0.6485162353425826
+BIH,2017,Mortality,253.8,Europe,Southern Europe,Bosnia and Herzegovina,0.6485162353425826
+BIH,2022,Mortality,230.83,Europe,Southern Europe,Bosnia and Herzegovina,0.6823110535685385
+BLR,2007,Mortality,201.44,Europe,Eastern Europe,Republic of Belarus,0.7255513542938693
+BLR,2012,Mortality,201.44,Europe,Eastern Europe,Republic of Belarus,0.7255513542938693
+BLR,2017,Mortality,201.44,Europe,Eastern Europe,Republic of Belarus,0.7255513542938693
+BLR,2022,Mortality,139.17,Europe,Eastern Europe,Republic of Belarus,0.8171666495019789
+BLZ,2007,Mortality,78.23,America,Central America,Belize,0.9068251702982242
+BLZ,2012,Mortality,78.23,America,Central America,Belize,0.9068251702982242
+BLZ,2017,Mortality,78.23,America,Central America,Belize,0.9068251702982242
+BLZ,2022,Mortality,79.64999999999999,America,Central America,Belize,0.904735982580294
+BMU,2007,Mortality,31.295,America,Northern America,Bermuda,0.9758787094116436
+BMU,2012,Mortality,31.295,America,Northern America,Bermuda,0.9758787094116436
+BMU,2017,Mortality,31.295,America,Northern America,Bermuda,0.9758787094116436
+BMU,2022,Mortality,22.33,America,Northern America,Bermuda,0.9890685459547734
+BOL,2007,Mortality,189.04,America,South America,Plurinational State of Bolivia,0.7437949653518516
+BOL,2012,Mortality,189.04,America,South America,Plurinational State of Bolivia,0.7437949653518516
+BOL,2017,Mortality,189.04,America,South America,Plurinational State of Bolivia,0.7437949653518516
+BOL,2022,Mortality,152.91,America,South America,Plurinational State of Bolivia,0.7969515514425695
+BRA,2007,Mortality,84.8,America,South America,Federative Republic of Brazil,0.8971589989554062
+BRA,2012,Mortality,84.8,America,South America,Federative Republic of Brazil,0.8971589989554062
+BRA,2017,Mortality,84.8,America,South America,Federative Republic of Brazil,0.8971589989554062
+BRA,2022,Mortality,56.94,America,South America,Federative Republic of Brazil,0.9381482734776149
+BRB,2007,Mortality,35.120000000000005,America,Caribbean,Barbados,0.9702511439038385
+BRB,2012,Mortality,35.120000000000005,America,Caribbean,Barbados,0.9702511439038385
+BRB,2017,Mortality,35.120000000000005,America,Caribbean,Barbados,0.9702511439038385
+BRB,2022,Mortality,37.67,America,Caribbean,Barbados,0.9664994335653019
+BRN,2007,Mortality,53.71,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.9429004399064278
+BRN,2012,Mortality,53.71,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.9429004399064278
+BRN,2017,Mortality,53.71,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.9429004399064278
+BRN,2022,Mortality,39.21,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.9642336947726169
+BTN,2007,Mortality,242.97,Asia,Southern Asia,Kingdom of Bhutan,0.6644499698391914
+BTN,2012,Mortality,242.97,Asia,Southern Asia,Kingdom of Bhutan,0.6644499698391914
+BTN,2017,Mortality,242.97,Asia,Southern Asia,Kingdom of Bhutan,0.6644499698391914
+BTN,2022,Mortality,175.37,Asia,Southern Asia,Kingdom of Bhutan,0.7639070752843208
+BWA,2007,Mortality,359.15999999999997,Africa,Southern Africa,Republic of Botswana,0.4935043917079846
+BWA,2012,Mortality,359.15999999999997,Africa,Southern Africa,Republic of Botswana,0.4935043917079846
+BWA,2017,Mortality,359.15999999999997,Africa,Southern Africa,Republic of Botswana,0.4935043917079846
+BWA,2022,Mortality,279.6,Africa,Southern Africa,Republic of Botswana,0.6105577542703291
+CAF,2007,Mortality,694.59,Africa,Middle Africa,Central African Republic,0.0
+CAF,2012,Mortality,694.59,Africa,Middle Africa,Central African Republic,0.0
+CAF,2017,Mortality,694.59,Africa,Middle Africa,Central African Republic,0.0
+CAF,2022,Mortality,618.96,Africa,Middle Africa,Central African Republic,0.11127131486412922
+CAN,2007,Mortality,24.14,America,Northern America,Canada,0.9864055672438906
+CAN,2012,Mortality,24.14,America,Northern America,Canada,0.9864055672438906
+CAN,2017,Mortality,24.14,America,Northern America,Canada,0.9864055672438906
+CAN,2022,Mortality,16.22,America,Northern America,Canada,0.9980579381776986
+CHE,2007,Mortality,32.46,Europe,Western Europe,Swiss Confederation,0.9741646927275669
+CHE,2012,Mortality,32.46,Europe,Western Europe,Swiss Confederation,0.9741646927275669
+CHE,2017,Mortality,32.46,Europe,Western Europe,Swiss Confederation,0.9741646927275669
+CHE,2022,Mortality,20.8,Europe,Western Europe,Swiss Confederation,0.9913195721578956
+CHL,2007,Mortality,51.06,America,South America,Republic of Chile,0.9467992761405933
+CHL,2012,Mortality,51.06,America,South America,Republic of Chile,0.9467992761405933
+CHL,2017,Mortality,51.06,America,South America,Republic of Chile,0.9467992761405933
+CHL,2022,Mortality,35.809999999999995,America,South America,Republic of Chile,0.9692359752239992
+CHN,2007,Mortality,297.23,Asia,Eastern Asia,People's Republic of China,0.5846194588709559
+CHN,2012,Mortality,297.23,Asia,Eastern Asia,People's Republic of China,0.5846194588709559
+CHN,2017,Mortality,297.23,Asia,Eastern Asia,People's Republic of China,0.5846194588709559
+CHN,2022,Mortality,186.37,Asia,Eastern Asia,People's Republic of China,0.7477232267651429
+CIV,2007,Mortality,497.36,Africa,Western Africa,Republic of Côte d'Ivoire,0.290176403948859
+CIV,2012,Mortality,497.36,Africa,Western Africa,Republic of Côte d'Ivoire,0.290176403948859
+CIV,2017,Mortality,497.36,Africa,Western Africa,Republic of Côte d'Ivoire,0.290176403948859
+CIV,2022,Mortality,384.4,Africa,Western Africa,Republic of Côte d'Ivoire,0.45636981565125284
+CMR,2007,Mortality,517.01,Africa,Middle Africa,Republic of Cameroon,0.26126616545778225
+CMR,2012,Mortality,517.01,Africa,Middle Africa,Republic of Cameroon,0.26126616545778225
+CMR,2017,Mortality,517.01,Africa,Middle Africa,Republic of Cameroon,0.26126616545778225
+CMR,2022,Mortality,420.42999999999995,Africa,Middle Africa,Republic of Cameroon,0.40336035545616394
+COD,2007,Mortality,505.99,Africa,Middle Africa,Democratic Republic of the Congo,0.27747943915608586
+COD,2012,Mortality,505.99,Africa,Middle Africa,Democratic Republic of the Congo,0.27747943915608586
+COD,2017,Mortality,505.99,Africa,Middle Africa,Democratic Republic of the Congo,0.27747943915608586
+COD,2022,Mortality,423.78,Africa,Middle Africa,Democratic Republic of the Congo,0.3984316379525961
+COG,2007,Mortality,451.25,Africa,Middle Africa,Republic of the Congo,0.35801615442334006
+COG,2012,Mortality,451.25,Africa,Middle Africa,Republic of the Congo,0.35801615442334006
+COG,2017,Mortality,451.25,Africa,Middle Africa,Republic of the Congo,0.35801615442334006
+COG,2022,Mortality,346.57000000000005,Africa,Middle Africa,Republic of the Congo,0.5120275419676616
+COL,2007,Mortality,84.91,America,South America,Republic of Colombia,0.8969971604702144
+COL,2012,Mortality,84.91,America,South America,Republic of Colombia,0.8969971604702144
+COL,2017,Mortality,84.91,America,South America,Republic of Colombia,0.8969971604702144
+COL,2022,Mortality,64.05,America,South America,Republic of Colombia,0.9276876222984007
+COM,2007,Mortality,374.42999999999995,Africa,Eastern Africa,Union of the Comoros,0.47103826744545313
+COM,2012,Mortality,374.42999999999995,Africa,Eastern Africa,Union of the Comoros,0.47103826744545313
+COM,2017,Mortality,374.42999999999995,Africa,Eastern Africa,Union of the Comoros,0.47103826744545313
+COM,2022,Mortality,335.0,Africa,Eastern Africa,Union of the Comoros,0.5290500080919243
+CPV,2007,Mortality,158.43,Africa,Western Africa,Republic of Cabo Verde,0.7888302020038548
+CPV,2012,Mortality,158.43,Africa,Western Africa,Republic of Cabo Verde,0.7888302020038548
+CPV,2017,Mortality,158.43,Africa,Western Africa,Republic of Cabo Verde,0.7888302020038548
+CPV,2022,Mortality,183.88,Africa,Western Africa,Republic of Cabo Verde,0.7513866615663023
+CRI,2007,Mortality,56.66,America,Central America,Republic of Costa Rica,0.9385602259853757
+CRI,2012,Mortality,56.66,America,Central America,Republic of Costa Rica,0.9385602259853757
+CRI,2017,Mortality,56.66,America,Central America,Republic of Costa Rica,0.9385602259853757
+CRI,2022,Mortality,35.730000000000004,America,Central America,Republic of Costa Rica,0.9693536759405023
+CUB,2007,Mortality,98.81,America,Caribbean,Republic of Cuba,0.8765466609777985
+CUB,2012,Mortality,98.81,America,Caribbean,Republic of Cuba,0.8765466609777985
+CUB,2017,Mortality,98.81,America,Caribbean,Republic of Cuba,0.8765466609777985
+CUB,2022,Mortality,82.31,America,Caribbean,Republic of Cuba,0.9008224337565653
+CUW,2007,Mortality,96.99272727272728,America,Caribbean,Country of Curaçao,0.8792203397538182
+CUW,2012,Mortality,96.99272727272728,America,Caribbean,Country of Curaçao,0.8792203397538182
+CUW,2017,Mortality,96.99272727272728,America,Caribbean,Country of Curaçao,0.8792203397538182
+CUW,2022,Mortality,92.61354545454546,America,Caribbean,Country of Curaçao,0.8856632502250357
+CYM,2007,Mortality,96.99272727272728,America,Caribbean,Cayman Islands,0.8792203397538182
+CYM,2012,Mortality,96.99272727272728,America,Caribbean,Cayman Islands,0.8792203397538182
+CYM,2017,Mortality,96.99272727272728,America,Caribbean,Cayman Islands,0.8792203397538182
+CYM,2022,Mortality,92.61354545454546,America,Caribbean,Cayman Islands,0.8856632502250357
+CYP,2007,Mortality,51.9,Asia,Western Asia,Republic of Cyprus,0.9455634186173109
+CYP,2012,Mortality,51.9,Asia,Western Asia,Republic of Cyprus,0.9455634186173109
+CYP,2017,Mortality,51.9,Asia,Western Asia,Republic of Cyprus,0.9455634186173109
+CYP,2022,Mortality,31.509999999999998,Asia,Western Asia,Republic of Cyprus,0.9755623887360414
+CZE,2007,Mortality,99.3,Europe,Eastern Europe,Czech Republic,0.8758257440892172
+CZE,2012,Mortality,99.3,Europe,Eastern Europe,Czech Republic,0.8758257440892172
+CZE,2017,Mortality,99.3,Europe,Eastern Europe,Czech Republic,0.8758257440892172
+CZE,2022,Mortality,65.06,Europe,Eastern Europe,Czech Republic,0.9262016507525488
+DEU,2007,Mortality,49.74,Europe,Western Europe,Federal Republic of Germany,0.9487413379628948
+DEU,2012,Mortality,49.74,Europe,Western Europe,Federal Republic of Germany,0.9487413379628948
+DEU,2017,Mortality,49.74,Europe,Western Europe,Federal Republic of Germany,0.9487413379628948
+DEU,2022,Mortality,29.47,Europe,Western Europe,Federal Republic of Germany,0.9785637570068707
+DJI,2007,Mortality,388.97,Africa,Eastern Africa,Republic of Djibouti,0.4496461622210125
+DJI,2012,Mortality,388.97,Africa,Eastern Africa,Republic of Djibouti,0.4496461622210125
+DJI,2017,Mortality,388.97,Africa,Eastern Africa,Republic of Djibouti,0.4496461622210125
+DJI,2022,Mortality,361.03,Africa,Eastern Africa,Republic of Djibouti,0.4907531374597243
+DMA,2007,Mortality,96.99272727272728,America,Caribbean,Commonwealth of Dominica,0.8792203397538182
+DMA,2012,Mortality,96.99272727272728,America,Caribbean,Commonwealth of Dominica,0.8792203397538182
+DMA,2017,Mortality,96.99272727272728,America,Caribbean,Commonwealth of Dominica,0.8792203397538182
+DMA,2022,Mortality,92.61354545454546,America,Caribbean,Commonwealth of Dominica,0.8856632502250357
+DNK,2007,Mortality,42.68,Europe,Northern Europe,Kingdom of Denmark,0.9591284261942945
+DNK,2012,Mortality,42.68,Europe,Northern Europe,Kingdom of Denmark,0.9591284261942945
+DNK,2017,Mortality,42.68,Europe,Northern Europe,Kingdom of Denmark,0.9591284261942945
+DNK,2022,Mortality,25.79,Europe,Northern Europe,Kingdom of Denmark,0.9839779899660139
+DOM,2007,Mortality,82.65,America,Caribbean,Dominican Republic,0.9003222057114273
+DOM,2012,Mortality,82.65,America,Caribbean,Dominican Republic,0.9003222057114273
+DOM,2017,Mortality,82.65,America,Caribbean,Dominican Republic,0.9003222057114273
+DOM,2022,Mortality,83.52,America,Caribbean,Dominican Republic,0.899042210419456
+DZA,2007,Mortality,107.97,Africa,Northern Africa,People's Democratic Republic of Algeria,0.8630699289381923
+DZA,2012,Mortality,107.97,Africa,Northern Africa,People's Democratic Republic of Algeria,0.8630699289381923
+DZA,2017,Mortality,107.97,Africa,Northern Africa,People's Democratic Republic of Algeria,0.8630699289381923
+DZA,2022,Mortality,99.95,Africa,Northern Africa,People's Democratic Republic of Algeria,0.8748694257676293
+ECU,2007,Mortality,70.78999999999999,America,South America,Republic of Ecuador,0.9177713369330136
+ECU,2012,Mortality,70.78999999999999,America,South America,Republic of Ecuador,0.9177713369330136
+ECU,2017,Mortality,70.78999999999999,America,South America,Republic of Ecuador,0.9177713369330136
+ECU,2022,Mortality,56.8,America,South America,Republic of Ecuador,0.9383542497314953
+EGY,2007,Mortality,225.6,Africa,Northern Africa,Arab Republic of Egypt,0.6900057379099295
+EGY,2012,Mortality,225.6,Africa,Northern Africa,Arab Republic of Egypt,0.6900057379099295
+EGY,2017,Mortality,225.6,Africa,Northern Africa,Arab Republic of Egypt,0.6900057379099295
+EGY,2022,Mortality,211.82999999999998,Africa,Northern Africa,Arab Republic of Egypt,0.7102649737380277
+ERI,2007,Mortality,547.37,Africa,Eastern Africa,State of Eritrea,0.21659874354485134
+ERI,2012,Mortality,547.37,Africa,Eastern Africa,State of Eritrea,0.21659874354485134
+ERI,2017,Mortality,547.37,Africa,Eastern Africa,State of Eritrea,0.21659874354485134
+ERI,2022,Mortality,475.16999999999996,Africa,Eastern Africa,State of Eritrea,0.32282364018890974
+ESP,2007,Mortality,30.35,Europe,Southern Europe,Kingdom of Spain,0.9772690491253365
+ESP,2012,Mortality,30.35,Europe,Southern Europe,Kingdom of Spain,0.9772690491253365
+ESP,2017,Mortality,30.35,Europe,Southern Europe,Kingdom of Spain,0.9772690491253365
+ESP,2022,Mortality,20.24,Europe,Southern Europe,Kingdom of Spain,0.9921434771734172
+EST,2007,Mortality,58.16,Europe,Northern Europe,Republic of Estonia,0.9363533375509424
+EST,2012,Mortality,58.16,Europe,Northern Europe,Republic of Estonia,0.9363533375509424
+EST,2017,Mortality,58.16,Europe,Northern Europe,Republic of Estonia,0.9363533375509424
+EST,2022,Mortality,25.6,Europe,Northern Europe,Republic of Estonia,0.9842575291677087
+ETH,2007,Mortality,356.84000000000003,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.49691771248657474
+ETH,2012,Mortality,356.84000000000003,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.49691771248657474
+ETH,2017,Mortality,356.84000000000003,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.49691771248657474
+ETH,2022,Mortality,292.98,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.5908723094351837
+FIN,2007,Mortality,30.44,Europe,Northern Europe,Republic of Finland,0.9771366358192705
+FIN,2012,Mortality,30.44,Europe,Northern Europe,Republic of Finland,0.9771366358192705
+FIN,2017,Mortality,30.44,Europe,Northern Europe,Republic of Finland,0.9771366358192705
+FIN,2022,Mortality,14.9,Europe,Northern Europe,Republic of Finland,1.0
+FJI,2007,Mortality,288.18,Oceania,Melanesia,Republic of Fiji,0.5979343524253704
+FJI,2012,Mortality,288.18,Oceania,Melanesia,Republic of Fiji,0.5979343524253704
+FJI,2017,Mortality,288.18,Oceania,Melanesia,Republic of Fiji,0.5979343524253704
+FJI,2022,Mortality,242.98,Oceania,Melanesia,Republic of Fiji,0.6644352572496285
+FRA,2007,Mortality,28.54,Europe,Western Europe,French Republic,0.9799320278362195
+FRA,2012,Mortality,28.54,Europe,Western Europe,French Republic,0.9799320278362195
+FRA,2017,Mortality,28.54,Europe,Western Europe,French Republic,0.9799320278362195
+FRA,2022,Mortality,20.07,Europe,Western Europe,French Republic,0.9923935911959862
+FRO,2007,Mortality,53.221000000000004,Europe,Northern Europe,Faroe Islands,0.9436198855360531
+FRO,2012,Mortality,53.221000000000004,Europe,Northern Europe,Faroe Islands,0.9436198855360531
+FRO,2017,Mortality,53.221000000000004,Europe,Northern Europe,Faroe Islands,0.9436198855360531
+FRO,2022,Mortality,32.472,Europe,Northern Europe,Faroe Islands,0.9741470376200915
+FSM,2007,Mortality,502.2,Oceania,Micronesia,Federated States of Micronesia,0.28305551060042083
+FSM,2012,Mortality,502.2,Oceania,Micronesia,Federated States of Micronesia,0.28305551060042083
+FSM,2017,Mortality,502.2,Oceania,Micronesia,Federated States of Micronesia,0.28305551060042083
+FSM,2022,Mortality,509.63,Oceania,Micronesia,Federated States of Micronesia,0.27212405655519434
+GAB,2007,Mortality,212.4,Africa,Middle Africa,Gabonese Republic,0.709426356132943
+GAB,2012,Mortality,212.4,Africa,Middle Africa,Gabonese Republic,0.709426356132943
+GAB,2017,Mortality,212.4,Africa,Middle Africa,Gabonese Republic,0.709426356132943
+GAB,2022,Mortality,153.26,Africa,Middle Africa,Gabonese Republic,0.7964366108078683
+GBR,2007,Mortality,43.91,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.9573187776780592
+GBR,2012,Mortality,43.91,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.9573187776780592
+GBR,2017,Mortality,43.91,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.9573187776780592
+GBR,2022,Mortality,26.91,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.9823301799349704
+GEO,2007,Mortality,299.77,Asia,Western Asia,Georgia,0.580882461121982
+GEO,2012,Mortality,299.77,Asia,Western Asia,Georgia,0.580882461121982
+GEO,2017,Mortality,299.77,Asia,Western Asia,Georgia,0.580882461121982
+GEO,2022,Mortality,184.89000000000001,Asia,Western Asia,Georgia,0.7499006900204505
+GHA,2007,Mortality,474.57,Africa,Western Africa,Republic of Ghana,0.323706395562683
+GHA,2012,Mortality,474.57,Africa,Western Africa,Republic of Ghana,0.323706395562683
+GHA,2017,Mortality,474.57,Africa,Western Africa,Republic of Ghana,0.323706395562683
+GHA,2022,Mortality,382.22,Africa,Western Africa,Republic of Ghana,0.45957716017596256
+GIB,2007,Mortality,127.645,Europe,Southern Europe,Gibraltar,0.8341229089732084
+GIB,2012,Mortality,127.645,Europe,Southern Europe,Gibraltar,0.8341229089732084
+GIB,2017,Mortality,127.645,Europe,Southern Europe,Gibraltar,0.8341229089732084
+GIB,2022,Mortality,103.1675,Europe,Southern Europe,Gibraltar,0.8701356500757698
+GIN,2007,Mortality,518.62,Africa,Western Africa,Republic of Guinea,0.2588974385381571
+GIN,2012,Mortality,518.62,Africa,Western Africa,Republic of Guinea,0.2588974385381571
+GIN,2017,Mortality,518.62,Africa,Western Africa,Republic of Guinea,0.2588974385381571
+GIN,2022,Mortality,488.65000000000003,Africa,Western Africa,Republic of Guinea,0.3029910694581353
+GMB,2007,Mortality,480.81,Africa,Western Africa,Republic of the Gambia,0.3145257396754403
+GMB,2012,Mortality,480.81,Africa,Western Africa,Republic of the Gambia,0.3145257396754403
+GMB,2017,Mortality,480.81,Africa,Western Africa,Republic of the Gambia,0.3145257396754403
+GMB,2022,Mortality,447.2,Africa,Western Africa,Republic of the Gambia,0.3639747531963101
+GNB,2007,Mortality,575.7399999999999,Africa,Western Africa,Republic of Guinea-Bissau,0.17485912695493552
+GNB,2012,Mortality,575.7399999999999,Africa,Western Africa,Republic of Guinea-Bissau,0.17485912695493552
+GNB,2017,Mortality,575.7399999999999,Africa,Western Africa,Republic of Guinea-Bissau,0.17485912695493552
+GNB,2022,Mortality,467.62,Africa,Western Africa,Republic of Guinea-Bissau,0.33393164530889086
+GNQ,2007,Mortality,362.17,Africa,Middle Africa,Republic of Equatorial Guinea,0.48907590224955494
+GNQ,2012,Mortality,362.17,Africa,Middle Africa,Republic of Equatorial Guinea,0.48907590224955494
+GNQ,2017,Mortality,362.17,Africa,Middle Africa,Republic of Equatorial Guinea,0.48907590224955494
+GNQ,2022,Mortality,335.03000000000003,Africa,Middle Africa,Republic of Equatorial Guinea,0.5290058703232355
+GRC,2007,Mortality,72.9,Europe,Southern Europe,Hellenic Republic,0.914666980535244
+GRC,2012,Mortality,72.9,Europe,Southern Europe,Hellenic Republic,0.914666980535244
+GRC,2017,Mortality,72.9,Europe,Southern Europe,Hellenic Republic,0.914666980535244
+GRC,2022,Mortality,46.1,Europe,Southern Europe,Hellenic Republic,0.9540967205637864
+GRD,2007,Mortality,92.03,America,Caribbean,Grenada,0.8865217967014374
+GRD,2012,Mortality,92.03,America,Caribbean,Grenada,0.8865217967014374
+GRD,2017,Mortality,92.03,America,Caribbean,Grenada,0.8865217967014374
+GRD,2022,Mortality,96.48,America,Caribbean,Grenada,0.8799746943459518
+GRL,2007,Mortality,31.295,America,Northern America,Greenland,0.9758787094116436
+GRL,2012,Mortality,31.295,America,Northern America,Greenland,0.9758787094116436
+GRL,2017,Mortality,31.295,America,Northern America,Greenland,0.9758787094116436
+GRL,2022,Mortality,22.33,America,Northern America,Greenland,0.9890685459547734
+GTM,2007,Mortality,234.24999999999997,America,Central America,Republic of Guatemala,0.6772793479380306
+GTM,2012,Mortality,234.24999999999997,America,Central America,Republic of Guatemala,0.6772793479380306
+GTM,2017,Mortality,234.24999999999997,America,Central America,Republic of Guatemala,0.6772793479380306
+GTM,2022,Mortality,186.62,America,Central America,Republic of Guatemala,0.7473554120260707
+GUM,2007,Mortality,522.49,Oceania,Micronesia,Guam,0.25320366637731906
+GUM,2012,Mortality,522.49,Oceania,Micronesia,Guam,0.25320366637731906
+GUM,2017,Mortality,522.49,Oceania,Micronesia,Guam,0.25320366637731906
+GUM,2022,Mortality,502.32,Oceania,Micronesia,Guam,0.28287895952566616
+GUY,2007,Mortality,271.18,America,South America,Co-operative Republic of Guyana,0.6229457546822816
+GUY,2012,Mortality,271.18,America,South America,Co-operative Republic of Guyana,0.6229457546822816
+GUY,2017,Mortality,271.18,America,South America,Co-operative Republic of Guyana,0.6229457546822816
+GUY,2022,Mortality,192.25,America,South America,Co-operative Republic of Guyana,0.7390722241021642
+HKG,2007,Mortality,291.4,Asia,Eastern Asia,Hong Kong SAR,0.5931968985861201
+HKG,2012,Mortality,291.4,Asia,Eastern Asia,Hong Kong SAR,0.5931968985861201
+HKG,2017,Mortality,291.4,Asia,Eastern Asia,Hong Kong SAR,0.5931968985861201
+HKG,2022,Mortality,220.946,Asia,Eastern Asia,Hong Kong SAR,0.696852977092498
+HND,2007,Mortality,221.36,America,Central America,Republic of Honduras,0.6962438758845945
+HND,2012,Mortality,221.36,America,Central America,Republic of Honduras,0.6962438758845945
+HND,2017,Mortality,221.36,America,Central America,Republic of Honduras,0.6962438758845945
+HND,2022,Mortality,225.16,America,Central America,Republic of Honduras,0.6906530918506967
+HRV,2007,Mortality,97.59,Europe,Southern Europe,Republic of Croatia,0.8783415969044711
+HRV,2012,Mortality,97.59,Europe,Southern Europe,Republic of Croatia,0.8783415969044711
+HRV,2017,Mortality,97.59,Europe,Southern Europe,Republic of Croatia,0.8783415969044711
+HRV,2022,Mortality,62.69,Europe,Southern Europe,Republic of Croatia,0.9296885344789537
+HTI,2007,Mortality,449.57000000000005,America,Caribbean,Republic of Haiti,0.36048786946990535
+HTI,2012,Mortality,449.57000000000005,America,Caribbean,Republic of Haiti,0.36048786946990535
+HTI,2017,Mortality,449.57000000000005,America,Caribbean,Republic of Haiti,0.36048786946990535
+HTI,2022,Mortality,420.99,America,Caribbean,Republic of Haiti,0.40253645044064207
+HUN,2007,Mortality,113.76,Europe,Eastern Europe,Republic of Hungary,0.8545513395812797
+HUN,2012,Mortality,113.76,Europe,Eastern Europe,Republic of Hungary,0.8545513395812797
+HUN,2017,Mortality,113.76,Europe,Eastern Europe,Republic of Hungary,0.8545513395812797
+HUN,2022,Mortality,84.58,Europe,Eastern Europe,Republic of Hungary,0.8974826759257896
+IDN,2007,Mortality,325.43,Asia,South-eastern Asia,Republic of Indonesia,0.5431299563036089
+IDN,2012,Mortality,325.43,Asia,South-eastern Asia,Republic of Indonesia,0.5431299563036089
+IDN,2017,Mortality,325.43,Asia,South-eastern Asia,Republic of Indonesia,0.5431299563036089
+IDN,2022,Mortality,193.35,Asia,South-eastern Asia,Republic of Indonesia,0.7374538392502464
+IMN,2007,Mortality,53.221000000000004,Europe,Northern Europe,Isle of Man,0.9436198855360531
+IMN,2012,Mortality,53.221000000000004,Europe,Northern Europe,Isle of Man,0.9436198855360531
+IMN,2017,Mortality,53.221000000000004,Europe,Northern Europe,Isle of Man,0.9436198855360531
+IMN,2022,Mortality,32.472,Europe,Northern Europe,Isle of Man,0.9741470376200915
+IND,2007,Mortality,365.2,Asia,Southern Asia,Republic of India,0.4846179876119996
+IND,2012,Mortality,365.2,Asia,Southern Asia,Republic of India,0.4846179876119996
+IND,2017,Mortality,365.2,Asia,Southern Asia,Republic of India,0.4846179876119996
+IND,2022,Mortality,282.01,Asia,Southern Asia,Republic of India,0.6070120201856729
+IRL,2007,Mortality,39.97,Europe,Northern Europe,Ireland,0.9631155379658373
+IRL,2012,Mortality,39.97,Europe,Northern Europe,Ireland,0.9631155379658373
+IRL,2017,Mortality,39.97,Europe,Northern Europe,Ireland,0.9631155379658373
+IRL,2022,Mortality,25.57,Europe,Northern Europe,Ireland,0.9843016669363974
+IRN,2007,Mortality,121.69999999999999,Asia,Southern Asia,Islamic Republic of Iran,0.842869543468346
+IRN,2012,Mortality,121.69999999999999,Asia,Southern Asia,Islamic Republic of Iran,0.842869543468346
+IRN,2017,Mortality,121.69999999999999,Asia,Southern Asia,Islamic Republic of Iran,0.842869543468346
+IRN,2022,Mortality,115.92,Asia,Southern Asia,Islamic Republic of Iran,0.8513734202356957
+IRQ,2007,Mortality,216.6,Asia,Western Asia,Republic of Iraq,0.7032470685165295
+IRQ,2012,Mortality,216.6,Asia,Western Asia,Republic of Iraq,0.7032470685165295
+IRQ,2017,Mortality,216.6,Asia,Western Asia,Republic of Iraq,0.7032470685165295
+IRQ,2022,Mortality,180.86,Asia,Western Asia,Republic of Iraq,0.7558298636142947
+ISL,2007,Mortality,26.62,Europe,Northern Europe,Republic of Iceland,0.9827568450322941
+ISL,2012,Mortality,26.62,Europe,Northern Europe,Republic of Iceland,0.9827568450322941
+ISL,2017,Mortality,26.62,Europe,Northern Europe,Republic of Iceland,0.9827568450322941
+ISL,2022,Mortality,16.32,Europe,Northern Europe,Republic of Iceland,0.9979108122820697
+ISR,2007,Mortality,38.91,Asia,Western Asia,State of Israel,0.9646750724595036
+ISR,2012,Mortality,38.91,Asia,Western Asia,State of Israel,0.9646750724595036
+ISR,2017,Mortality,38.91,Asia,Western Asia,State of Israel,0.9646750724595036
+ISR,2022,Mortality,30.24,Asia,Western Asia,State of Israel,0.9774308876105283
+ITA,2007,Mortality,41.69,Europe,Southern Europe,Italian Republic,0.9605849725610205
+ITA,2012,Mortality,41.69,Europe,Southern Europe,Italian Republic,0.9605849725610205
+ITA,2017,Mortality,41.69,Europe,Southern Europe,Italian Republic,0.9605849725610205
+ITA,2022,Mortality,30.009999999999998,Europe,Southern Europe,Italian Republic,0.9777692771704748
+JAM,2007,Mortality,62.74,America,Caribbean,Jamaica,0.9296149715311391
+JAM,2012,Mortality,62.74,America,Caribbean,Jamaica,0.9296149715311391
+JAM,2017,Mortality,62.74,America,Caribbean,Jamaica,0.9296149715311391
+JAM,2022,Mortality,72.41,America,Caribbean,Jamaica,0.9153878974238255
+JOR,2007,Mortality,83.0,Asia,Western Asia,Hashemite Kingdom of Jordan,0.8998072650767261
+JOR,2012,Mortality,83.0,Asia,Western Asia,Hashemite Kingdom of Jordan,0.8998072650767261
+JOR,2017,Mortality,83.0,Asia,Western Asia,Hashemite Kingdom of Jordan,0.8998072650767261
+JOR,2022,Mortality,77.62,Asia,Western Asia,Hashemite Kingdom of Jordan,0.9077226382615604
+JPN,2007,Mortality,35.88,Asia,Eastern Asia,Japan,0.969132987097059
+JPN,2012,Mortality,35.88,Asia,Eastern Asia,Japan,0.969132987097059
+JPN,2017,Mortality,35.88,Asia,Eastern Asia,Japan,0.969132987097059
+JPN,2022,Mortality,23.58,Asia,Eastern Asia,Japan,0.9872294722594123
+KAZ,2007,Mortality,252.41,Asia,Central Asia,Republic of Kazakhstan,0.6505612852918242
+KAZ,2012,Mortality,252.41,Asia,Central Asia,Republic of Kazakhstan,0.6505612852918242
+KAZ,2017,Mortality,252.41,Asia,Central Asia,Republic of Kazakhstan,0.6505612852918242
+KAZ,2022,Mortality,164.36,Asia,Central Asia,Republic of Kazakhstan,0.7801056363930615
+KEN,2007,Mortality,295.40999999999997,Africa,Eastern Africa,Republic of Kenya,0.5872971501714017
+KEN,2012,Mortality,295.40999999999997,Africa,Eastern Africa,Republic of Kenya,0.5872971501714017
+KEN,2017,Mortality,295.40999999999997,Africa,Eastern Africa,Republic of Kenya,0.5872971501714017
+KEN,2022,Mortality,265.61,Africa,Eastern Africa,Republic of Kenya,0.6311406670688108
+KGZ,2007,Mortality,386.01,Asia,Central Asia,Kyrgyz Republic,0.4540010887316277
+KGZ,2012,Mortality,386.01,Asia,Central Asia,Kyrgyz Republic,0.4540010887316277
+KGZ,2017,Mortality,386.01,Asia,Central Asia,Kyrgyz Republic,0.4540010887316277
+KGZ,2022,Mortality,247.55,Asia,Central Asia,Kyrgyz Republic,0.6577116038193882
+KHM,2007,Mortality,391.21,Asia,South-eastern Asia,Kingdom of Cambodia,0.44635054215892545
+KHM,2012,Mortality,391.21,Asia,South-eastern Asia,Kingdom of Cambodia,0.44635054215892545
+KHM,2017,Mortality,391.21,Asia,South-eastern Asia,Kingdom of Cambodia,0.44635054215892545
+KHM,2022,Mortality,323.43,Asia,South-eastern Asia,Kingdom of Cambodia,0.5460724742161868
+KIR,2007,Mortality,542.78,Oceania,Micronesia,Republic of Kiribati,0.22335182215421742
+KIR,2012,Mortality,542.78,Oceania,Micronesia,Republic of Kiribati,0.22335182215421742
+KIR,2017,Mortality,542.78,Oceania,Micronesia,Republic of Kiribati,0.22335182215421742
+KIR,2022,Mortality,495.01,Oceania,Micronesia,Republic of Kiribati,0.293633862496138
+KNA,2007,Mortality,96.99272727272728,America,Caribbean,Saint Kitts and Nevis,0.8792203397538182
+KNA,2012,Mortality,96.99272727272728,America,Caribbean,Saint Kitts and Nevis,0.8792203397538182
+KNA,2017,Mortality,96.99272727272728,America,Caribbean,Saint Kitts and Nevis,0.8792203397538182
+KNA,2022,Mortality,92.61354545454546,America,Caribbean,Saint Kitts and Nevis,0.8856632502250357
+KOR,2007,Mortality,52.64,Asia,Eastern Asia,Republic of Korea,0.9444746869896571
+KOR,2012,Mortality,52.64,Asia,Eastern Asia,Republic of Korea,0.9444746869896571
+KOR,2017,Mortality,52.64,Asia,Eastern Asia,Republic of Korea,0.9444746869896571
+KOR,2022,Mortality,37.77,Asia,Eastern Asia,Republic of Korea,0.966352307669673
+KWT,2007,Mortality,103.89,Asia,Western Asia,State of Kuwait,0.8690726654798511
+KWT,2012,Mortality,103.89,Asia,Western Asia,State of Kuwait,0.8690726654798511
+KWT,2017,Mortality,103.89,Asia,Western Asia,State of Kuwait,0.8690726654798511
+KWT,2022,Mortality,90.53,Asia,Western Asia,State of Kuwait,0.8887286851358708
+LAO,2007,Mortality,432.85,Asia,South-eastern Asia,Lao People's Democratic Republic,0.3850873192190557
+LAO,2012,Mortality,432.85,Asia,South-eastern Asia,Lao People's Democratic Republic,0.3850873192190557
+LAO,2017,Mortality,432.85,Asia,South-eastern Asia,Lao People's Democratic Republic,0.3850873192190557
+LAO,2022,Mortality,392.23,Asia,South-eastern Asia,Lao People's Democratic Republic,0.4448498580235107
+LBN,2007,Mortality,185.97812499999998,Asia,Western Asia,Lebanese Republic,0.7482997763686386
+LBN,2012,Mortality,185.97812499999998,Asia,Western Asia,Lebanese Republic,0.7482997763686386
+LBN,2017,Mortality,185.97812499999998,Asia,Western Asia,Lebanese Republic,0.7482997763686386
+LBN,2022,Mortality,156.26375000000002,Asia,Western Asia,Lebanese Republic,0.7920173167179155
+LBR,2007,Mortality,375.56,Africa,Western Africa,Republic of Liberia,0.4693757448248466
+LBR,2012,Mortality,375.56,Africa,Western Africa,Republic of Liberia,0.4693757448248466
+LBR,2017,Mortality,375.56,Africa,Western Africa,Republic of Liberia,0.4693757448248466
+LBR,2022,Mortality,309.44,Africa,Western Africa,Republic of Liberia,0.5666553870146684
+LBY,2007,Mortality,193.204,Africa,Northern Africa,State of Libya,0.7376686430578646
+LBY,2012,Mortality,193.204,Africa,Northern Africa,State of Libya,0.7376686430578646
+LBY,2017,Mortality,193.204,Africa,Northern Africa,State of Libya,0.7376686430578646
+LBY,2022,Mortality,168.434,Africa,Northern Africa,State of Libya,0.7741117274051406
+LCA,2007,Mortality,46.64,America,Caribbean,Saint Lucia,0.9533022407273904
+LCA,2012,Mortality,46.64,America,Caribbean,Saint Lucia,0.9533022407273904
+LCA,2017,Mortality,46.64,America,Caribbean,Saint Lucia,0.9533022407273904
+LCA,2022,Mortality,55.41,America,Caribbean,Saint Lucia,0.9403992996807369
+LIE,2007,Mortality,41.26428571428572,Europe,Western Europe,Principality of Liechtenstein,0.9612113085166977
+LIE,2012,Mortality,41.26428571428572,Europe,Western Europe,Principality of Liechtenstein,0.9612113085166977
+LIE,2017,Mortality,41.26428571428572,Europe,Western Europe,Principality of Liechtenstein,0.9612113085166977
+LIE,2022,Mortality,26.76142857142857,Europe,Western Europe,Principality of Liechtenstein,0.9825487669799046
+LKA,2007,Mortality,233.23,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.6787800320734452
+LKA,2012,Mortality,233.23,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.6787800320734452
+LKA,2017,Mortality,233.23,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.6787800320734452
+LKA,2022,Mortality,183.58,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.7518280392531889
+LSO,2007,Mortality,639.6,Africa,Southern Africa,Kingdom of Lesotho,0.08090453000632641
+LSO,2012,Mortality,639.6,Africa,Southern Africa,Kingdom of Lesotho,0.08090453000632641
+LSO,2017,Mortality,639.6,Africa,Southern Africa,Kingdom of Lesotho,0.08090453000632641
+LSO,2022,Mortality,581.1700000000001,Africa,Southern Africa,Kingdom of Lesotho,0.16687019082228655
+LTU,2007,Mortality,111.64,Europe,Northern Europe,Republic of Lithuania,0.8576704085686122
+LTU,2012,Mortality,111.64,Europe,Northern Europe,Republic of Lithuania,0.8576704085686122
+LTU,2017,Mortality,111.64,Europe,Northern Europe,Republic of Lithuania,0.8576704085686122
+LTU,2022,Mortality,77.52,Europe,Northern Europe,Republic of Lithuania,0.9078697641571893
+LUX,2007,Mortality,38.26,Europe,Western Europe,Grand Duchy of Luxembourg,0.9656313907810914
+LUX,2012,Mortality,38.26,Europe,Western Europe,Grand Duchy of Luxembourg,0.9656313907810914
+LUX,2017,Mortality,38.26,Europe,Western Europe,Grand Duchy of Luxembourg,0.9656313907810914
+LUX,2022,Mortality,25.02,Europe,Western Europe,Grand Duchy of Luxembourg,0.9851108593623563
+LVA,2007,Mortality,120.64000000000001,Europe,Northern Europe,Republic of Latvia,0.844429077962012
+LVA,2012,Mortality,120.64000000000001,Europe,Northern Europe,Republic of Latvia,0.844429077962012
+LVA,2017,Mortality,120.64000000000001,Europe,Northern Europe,Republic of Latvia,0.844429077962012
+LVA,2022,Mortality,80.22,Europe,Northern Europe,Republic of Latvia,0.9038973649752092
+MAC,2007,Mortality,291.4,Asia,Eastern Asia,Macau SAR,0.5931968985861201
+MAC,2012,Mortality,291.4,Asia,Eastern Asia,Macau SAR,0.5931968985861201
+MAC,2017,Mortality,291.4,Asia,Eastern Asia,Macau SAR,0.5931968985861201
+MAC,2022,Mortality,220.946,Asia,Eastern Asia,Macau SAR,0.696852977092498
+MAF,2007,Mortality,96.99272727272728,America,Caribbean,Saint-Martin (French part),0.8792203397538182
+MAF,2012,Mortality,96.99272727272728,America,Caribbean,Saint-Martin (French part),0.8792203397538182
+MAF,2017,Mortality,96.99272727272728,America,Caribbean,Saint-Martin (French part),0.8792203397538182
+MAF,2022,Mortality,92.61354545454546,America,Caribbean,Saint-Martin (French part),0.8856632502250357
+MAR,2007,Mortality,138.04,Africa,Northern Africa,Kingdom of Morocco,0.8188291721225853
+MAR,2012,Mortality,138.04,Africa,Northern Africa,Kingdom of Morocco,0.8188291721225853
+MAR,2017,Mortality,138.04,Africa,Northern Africa,Kingdom of Morocco,0.8188291721225853
+MAR,2022,Mortality,132.33,Africa,Northern Africa,Kingdom of Morocco,0.8272300607629948
+MCO,2007,Mortality,41.26428571428572,Europe,Western Europe,Principality of Monaco,0.9612113085166977
+MCO,2012,Mortality,41.26428571428572,Europe,Western Europe,Principality of Monaco,0.9612113085166977
+MCO,2017,Mortality,41.26428571428572,Europe,Western Europe,Principality of Monaco,0.9612113085166977
+MCO,2022,Mortality,26.76142857142857,Europe,Western Europe,Principality of Monaco,0.9825487669799046
+MDA,2007,Mortality,249.20999999999998,Europe,Eastern Europe,Republic of Moldova,0.6552693139519488
+MDA,2012,Mortality,249.20999999999998,Europe,Eastern Europe,Republic of Moldova,0.6552693139519488
+MDA,2017,Mortality,249.20999999999998,Europe,Eastern Europe,Republic of Moldova,0.6552693139519488
+MDA,2022,Mortality,133.31,Europe,Eastern Europe,Republic of Moldova,0.8257882269858317
+MDG,2007,Mortality,473.8,Africa,Eastern Africa,Republic of Madagascar,0.32483926495902543
+MDG,2012,Mortality,473.8,Africa,Eastern Africa,Republic of Madagascar,0.32483926495902543
+MDG,2017,Mortality,473.8,Africa,Eastern Africa,Republic of Madagascar,0.32483926495902543
+MDG,2022,Mortality,418.82,Africa,Eastern Africa,Republic of Madagascar,0.405729082375789
+MDV,2007,Mortality,107.05000000000001,Asia,Southern Asia,Republic of Maldives,0.8644234871779781
+MDV,2012,Mortality,107.05000000000001,Asia,Southern Asia,Republic of Maldives,0.8644234871779781
+MDV,2017,Mortality,107.05000000000001,Asia,Southern Asia,Republic of Maldives,0.8644234871779781
+MDV,2022,Mortality,63.55,Asia,Southern Asia,Republic of Maldives,0.9284232517765453
+MEX,2007,Mortality,94.7,America,Central America,United Mexican States,0.882593535288146
+MEX,2012,Mortality,94.7,America,Central America,United Mexican States,0.882593535288146
+MEX,2017,Mortality,94.7,America,Central America,United Mexican States,0.882593535288146
+MEX,2022,Mortality,90.52,America,Central America,United Mexican States,0.8887433977254336
+MHL,2007,Mortality,522.49,Oceania,Micronesia,Republic of the Marshall Islands,0.25320366637731906
+MHL,2012,Mortality,522.49,Oceania,Micronesia,Republic of the Marshall Islands,0.25320366637731906
+MHL,2017,Mortality,522.49,Oceania,Micronesia,Republic of the Marshall Islands,0.25320366637731906
+MHL,2022,Mortality,502.32,Oceania,Micronesia,Republic of the Marshall Islands,0.28287895952566616
+MKD,2007,Mortality,246.18,Europe,Southern Europe,Republic of North Macedonia,0.6597272285895041
+MKD,2012,Mortality,246.18,Europe,Southern Europe,Republic of North Macedonia,0.6597272285895041
+MKD,2017,Mortality,246.18,Europe,Southern Europe,Republic of North Macedonia,0.6597272285895041
+MKD,2022,Mortality,191.16,Europe,Southern Europe,Republic of North Macedonia,0.7406758963645191
+MLI,2007,Mortality,391.23,Africa,Western Africa,Republic of Mali,0.4463211169797996
+MLI,2012,Mortality,391.23,Africa,Western Africa,Republic of Mali,0.4463211169797996
+MLI,2017,Mortality,391.23,Africa,Western Africa,Republic of Mali,0.4463211169797996
+MLI,2022,Mortality,348.56,Africa,Western Africa,Republic of Mali,0.5090997366446468
+MLT,2007,Mortality,62.04,Europe,Southern Europe,Republic of Malta,0.9306448528005414
+MLT,2012,Mortality,62.04,Europe,Southern Europe,Republic of Malta,0.9306448528005414
+MLT,2017,Mortality,62.04,Europe,Southern Europe,Republic of Malta,0.9306448528005414
+MLT,2022,Mortality,41.86,Europe,Southern Europe,Republic of Malta,0.9603348585384514
+MMR,2007,Mortality,452.8,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.35573570304109225
+MMR,2012,Mortality,452.8,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.35573570304109225
+MMR,2017,Mortality,452.8,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.35573570304109225
+MMR,2022,Mortality,355.99,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.4981682825994203
+MNE,2007,Mortality,256.97,Europe,Southern Europe,Montenegro,0.6438523444511468
+MNE,2012,Mortality,256.97,Europe,Southern Europe,Montenegro,0.6438523444511468
+MNE,2017,Mortality,256.97,Europe,Southern Europe,Montenegro,0.6438523444511468
+MNE,2022,Mortality,229.81,Europe,Southern Europe,Montenegro,0.6838117377039533
+MNG,2007,Mortality,563.22,Asia,Eastern Asia,Mongolia,0.1932792890876723
+MNG,2012,Mortality,563.22,Asia,Eastern Asia,Mongolia,0.1932792890876723
+MNG,2017,Mortality,563.22,Asia,Eastern Asia,Mongolia,0.1932792890876723
+MNG,2022,Mortality,430.83,Asia,Eastern Asia,Mongolia,0.3880592623107594
+MNP,2007,Mortality,522.49,Oceania,Micronesia,Northern Mariana Islands,0.25320366637731906
+MNP,2012,Mortality,522.49,Oceania,Micronesia,Northern Mariana Islands,0.25320366637731906
+MNP,2017,Mortality,522.49,Oceania,Micronesia,Northern Mariana Islands,0.25320366637731906
+MNP,2022,Mortality,502.32,Oceania,Micronesia,Northern Mariana Islands,0.28287895952566616
+MOZ,2007,Mortality,511.38,Africa,Eastern Africa,Republic of Mozambique,0.2695493533816887
+MOZ,2012,Mortality,511.38,Africa,Eastern Africa,Republic of Mozambique,0.2695493533816887
+MOZ,2017,Mortality,511.38,Africa,Eastern Africa,Republic of Mozambique,0.2695493533816887
+MOZ,2022,Mortality,459.8,Africa,Eastern Africa,Republic of Mozambique,0.34543689034707
+MRT,2007,Mortality,270.75,Africa,Western Africa,Islamic Republic of Mauritania,0.6235783960334859
+MRT,2012,Mortality,270.75,Africa,Western Africa,Islamic Republic of Mauritania,0.6235783960334859
+MRT,2017,Mortality,270.75,Africa,Western Africa,Islamic Republic of Mauritania,0.6235783960334859
+MRT,2022,Mortality,259.35,Africa,Western Africa,Islamic Republic of Mauritania,0.6403507481351792
+MUS,2007,Mortality,73.2,Africa,Eastern Africa,Republic of Mauritius,0.9142256028483573
+MUS,2012,Mortality,73.2,Africa,Eastern Africa,Republic of Mauritius,0.9142256028483573
+MUS,2017,Mortality,73.2,Africa,Eastern Africa,Republic of Mauritius,0.9142256028483573
+MUS,2022,Mortality,62.32,Africa,Eastern Africa,Republic of Mauritius,0.9302329002927804
+MWI,2007,Mortality,405.18,Africa,Eastern Africa,Republic of Malawi,0.4257970545395695
+MWI,2012,Mortality,405.18,Africa,Eastern Africa,Republic of Malawi,0.4257970545395695
+MWI,2017,Mortality,405.18,Africa,Eastern Africa,Republic of Malawi,0.4257970545395695
+MWI,2022,Mortality,299.78999999999996,Africa,Eastern Africa,Republic of Malawi,0.5808530359428563
+MYS,2007,Mortality,150.13,Asia,South-eastern Asia,Malaysia,0.8010416513410525
+MYS,2012,Mortality,150.13,Asia,South-eastern Asia,Malaysia,0.8010416513410525
+MYS,2017,Mortality,150.13,Asia,South-eastern Asia,Malaysia,0.8010416513410525
+MYS,2022,Mortality,159.92,Asia,South-eastern Asia,Malaysia,0.7866380261589843
+NAM,2007,Mortality,343.04,Africa,Southern Africa,Republic of Namibia,0.5172210860833615
+NAM,2012,Mortality,343.04,Africa,Southern Africa,Republic of Namibia,0.5172210860833615
+NAM,2017,Mortality,343.04,Africa,Southern Africa,Republic of Namibia,0.5172210860833615
+NAM,2022,Mortality,286.23,Africa,Southern Africa,Republic of Namibia,0.6008033073901337
+NCL,2007,Mortality,449.2275,Oceania,Melanesia,New Caledonia,0.36099177566243434
+NCL,2012,Mortality,449.2275,Oceania,Melanesia,New Caledonia,0.36099177566243434
+NCL,2017,Mortality,449.2275,Oceania,Melanesia,New Caledonia,0.36099177566243434
+NCL,2022,Mortality,427.52750000000003,Oceania,Melanesia,New Caledonia,0.39291809501390335
+NER,2007,Mortality,490.51,Africa,Western Africa,Republic of Niger,0.300254527799438
+NER,2012,Mortality,490.51,Africa,Western Africa,Republic of Niger,0.300254527799438
+NER,2017,Mortality,490.51,Africa,Western Africa,Republic of Niger,0.300254527799438
+NER,2022,Mortality,440.03,Africa,Western Africa,Republic of Niger,0.37452367991290153
+NGA,2007,Mortality,419.66,Africa,Western Africa,Federal Republic of Nigeria,0.4044932248525063
+NGA,2012,Mortality,419.66,Africa,Western Africa,Federal Republic of Nigeria,0.4044932248525063
+NGA,2017,Mortality,419.66,Africa,Western Africa,Federal Republic of Nigeria,0.4044932248525063
+NGA,2022,Mortality,350.01,Africa,Western Africa,Federal Republic of Nigeria,0.506966411158028
+NIC,2007,Mortality,203.37,America,Central America,Republic of Nicaragua,0.7227118245082317
+NIC,2012,Mortality,203.37,America,Central America,Republic of Nicaragua,0.7227118245082317
+NIC,2017,Mortality,203.37,America,Central America,Republic of Nicaragua,0.7227118245082317
+NIC,2022,Mortality,170.14,America,Central America,Republic of Nicaragua,0.7716017596257118
+NLD,2007,Mortality,42.58,Europe,Western Europe,Kingdom of the Netherlands,0.9592755520899232
+NLD,2012,Mortality,42.58,Europe,Western Europe,Kingdom of the Netherlands,0.9592755520899232
+NLD,2017,Mortality,42.58,Europe,Western Europe,Kingdom of the Netherlands,0.9592755520899232
+NLD,2022,Mortality,26.3,Europe,Western Europe,Kingdom of the Netherlands,0.9832276478983066
+NOR,2007,Mortality,28.479999999999997,Europe,Northern Europe,Kingdom of Norway,0.9800203033735967
+NOR,2012,Mortality,28.479999999999997,Europe,Northern Europe,Kingdom of Norway,0.9800203033735967
+NOR,2017,Mortality,28.479999999999997,Europe,Northern Europe,Kingdom of Norway,0.9800203033735967
+NOR,2022,Mortality,15.73,Europe,Northern Europe,Kingdom of Norway,0.9987788550662802
+NPL,2007,Mortality,364.21,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.48607453397872563
+NPL,2012,Mortality,364.21,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.48607453397872563
+NPL,2017,Mortality,364.21,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.48607453397872563
+NPL,2022,Mortality,359.0,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.49373979314099076
+NRU,2007,Mortality,237.845,Oceania,Polynesia,Republic of Nauru,0.671990171990172
+NRU,2012,Mortality,237.845,Oceania,Polynesia,Republic of Nauru,0.671990171990172
+NRU,2017,Mortality,237.845,Oceania,Polynesia,Republic of Nauru,0.671990171990172
+NRU,2022,Mortality,197.62,Oceania,Polynesia,Republic of Nauru,0.7311715635068928
+NZL,2007,Mortality,33.23,Oceania,Australia and New Zealand,New Zealand,0.9730318233312245
+NZL,2012,Mortality,33.23,Oceania,Australia and New Zealand,New Zealand,0.9730318233312245
+NZL,2017,Mortality,33.23,Oceania,Australia and New Zealand,New Zealand,0.9730318233312245
+NZL,2022,Mortality,24.46,Oceania,Australia and New Zealand,New Zealand,0.9859347643778781
+OMN,2007,Mortality,251.39,Asia,Western Asia,Sultanate of Oman,0.6520619694272389
+OMN,2012,Mortality,251.39,Asia,Western Asia,Sultanate of Oman,0.6520619694272389
+OMN,2017,Mortality,251.39,Asia,Western Asia,Sultanate of Oman,0.6520619694272389
+OMN,2022,Mortality,208.17,Asia,Western Asia,Sultanate of Oman,0.715649781518045
+PAK,2007,Mortality,479.41999999999996,Asia,Southern Asia,Islamic Republic of Pakistan,0.31657078962468194
+PAK,2012,Mortality,479.41999999999996,Asia,Southern Asia,Islamic Republic of Pakistan,0.31657078962468194
+PAK,2017,Mortality,479.41999999999996,Asia,Southern Asia,Islamic Republic of Pakistan,0.31657078962468194
+PAK,2022,Mortality,389.16999999999996,Asia,Southern Asia,Islamic Republic of Pakistan,0.4493519104297548
+PAN,2007,Mortality,50.510000000000005,America,Central America,Republic of Panama,0.9476084685665523
+PAN,2012,Mortality,50.510000000000005,America,Central America,Republic of Panama,0.9476084685665523
+PAN,2017,Mortality,50.510000000000005,America,Central America,Republic of Panama,0.9476084685665523
+PAN,2022,Mortality,34.66,America,Central America,Republic of Panama,0.9709279230237314
+PER,2007,Mortality,116.9,America,South America,Republic of Peru,0.8499315864585326
+PER,2012,Mortality,116.9,America,South America,Republic of Peru,0.8499315864585326
+PER,2017,Mortality,116.9,America,South America,Republic of Peru,0.8499315864585326
+PER,2022,Mortality,77.38,America,South America,Republic of Peru,0.9080757404110698
+PHL,2007,Mortality,390.36,Asia,South-eastern Asia,Republic of the Philippines,0.44760111227177096
+PHL,2012,Mortality,390.36,Asia,South-eastern Asia,Republic of the Philippines,0.44760111227177096
+PHL,2017,Mortality,390.36,Asia,South-eastern Asia,Republic of the Philippines,0.44760111227177096
+PHL,2022,Mortality,409.24,Asia,South-eastern Asia,Republic of the Philippines,0.4198237431770366
+PLW,2007,Mortality,522.49,Oceania,Micronesia,Republic of Palau,0.25320366637731906
+PLW,2012,Mortality,522.49,Oceania,Micronesia,Republic of Palau,0.25320366637731906
+PLW,2017,Mortality,522.49,Oceania,Micronesia,Republic of Palau,0.25320366637731906
+PLW,2022,Mortality,502.32,Oceania,Micronesia,Republic of Palau,0.28287895952566616
+PNG,2007,Mortality,384.59000000000003,Oceania,Melanesia,Independent State of Papua New Guinea,0.45609027644955785
+PNG,2012,Mortality,384.59000000000003,Oceania,Melanesia,Independent State of Papua New Guinea,0.45609027644955785
+PNG,2017,Mortality,384.59000000000003,Oceania,Melanesia,Independent State of Papua New Guinea,0.45609027644955785
+PNG,2022,Mortality,381.21,Oceania,Melanesia,Independent State of Papua New Guinea,0.4610631317218144
+POL,2007,Mortality,115.84,Europe,Eastern Europe,Republic of Poland,0.8514911209521987
+POL,2012,Mortality,115.84,Europe,Eastern Europe,Republic of Poland,0.8514911209521987
+POL,2017,Mortality,115.84,Europe,Eastern Europe,Republic of Poland,0.8514911209521987
+POL,2022,Mortality,81.86,Europe,Eastern Europe,Republic of Poland,0.9014845002868954
+PRI,2007,Mortality,96.99272727272728,America,Caribbean,Puerto Rico,0.8792203397538182
+PRI,2012,Mortality,96.99272727272728,America,Caribbean,Puerto Rico,0.8792203397538182
+PRI,2017,Mortality,96.99272727272728,America,Caribbean,Puerto Rico,0.8792203397538182
+PRI,2022,Mortality,92.61354545454546,America,Caribbean,Puerto Rico,0.8856632502250357
+PRK,2007,Mortality,508.03000000000003,Asia,Eastern Asia,Democratic People's Republic of Korea,0.2744780708852565
+PRK,2012,Mortality,508.03000000000003,Asia,Eastern Asia,Democratic People's Republic of Korea,0.2744780708852565
+PRK,2017,Mortality,508.03000000000003,Asia,Eastern Asia,Democratic People's Republic of Korea,0.2744780708852565
+PRK,2022,Mortality,426.17999999999995,Asia,Eastern Asia,Democratic People's Republic of Korea,0.3949006164575028
+PRT,2007,Mortality,36.07000000000001,Europe,Southern Europe,Portuguese Republic,0.968853447895364
+PRT,2012,Mortality,36.07000000000001,Europe,Southern Europe,Portuguese Republic,0.968853447895364
+PRT,2017,Mortality,36.07000000000001,Europe,Southern Europe,Portuguese Republic,0.968853447895364
+PRT,2022,Mortality,20.0,Europe,Southern Europe,Portuguese Republic,0.9924965793229266
+PRY,2007,Mortality,150.68,America,South America,Republic of Paraguay,0.8002324589150936
+PRY,2012,Mortality,150.68,America,South America,Republic of Paraguay,0.8002324589150936
+PRY,2017,Mortality,150.68,America,South America,Republic of Paraguay,0.8002324589150936
+PRY,2022,Mortality,111.24,America,South America,Republic of Paraguay,0.8582589121511277
+PSE,2007,Mortality,185.97812499999998,Asia,Western Asia,State of Palestine,0.7482997763686386
+PSE,2012,Mortality,185.97812499999998,Asia,Western Asia,State of Palestine,0.7482997763686386
+PSE,2017,Mortality,185.97812499999998,Asia,Western Asia,State of Palestine,0.7482997763686386
+PSE,2022,Mortality,156.26375000000002,Asia,Western Asia,State of Palestine,0.7920173167179155
+PYF,2007,Mortality,237.845,Oceania,Polynesia,French Polynesia,0.671990171990172
+PYF,2012,Mortality,237.845,Oceania,Polynesia,French Polynesia,0.671990171990172
+PYF,2017,Mortality,237.845,Oceania,Polynesia,French Polynesia,0.671990171990172
+PYF,2022,Mortality,197.62,Oceania,Polynesia,French Polynesia,0.7311715635068928
+QAT,2007,Mortality,225.95999999999998,Asia,Western Asia,State of Qatar,0.6894760846856656
+QAT,2012,Mortality,225.95999999999998,Asia,Western Asia,State of Qatar,0.6894760846856656
+QAT,2017,Mortality,225.95999999999998,Asia,Western Asia,State of Qatar,0.6894760846856656
+QAT,2022,Mortality,181.63,Asia,Western Asia,State of Qatar,0.7546969942179523
+ROU,2007,Mortality,128.2,Europe,Eastern Europe,Romania,0.8333063602524681
+ROU,2012,Mortality,128.2,Europe,Eastern Europe,Romania,0.8333063602524681
+ROU,2017,Mortality,128.2,Europe,Eastern Europe,Romania,0.8333063602524681
+ROU,2022,Mortality,91.94999999999999,Europe,Eastern Europe,Romania,0.8866394974179406
+RUS,2007,Mortality,161.66,Europe,Eastern Europe,Russian Federation,0.7840780355750416
+RUS,2012,Mortality,161.66,Europe,Eastern Europe,Russian Federation,0.7840780355750416
+RUS,2017,Mortality,161.66,Europe,Eastern Europe,Russian Federation,0.7840780355750416
+RUS,2022,Mortality,160.72,Europe,Eastern Europe,Russian Federation,0.785461018993953
+RWA,2007,Mortality,390.02,Africa,Eastern Africa,Republic of Rwanda,0.44810134031690924
+RWA,2012,Mortality,390.02,Africa,Eastern Africa,Republic of Rwanda,0.44810134031690924
+RWA,2017,Mortality,390.02,Africa,Eastern Africa,Republic of Rwanda,0.44810134031690924
+RWA,2022,Mortality,333.81,Africa,Eastern Africa,Republic of Rwanda,0.530800806249908
+SAU,2007,Mortality,226.57,Asia,Western Asia,Kingdom of Saudi Arabia,0.6885786167223293
+SAU,2012,Mortality,226.57,Asia,Western Asia,Kingdom of Saudi Arabia,0.6885786167223293
+SAU,2017,Mortality,226.57,Asia,Western Asia,Kingdom of Saudi Arabia,0.6885786167223293
+SAU,2022,Mortality,182.34,Asia,Western Asia,Kingdom of Saudi Arabia,0.7536524003589872
+SDN,2007,Mortality,369.92,Africa,Northern Africa,Republic of the Sudan,0.47767364533831597
+SDN,2012,Mortality,369.92,Africa,Northern Africa,Republic of the Sudan,0.47767364533831597
+SDN,2017,Mortality,369.92,Africa,Northern Africa,Republic of the Sudan,0.47767364533831597
+SDN,2022,Mortality,286.03999999999996,Africa,Northern Africa,Republic of the Sudan,0.6010828465918286
+SEN,2007,Mortality,324.65000000000003,Africa,Western Africa,Republic of Senegal,0.5442775382895143
+SEN,2012,Mortality,324.65000000000003,Africa,Western Africa,Republic of Senegal,0.5442775382895143
+SEN,2017,Mortality,324.65000000000003,Africa,Western Africa,Republic of Senegal,0.5442775382895143
+SEN,2022,Mortality,292.0,Africa,Western Africa,Republic of Senegal,0.5923141432123468
+SGP,2007,Mortality,62.84,Asia,South-eastern Asia,Republic of Singapore,0.9294678456355102
+SGP,2012,Mortality,62.84,Asia,South-eastern Asia,Republic of Singapore,0.9294678456355102
+SGP,2017,Mortality,62.84,Asia,South-eastern Asia,Republic of Singapore,0.9294678456355102
+SGP,2022,Mortality,46.83,Asia,South-eastern Asia,Republic of Singapore,0.9530227015256955
+SLB,2007,Mortality,595.38,Oceania,Melanesia,Solomon Islands,0.14596360105342146
+SLB,2012,Mortality,595.38,Oceania,Melanesia,Solomon Islands,0.14596360105342146
+SLB,2017,Mortality,595.38,Oceania,Melanesia,Solomon Islands,0.14596360105342146
+SLB,2022,Mortality,563.99,Oceania,Melanesia,Solomon Islands,0.1921464196913299
+SLE,2007,Mortality,562.59,Africa,Western Africa,Republic of Sierra Leone,0.1942061822301343
+SLE,2012,Mortality,562.59,Africa,Western Africa,Republic of Sierra Leone,0.1942061822301343
+SLE,2017,Mortality,562.59,Africa,Western Africa,Republic of Sierra Leone,0.1942061822301343
+SLE,2022,Mortality,484.21999999999997,Africa,Western Africa,Republic of Sierra Leone,0.3095087466344952
+SLV,2007,Mortality,117.43,America,Central America,Republic of El Salvador,0.8491518192116995
+SLV,2012,Mortality,117.43,America,Central America,Republic of El Salvador,0.8491518192116995
+SLV,2017,Mortality,117.43,America,Central America,Republic of El Salvador,0.8491518192116995
+SLV,2022,Mortality,80.78,America,Central America,Republic of El Salvador,0.9030734599596876
+SMR,2007,Mortality,127.645,Europe,Southern Europe,Republic of San Marino,0.8341229089732084
+SMR,2012,Mortality,127.645,Europe,Southern Europe,Republic of San Marino,0.8341229089732084
+SMR,2017,Mortality,127.645,Europe,Southern Europe,Republic of San Marino,0.8341229089732084
+SMR,2022,Mortality,103.1675,Europe,Southern Europe,Republic of San Marino,0.8701356500757698
+SOM,2007,Mortality,559.79,Africa,Eastern Africa,Federal Republic of Somalia,0.19832570730774332
+SOM,2012,Mortality,559.79,Africa,Eastern Africa,Federal Republic of Somalia,0.19832570730774332
+SOM,2017,Mortality,559.79,Africa,Eastern Africa,Federal Republic of Somalia,0.19832570730774332
+SOM,2022,Mortality,495.85,Africa,Eastern Africa,Federal Republic of Somalia,0.2923980049728553
+SRB,2007,Mortality,201.22,Europe,Southern Europe,Republic of Serbia,0.7258750312642528
+SRB,2012,Mortality,201.22,Europe,Southern Europe,Republic of Serbia,0.7258750312642528
+SRB,2017,Mortality,201.22,Europe,Southern Europe,Republic of Serbia,0.7258750312642528
+SRB,2022,Mortality,143.76,Europe,Southern Europe,Republic of Serbia,0.8104135708926128
+SSD,2007,Mortality,289.25,Africa,Eastern Africa,Republic of South Sudan,0.5963601053421412
+SSD,2012,Mortality,289.25,Africa,Eastern Africa,Republic of South Sudan,0.5963601053421412
+SSD,2017,Mortality,289.25,Africa,Eastern Africa,Republic of South Sudan,0.5963601053421412
+SSD,2022,Mortality,288.79,Africa,Eastern Africa,Republic of South Sudan,0.5970368844620342
+STP,2007,Mortality,467.02,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.3348144006826642
+STP,2012,Mortality,467.02,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.3348144006826642
+STP,2017,Mortality,467.02,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.3348144006826642
+STP,2022,Mortality,452.8,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.35573570304109225
+SUR,2007,Mortality,101.55,America,South America,Republic of Suriname,0.8725154114375672
+SUR,2012,Mortality,101.55,America,South America,Republic of Suriname,0.8725154114375672
+SUR,2017,Mortality,101.55,America,South America,Republic of Suriname,0.8725154114375672
+SUR,2022,Mortality,100.97,America,South America,Republic of Suriname,0.8733687416322147
+SVK,2007,Mortality,133.67,Europe,Eastern Europe,Slovak Republic,0.8252585737615679
+SVK,2012,Mortality,133.67,Europe,Eastern Europe,Slovak Republic,0.8252585737615679
+SVK,2017,Mortality,133.67,Europe,Eastern Europe,Slovak Republic,0.8252585737615679
+SVK,2022,Mortality,60.75,Europe,Eastern Europe,Slovak Republic,0.9325427768541541
+SVN,2007,Mortality,54.76,Europe,Southern Europe,Republic of Slovenia,0.9413556180023246
+SVN,2012,Mortality,54.76,Europe,Southern Europe,Republic of Slovenia,0.9413556180023246
+SVN,2017,Mortality,54.76,Europe,Southern Europe,Republic of Slovenia,0.9413556180023246
+SVN,2022,Mortality,37.519999999999996,Europe,Southern Europe,Republic of Slovenia,0.9667201224087452
+SWE,2007,Mortality,29.67,Europe,Northern Europe,Kingdom of Sweden,0.9782695052156131
+SWE,2012,Mortality,29.67,Europe,Northern Europe,Kingdom of Sweden,0.9782695052156131
+SWE,2017,Mortality,29.67,Europe,Northern Europe,Kingdom of Sweden,0.9782695052156131
+SWE,2022,Mortality,16.16,Europe,Northern Europe,Kingdom of Sweden,0.9981462137150761
+SWZ,2007,Mortality,553.79,Africa,Southern Africa,Kingdom of Eswatini,0.2071532610454767
+SWZ,2012,Mortality,553.79,Africa,Southern Africa,Kingdom of Eswatini,0.2071532610454767
+SWZ,2017,Mortality,553.79,Africa,Southern Africa,Kingdom of Eswatini,0.2071532610454767
+SWZ,2022,Mortality,345.78000000000003,Africa,Southern Africa,Kingdom of Eswatini,0.5131898365431299
+SXM,2007,Mortality,96.99272727272728,America,Caribbean,Sint Maarten (Dutch part),0.8792203397538182
+SXM,2012,Mortality,96.99272727272728,America,Caribbean,Sint Maarten (Dutch part),0.8792203397538182
+SXM,2017,Mortality,96.99272727272728,America,Caribbean,Sint Maarten (Dutch part),0.8792203397538182
+SXM,2022,Mortality,92.61354545454546,America,Caribbean,Sint Maarten (Dutch part),0.8856632502250357
+SYC,2007,Mortality,91.8,Africa,Eastern Africa,Republic of Seychelles,0.8868601862613839
+SYC,2012,Mortality,91.8,Africa,Eastern Africa,Republic of Seychelles,0.8868601862613839
+SYC,2017,Mortality,91.8,Africa,Eastern Africa,Republic of Seychelles,0.8868601862613839
+SYC,2022,Mortality,86.28999999999999,Africa,Eastern Africa,Republic of Seychelles,0.8949668231105357
+SYR,2007,Mortality,173.81,Asia,Western Asia,Syrian Arab Republic,0.7662022392561314
+SYR,2012,Mortality,173.81,Asia,Western Asia,Syrian Arab Republic,0.7662022392561314
+SYR,2017,Mortality,173.81,Asia,Western Asia,Syrian Arab Republic,0.7662022392561314
+SYR,2022,Mortality,192.14,Asia,Western Asia,Syrian Arab Republic,0.739234062587356
+TCA,2007,Mortality,96.99272727272728,America,Caribbean,Turks and Caicos Islands,0.8792203397538182
+TCA,2012,Mortality,96.99272727272728,America,Caribbean,Turks and Caicos Islands,0.8792203397538182
+TCA,2017,Mortality,96.99272727272728,America,Caribbean,Turks and Caicos Islands,0.8792203397538182
+TCA,2022,Mortality,92.61354545454546,America,Caribbean,Turks and Caicos Islands,0.8856632502250357
+TCD,2007,Mortality,548.8199999999999,Africa,Middle Africa,Republic of Chad,0.21446541805823255
+TCD,2012,Mortality,548.8199999999999,Africa,Middle Africa,Republic of Chad,0.21446541805823255
+TCD,2017,Mortality,548.8199999999999,Africa,Middle Africa,Republic of Chad,0.21446541805823255
+TCD,2022,Mortality,483.6,Africa,Middle Africa,Republic of Chad,0.3104209271873942
+TGO,2007,Mortality,538.8299999999999,Africa,Western Africa,Togolese Republic,0.22916329503155863
+TGO,2012,Mortality,538.8299999999999,Africa,Western Africa,Togolese Republic,0.22916329503155863
+TGO,2017,Mortality,538.8299999999999,Africa,Western Africa,Togolese Republic,0.22916329503155863
+TGO,2022,Mortality,451.24,Africa,Western Africa,Togolese Republic,0.35803086701290293
+THA,2007,Mortality,117.8,Asia,South-eastern Asia,Kingdom of Thailand,0.8486074533978726
+THA,2012,Mortality,117.8,Asia,South-eastern Asia,Kingdom of Thailand,0.8486074533978726
+THA,2017,Mortality,117.8,Asia,South-eastern Asia,Kingdom of Thailand,0.8486074533978726
+THA,2022,Mortality,92.29,Asia,South-eastern Asia,Kingdom of Thailand,0.8861392693728023
+TJK,2007,Mortality,500.33,Asia,Central Asia,Republic of Tajikistan,0.28580676484868106
+TJK,2012,Mortality,500.33,Asia,Central Asia,Republic of Tajikistan,0.28580676484868106
+TJK,2017,Mortality,500.33,Asia,Central Asia,Republic of Tajikistan,0.28580676484868106
+TJK,2022,Mortality,402.83000000000004,Asia,Central Asia,Republic of Tajikistan,0.42925451308684837
+TKM,2007,Mortality,234.45,Asia,Central Asia,Turkmenistan,0.6769850961467728
+TKM,2012,Mortality,234.45,Asia,Central Asia,Turkmenistan,0.6769850961467728
+TKM,2017,Mortality,234.45,Asia,Central Asia,Turkmenistan,0.6769850961467728
+TKM,2022,Mortality,177.07,Asia,Central Asia,Turkmenistan,0.7614059350586296
+TLS,2007,Mortality,398.40999999999997,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.4357574776736454
+TLS,2012,Mortality,398.40999999999997,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.4357574776736454
+TLS,2017,Mortality,398.40999999999997,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.4357574776736454
+TLS,2022,Mortality,373.37,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.4725978019391193
+TON,2007,Mortality,161.12,Oceania,Polynesia,Kingdom of Tonga,0.7848725154114375
+TON,2012,Mortality,161.12,Oceania,Polynesia,Kingdom of Tonga,0.7848725154114375
+TON,2017,Mortality,161.12,Oceania,Polynesia,Kingdom of Tonga,0.7848725154114375
+TON,2022,Mortality,103.68,Oceania,Polynesia,Kingdom of Tonga,0.8693816298606718
+TTO,2007,Mortality,56.44,America,Caribbean,Republic of Trinidad and Tobago,0.9388839029557593
+TTO,2012,Mortality,56.44,America,Caribbean,Republic of Trinidad and Tobago,0.9388839029557593
+TTO,2017,Mortality,56.44,America,Caribbean,Republic of Trinidad and Tobago,0.9388839029557593
+TTO,2022,Mortality,39.56,America,Caribbean,Republic of Trinidad and Tobago,0.9637187541379157
+TUN,2007,Mortality,124.49000000000001,Africa,Northern Africa,Republic of Tunisia,0.8387647309802998
+TUN,2012,Mortality,124.49000000000001,Africa,Northern Africa,Republic of Tunisia,0.8387647309802998
+TUN,2017,Mortality,124.49000000000001,Africa,Northern Africa,Republic of Tunisia,0.8387647309802998
+TUN,2022,Mortality,112.02,Africa,Northern Africa,Republic of Tunisia,0.8571113301652223
+TUR,2007,Mortality,101.2,Asia,Western Asia,Republic of Türkiye,0.8730303520722682
+TUR,2012,Mortality,101.2,Asia,Western Asia,Republic of Türkiye,0.8730303520722682
+TUR,2017,Mortality,101.2,Asia,Western Asia,Republic of Türkiye,0.8730303520722682
+TUR,2022,Mortality,90.62,Asia,Western Asia,Republic of Türkiye,0.8885962718298047
+TUV,2007,Mortality,237.845,Oceania,Polynesia,Tuvalu,0.671990171990172
+TUV,2012,Mortality,237.845,Oceania,Polynesia,Tuvalu,0.671990171990172
+TUV,2017,Mortality,237.845,Oceania,Polynesia,Tuvalu,0.671990171990172
+TUV,2022,Mortality,197.62,Oceania,Polynesia,Tuvalu,0.7311715635068928
+TZA,2007,Mortality,305.75,Africa,Eastern Africa,United Republic of Tanzania,0.5720843325633744
+TZA,2012,Mortality,305.75,Africa,Eastern Africa,United Republic of Tanzania,0.5720843325633744
+TZA,2017,Mortality,305.75,Africa,Eastern Africa,United Republic of Tanzania,0.5720843325633744
+TZA,2022,Mortality,259.81,Africa,Eastern Africa,United Republic of Tanzania,0.6396739690152864
+UGA,2007,Mortality,396.23,Africa,Eastern Africa,Republic of Uganda,0.43896482219835514
+UGA,2012,Mortality,396.23,Africa,Eastern Africa,Republic of Uganda,0.43896482219835514
+UGA,2017,Mortality,396.23,Africa,Eastern Africa,Republic of Uganda,0.43896482219835514
+UGA,2022,Mortality,329.84000000000003,Africa,Eastern Africa,Republic of Uganda,0.5366417043063749
+UKR,2007,Mortality,214.35000000000002,Europe,Eastern Europe,Ukraine,0.7065574011681796
+UKR,2012,Mortality,214.35000000000002,Europe,Eastern Europe,Ukraine,0.7065574011681796
+UKR,2017,Mortality,214.35000000000002,Europe,Eastern Europe,Ukraine,0.7065574011681796
+UKR,2022,Mortality,155.64,Europe,Eastern Europe,Ukraine,0.7929350144919007
+URY,2007,Mortality,41.489999999999995,America,South America,Oriental Republic of Uruguay,0.9608792243522782
+URY,2012,Mortality,41.489999999999995,America,South America,Oriental Republic of Uruguay,0.9608792243522782
+URY,2017,Mortality,41.489999999999995,America,South America,Oriental Republic of Uruguay,0.9608792243522782
+URY,2022,Mortality,32.36,America,South America,Oriental Republic of Uruguay,0.9743118186231958
+USA,2007,Mortality,38.45,America,Northern America,United States of America,0.9653518515793964
+USA,2012,Mortality,38.45,America,Northern America,United States of America,0.9653518515793964
+USA,2017,Mortality,38.45,America,Northern America,United States of America,0.9653518515793964
+USA,2022,Mortality,28.44,America,Northern America,United States of America,0.9800791537318483
+UZB,2007,Mortality,355.75,Asia,Central Asia,Republic of Uzbekistan,0.49852138474892965
+UZB,2012,Mortality,355.75,Asia,Central Asia,Republic of Uzbekistan,0.49852138474892965
+UZB,2017,Mortality,355.75,Asia,Central Asia,Republic of Uzbekistan,0.49852138474892965
+UZB,2022,Mortality,307.98,Asia,Central Asia,Republic of Uzbekistan,0.5688034250908502
+VCT,2007,Mortality,81.50999999999999,America,Caribbean,Saint Vincent and the Grenadines,0.9019994409215966
+VCT,2012,Mortality,81.50999999999999,America,Caribbean,Saint Vincent and the Grenadines,0.9019994409215966
+VCT,2017,Mortality,81.50999999999999,America,Caribbean,Saint Vincent and the Grenadines,0.9019994409215966
+VCT,2022,Mortality,71.0,America,Caribbean,Saint Vincent and the Grenadines,0.9174623725521929
+VEN,2007,Mortality,91.82,America,South America,Bolivarian Republic of Venezuela,0.886830761082258
+VEN,2012,Mortality,91.82,America,South America,Bolivarian Republic of Venezuela,0.886830761082258
+VEN,2017,Mortality,91.82,America,South America,Bolivarian Republic of Venezuela,0.886830761082258
+VEN,2022,Mortality,79.27,America,South America,Bolivarian Republic of Venezuela,0.9052950609836837
+VGB,2007,Mortality,96.99272727272728,America,Caribbean,British Virgin Islands,0.8792203397538182
+VGB,2012,Mortality,96.99272727272728,America,Caribbean,British Virgin Islands,0.8792203397538182
+VGB,2017,Mortality,96.99272727272728,America,Caribbean,British Virgin Islands,0.8792203397538182
+VGB,2022,Mortality,92.61354545454546,America,Caribbean,British Virgin Islands,0.8856632502250357
+VIR,2007,Mortality,96.99272727272728,America,Caribbean,Virgin Islands of the United States,0.8792203397538182
+VIR,2012,Mortality,96.99272727272728,America,Caribbean,Virgin Islands of the United States,0.8792203397538182
+VIR,2017,Mortality,96.99272727272728,America,Caribbean,Virgin Islands of the United States,0.8792203397538182
+VIR,2022,Mortality,92.61354545454546,America,Caribbean,Virgin Islands of the United States,0.8856632502250357
+VNM,2007,Mortality,250.17,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.6538569053539114
+VNM,2012,Mortality,250.17,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.6538569053539114
+VNM,2017,Mortality,250.17,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.6538569053539114
+VNM,2022,Mortality,132.37,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.8271712104047433
+VUT,2007,Mortality,528.76,Oceania,Melanesia,Republic of Vanuatu,0.24397887272138774
+VUT,2012,Mortality,528.76,Oceania,Melanesia,Republic of Vanuatu,0.24397887272138774
+VUT,2017,Mortality,528.76,Oceania,Melanesia,Republic of Vanuatu,0.24397887272138774
+VUT,2022,Mortality,521.9300000000001,Oceania,Melanesia,Republic of Vanuatu,0.25402757139284077
+WSM,2007,Mortality,314.57,Oceania,Polynesia,Independent State of Samoa,0.5591078285689064
+WSM,2012,Mortality,314.57,Oceania,Polynesia,Independent State of Samoa,0.5591078285689064
+WSM,2017,Mortality,314.57,Oceania,Polynesia,Independent State of Samoa,0.5591078285689064
+WSM,2022,Mortality,291.56,Oceania,Polynesia,Independent State of Samoa,0.592961497153114
+XKX,2007,Mortality,127.645,Europe,Southern Europe,Republic of Kosovo,0.8341229089732084
+XKX,2012,Mortality,127.645,Europe,Southern Europe,Republic of Kosovo,0.8341229089732084
+XKX,2017,Mortality,127.645,Europe,Southern Europe,Republic of Kosovo,0.8341229089732084
+XKX,2022,Mortality,103.1675,Europe,Southern Europe,Republic of Kosovo,0.8701356500757698
+YEM,2007,Mortality,382.39,Asia,Western Asia,Republic of Yemen,0.4593270461533935
+YEM,2012,Mortality,382.39,Asia,Western Asia,Republic of Yemen,0.4593270461533935
+YEM,2017,Mortality,382.39,Asia,Western Asia,Republic of Yemen,0.4593270461533935
+YEM,2022,Mortality,380.99,Asia,Western Asia,Republic of Yemen,0.4613868086921979
+ZAF,2007,Mortality,244.16,Africa,Southern Africa,Republic of South Africa,0.6626991716812076
+ZAF,2012,Mortality,244.16,Africa,Southern Africa,Republic of South Africa,0.6626991716812076
+ZAF,2017,Mortality,244.16,Africa,Southern Africa,Republic of South Africa,0.6626991716812076
+ZAF,2022,Mortality,147.93,Africa,Southern Africa,Republic of South Africa,0.8042784210448881
+ZMB,2007,Mortality,418.02,Africa,Eastern Africa,Republic of Zambia,0.40690608954082014
+ZMB,2012,Mortality,418.02,Africa,Eastern Africa,Republic of Zambia,0.40690608954082014
+ZMB,2017,Mortality,418.02,Africa,Eastern Africa,Republic of Zambia,0.40690608954082014
+ZMB,2022,Mortality,353.0,Africa,Eastern Africa,Republic of Zambia,0.5025673468787242
+ZWE,2007,Mortality,477.53,Africa,Eastern Africa,Republic of Zimbabwe,0.3193514690520679
+ZWE,2012,Mortality,477.53,Africa,Eastern Africa,Republic of Zimbabwe,0.3193514690520679
+ZWE,2017,Mortality,477.53,Africa,Eastern Africa,Republic of Zimbabwe,0.3193514690520679
+ZWE,2022,Mortality,383.75,Africa,Eastern Africa,Republic of Zimbabwe,0.45732613397284055

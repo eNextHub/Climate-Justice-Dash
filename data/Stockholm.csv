@@ -1,0 +1,861 @@
+Region,Year,Indicator,Value,continent,UNregion,name_official,Normalized
+AFG,2007,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Afghanistan,0.0
+AFG,2012,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Afghanistan,0.0
+AFG,2017,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Afghanistan,0.0
+AFG,2022,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Afghanistan,0.0
+AGO,2007,Stockholm,0.0,Africa,Middle Africa,Republic of Angola,0.0
+AGO,2012,Stockholm,0.0,Africa,Middle Africa,Republic of Angola,0.0
+AGO,2017,Stockholm,0.0,Africa,Middle Africa,Republic of Angola,0.0
+AGO,2022,Stockholm,0.0,Africa,Middle Africa,Republic of Angola,0.0
+ALB,2007,Stockholm,60.0,Europe,Southern Europe,Republic of Albania,0.6
+ALB,2012,Stockholm,60.0,Europe,Southern Europe,Republic of Albania,0.6
+ALB,2017,Stockholm,60.0,Europe,Southern Europe,Republic of Albania,0.6
+ALB,2022,Stockholm,75.0,Europe,Southern Europe,Republic of Albania,0.75
+AND,2007,Stockholm,0.0,Europe,Southern Europe,Principality of Andorra,0.0
+AND,2012,Stockholm,0.0,Europe,Southern Europe,Principality of Andorra,0.0
+AND,2017,Stockholm,0.0,Europe,Southern Europe,Principality of Andorra,0.0
+AND,2022,Stockholm,0.0,Europe,Southern Europe,Principality of Andorra,0.0
+ARE,2007,Stockholm,0.0,Asia,Western Asia,United Arab Emirates,0.0
+ARE,2012,Stockholm,0.0,Asia,Western Asia,United Arab Emirates,0.0
+ARE,2017,Stockholm,0.0,Asia,Western Asia,United Arab Emirates,0.0
+ARE,2022,Stockholm,0.0,Asia,Western Asia,United Arab Emirates,0.0
+ARG,2007,Stockholm,0.0,America,South America,Argentine Republic,0.0
+ARG,2012,Stockholm,0.0,America,South America,Argentine Republic,0.0
+ARG,2017,Stockholm,0.0,America,South America,Argentine Republic,0.0
+ARG,2022,Stockholm,0.0,America,South America,Argentine Republic,0.0
+ARM,2007,Stockholm,65.002,Asia,Western Asia,Republic of Armenia,0.6500199999999999
+ARM,2012,Stockholm,65.002,Asia,Western Asia,Republic of Armenia,0.6500199999999999
+ARM,2017,Stockholm,65.002,Asia,Western Asia,Republic of Armenia,0.6500199999999999
+ARM,2022,Stockholm,62.5,Asia,Western Asia,Republic of Armenia,0.625
+ASM,2007,Stockholm,0.0,Oceania,Polynesia,American Samoa,0.0
+ASM,2012,Stockholm,0.0,Oceania,Polynesia,American Samoa,0.0
+ASM,2017,Stockholm,0.0,Oceania,Polynesia,American Samoa,0.0
+ASM,2022,Stockholm,0.0,Oceania,Polynesia,American Samoa,0.0
+ATG,2007,Stockholm,0.0,America,Caribbean,Antigua and Barbuda,0.0
+ATG,2012,Stockholm,0.0,America,Caribbean,Antigua and Barbuda,0.0
+ATG,2017,Stockholm,0.0,America,Caribbean,Antigua and Barbuda,0.0
+ATG,2022,Stockholm,0.0,America,Caribbean,Antigua and Barbuda,0.0
+AUS,2007,Stockholm,0.0,Oceania,Australia and New Zealand,Commonwealth of Australia,0.0
+AUS,2012,Stockholm,0.0,Oceania,Australia and New Zealand,Commonwealth of Australia,0.0
+AUS,2017,Stockholm,0.0,Oceania,Australia and New Zealand,Commonwealth of Australia,0.0
+AUS,2022,Stockholm,0.0,Oceania,Australia and New Zealand,Commonwealth of Australia,0.0
+AUT,2007,Stockholm,80.0,Europe,Western Europe,Republic of Austria,0.8
+AUT,2012,Stockholm,80.0,Europe,Western Europe,Republic of Austria,0.8
+AUT,2017,Stockholm,80.0,Europe,Western Europe,Republic of Austria,0.8
+AUT,2022,Stockholm,50.0,Europe,Western Europe,Republic of Austria,0.5
+AZE,2007,Stockholm,45.0,Asia,Western Asia,Republic of Azerbaijan,0.45
+AZE,2012,Stockholm,45.0,Asia,Western Asia,Republic of Azerbaijan,0.45
+AZE,2017,Stockholm,45.0,Asia,Western Asia,Republic of Azerbaijan,0.45
+AZE,2022,Stockholm,37.5,Asia,Western Asia,Republic of Azerbaijan,0.375
+BDI,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Burundi,0.0
+BDI,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Burundi,0.0
+BDI,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Burundi,0.0
+BDI,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Burundi,0.0
+BEL,2007,Stockholm,95.0,Europe,Western Europe,Kingdom of Belgium,0.95
+BEL,2012,Stockholm,95.0,Europe,Western Europe,Kingdom of Belgium,0.95
+BEL,2017,Stockholm,95.0,Europe,Western Europe,Kingdom of Belgium,0.95
+BEL,2022,Stockholm,87.5,Europe,Western Europe,Kingdom of Belgium,0.875
+BEN,2007,Stockholm,0.0,Africa,Western Africa,Republic of Benin,0.0
+BEN,2012,Stockholm,0.0,Africa,Western Africa,Republic of Benin,0.0
+BEN,2017,Stockholm,0.0,Africa,Western Africa,Republic of Benin,0.0
+BEN,2022,Stockholm,0.0,Africa,Western Africa,Republic of Benin,0.0
+BFA,2007,Stockholm,0.0,Africa,Western Africa,Burkina Faso,0.0
+BFA,2012,Stockholm,0.0,Africa,Western Africa,Burkina Faso,0.0
+BFA,2017,Stockholm,0.0,Africa,Western Africa,Burkina Faso,0.0
+BFA,2022,Stockholm,0.0,Africa,Western Africa,Burkina Faso,0.0
+BGD,2007,Stockholm,0.0,Asia,Southern Asia,People's Republic of Bangladesh,0.0
+BGD,2012,Stockholm,0.0,Asia,Southern Asia,People's Republic of Bangladesh,0.0
+BGD,2017,Stockholm,0.0,Asia,Southern Asia,People's Republic of Bangladesh,0.0
+BGD,2022,Stockholm,0.0,Asia,Southern Asia,People's Republic of Bangladesh,0.0
+BGR,2007,Stockholm,85.0,Europe,Eastern Europe,Republic of Bulgaria,0.85
+BGR,2012,Stockholm,85.0,Europe,Eastern Europe,Republic of Bulgaria,0.85
+BGR,2017,Stockholm,85.0,Europe,Eastern Europe,Republic of Bulgaria,0.85
+BGR,2022,Stockholm,62.5,Europe,Eastern Europe,Republic of Bulgaria,0.625
+BHR,2007,Stockholm,0.0,Asia,Western Asia,Kingdom of Bahrain,0.0
+BHR,2012,Stockholm,0.0,Asia,Western Asia,Kingdom of Bahrain,0.0
+BHR,2017,Stockholm,0.0,Asia,Western Asia,Kingdom of Bahrain,0.0
+BHR,2022,Stockholm,0.0,Asia,Western Asia,Kingdom of Bahrain,0.0
+BHS,2007,Stockholm,0.0,America,Caribbean,Commonwealth of the Bahamas,0.0
+BHS,2012,Stockholm,0.0,America,Caribbean,Commonwealth of the Bahamas,0.0
+BHS,2017,Stockholm,0.0,America,Caribbean,Commonwealth of the Bahamas,0.0
+BHS,2022,Stockholm,0.0,America,Caribbean,Commonwealth of the Bahamas,0.0
+BIH,2007,Stockholm,44.998,Europe,Southern Europe,Bosnia and Herzegovina,0.44998
+BIH,2012,Stockholm,44.998,Europe,Southern Europe,Bosnia and Herzegovina,0.44998
+BIH,2017,Stockholm,44.998,Europe,Southern Europe,Bosnia and Herzegovina,0.44998
+BIH,2022,Stockholm,62.5,Europe,Southern Europe,Bosnia and Herzegovina,0.625
+BLR,2007,Stockholm,50.002,Europe,Eastern Europe,Republic of Belarus,0.50002
+BLR,2012,Stockholm,50.002,Europe,Eastern Europe,Republic of Belarus,0.50002
+BLR,2017,Stockholm,50.002,Europe,Eastern Europe,Republic of Belarus,0.50002
+BLR,2022,Stockholm,25.0,Europe,Eastern Europe,Republic of Belarus,0.25
+BLZ,2007,Stockholm,0.0,America,Central America,Belize,0.0
+BLZ,2012,Stockholm,0.0,America,Central America,Belize,0.0
+BLZ,2017,Stockholm,0.0,America,Central America,Belize,0.0
+BLZ,2022,Stockholm,0.0,America,Central America,Belize,0.0
+BMU,2007,Stockholm,0.0,America,Northern America,Bermuda,0.0
+BMU,2012,Stockholm,0.0,America,Northern America,Bermuda,0.0
+BMU,2017,Stockholm,0.0,America,Northern America,Bermuda,0.0
+BMU,2022,Stockholm,0.0,America,Northern America,Bermuda,0.0
+BOL,2007,Stockholm,0.0,America,South America,Plurinational State of Bolivia,0.0
+BOL,2012,Stockholm,0.0,America,South America,Plurinational State of Bolivia,0.0
+BOL,2017,Stockholm,0.0,America,South America,Plurinational State of Bolivia,0.0
+BOL,2022,Stockholm,0.0,America,South America,Plurinational State of Bolivia,0.0
+BRA,2007,Stockholm,0.0,America,South America,Federative Republic of Brazil,0.0
+BRA,2012,Stockholm,0.0,America,South America,Federative Republic of Brazil,0.0
+BRA,2017,Stockholm,0.0,America,South America,Federative Republic of Brazil,0.0
+BRA,2022,Stockholm,0.0,America,South America,Federative Republic of Brazil,0.0
+BRB,2007,Stockholm,0.0,America,Caribbean,Barbados,0.0
+BRB,2012,Stockholm,0.0,America,Caribbean,Barbados,0.0
+BRB,2017,Stockholm,0.0,America,Caribbean,Barbados,0.0
+BRB,2022,Stockholm,0.0,America,Caribbean,Barbados,0.0
+BRN,2007,Stockholm,0.0,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.0
+BRN,2012,Stockholm,0.0,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.0
+BRN,2017,Stockholm,0.0,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.0
+BRN,2022,Stockholm,0.0,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.0
+BTN,2007,Stockholm,0.0,Asia,Southern Asia,Kingdom of Bhutan,0.0
+BTN,2012,Stockholm,0.0,Asia,Southern Asia,Kingdom of Bhutan,0.0
+BTN,2017,Stockholm,0.0,Asia,Southern Asia,Kingdom of Bhutan,0.0
+BTN,2022,Stockholm,0.0,Asia,Southern Asia,Kingdom of Bhutan,0.0
+BWA,2007,Stockholm,0.0,Africa,Southern Africa,Republic of Botswana,0.0
+BWA,2012,Stockholm,0.0,Africa,Southern Africa,Republic of Botswana,0.0
+BWA,2017,Stockholm,0.0,Africa,Southern Africa,Republic of Botswana,0.0
+BWA,2022,Stockholm,0.0,Africa,Southern Africa,Republic of Botswana,0.0
+CAF,2007,Stockholm,0.0,Africa,Middle Africa,Central African Republic,0.0
+CAF,2012,Stockholm,0.0,Africa,Middle Africa,Central African Republic,0.0
+CAF,2017,Stockholm,0.0,Africa,Middle Africa,Central African Republic,0.0
+CAF,2022,Stockholm,0.0,Africa,Middle Africa,Central African Republic,0.0
+CAN,2007,Stockholm,89.998,America,Northern America,Canada,0.89998
+CAN,2012,Stockholm,89.998,America,Northern America,Canada,0.89998
+CAN,2017,Stockholm,89.998,America,Northern America,Canada,0.89998
+CAN,2022,Stockholm,100.0,America,Northern America,Canada,1.0
+CHE,2007,Stockholm,80.0,Europe,Western Europe,Swiss Confederation,0.8
+CHE,2012,Stockholm,80.0,Europe,Western Europe,Swiss Confederation,0.8
+CHE,2017,Stockholm,80.0,Europe,Western Europe,Swiss Confederation,0.8
+CHE,2022,Stockholm,50.0,Europe,Western Europe,Swiss Confederation,0.5
+CHL,2007,Stockholm,0.0,America,South America,Republic of Chile,0.0
+CHL,2012,Stockholm,0.0,America,South America,Republic of Chile,0.0
+CHL,2017,Stockholm,0.0,America,South America,Republic of Chile,0.0
+CHL,2022,Stockholm,0.0,America,South America,Republic of Chile,0.0
+CHN,2007,Stockholm,0.0,Asia,Eastern Asia,People's Republic of China,0.0
+CHN,2012,Stockholm,0.0,Asia,Eastern Asia,People's Republic of China,0.0
+CHN,2017,Stockholm,0.0,Asia,Eastern Asia,People's Republic of China,0.0
+CHN,2022,Stockholm,0.0,Asia,Eastern Asia,People's Republic of China,0.0
+CIV,2007,Stockholm,0.0,Africa,Western Africa,Republic of Côte d'Ivoire,0.0
+CIV,2012,Stockholm,0.0,Africa,Western Africa,Republic of Côte d'Ivoire,0.0
+CIV,2017,Stockholm,0.0,Africa,Western Africa,Republic of Côte d'Ivoire,0.0
+CIV,2022,Stockholm,0.0,Africa,Western Africa,Republic of Côte d'Ivoire,0.0
+CMR,2007,Stockholm,0.0,Africa,Middle Africa,Republic of Cameroon,0.0
+CMR,2012,Stockholm,0.0,Africa,Middle Africa,Republic of Cameroon,0.0
+CMR,2017,Stockholm,0.0,Africa,Middle Africa,Republic of Cameroon,0.0
+CMR,2022,Stockholm,0.0,Africa,Middle Africa,Republic of Cameroon,0.0
+COD,2007,Stockholm,0.0,Africa,Middle Africa,Democratic Republic of the Congo,0.0
+COD,2012,Stockholm,0.0,Africa,Middle Africa,Democratic Republic of the Congo,0.0
+COD,2017,Stockholm,0.0,Africa,Middle Africa,Democratic Republic of the Congo,0.0
+COD,2022,Stockholm,0.0,Africa,Middle Africa,Democratic Republic of the Congo,0.0
+COG,2007,Stockholm,0.0,Africa,Middle Africa,Republic of the Congo,0.0
+COG,2012,Stockholm,0.0,Africa,Middle Africa,Republic of the Congo,0.0
+COG,2017,Stockholm,0.0,Africa,Middle Africa,Republic of the Congo,0.0
+COG,2022,Stockholm,0.0,Africa,Middle Africa,Republic of the Congo,0.0
+COL,2007,Stockholm,0.0,America,South America,Republic of Colombia,0.0
+COL,2012,Stockholm,0.0,America,South America,Republic of Colombia,0.0
+COL,2017,Stockholm,0.0,America,South America,Republic of Colombia,0.0
+COL,2022,Stockholm,0.0,America,South America,Republic of Colombia,0.0
+COM,2007,Stockholm,0.0,Africa,Eastern Africa,Union of the Comoros,0.0
+COM,2012,Stockholm,0.0,Africa,Eastern Africa,Union of the Comoros,0.0
+COM,2017,Stockholm,0.0,Africa,Eastern Africa,Union of the Comoros,0.0
+COM,2022,Stockholm,0.0,Africa,Eastern Africa,Union of the Comoros,0.0
+CPV,2007,Stockholm,0.0,Africa,Western Africa,Republic of Cabo Verde,0.0
+CPV,2012,Stockholm,0.0,Africa,Western Africa,Republic of Cabo Verde,0.0
+CPV,2017,Stockholm,0.0,Africa,Western Africa,Republic of Cabo Verde,0.0
+CPV,2022,Stockholm,0.0,Africa,Western Africa,Republic of Cabo Verde,0.0
+CRI,2007,Stockholm,0.0,America,Central America,Republic of Costa Rica,0.0
+CRI,2012,Stockholm,0.0,America,Central America,Republic of Costa Rica,0.0
+CRI,2017,Stockholm,0.0,America,Central America,Republic of Costa Rica,0.0
+CRI,2022,Stockholm,0.0,America,Central America,Republic of Costa Rica,0.0
+CUB,2007,Stockholm,0.0,America,Caribbean,Republic of Cuba,0.0
+CUB,2012,Stockholm,0.0,America,Caribbean,Republic of Cuba,0.0
+CUB,2017,Stockholm,0.0,America,Caribbean,Republic of Cuba,0.0
+CUB,2022,Stockholm,0.0,America,Caribbean,Republic of Cuba,0.0
+CUW,2007,Stockholm,0.0,America,Caribbean,Country of Curaçao,0.0
+CUW,2012,Stockholm,0.0,America,Caribbean,Country of Curaçao,0.0
+CUW,2017,Stockholm,0.0,America,Caribbean,Country of Curaçao,0.0
+CUW,2022,Stockholm,0.0,America,Caribbean,Country of Curaçao,0.0
+CYM,2007,Stockholm,0.0,America,Caribbean,Cayman Islands,0.0
+CYM,2012,Stockholm,0.0,America,Caribbean,Cayman Islands,0.0
+CYM,2017,Stockholm,0.0,America,Caribbean,Cayman Islands,0.0
+CYM,2022,Stockholm,0.0,America,Caribbean,Cayman Islands,0.0
+CYP,2007,Stockholm,100.0,Asia,Western Asia,Republic of Cyprus,1.0
+CYP,2012,Stockholm,100.0,Asia,Western Asia,Republic of Cyprus,1.0
+CYP,2017,Stockholm,100.0,Asia,Western Asia,Republic of Cyprus,1.0
+CYP,2022,Stockholm,100.0,Asia,Western Asia,Republic of Cyprus,1.0
+CZE,2007,Stockholm,75.002,Europe,Eastern Europe,Czech Republic,0.7500199999999999
+CZE,2012,Stockholm,75.002,Europe,Eastern Europe,Czech Republic,0.7500199999999999
+CZE,2017,Stockholm,75.002,Europe,Eastern Europe,Czech Republic,0.7500199999999999
+CZE,2022,Stockholm,87.5,Europe,Eastern Europe,Czech Republic,0.875
+DEU,2007,Stockholm,90.0,Europe,Western Europe,Federal Republic of Germany,0.9
+DEU,2012,Stockholm,90.0,Europe,Western Europe,Federal Republic of Germany,0.9
+DEU,2017,Stockholm,90.0,Europe,Western Europe,Federal Republic of Germany,0.9
+DEU,2022,Stockholm,75.0,Europe,Western Europe,Federal Republic of Germany,0.75
+DJI,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Djibouti,0.0
+DJI,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Djibouti,0.0
+DJI,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Djibouti,0.0
+DJI,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Djibouti,0.0
+DMA,2007,Stockholm,0.0,America,Caribbean,Commonwealth of Dominica,0.0
+DMA,2012,Stockholm,0.0,America,Caribbean,Commonwealth of Dominica,0.0
+DMA,2017,Stockholm,0.0,America,Caribbean,Commonwealth of Dominica,0.0
+DMA,2022,Stockholm,0.0,America,Caribbean,Commonwealth of Dominica,0.0
+DNK,2007,Stockholm,89.998,Europe,Northern Europe,Kingdom of Denmark,0.89998
+DNK,2012,Stockholm,89.998,Europe,Northern Europe,Kingdom of Denmark,0.89998
+DNK,2017,Stockholm,89.998,Europe,Northern Europe,Kingdom of Denmark,0.89998
+DNK,2022,Stockholm,100.0,Europe,Northern Europe,Kingdom of Denmark,1.0
+DOM,2007,Stockholm,0.0,America,Caribbean,Dominican Republic,0.0
+DOM,2012,Stockholm,0.0,America,Caribbean,Dominican Republic,0.0
+DOM,2017,Stockholm,0.0,America,Caribbean,Dominican Republic,0.0
+DOM,2022,Stockholm,0.0,America,Caribbean,Dominican Republic,0.0
+DZA,2007,Stockholm,0.0,Africa,Northern Africa,People's Democratic Republic of Algeria,0.0
+DZA,2012,Stockholm,0.0,Africa,Northern Africa,People's Democratic Republic of Algeria,0.0
+DZA,2017,Stockholm,0.0,Africa,Northern Africa,People's Democratic Republic of Algeria,0.0
+DZA,2022,Stockholm,0.0,Africa,Northern Africa,People's Democratic Republic of Algeria,0.0
+ECU,2007,Stockholm,0.0,America,South America,Republic of Ecuador,0.0
+ECU,2012,Stockholm,0.0,America,South America,Republic of Ecuador,0.0
+ECU,2017,Stockholm,0.0,America,South America,Republic of Ecuador,0.0
+ECU,2022,Stockholm,0.0,America,South America,Republic of Ecuador,0.0
+EGY,2007,Stockholm,0.0,Africa,Northern Africa,Arab Republic of Egypt,0.0
+EGY,2012,Stockholm,0.0,Africa,Northern Africa,Arab Republic of Egypt,0.0
+EGY,2017,Stockholm,0.0,Africa,Northern Africa,Arab Republic of Egypt,0.0
+EGY,2022,Stockholm,0.0,Africa,Northern Africa,Arab Republic of Egypt,0.0
+ERI,2007,Stockholm,0.0,Africa,Eastern Africa,State of Eritrea,0.0
+ERI,2012,Stockholm,0.0,Africa,Eastern Africa,State of Eritrea,0.0
+ERI,2017,Stockholm,0.0,Africa,Eastern Africa,State of Eritrea,0.0
+ERI,2022,Stockholm,0.0,Africa,Eastern Africa,State of Eritrea,0.0
+ESP,2007,Stockholm,100.0,Europe,Southern Europe,Kingdom of Spain,1.0
+ESP,2012,Stockholm,100.0,Europe,Southern Europe,Kingdom of Spain,1.0
+ESP,2017,Stockholm,100.0,Europe,Southern Europe,Kingdom of Spain,1.0
+ESP,2022,Stockholm,100.0,Europe,Southern Europe,Kingdom of Spain,1.0
+EST,2007,Stockholm,84.998,Europe,Northern Europe,Republic of Estonia,0.8499800000000001
+EST,2012,Stockholm,84.998,Europe,Northern Europe,Republic of Estonia,0.8499800000000001
+EST,2017,Stockholm,84.998,Europe,Northern Europe,Republic of Estonia,0.8499800000000001
+EST,2022,Stockholm,87.5,Europe,Northern Europe,Republic of Estonia,0.875
+ETH,2007,Stockholm,0.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.0
+ETH,2012,Stockholm,0.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.0
+ETH,2017,Stockholm,0.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.0
+ETH,2022,Stockholm,0.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.0
+FIN,2007,Stockholm,85.0,Europe,Northern Europe,Republic of Finland,0.85
+FIN,2012,Stockholm,85.0,Europe,Northern Europe,Republic of Finland,0.85
+FIN,2017,Stockholm,85.0,Europe,Northern Europe,Republic of Finland,0.85
+FIN,2022,Stockholm,62.5,Europe,Northern Europe,Republic of Finland,0.625
+FJI,2007,Stockholm,0.0,Oceania,Melanesia,Republic of Fiji,0.0
+FJI,2012,Stockholm,0.0,Oceania,Melanesia,Republic of Fiji,0.0
+FJI,2017,Stockholm,0.0,Oceania,Melanesia,Republic of Fiji,0.0
+FJI,2022,Stockholm,0.0,Oceania,Melanesia,Republic of Fiji,0.0
+FRA,2007,Stockholm,80.0,Europe,Western Europe,French Republic,0.8
+FRA,2012,Stockholm,80.0,Europe,Western Europe,French Republic,0.8
+FRA,2017,Stockholm,80.0,Europe,Western Europe,French Republic,0.8
+FRA,2022,Stockholm,50.0,Europe,Western Europe,French Republic,0.5
+FRO,2007,Stockholm,0.0,Europe,Northern Europe,Faroe Islands,0.0
+FRO,2012,Stockholm,0.0,Europe,Northern Europe,Faroe Islands,0.0
+FRO,2017,Stockholm,0.0,Europe,Northern Europe,Faroe Islands,0.0
+FRO,2022,Stockholm,0.0,Europe,Northern Europe,Faroe Islands,0.0
+FSM,2007,Stockholm,0.0,Oceania,Micronesia,Federated States of Micronesia,0.0
+FSM,2012,Stockholm,0.0,Oceania,Micronesia,Federated States of Micronesia,0.0
+FSM,2017,Stockholm,0.0,Oceania,Micronesia,Federated States of Micronesia,0.0
+FSM,2022,Stockholm,0.0,Oceania,Micronesia,Federated States of Micronesia,0.0
+GAB,2007,Stockholm,0.0,Africa,Middle Africa,Gabonese Republic,0.0
+GAB,2012,Stockholm,0.0,Africa,Middle Africa,Gabonese Republic,0.0
+GAB,2017,Stockholm,0.0,Africa,Middle Africa,Gabonese Republic,0.0
+GAB,2022,Stockholm,0.0,Africa,Middle Africa,Gabonese Republic,0.0
+GBR,2007,Stockholm,95.0,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.95
+GBR,2012,Stockholm,95.0,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.95
+GBR,2017,Stockholm,95.0,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.95
+GBR,2022,Stockholm,87.5,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.875
+GEO,2007,Stockholm,70.002,Asia,Western Asia,Georgia,0.70002
+GEO,2012,Stockholm,70.002,Asia,Western Asia,Georgia,0.70002
+GEO,2017,Stockholm,70.002,Asia,Western Asia,Georgia,0.70002
+GEO,2022,Stockholm,75.0,Asia,Western Asia,Georgia,0.75
+GHA,2007,Stockholm,0.0,Africa,Western Africa,Republic of Ghana,0.0
+GHA,2012,Stockholm,0.0,Africa,Western Africa,Republic of Ghana,0.0
+GHA,2017,Stockholm,0.0,Africa,Western Africa,Republic of Ghana,0.0
+GHA,2022,Stockholm,0.0,Africa,Western Africa,Republic of Ghana,0.0
+GIB,2007,Stockholm,0.0,Europe,Southern Europe,Gibraltar,0.0
+GIB,2012,Stockholm,0.0,Europe,Southern Europe,Gibraltar,0.0
+GIB,2017,Stockholm,0.0,Europe,Southern Europe,Gibraltar,0.0
+GIB,2022,Stockholm,0.0,Europe,Southern Europe,Gibraltar,0.0
+GIN,2007,Stockholm,0.0,Africa,Western Africa,Republic of Guinea,0.0
+GIN,2012,Stockholm,0.0,Africa,Western Africa,Republic of Guinea,0.0
+GIN,2017,Stockholm,0.0,Africa,Western Africa,Republic of Guinea,0.0
+GIN,2022,Stockholm,0.0,Africa,Western Africa,Republic of Guinea,0.0
+GMB,2007,Stockholm,0.0,Africa,Western Africa,Republic of the Gambia,0.0
+GMB,2012,Stockholm,0.0,Africa,Western Africa,Republic of the Gambia,0.0
+GMB,2017,Stockholm,0.0,Africa,Western Africa,Republic of the Gambia,0.0
+GMB,2022,Stockholm,0.0,Africa,Western Africa,Republic of the Gambia,0.0
+GNB,2007,Stockholm,0.0,Africa,Western Africa,Republic of Guinea-Bissau,0.0
+GNB,2012,Stockholm,0.0,Africa,Western Africa,Republic of Guinea-Bissau,0.0
+GNB,2017,Stockholm,0.0,Africa,Western Africa,Republic of Guinea-Bissau,0.0
+GNB,2022,Stockholm,0.0,Africa,Western Africa,Republic of Guinea-Bissau,0.0
+GNQ,2007,Stockholm,0.0,Africa,Middle Africa,Republic of Equatorial Guinea,0.0
+GNQ,2012,Stockholm,0.0,Africa,Middle Africa,Republic of Equatorial Guinea,0.0
+GNQ,2017,Stockholm,0.0,Africa,Middle Africa,Republic of Equatorial Guinea,0.0
+GNQ,2022,Stockholm,0.0,Africa,Middle Africa,Republic of Equatorial Guinea,0.0
+GRC,2007,Stockholm,0.0,Europe,Southern Europe,Hellenic Republic,0.0
+GRC,2012,Stockholm,0.0,Europe,Southern Europe,Hellenic Republic,0.0
+GRC,2017,Stockholm,0.0,Europe,Southern Europe,Hellenic Republic,0.0
+GRC,2022,Stockholm,0.0,Europe,Southern Europe,Hellenic Republic,0.0
+GRD,2007,Stockholm,0.0,America,Caribbean,Grenada,0.0
+GRD,2012,Stockholm,0.0,America,Caribbean,Grenada,0.0
+GRD,2017,Stockholm,0.0,America,Caribbean,Grenada,0.0
+GRD,2022,Stockholm,0.0,America,Caribbean,Grenada,0.0
+GRL,2007,Stockholm,0.0,America,Northern America,Greenland,0.0
+GRL,2012,Stockholm,0.0,America,Northern America,Greenland,0.0
+GRL,2017,Stockholm,0.0,America,Northern America,Greenland,0.0
+GRL,2022,Stockholm,0.0,America,Northern America,Greenland,0.0
+GTM,2007,Stockholm,0.0,America,Central America,Republic of Guatemala,0.0
+GTM,2012,Stockholm,0.0,America,Central America,Republic of Guatemala,0.0
+GTM,2017,Stockholm,0.0,America,Central America,Republic of Guatemala,0.0
+GTM,2022,Stockholm,0.0,America,Central America,Republic of Guatemala,0.0
+GUM,2007,Stockholm,0.0,Oceania,Micronesia,Guam,0.0
+GUM,2012,Stockholm,0.0,Oceania,Micronesia,Guam,0.0
+GUM,2017,Stockholm,0.0,Oceania,Micronesia,Guam,0.0
+GUM,2022,Stockholm,0.0,Oceania,Micronesia,Guam,0.0
+GUY,2007,Stockholm,0.0,America,South America,Co-operative Republic of Guyana,0.0
+GUY,2012,Stockholm,0.0,America,South America,Co-operative Republic of Guyana,0.0
+GUY,2017,Stockholm,0.0,America,South America,Co-operative Republic of Guyana,0.0
+GUY,2022,Stockholm,0.0,America,South America,Co-operative Republic of Guyana,0.0
+HKG,2007,Stockholm,0.0,Asia,Eastern Asia,Hong Kong SAR,0.0
+HKG,2012,Stockholm,0.0,Asia,Eastern Asia,Hong Kong SAR,0.0
+HKG,2017,Stockholm,0.0,Asia,Eastern Asia,Hong Kong SAR,0.0
+HKG,2022,Stockholm,0.0,Asia,Eastern Asia,Hong Kong SAR,0.0
+HND,2007,Stockholm,0.0,America,Central America,Republic of Honduras,0.0
+HND,2012,Stockholm,0.0,America,Central America,Republic of Honduras,0.0
+HND,2017,Stockholm,0.0,America,Central America,Republic of Honduras,0.0
+HND,2022,Stockholm,0.0,America,Central America,Republic of Honduras,0.0
+HRV,2007,Stockholm,70.002,Europe,Southern Europe,Republic of Croatia,0.70002
+HRV,2012,Stockholm,70.002,Europe,Southern Europe,Republic of Croatia,0.70002
+HRV,2017,Stockholm,70.002,Europe,Southern Europe,Republic of Croatia,0.70002
+HRV,2022,Stockholm,75.0,Europe,Southern Europe,Republic of Croatia,0.75
+HTI,2007,Stockholm,0.0,America,Caribbean,Republic of Haiti,0.0
+HTI,2012,Stockholm,0.0,America,Caribbean,Republic of Haiti,0.0
+HTI,2017,Stockholm,0.0,America,Caribbean,Republic of Haiti,0.0
+HTI,2022,Stockholm,0.0,America,Caribbean,Republic of Haiti,0.0
+HUN,2007,Stockholm,39.998,Europe,Eastern Europe,Republic of Hungary,0.39998
+HUN,2012,Stockholm,39.998,Europe,Eastern Europe,Republic of Hungary,0.39998
+HUN,2017,Stockholm,39.998,Europe,Eastern Europe,Republic of Hungary,0.39998
+HUN,2022,Stockholm,50.0,Europe,Eastern Europe,Republic of Hungary,0.5
+IDN,2007,Stockholm,0.0,Asia,South-eastern Asia,Republic of Indonesia,0.0
+IDN,2012,Stockholm,0.0,Asia,South-eastern Asia,Republic of Indonesia,0.0
+IDN,2017,Stockholm,0.0,Asia,South-eastern Asia,Republic of Indonesia,0.0
+IDN,2022,Stockholm,0.0,Asia,South-eastern Asia,Republic of Indonesia,0.0
+IMN,2007,Stockholm,0.0,Europe,Northern Europe,Isle of Man,0.0
+IMN,2012,Stockholm,0.0,Europe,Northern Europe,Isle of Man,0.0
+IMN,2017,Stockholm,0.0,Europe,Northern Europe,Isle of Man,0.0
+IMN,2022,Stockholm,0.0,Europe,Northern Europe,Isle of Man,0.0
+IND,2007,Stockholm,0.0,Asia,Southern Asia,Republic of India,0.0
+IND,2012,Stockholm,0.0,Asia,Southern Asia,Republic of India,0.0
+IND,2017,Stockholm,0.0,Asia,Southern Asia,Republic of India,0.0
+IND,2022,Stockholm,0.0,Asia,Southern Asia,Republic of India,0.0
+IRL,2007,Stockholm,84.998,Europe,Northern Europe,Ireland,0.8499800000000001
+IRL,2012,Stockholm,84.998,Europe,Northern Europe,Ireland,0.8499800000000001
+IRL,2017,Stockholm,84.998,Europe,Northern Europe,Ireland,0.8499800000000001
+IRL,2022,Stockholm,87.5,Europe,Northern Europe,Ireland,0.875
+IRN,2007,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Iran,0.0
+IRN,2012,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Iran,0.0
+IRN,2017,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Iran,0.0
+IRN,2022,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Iran,0.0
+IRQ,2007,Stockholm,0.0,Asia,Western Asia,Republic of Iraq,0.0
+IRQ,2012,Stockholm,0.0,Asia,Western Asia,Republic of Iraq,0.0
+IRQ,2017,Stockholm,0.0,Asia,Western Asia,Republic of Iraq,0.0
+IRQ,2022,Stockholm,0.0,Asia,Western Asia,Republic of Iraq,0.0
+ISL,2007,Stockholm,60.0,Europe,Northern Europe,Republic of Iceland,0.6
+ISL,2012,Stockholm,60.0,Europe,Northern Europe,Republic of Iceland,0.6
+ISL,2017,Stockholm,60.0,Europe,Northern Europe,Republic of Iceland,0.6
+ISL,2022,Stockholm,75.0,Europe,Northern Europe,Republic of Iceland,0.75
+ISR,2007,Stockholm,66.67,Asia,Western Asia,State of Israel,0.6667000000000001
+ISR,2012,Stockholm,66.67,Asia,Western Asia,State of Israel,0.6667000000000001
+ISR,2017,Stockholm,66.67,Asia,Western Asia,State of Israel,0.6667000000000001
+ISR,2022,Stockholm,66.67,Asia,Western Asia,State of Israel,0.6667000000000001
+ITA,2007,Stockholm,66.67,Europe,Southern Europe,Italian Republic,0.6667000000000001
+ITA,2012,Stockholm,66.67,Europe,Southern Europe,Italian Republic,0.6667000000000001
+ITA,2017,Stockholm,66.67,Europe,Southern Europe,Italian Republic,0.6667000000000001
+ITA,2022,Stockholm,66.67,Europe,Southern Europe,Italian Republic,0.6667000000000001
+JAM,2007,Stockholm,0.0,America,Caribbean,Jamaica,0.0
+JAM,2012,Stockholm,0.0,America,Caribbean,Jamaica,0.0
+JAM,2017,Stockholm,0.0,America,Caribbean,Jamaica,0.0
+JAM,2022,Stockholm,0.0,America,Caribbean,Jamaica,0.0
+JOR,2007,Stockholm,0.0,Asia,Western Asia,Hashemite Kingdom of Jordan,0.0
+JOR,2012,Stockholm,0.0,Asia,Western Asia,Hashemite Kingdom of Jordan,0.0
+JOR,2017,Stockholm,0.0,Asia,Western Asia,Hashemite Kingdom of Jordan,0.0
+JOR,2022,Stockholm,0.0,Asia,Western Asia,Hashemite Kingdom of Jordan,0.0
+JPN,2007,Stockholm,0.0,Asia,Eastern Asia,Japan,0.0
+JPN,2012,Stockholm,0.0,Asia,Eastern Asia,Japan,0.0
+JPN,2017,Stockholm,0.0,Asia,Eastern Asia,Japan,0.0
+JPN,2022,Stockholm,0.0,Asia,Eastern Asia,Japan,0.0
+KAZ,2007,Stockholm,50.0,Asia,Central Asia,Republic of Kazakhstan,0.5
+KAZ,2012,Stockholm,50.0,Asia,Central Asia,Republic of Kazakhstan,0.5
+KAZ,2017,Stockholm,50.0,Asia,Central Asia,Republic of Kazakhstan,0.5
+KAZ,2022,Stockholm,50.0,Asia,Central Asia,Republic of Kazakhstan,0.5
+KEN,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Kenya,0.0
+KEN,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Kenya,0.0
+KEN,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Kenya,0.0
+KEN,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Kenya,0.0
+KGZ,2007,Stockholm,45.0,Asia,Central Asia,Kyrgyz Republic,0.45
+KGZ,2012,Stockholm,45.0,Asia,Central Asia,Kyrgyz Republic,0.45
+KGZ,2017,Stockholm,45.0,Asia,Central Asia,Kyrgyz Republic,0.45
+KGZ,2022,Stockholm,37.5,Asia,Central Asia,Kyrgyz Republic,0.375
+KHM,2007,Stockholm,0.0,Asia,South-eastern Asia,Kingdom of Cambodia,0.0
+KHM,2012,Stockholm,0.0,Asia,South-eastern Asia,Kingdom of Cambodia,0.0
+KHM,2017,Stockholm,0.0,Asia,South-eastern Asia,Kingdom of Cambodia,0.0
+KHM,2022,Stockholm,0.0,Asia,South-eastern Asia,Kingdom of Cambodia,0.0
+KIR,2007,Stockholm,0.0,Oceania,Micronesia,Republic of Kiribati,0.0
+KIR,2012,Stockholm,0.0,Oceania,Micronesia,Republic of Kiribati,0.0
+KIR,2017,Stockholm,0.0,Oceania,Micronesia,Republic of Kiribati,0.0
+KIR,2022,Stockholm,0.0,Oceania,Micronesia,Republic of Kiribati,0.0
+KNA,2007,Stockholm,0.0,America,Caribbean,Saint Kitts and Nevis,0.0
+KNA,2012,Stockholm,0.0,America,Caribbean,Saint Kitts and Nevis,0.0
+KNA,2017,Stockholm,0.0,America,Caribbean,Saint Kitts and Nevis,0.0
+KNA,2022,Stockholm,0.0,America,Caribbean,Saint Kitts and Nevis,0.0
+KOR,2007,Stockholm,0.0,Asia,Eastern Asia,Republic of Korea,0.0
+KOR,2012,Stockholm,0.0,Asia,Eastern Asia,Republic of Korea,0.0
+KOR,2017,Stockholm,0.0,Asia,Eastern Asia,Republic of Korea,0.0
+KOR,2022,Stockholm,0.0,Asia,Eastern Asia,Republic of Korea,0.0
+KWT,2007,Stockholm,0.0,Asia,Western Asia,State of Kuwait,0.0
+KWT,2012,Stockholm,0.0,Asia,Western Asia,State of Kuwait,0.0
+KWT,2017,Stockholm,0.0,Asia,Western Asia,State of Kuwait,0.0
+KWT,2022,Stockholm,0.0,Asia,Western Asia,State of Kuwait,0.0
+LAO,2007,Stockholm,0.0,Asia,South-eastern Asia,Lao People's Democratic Republic,0.0
+LAO,2012,Stockholm,0.0,Asia,South-eastern Asia,Lao People's Democratic Republic,0.0
+LAO,2017,Stockholm,0.0,Asia,South-eastern Asia,Lao People's Democratic Republic,0.0
+LAO,2022,Stockholm,0.0,Asia,South-eastern Asia,Lao People's Democratic Republic,0.0
+LBN,2007,Stockholm,0.0,Asia,Western Asia,Lebanese Republic,0.0
+LBN,2012,Stockholm,0.0,Asia,Western Asia,Lebanese Republic,0.0
+LBN,2017,Stockholm,0.0,Asia,Western Asia,Lebanese Republic,0.0
+LBN,2022,Stockholm,0.0,Asia,Western Asia,Lebanese Republic,0.0
+LBR,2007,Stockholm,0.0,Africa,Western Africa,Republic of Liberia,0.0
+LBR,2012,Stockholm,0.0,Africa,Western Africa,Republic of Liberia,0.0
+LBR,2017,Stockholm,0.0,Africa,Western Africa,Republic of Liberia,0.0
+LBR,2022,Stockholm,0.0,Africa,Western Africa,Republic of Liberia,0.0
+LBY,2007,Stockholm,0.0,Africa,Northern Africa,State of Libya,0.0
+LBY,2012,Stockholm,0.0,Africa,Northern Africa,State of Libya,0.0
+LBY,2017,Stockholm,0.0,Africa,Northern Africa,State of Libya,0.0
+LBY,2022,Stockholm,0.0,Africa,Northern Africa,State of Libya,0.0
+LCA,2007,Stockholm,0.0,America,Caribbean,Saint Lucia,0.0
+LCA,2012,Stockholm,0.0,America,Caribbean,Saint Lucia,0.0
+LCA,2017,Stockholm,0.0,America,Caribbean,Saint Lucia,0.0
+LCA,2022,Stockholm,0.0,America,Caribbean,Saint Lucia,0.0
+LIE,2007,Stockholm,40.0,Europe,Western Europe,Principality of Liechtenstein,0.4
+LIE,2012,Stockholm,40.0,Europe,Western Europe,Principality of Liechtenstein,0.4
+LIE,2017,Stockholm,40.0,Europe,Western Europe,Principality of Liechtenstein,0.4
+LIE,2022,Stockholm,25.0,Europe,Western Europe,Principality of Liechtenstein,0.25
+LKA,2007,Stockholm,0.0,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.0
+LKA,2012,Stockholm,0.0,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.0
+LKA,2017,Stockholm,0.0,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.0
+LKA,2022,Stockholm,0.0,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.0
+LSO,2007,Stockholm,0.0,Africa,Southern Africa,Kingdom of Lesotho,0.0
+LSO,2012,Stockholm,0.0,Africa,Southern Africa,Kingdom of Lesotho,0.0
+LSO,2017,Stockholm,0.0,Africa,Southern Africa,Kingdom of Lesotho,0.0
+LSO,2022,Stockholm,0.0,Africa,Southern Africa,Kingdom of Lesotho,0.0
+LTU,2007,Stockholm,70.002,Europe,Northern Europe,Republic of Lithuania,0.70002
+LTU,2012,Stockholm,70.002,Europe,Northern Europe,Republic of Lithuania,0.70002
+LTU,2017,Stockholm,70.002,Europe,Northern Europe,Republic of Lithuania,0.70002
+LTU,2022,Stockholm,75.0,Europe,Northern Europe,Republic of Lithuania,0.75
+LUX,2007,Stockholm,29.997999999999998,Europe,Western Europe,Grand Duchy of Luxembourg,0.29997999999999997
+LUX,2012,Stockholm,29.997999999999998,Europe,Western Europe,Grand Duchy of Luxembourg,0.29997999999999997
+LUX,2017,Stockholm,29.997999999999998,Europe,Western Europe,Grand Duchy of Luxembourg,0.29997999999999997
+LUX,2022,Stockholm,25.0,Europe,Western Europe,Grand Duchy of Luxembourg,0.25
+LVA,2007,Stockholm,55.002,Europe,Northern Europe,Republic of Latvia,0.5500200000000001
+LVA,2012,Stockholm,55.002,Europe,Northern Europe,Republic of Latvia,0.5500200000000001
+LVA,2017,Stockholm,55.002,Europe,Northern Europe,Republic of Latvia,0.5500200000000001
+LVA,2022,Stockholm,37.5,Europe,Northern Europe,Republic of Latvia,0.375
+MAC,2007,Stockholm,0.0,Asia,Eastern Asia,Macau SAR,0.0
+MAC,2012,Stockholm,0.0,Asia,Eastern Asia,Macau SAR,0.0
+MAC,2017,Stockholm,0.0,Asia,Eastern Asia,Macau SAR,0.0
+MAC,2022,Stockholm,0.0,Asia,Eastern Asia,Macau SAR,0.0
+MAF,2007,Stockholm,0.0,America,Caribbean,Saint-Martin (French part),0.0
+MAF,2012,Stockholm,0.0,America,Caribbean,Saint-Martin (French part),0.0
+MAF,2017,Stockholm,0.0,America,Caribbean,Saint-Martin (French part),0.0
+MAF,2022,Stockholm,0.0,America,Caribbean,Saint-Martin (French part),0.0
+MAR,2007,Stockholm,0.0,Africa,Northern Africa,Kingdom of Morocco,0.0
+MAR,2012,Stockholm,0.0,Africa,Northern Africa,Kingdom of Morocco,0.0
+MAR,2017,Stockholm,0.0,Africa,Northern Africa,Kingdom of Morocco,0.0
+MAR,2022,Stockholm,0.0,Africa,Northern Africa,Kingdom of Morocco,0.0
+MCO,2007,Stockholm,55.002,Europe,Western Europe,Principality of Monaco,0.5500200000000001
+MCO,2012,Stockholm,55.002,Europe,Western Europe,Principality of Monaco,0.5500200000000001
+MCO,2017,Stockholm,55.002,Europe,Western Europe,Principality of Monaco,0.5500200000000001
+MCO,2022,Stockholm,37.5,Europe,Western Europe,Principality of Monaco,0.375
+MDA,2007,Stockholm,50.0,Europe,Eastern Europe,Republic of Moldova,0.5
+MDA,2012,Stockholm,50.0,Europe,Eastern Europe,Republic of Moldova,0.5
+MDA,2017,Stockholm,50.0,Europe,Eastern Europe,Republic of Moldova,0.5
+MDA,2022,Stockholm,50.0,Europe,Eastern Europe,Republic of Moldova,0.5
+MDG,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Madagascar,0.0
+MDG,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Madagascar,0.0
+MDG,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Madagascar,0.0
+MDG,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Madagascar,0.0
+MDV,2007,Stockholm,0.0,Asia,Southern Asia,Republic of Maldives,0.0
+MDV,2012,Stockholm,0.0,Asia,Southern Asia,Republic of Maldives,0.0
+MDV,2017,Stockholm,0.0,Asia,Southern Asia,Republic of Maldives,0.0
+MDV,2022,Stockholm,0.0,Asia,Southern Asia,Republic of Maldives,0.0
+MEX,2007,Stockholm,0.0,America,Central America,United Mexican States,0.0
+MEX,2012,Stockholm,0.0,America,Central America,United Mexican States,0.0
+MEX,2017,Stockholm,0.0,America,Central America,United Mexican States,0.0
+MEX,2022,Stockholm,0.0,America,Central America,United Mexican States,0.0
+MHL,2007,Stockholm,0.0,Oceania,Micronesia,Republic of the Marshall Islands,0.0
+MHL,2012,Stockholm,0.0,Oceania,Micronesia,Republic of the Marshall Islands,0.0
+MHL,2017,Stockholm,0.0,Oceania,Micronesia,Republic of the Marshall Islands,0.0
+MHL,2022,Stockholm,0.0,Oceania,Micronesia,Republic of the Marshall Islands,0.0
+MKD,2007,Stockholm,55.0,Europe,Southern Europe,Republic of North Macedonia,0.55
+MKD,2012,Stockholm,55.0,Europe,Southern Europe,Republic of North Macedonia,0.55
+MKD,2017,Stockholm,55.0,Europe,Southern Europe,Republic of North Macedonia,0.55
+MKD,2022,Stockholm,62.5,Europe,Southern Europe,Republic of North Macedonia,0.625
+MLI,2007,Stockholm,0.0,Africa,Western Africa,Republic of Mali,0.0
+MLI,2012,Stockholm,0.0,Africa,Western Africa,Republic of Mali,0.0
+MLI,2017,Stockholm,0.0,Africa,Western Africa,Republic of Mali,0.0
+MLI,2022,Stockholm,0.0,Africa,Western Africa,Republic of Mali,0.0
+MLT,2007,Stockholm,19.997999999999998,Europe,Southern Europe,Republic of Malta,0.19997999999999996
+MLT,2012,Stockholm,19.997999999999998,Europe,Southern Europe,Republic of Malta,0.19997999999999996
+MLT,2017,Stockholm,19.997999999999998,Europe,Southern Europe,Republic of Malta,0.19997999999999996
+MLT,2022,Stockholm,0.0,Europe,Southern Europe,Republic of Malta,0.0
+MMR,2007,Stockholm,0.0,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.0
+MMR,2012,Stockholm,0.0,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.0
+MMR,2017,Stockholm,0.0,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.0
+MMR,2022,Stockholm,0.0,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.0
+MNE,2007,Stockholm,50.0,Europe,Southern Europe,Montenegro,0.5
+MNE,2012,Stockholm,50.0,Europe,Southern Europe,Montenegro,0.5
+MNE,2017,Stockholm,50.0,Europe,Southern Europe,Montenegro,0.5
+MNE,2022,Stockholm,50.0,Europe,Southern Europe,Montenegro,0.5
+MNG,2007,Stockholm,0.0,Asia,Eastern Asia,Mongolia,0.0
+MNG,2012,Stockholm,0.0,Asia,Eastern Asia,Mongolia,0.0
+MNG,2017,Stockholm,0.0,Asia,Eastern Asia,Mongolia,0.0
+MNG,2022,Stockholm,0.0,Asia,Eastern Asia,Mongolia,0.0
+MNP,2007,Stockholm,0.0,Oceania,Micronesia,Northern Mariana Islands,0.0
+MNP,2012,Stockholm,0.0,Oceania,Micronesia,Northern Mariana Islands,0.0
+MNP,2017,Stockholm,0.0,Oceania,Micronesia,Northern Mariana Islands,0.0
+MNP,2022,Stockholm,0.0,Oceania,Micronesia,Northern Mariana Islands,0.0
+MOZ,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Mozambique,0.0
+MOZ,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Mozambique,0.0
+MOZ,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Mozambique,0.0
+MOZ,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Mozambique,0.0
+MRT,2007,Stockholm,0.0,Africa,Western Africa,Islamic Republic of Mauritania,0.0
+MRT,2012,Stockholm,0.0,Africa,Western Africa,Islamic Republic of Mauritania,0.0
+MRT,2017,Stockholm,0.0,Africa,Western Africa,Islamic Republic of Mauritania,0.0
+MRT,2022,Stockholm,0.0,Africa,Western Africa,Islamic Republic of Mauritania,0.0
+MUS,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Mauritius,0.0
+MUS,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Mauritius,0.0
+MUS,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Mauritius,0.0
+MUS,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Mauritius,0.0
+MWI,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Malawi,0.0
+MWI,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Malawi,0.0
+MWI,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Malawi,0.0
+MWI,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Malawi,0.0
+MYS,2007,Stockholm,0.0,Asia,South-eastern Asia,Malaysia,0.0
+MYS,2012,Stockholm,0.0,Asia,South-eastern Asia,Malaysia,0.0
+MYS,2017,Stockholm,0.0,Asia,South-eastern Asia,Malaysia,0.0
+MYS,2022,Stockholm,0.0,Asia,South-eastern Asia,Malaysia,0.0
+NAM,2007,Stockholm,0.0,Africa,Southern Africa,Republic of Namibia,0.0
+NAM,2012,Stockholm,0.0,Africa,Southern Africa,Republic of Namibia,0.0
+NAM,2017,Stockholm,0.0,Africa,Southern Africa,Republic of Namibia,0.0
+NAM,2022,Stockholm,0.0,Africa,Southern Africa,Republic of Namibia,0.0
+NCL,2007,Stockholm,0.0,Oceania,Melanesia,New Caledonia,0.0
+NCL,2012,Stockholm,0.0,Oceania,Melanesia,New Caledonia,0.0
+NCL,2017,Stockholm,0.0,Oceania,Melanesia,New Caledonia,0.0
+NCL,2022,Stockholm,0.0,Oceania,Melanesia,New Caledonia,0.0
+NER,2007,Stockholm,0.0,Africa,Western Africa,Republic of Niger,0.0
+NER,2012,Stockholm,0.0,Africa,Western Africa,Republic of Niger,0.0
+NER,2017,Stockholm,0.0,Africa,Western Africa,Republic of Niger,0.0
+NER,2022,Stockholm,0.0,Africa,Western Africa,Republic of Niger,0.0
+NGA,2007,Stockholm,0.0,Africa,Western Africa,Federal Republic of Nigeria,0.0
+NGA,2012,Stockholm,0.0,Africa,Western Africa,Federal Republic of Nigeria,0.0
+NGA,2017,Stockholm,0.0,Africa,Western Africa,Federal Republic of Nigeria,0.0
+NGA,2022,Stockholm,0.0,Africa,Western Africa,Federal Republic of Nigeria,0.0
+NIC,2007,Stockholm,0.0,America,Central America,Republic of Nicaragua,0.0
+NIC,2012,Stockholm,0.0,America,Central America,Republic of Nicaragua,0.0
+NIC,2017,Stockholm,0.0,America,Central America,Republic of Nicaragua,0.0
+NIC,2022,Stockholm,0.0,America,Central America,Republic of Nicaragua,0.0
+NLD,2007,Stockholm,69.998,Europe,Western Europe,Kingdom of the Netherlands,0.69998
+NLD,2012,Stockholm,69.998,Europe,Western Europe,Kingdom of the Netherlands,0.69998
+NLD,2017,Stockholm,69.998,Europe,Western Europe,Kingdom of the Netherlands,0.69998
+NLD,2022,Stockholm,50.0,Europe,Western Europe,Kingdom of the Netherlands,0.5
+NOR,2007,Stockholm,95.0,Europe,Northern Europe,Kingdom of Norway,0.95
+NOR,2012,Stockholm,95.0,Europe,Northern Europe,Kingdom of Norway,0.95
+NOR,2017,Stockholm,95.0,Europe,Northern Europe,Kingdom of Norway,0.95
+NOR,2022,Stockholm,87.5,Europe,Northern Europe,Kingdom of Norway,0.875
+NPL,2007,Stockholm,0.0,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.0
+NPL,2012,Stockholm,0.0,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.0
+NPL,2017,Stockholm,0.0,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.0
+NPL,2022,Stockholm,0.0,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.0
+NRU,2007,Stockholm,0.0,Oceania,Polynesia,Republic of Nauru,0.0
+NRU,2012,Stockholm,0.0,Oceania,Polynesia,Republic of Nauru,0.0
+NRU,2017,Stockholm,0.0,Oceania,Polynesia,Republic of Nauru,0.0
+NRU,2022,Stockholm,0.0,Oceania,Polynesia,Republic of Nauru,0.0
+NZL,2007,Stockholm,0.0,Oceania,Australia and New Zealand,New Zealand,0.0
+NZL,2012,Stockholm,0.0,Oceania,Australia and New Zealand,New Zealand,0.0
+NZL,2017,Stockholm,0.0,Oceania,Australia and New Zealand,New Zealand,0.0
+NZL,2022,Stockholm,0.0,Oceania,Australia and New Zealand,New Zealand,0.0
+OMN,2007,Stockholm,0.0,Asia,Western Asia,Sultanate of Oman,0.0
+OMN,2012,Stockholm,0.0,Asia,Western Asia,Sultanate of Oman,0.0
+OMN,2017,Stockholm,0.0,Asia,Western Asia,Sultanate of Oman,0.0
+OMN,2022,Stockholm,0.0,Asia,Western Asia,Sultanate of Oman,0.0
+PAK,2007,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Pakistan,0.0
+PAK,2012,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Pakistan,0.0
+PAK,2017,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Pakistan,0.0
+PAK,2022,Stockholm,0.0,Asia,Southern Asia,Islamic Republic of Pakistan,0.0
+PAN,2007,Stockholm,0.0,America,Central America,Republic of Panama,0.0
+PAN,2012,Stockholm,0.0,America,Central America,Republic of Panama,0.0
+PAN,2017,Stockholm,0.0,America,Central America,Republic of Panama,0.0
+PAN,2022,Stockholm,0.0,America,Central America,Republic of Panama,0.0
+PER,2007,Stockholm,0.0,America,South America,Republic of Peru,0.0
+PER,2012,Stockholm,0.0,America,South America,Republic of Peru,0.0
+PER,2017,Stockholm,0.0,America,South America,Republic of Peru,0.0
+PER,2022,Stockholm,0.0,America,South America,Republic of Peru,0.0
+PHL,2007,Stockholm,0.0,Asia,South-eastern Asia,Republic of the Philippines,0.0
+PHL,2012,Stockholm,0.0,Asia,South-eastern Asia,Republic of the Philippines,0.0
+PHL,2017,Stockholm,0.0,Asia,South-eastern Asia,Republic of the Philippines,0.0
+PHL,2022,Stockholm,0.0,Asia,South-eastern Asia,Republic of the Philippines,0.0
+PLW,2007,Stockholm,0.0,Oceania,Micronesia,Republic of Palau,0.0
+PLW,2012,Stockholm,0.0,Oceania,Micronesia,Republic of Palau,0.0
+PLW,2017,Stockholm,0.0,Oceania,Micronesia,Republic of Palau,0.0
+PLW,2022,Stockholm,0.0,Oceania,Micronesia,Republic of Palau,0.0
+PNG,2007,Stockholm,0.0,Oceania,Melanesia,Independent State of Papua New Guinea,0.0
+PNG,2012,Stockholm,0.0,Oceania,Melanesia,Independent State of Papua New Guinea,0.0
+PNG,2017,Stockholm,0.0,Oceania,Melanesia,Independent State of Papua New Guinea,0.0
+PNG,2022,Stockholm,0.0,Oceania,Melanesia,Independent State of Papua New Guinea,0.0
+POL,2007,Stockholm,95.0,Europe,Eastern Europe,Republic of Poland,0.95
+POL,2012,Stockholm,95.0,Europe,Eastern Europe,Republic of Poland,0.95
+POL,2017,Stockholm,95.0,Europe,Eastern Europe,Republic of Poland,0.95
+POL,2022,Stockholm,87.5,Europe,Eastern Europe,Republic of Poland,0.875
+PRI,2007,Stockholm,0.0,America,Caribbean,Puerto Rico,0.0
+PRI,2012,Stockholm,0.0,America,Caribbean,Puerto Rico,0.0
+PRI,2017,Stockholm,0.0,America,Caribbean,Puerto Rico,0.0
+PRI,2022,Stockholm,0.0,America,Caribbean,Puerto Rico,0.0
+PRK,2007,Stockholm,0.0,Asia,Eastern Asia,Democratic People's Republic of Korea,0.0
+PRK,2012,Stockholm,0.0,Asia,Eastern Asia,Democratic People's Republic of Korea,0.0
+PRK,2017,Stockholm,0.0,Asia,Eastern Asia,Democratic People's Republic of Korea,0.0
+PRK,2022,Stockholm,0.0,Asia,Eastern Asia,Democratic People's Republic of Korea,0.0
+PRT,2007,Stockholm,40.0,Europe,Southern Europe,Portuguese Republic,0.4
+PRT,2012,Stockholm,40.0,Europe,Southern Europe,Portuguese Republic,0.4
+PRT,2017,Stockholm,40.0,Europe,Southern Europe,Portuguese Republic,0.4
+PRT,2022,Stockholm,25.0,Europe,Southern Europe,Portuguese Republic,0.25
+PRY,2007,Stockholm,0.0,America,South America,Republic of Paraguay,0.0
+PRY,2012,Stockholm,0.0,America,South America,Republic of Paraguay,0.0
+PRY,2017,Stockholm,0.0,America,South America,Republic of Paraguay,0.0
+PRY,2022,Stockholm,0.0,America,South America,Republic of Paraguay,0.0
+PSE,2007,Stockholm,0.0,Asia,Western Asia,State of Palestine,0.0
+PSE,2012,Stockholm,0.0,Asia,Western Asia,State of Palestine,0.0
+PSE,2017,Stockholm,0.0,Asia,Western Asia,State of Palestine,0.0
+PSE,2022,Stockholm,0.0,Asia,Western Asia,State of Palestine,0.0
+PYF,2007,Stockholm,0.0,Oceania,Polynesia,French Polynesia,0.0
+PYF,2012,Stockholm,0.0,Oceania,Polynesia,French Polynesia,0.0
+PYF,2017,Stockholm,0.0,Oceania,Polynesia,French Polynesia,0.0
+PYF,2022,Stockholm,0.0,Oceania,Polynesia,French Polynesia,0.0
+QAT,2007,Stockholm,0.0,Asia,Western Asia,State of Qatar,0.0
+QAT,2012,Stockholm,0.0,Asia,Western Asia,State of Qatar,0.0
+QAT,2017,Stockholm,0.0,Asia,Western Asia,State of Qatar,0.0
+QAT,2022,Stockholm,0.0,Asia,Western Asia,State of Qatar,0.0
+ROU,2007,Stockholm,85.0,Europe,Eastern Europe,Romania,0.85
+ROU,2012,Stockholm,85.0,Europe,Eastern Europe,Romania,0.85
+ROU,2017,Stockholm,85.0,Europe,Eastern Europe,Romania,0.85
+ROU,2022,Stockholm,62.5,Europe,Eastern Europe,Romania,0.625
+RUS,2007,Stockholm,80.002,Europe,Eastern Europe,Russian Federation,0.80002
+RUS,2012,Stockholm,80.002,Europe,Eastern Europe,Russian Federation,0.80002
+RUS,2017,Stockholm,80.002,Europe,Eastern Europe,Russian Federation,0.80002
+RUS,2022,Stockholm,100.0,Europe,Eastern Europe,Russian Federation,1.0
+RWA,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Rwanda,0.0
+RWA,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Rwanda,0.0
+RWA,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Rwanda,0.0
+RWA,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Rwanda,0.0
+SAU,2007,Stockholm,0.0,Asia,Western Asia,Kingdom of Saudi Arabia,0.0
+SAU,2012,Stockholm,0.0,Asia,Western Asia,Kingdom of Saudi Arabia,0.0
+SAU,2017,Stockholm,0.0,Asia,Western Asia,Kingdom of Saudi Arabia,0.0
+SAU,2022,Stockholm,0.0,Asia,Western Asia,Kingdom of Saudi Arabia,0.0
+SDN,2007,Stockholm,0.0,Africa,Northern Africa,Republic of the Sudan,0.0
+SDN,2012,Stockholm,0.0,Africa,Northern Africa,Republic of the Sudan,0.0
+SDN,2017,Stockholm,0.0,Africa,Northern Africa,Republic of the Sudan,0.0
+SDN,2022,Stockholm,0.0,Africa,Northern Africa,Republic of the Sudan,0.0
+SEN,2007,Stockholm,0.0,Africa,Western Africa,Republic of Senegal,0.0
+SEN,2012,Stockholm,0.0,Africa,Western Africa,Republic of Senegal,0.0
+SEN,2017,Stockholm,0.0,Africa,Western Africa,Republic of Senegal,0.0
+SEN,2022,Stockholm,0.0,Africa,Western Africa,Republic of Senegal,0.0
+SGP,2007,Stockholm,0.0,Asia,South-eastern Asia,Republic of Singapore,0.0
+SGP,2012,Stockholm,0.0,Asia,South-eastern Asia,Republic of Singapore,0.0
+SGP,2017,Stockholm,0.0,Asia,South-eastern Asia,Republic of Singapore,0.0
+SGP,2022,Stockholm,0.0,Asia,South-eastern Asia,Republic of Singapore,0.0
+SLB,2007,Stockholm,0.0,Oceania,Melanesia,Solomon Islands,0.0
+SLB,2012,Stockholm,0.0,Oceania,Melanesia,Solomon Islands,0.0
+SLB,2017,Stockholm,0.0,Oceania,Melanesia,Solomon Islands,0.0
+SLB,2022,Stockholm,0.0,Oceania,Melanesia,Solomon Islands,0.0
+SLE,2007,Stockholm,0.0,Africa,Western Africa,Republic of Sierra Leone,0.0
+SLE,2012,Stockholm,0.0,Africa,Western Africa,Republic of Sierra Leone,0.0
+SLE,2017,Stockholm,0.0,Africa,Western Africa,Republic of Sierra Leone,0.0
+SLE,2022,Stockholm,0.0,Africa,Western Africa,Republic of Sierra Leone,0.0
+SLV,2007,Stockholm,0.0,America,Central America,Republic of El Salvador,0.0
+SLV,2012,Stockholm,0.0,America,Central America,Republic of El Salvador,0.0
+SLV,2017,Stockholm,0.0,America,Central America,Republic of El Salvador,0.0
+SLV,2022,Stockholm,0.0,America,Central America,Republic of El Salvador,0.0
+SMR,2007,Stockholm,0.0,Europe,Southern Europe,Republic of San Marino,0.0
+SMR,2012,Stockholm,0.0,Europe,Southern Europe,Republic of San Marino,0.0
+SMR,2017,Stockholm,0.0,Europe,Southern Europe,Republic of San Marino,0.0
+SMR,2022,Stockholm,0.0,Europe,Southern Europe,Republic of San Marino,0.0
+SOM,2007,Stockholm,0.0,Africa,Eastern Africa,Federal Republic of Somalia,0.0
+SOM,2012,Stockholm,0.0,Africa,Eastern Africa,Federal Republic of Somalia,0.0
+SOM,2017,Stockholm,0.0,Africa,Eastern Africa,Federal Republic of Somalia,0.0
+SOM,2022,Stockholm,0.0,Africa,Eastern Africa,Federal Republic of Somalia,0.0
+SRB,2007,Stockholm,55.002,Europe,Southern Europe,Republic of Serbia,0.5500200000000001
+SRB,2012,Stockholm,55.002,Europe,Southern Europe,Republic of Serbia,0.5500200000000001
+SRB,2017,Stockholm,55.002,Europe,Southern Europe,Republic of Serbia,0.5500200000000001
+SRB,2022,Stockholm,37.5,Europe,Southern Europe,Republic of Serbia,0.375
+SSD,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of South Sudan,0.0
+SSD,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of South Sudan,0.0
+SSD,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of South Sudan,0.0
+SSD,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of South Sudan,0.0
+STP,2007,Stockholm,0.0,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.0
+STP,2012,Stockholm,0.0,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.0
+STP,2017,Stockholm,0.0,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.0
+STP,2022,Stockholm,0.0,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.0
+SUR,2007,Stockholm,0.0,America,South America,Republic of Suriname,0.0
+SUR,2012,Stockholm,0.0,America,South America,Republic of Suriname,0.0
+SUR,2017,Stockholm,0.0,America,South America,Republic of Suriname,0.0
+SUR,2022,Stockholm,0.0,America,South America,Republic of Suriname,0.0
+SVK,2007,Stockholm,59.998,Europe,Eastern Europe,Slovak Republic,0.59998
+SVK,2012,Stockholm,59.998,Europe,Eastern Europe,Slovak Republic,0.59998
+SVK,2017,Stockholm,59.998,Europe,Eastern Europe,Slovak Republic,0.59998
+SVK,2022,Stockholm,25.0,Europe,Eastern Europe,Slovak Republic,0.25
+SVN,2007,Stockholm,100.0,Europe,Southern Europe,Republic of Slovenia,1.0
+SVN,2012,Stockholm,100.0,Europe,Southern Europe,Republic of Slovenia,1.0
+SVN,2017,Stockholm,100.0,Europe,Southern Europe,Republic of Slovenia,1.0
+SVN,2022,Stockholm,100.0,Europe,Southern Europe,Republic of Slovenia,1.0
+SWE,2007,Stockholm,95.0,Europe,Northern Europe,Kingdom of Sweden,0.95
+SWE,2012,Stockholm,95.0,Europe,Northern Europe,Kingdom of Sweden,0.95
+SWE,2017,Stockholm,95.0,Europe,Northern Europe,Kingdom of Sweden,0.95
+SWE,2022,Stockholm,87.5,Europe,Northern Europe,Kingdom of Sweden,0.875
+SWZ,2007,Stockholm,0.0,Africa,Southern Africa,Kingdom of Eswatini,0.0
+SWZ,2012,Stockholm,0.0,Africa,Southern Africa,Kingdom of Eswatini,0.0
+SWZ,2017,Stockholm,0.0,Africa,Southern Africa,Kingdom of Eswatini,0.0
+SWZ,2022,Stockholm,0.0,Africa,Southern Africa,Kingdom of Eswatini,0.0
+SXM,2007,Stockholm,0.0,America,Caribbean,Sint Maarten (Dutch part),0.0
+SXM,2012,Stockholm,0.0,America,Caribbean,Sint Maarten (Dutch part),0.0
+SXM,2017,Stockholm,0.0,America,Caribbean,Sint Maarten (Dutch part),0.0
+SXM,2022,Stockholm,0.0,America,Caribbean,Sint Maarten (Dutch part),0.0
+SYC,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Seychelles,0.0
+SYC,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Seychelles,0.0
+SYC,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Seychelles,0.0
+SYC,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Seychelles,0.0
+SYR,2007,Stockholm,0.0,Asia,Western Asia,Syrian Arab Republic,0.0
+SYR,2012,Stockholm,0.0,Asia,Western Asia,Syrian Arab Republic,0.0
+SYR,2017,Stockholm,0.0,Asia,Western Asia,Syrian Arab Republic,0.0
+SYR,2022,Stockholm,0.0,Asia,Western Asia,Syrian Arab Republic,0.0
+TCA,2007,Stockholm,0.0,America,Caribbean,Turks and Caicos Islands,0.0
+TCA,2012,Stockholm,0.0,America,Caribbean,Turks and Caicos Islands,0.0
+TCA,2017,Stockholm,0.0,America,Caribbean,Turks and Caicos Islands,0.0
+TCA,2022,Stockholm,0.0,America,Caribbean,Turks and Caicos Islands,0.0
+TCD,2007,Stockholm,0.0,Africa,Middle Africa,Republic of Chad,0.0
+TCD,2012,Stockholm,0.0,Africa,Middle Africa,Republic of Chad,0.0
+TCD,2017,Stockholm,0.0,Africa,Middle Africa,Republic of Chad,0.0
+TCD,2022,Stockholm,0.0,Africa,Middle Africa,Republic of Chad,0.0
+TGO,2007,Stockholm,0.0,Africa,Western Africa,Togolese Republic,0.0
+TGO,2012,Stockholm,0.0,Africa,Western Africa,Togolese Republic,0.0
+TGO,2017,Stockholm,0.0,Africa,Western Africa,Togolese Republic,0.0
+TGO,2022,Stockholm,0.0,Africa,Western Africa,Togolese Republic,0.0
+THA,2007,Stockholm,0.0,Asia,South-eastern Asia,Kingdom of Thailand,0.0
+THA,2012,Stockholm,0.0,Asia,South-eastern Asia,Kingdom of Thailand,0.0
+THA,2017,Stockholm,0.0,Asia,South-eastern Asia,Kingdom of Thailand,0.0
+THA,2022,Stockholm,0.0,Asia,South-eastern Asia,Kingdom of Thailand,0.0
+TJK,2007,Stockholm,45.0,Asia,Central Asia,Republic of Tajikistan,0.45
+TJK,2012,Stockholm,45.0,Asia,Central Asia,Republic of Tajikistan,0.45
+TJK,2017,Stockholm,45.0,Asia,Central Asia,Republic of Tajikistan,0.45
+TJK,2022,Stockholm,37.5,Asia,Central Asia,Republic of Tajikistan,0.375
+TKM,2007,Stockholm,0.0,Asia,Central Asia,Turkmenistan,0.0
+TKM,2012,Stockholm,0.0,Asia,Central Asia,Turkmenistan,0.0
+TKM,2017,Stockholm,0.0,Asia,Central Asia,Turkmenistan,0.0
+TKM,2022,Stockholm,0.0,Asia,Central Asia,Turkmenistan,0.0
+TLS,2007,Stockholm,0.0,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.0
+TLS,2012,Stockholm,0.0,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.0
+TLS,2017,Stockholm,0.0,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.0
+TLS,2022,Stockholm,0.0,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.0
+TON,2007,Stockholm,0.0,Oceania,Polynesia,Kingdom of Tonga,0.0
+TON,2012,Stockholm,0.0,Oceania,Polynesia,Kingdom of Tonga,0.0
+TON,2017,Stockholm,0.0,Oceania,Polynesia,Kingdom of Tonga,0.0
+TON,2022,Stockholm,0.0,Oceania,Polynesia,Kingdom of Tonga,0.0
+TTO,2007,Stockholm,0.0,America,Caribbean,Republic of Trinidad and Tobago,0.0
+TTO,2012,Stockholm,0.0,America,Caribbean,Republic of Trinidad and Tobago,0.0
+TTO,2017,Stockholm,0.0,America,Caribbean,Republic of Trinidad and Tobago,0.0
+TTO,2022,Stockholm,0.0,America,Caribbean,Republic of Trinidad and Tobago,0.0
+TUN,2007,Stockholm,0.0,Africa,Northern Africa,Republic of Tunisia,0.0
+TUN,2012,Stockholm,0.0,Africa,Northern Africa,Republic of Tunisia,0.0
+TUN,2017,Stockholm,0.0,Africa,Northern Africa,Republic of Tunisia,0.0
+TUN,2022,Stockholm,0.0,Africa,Northern Africa,Republic of Tunisia,0.0
+TUR,2007,Stockholm,60.0,Asia,Western Asia,Republic of Türkiye,0.6
+TUR,2012,Stockholm,60.0,Asia,Western Asia,Republic of Türkiye,0.6
+TUR,2017,Stockholm,60.0,Asia,Western Asia,Republic of Türkiye,0.6
+TUR,2022,Stockholm,75.0,Asia,Western Asia,Republic of Türkiye,0.75
+TUV,2007,Stockholm,0.0,Oceania,Polynesia,Tuvalu,0.0
+TUV,2012,Stockholm,0.0,Oceania,Polynesia,Tuvalu,0.0
+TUV,2017,Stockholm,0.0,Oceania,Polynesia,Tuvalu,0.0
+TUV,2022,Stockholm,0.0,Oceania,Polynesia,Tuvalu,0.0
+TZA,2007,Stockholm,0.0,Africa,Eastern Africa,United Republic of Tanzania,0.0
+TZA,2012,Stockholm,0.0,Africa,Eastern Africa,United Republic of Tanzania,0.0
+TZA,2017,Stockholm,0.0,Africa,Eastern Africa,United Republic of Tanzania,0.0
+TZA,2022,Stockholm,0.0,Africa,Eastern Africa,United Republic of Tanzania,0.0
+UGA,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Uganda,0.0
+UGA,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Uganda,0.0
+UGA,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Uganda,0.0
+UGA,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Uganda,0.0
+UKR,2007,Stockholm,55.002,Europe,Eastern Europe,Ukraine,0.5500200000000001
+UKR,2012,Stockholm,55.002,Europe,Eastern Europe,Ukraine,0.5500200000000001
+UKR,2017,Stockholm,55.002,Europe,Eastern Europe,Ukraine,0.5500200000000001
+UKR,2022,Stockholm,37.5,Europe,Eastern Europe,Ukraine,0.375
+URY,2007,Stockholm,0.0,America,South America,Oriental Republic of Uruguay,0.0
+URY,2012,Stockholm,0.0,America,South America,Oriental Republic of Uruguay,0.0
+URY,2017,Stockholm,0.0,America,South America,Oriental Republic of Uruguay,0.0
+URY,2022,Stockholm,0.0,America,South America,Oriental Republic of Uruguay,0.0
+USA,2007,Stockholm,66.67,America,Northern America,United States of America,0.6667000000000001
+USA,2012,Stockholm,66.67,America,Northern America,United States of America,0.6667000000000001
+USA,2017,Stockholm,66.67,America,Northern America,United States of America,0.6667000000000001
+USA,2022,Stockholm,66.67,America,Northern America,United States of America,0.6667000000000001
+UZB,2007,Stockholm,0.0,Asia,Central Asia,Republic of Uzbekistan,0.0
+UZB,2012,Stockholm,0.0,Asia,Central Asia,Republic of Uzbekistan,0.0
+UZB,2017,Stockholm,0.0,Asia,Central Asia,Republic of Uzbekistan,0.0
+UZB,2022,Stockholm,0.0,Asia,Central Asia,Republic of Uzbekistan,0.0
+VCT,2007,Stockholm,0.0,America,Caribbean,Saint Vincent and the Grenadines,0.0
+VCT,2012,Stockholm,0.0,America,Caribbean,Saint Vincent and the Grenadines,0.0
+VCT,2017,Stockholm,0.0,America,Caribbean,Saint Vincent and the Grenadines,0.0
+VCT,2022,Stockholm,0.0,America,Caribbean,Saint Vincent and the Grenadines,0.0
+VEN,2007,Stockholm,0.0,America,South America,Bolivarian Republic of Venezuela,0.0
+VEN,2012,Stockholm,0.0,America,South America,Bolivarian Republic of Venezuela,0.0
+VEN,2017,Stockholm,0.0,America,South America,Bolivarian Republic of Venezuela,0.0
+VEN,2022,Stockholm,0.0,America,South America,Bolivarian Republic of Venezuela,0.0
+VGB,2007,Stockholm,0.0,America,Caribbean,British Virgin Islands,0.0
+VGB,2012,Stockholm,0.0,America,Caribbean,British Virgin Islands,0.0
+VGB,2017,Stockholm,0.0,America,Caribbean,British Virgin Islands,0.0
+VGB,2022,Stockholm,0.0,America,Caribbean,British Virgin Islands,0.0
+VIR,2007,Stockholm,0.0,America,Caribbean,Virgin Islands of the United States,0.0
+VIR,2012,Stockholm,0.0,America,Caribbean,Virgin Islands of the United States,0.0
+VIR,2017,Stockholm,0.0,America,Caribbean,Virgin Islands of the United States,0.0
+VIR,2022,Stockholm,0.0,America,Caribbean,Virgin Islands of the United States,0.0
+VNM,2007,Stockholm,0.0,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.0
+VNM,2012,Stockholm,0.0,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.0
+VNM,2017,Stockholm,0.0,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.0
+VNM,2022,Stockholm,0.0,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.0
+VUT,2007,Stockholm,0.0,Oceania,Melanesia,Republic of Vanuatu,0.0
+VUT,2012,Stockholm,0.0,Oceania,Melanesia,Republic of Vanuatu,0.0
+VUT,2017,Stockholm,0.0,Oceania,Melanesia,Republic of Vanuatu,0.0
+VUT,2022,Stockholm,0.0,Oceania,Melanesia,Republic of Vanuatu,0.0
+WSM,2007,Stockholm,0.0,Oceania,Polynesia,Independent State of Samoa,0.0
+WSM,2012,Stockholm,0.0,Oceania,Polynesia,Independent State of Samoa,0.0
+WSM,2017,Stockholm,0.0,Oceania,Polynesia,Independent State of Samoa,0.0
+WSM,2022,Stockholm,0.0,Oceania,Polynesia,Independent State of Samoa,0.0
+XKX,2007,Stockholm,0.0,Europe,Southern Europe,Republic of Kosovo,0.0
+XKX,2012,Stockholm,0.0,Europe,Southern Europe,Republic of Kosovo,0.0
+XKX,2017,Stockholm,0.0,Europe,Southern Europe,Republic of Kosovo,0.0
+XKX,2022,Stockholm,0.0,Europe,Southern Europe,Republic of Kosovo,0.0
+YEM,2007,Stockholm,0.0,Asia,Western Asia,Republic of Yemen,0.0
+YEM,2012,Stockholm,0.0,Asia,Western Asia,Republic of Yemen,0.0
+YEM,2017,Stockholm,0.0,Asia,Western Asia,Republic of Yemen,0.0
+YEM,2022,Stockholm,0.0,Asia,Western Asia,Republic of Yemen,0.0
+ZAF,2007,Stockholm,0.0,Africa,Southern Africa,Republic of South Africa,0.0
+ZAF,2012,Stockholm,0.0,Africa,Southern Africa,Republic of South Africa,0.0
+ZAF,2017,Stockholm,0.0,Africa,Southern Africa,Republic of South Africa,0.0
+ZAF,2022,Stockholm,0.0,Africa,Southern Africa,Republic of South Africa,0.0
+ZMB,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Zambia,0.0
+ZMB,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Zambia,0.0
+ZMB,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Zambia,0.0
+ZMB,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Zambia,0.0
+ZWE,2007,Stockholm,0.0,Africa,Eastern Africa,Republic of Zimbabwe,0.0
+ZWE,2012,Stockholm,0.0,Africa,Eastern Africa,Republic of Zimbabwe,0.0
+ZWE,2017,Stockholm,0.0,Africa,Eastern Africa,Republic of Zimbabwe,0.0
+ZWE,2022,Stockholm,0.0,Africa,Eastern Africa,Republic of Zimbabwe,0.0
