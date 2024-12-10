@@ -11,9 +11,99 @@ import pandas as pd
 import plotly.express as px
 from EJ_indicator import read_dims, calc_EJ_index, DIMS
 import io
-
-
 import numpy as np
+import json
+
+
+DESCRIPTIONS = {
+    "Red List Index": """
+    The ** Red List Index ** measures trends in species' extinction risk on a scale from 0 to 1, where 1 means no species are at risk, and 0 means all species are extinct. It includes mammals, birds, cycads, amphibians, and corals, with regional and national indices weighted by species' distribution. Linked to SDG Goal 15, specifically Target 15.5, it tracks progress in halting biodiversity loss, reducing habitat degradation, and preventing species extinction, aligning with efforts to protect and restore ecosystems.
+""",
+    "Mortality": """
+SDG Indicator 3.9.1 measures the age-standardized **mortality** rate (per 100,000 population) caused by household and **ambient air pollution**. It highlights the health impact of air quality, tracking deaths linked to exposure to harmful pollutants. This indicator supports SDG Goal 3 by monitoring progress in reducing preventable deaths from environmental health risks, emphasizing the need for clean air initiatives to improve public health. 
+
+*Note: Due to data limitations, values for 2007 are approximated using 2010 data, and values for 2022 are approximated using 2019 data*.
+""",
+    "Educational Index": """
+The **education component of the Human Development Index (HDI)** measures the average and expected years of schooling to assess both current achievements and future potential in education. Average years of schooling reflect the education level of adults aged 25 and older, while expected years of schooling estimate the total education a child entering school is likely to receive based on current enrollment rates. This indicator provides a comprehensive view of educational attainment and its contribution to human development.
+""",
+    "GHG Emission per capita": """
+The **per capita consumption-based CO₂ emissions** measures the CO₂ emissions tied to the goods and services consumed by the average person in a country, rather than where those goods are produced. It adjusts production-based emissions by subtracting emissions from exports and adding those from imports, providing a clear picture of a citizen's carbon impact. This excludes emissions from land use, deforestation, and international aviation or shipping, focusing on consumption-related emissions.
+""",
+    "Waste Management": """
+**Waste Management** measures a country's commitment to sustainable waste practices by combining three components: compliance with two international conventions under SDG 12 (the Basel Convention on hazardous waste and the Stockholm Convention on persistent organic pollutants), each contributing 25% to the score, and the percentage of municipal waste recycled, accounting for 50%. Ratification of each convention gives a country 100 points, while non-ratification scores 0. Recycling reflects the share of household and business waste collected and recycled by local authorities. 
+
+*Note: For the two conventions, 2015 data was used for 2017, and 2022 data was used for 2020.*
+""",
+    "EJ Events": """
+**Cumulative unresolved Environmental Justice events** measures the share of unresolved environmental justice events by country, based on cumulative data filtered to exclude stopped projects and events with known end dates. It highlights the distribution of verified environmental justice conflicts from historical records up to 2022, ranking countries by their share of the total unresolved cases. This indicator sheds light on the ten most affected countries, emphasizing persistent socio-environmental injustices globally.
+""",
+    "Climate Disaster": """
+**Climate disaster damages** measures the economic impact of climate-related disasters, including climatological, hydrological, and meteorological events. It aggregates the total damages in adjusted thousands of US dollars, focusing on events since 2000. The indicator also tracks trends using a 5-year moving average, offering insights into the financial burden of these disasters over time at both country and regional levels.
+""",
+    "Protected Areas": """
+**Forest coverage and management sustainability index** measures the combined progress in forest area preservation and sustainable forest management practices, providing a holistic view of forest health. It averages the proportion of land covered by forests and a composite measure of sustainable management practices. 
+
+*Note: Data for 2007 and 2012 were interpolated using values from 2005 and 2010, and 2010 and 2015, respectively, while 2022 values rely on data from 2020 due to limited availability.*
+""",
+    "Fossil Subsidies": """
+**Total fossil fuel subsidies as a percentage of GDP** measures the level of government support for fossil fuels, including both direct subsidies and implicit subsidies such as underpricing of environmental externalities like pollution and climate change impacts. By expressing these subsidies as a percentage of GDP, this indicator highlights the economic scale of fossil fuel support and its implications for sustainability and energy policy. Note: Due to data limitations, values for 2007 and 2012 were assumed to be the same as 2015 in the absence of older data.
+""",
+"EJ Index": """
+** Environmental Justice Index** is an indication of bla bla bla bla bla.
+"""
+}
+
+
+# Load JSON file into a dictionary
+with open('metadata.json', 'r') as json_file:
+    metadata = json.load(json_file)
+
+
+
+def build_hover(df,metadata):
+
+    hover_text = []
+
+    for row,vals in df.iterrows():
+        indicator = vals.Indicator
+        country = vals.name_official
+        region = vals.UNregion
+        macro_category = metadata[indicator]["dimension"]
+        normalized_value = round(vals.Normalized,3)
+        unit = metadata[indicator]["unit"]
+        absolute_value = round(vals.Value,3)
+        text = f"""
+    - {macro_category} <br>
+    - {country} ({region}) <br>
+    - Normalized value: {normalized_value} <br>
+    - Absolute value: {absolute_value} [{unit}]
+    """
+
+
+        hover_text.append(text)
+
+    return hover_text
+
+def build_ej_hover(df,x,y,z):
+    x = round(x*100,0)
+    y = round(y*100,0)
+    z = round(z*100,0)
+
+    hover_text = []
+    for row,vals in df.iterrows():
+        country = vals.name_official
+        region = vals.UNregion
+        normalized_value = round(vals.Normalized,3)
+        text = f"""
+    - {country} ({region}) <br>
+    - Normalized value: {normalized_value} <br>
+    - Common goods ({x}%), Human rights ({y}%), Sustainability ({z}%)
+    """
+        
+        hover_text.append(text)
+    
+    return hover_text
 
 MARKS = np.arange(0, 1.1, 0.1).tolist()
 
@@ -35,7 +125,8 @@ EJ = calc_EJ_index(
 
 # Load the dataset
 try:
-    df = load_all_data()  # Replace 'data.csv' with your file path
+    df = load_all_data()
+
 except Exception as e:
     print(f"Error loading CSV: {e}")
     df = pd.DataFrame(
@@ -51,17 +142,11 @@ except Exception as e:
         ]
     )
 
+df["hover_text"] = build_hover(df,metadata)
+
 REGIONS = [{"label": "World", "value": "World"}]
 for val in df.continent.unique():
     REGIONS.append({"label": val, "value": val})
-# %%
-# Customize hover text
-# df["Country"] = df.apply(
-#     lambda row: f"Country: {row['name_official']}<br>Value: {row['Value']:.3f}", axis=1
-# )
-
-df["Country"] = df.apply(lambda row: f" {row['name_official']}", axis=1)
-
 
 # %%
 # Initialize Dash app
@@ -77,6 +162,7 @@ indicators = df["Indicator"].unique().tolist() if not df.empty else []
 indicators.insert(0, "EJ Index")
 
 EXPLANATIONS = {k: LOREM_IPSUM for k in indicators}
+
 
 # App layout
 app.layout = html.Div(
@@ -167,6 +253,7 @@ app.layout = html.Div(
                                 "margin-top": "20px",
                             },  # Dynamic size
                         ),
+                        html.Div(id="soure-box", className="indicator-explanation"),
                     ],
                 ),
                 # Sliders in a styled container
@@ -180,6 +267,7 @@ app.layout = html.Div(
                     ],
                     style={"display": "none"},
                 ),  # Initially hidden
+                
             ],
         ),
     ]
@@ -216,11 +304,13 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
         filtered_df["Country"] = filtered_df.apply(
             lambda row: f"{row['name_official']}", axis=1
         )
+
+        filtered_df["hover_text"] = build_ej_hover(filtered_df,x_value,y_value,z_value)
         HOVER_COLS = []
 
     else:
         filtered_df = df[df["Indicator"] == selected_indicator]
-        HOVER_COLS = ["Value"]
+        HOVER_COLS = []
 
     if filtered_df.empty:
         return px.choropleth()  # Return an empty figure if no data matches
@@ -242,7 +332,7 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
         animation_frame="Year",  # Animation by year
         projection="natural earth",
         hover_data=hover_data,
-        hover_name="name_official",
+        hover_name="hover_text",
         color_continuous_scale=[
             (0.0, "red"),  # Red at 0
             (0.5, "yellow"),  # Yellow at 0.5
@@ -299,7 +389,7 @@ def download_data(n_clicks, selected_indicator, x_value, y_value, z_value):
             },
         )
     else:
-        filtered_df = df[df["Indicator"] == selected_indicator]
+        filtered_df = df[df["Indicator"] == selected_indicator].drop("hover_text",errors="ignore",axis=1)
 
     # Use dcc.send_data_frame directly with the DataFrame
     return dcc.send_data_frame(
@@ -419,10 +509,32 @@ def toggle_sliders(selected_indicator):
 def update_explanation(selected_indicator):
     if not selected_indicator:
         return "Please select an indicator to view its explanation."
-    return EXPLANATIONS.get(
+    explanation = DESCRIPTIONS.get(
         selected_indicator, "Explanation not available for the selected indicator."
     )
 
+    return dcc.Markdown(explanation, className="bold-text")
+
+@app.callback(
+    Output("soure-box","children"),Input("indicator-dropdown", "value")
+)
+def update_source_links(selected_indicator):
+
+    if selected_indicator == "EJ Index":
+        return None
+
+    source = metadata[selected_indicator]["source"]
+    link = metadata[selected_indicator]["link"]
+
+    text = f"""
+Source: *{source}*
+
+Link: *{link}*
+
+"""
+    return dcc.Markdown(
+        text,
+    )
 
 # Run the app
 if __name__ == "__main__":

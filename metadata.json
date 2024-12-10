@@ -1,0 +1,85 @@
+{
+    "Red List Index": {
+      "indicator_code": "REDLIST",
+      "short_name": "Red List Index",
+      "long_name": "Red List Index",
+      "unit": "",
+      "source": "BirdLife International and IUCN – processed by Our World in Data",
+      "link": "https://ourworldindata.org/grapher/red-list-index",
+      "dimension": "Common goods"
+    },
+    "Mortality": {
+      "indicator_code": "MORTALITY",
+      "short_name": "Air pollution morality",
+      "long_name": "Ambient and household air pollution attributable death rate",
+      "unit": "number of deaths per 100'000 people per year",
+      "source": "World Health Organization (WHO)",
+      "link": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/ambient-and-household-air-pollution-attributable-death-rate-(per-100-000-population-age-standardized)",
+      "dimension": "Human rights"
+    },
+    "Educational Index": {
+      "indicator_code": "EDU",
+      "short_name": "Education index",
+      "long_name": "Education in average and expected years of schooling (HDI component)",
+      "unit": "None (do not display any unit of measure)",
+      "source": "United Nations Development Programme (UNDP)",
+      "link": "https://hdr.undp.org/sites/default/files/2023-24_HDR/HDR23-24_Composite_indices_complete_time_series.csv",
+      "dimension": "Human rights"
+    },
+    "GHG Emission per capita": {
+      "indicator_code": "GHGPC",
+      "short_name": "Citizen carbon footprint",
+      "long_name": "Per capita consumption-based CO₂ emissions",
+      "unit": "metric tons of CO₂ per capita per year",
+      "source": "Global Carbon Budget – processed by Our World in Data",
+      "link": "https://ourworldindata.org/grapher/consumption-co2-per-capita",
+      "dimension": "Sustainability"
+    },
+    "Waste Management": {
+      "indicator_code": "WASTEMGMT",
+      "short_name": "Waste management",
+      "long_name": "Stockholm convention",
+      "unit": "None (do not display any unit of measure)",
+      "source": "United Nations Economic Commission for Europe (UNECE)",
+      "link": "https://w3.unece.org/SDG/en/Indicator?id=58",
+      "dimension": "Sustainability"
+    },
+    "EJ Events": {
+      "indicator_code": "EJCONFLICT",
+      "short_name": "EJ events",
+      "long_name": "Cumulative unresolved Environmental Justice events",
+      "unit": "%",
+      "source": "EJ Atlas",
+      "link": "Ej Atlas",
+      "dimension": "Common goods"
+    },
+    "Climate Disaster": {
+      "indicator_code": "CCDAMAGE",
+      "short_name": "Climate disaster",
+      "long_name": "Climate disaster damages",
+      "unit": "thousands of US dollars",
+      "source": "EM-DATA",
+      "link": "https://doc.emdat.be/docs/",
+      "dimension": "Common goods"
+    },
+    "Protected Areas": {
+      "indicator_code": "PROTDAREAS",
+      "short_name": "Protected forests",
+      "long_name": "Forest coverage and management sustainability index",
+      "unit": "%",
+      "source": "Food and Agriculture Organization (FAO)",
+      "link": "https://de-public-statsuite.fao.org/vis?df[ds]=ds-release&df[id]=DF_AG_LND_FRSTPRCT_1521&df[ag]=FAO&df[vs]=1.0&dq=A...........&pd=2000%2C2020&to[TIME_PERIOD]=false&ly[cl]=TIME_PERIOD&ly[rw]=REF_AREA&vw=tb",
+      "dimension": "Common goods"
+    },
+
+    "Fossil Subsidies": {
+        "indicator_code": "FFSUBSINV",
+        "short_name": "Total fossil fuel subsidies as a percentage of GDP",
+        "long_name": "Total fossil fuel subsidies as a percentage of GDP",
+        "unit": "% of country's GDP",
+        "source": "International Monetary Fund (IMF)",
+        "link": "https://www.imf.org/en/Topics/climate-change/energy-subsidies",
+        "dimension": "Sustainability"
+    }
+  }
+  
