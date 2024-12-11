@@ -15,6 +15,8 @@ import numpy as np
 import json
 
 
+
+
 DESCRIPTIONS = {
     "Red List Index": """
     The ** Red List Index ** measures trends in species' extinction risk on a scale from 0 to 1, where 1 means no species are at risk, and 0 means all species are extinct. It includes mammals, birds, cycads, amphibians, and corals, with regional and national indices weighted by species' distribution. Linked to SDG Goal 15, specifically Target 15.5, it tracks progress in halting biodiversity loss, reducing habitat degradation, and preventing species extinction, aligning with efforts to protect and restore ecosystems.
@@ -50,7 +52,11 @@ The **per capita consumption-based CO₂ emissions** measures the CO₂ emission
 **Total fossil fuel subsidies as a percentage of GDP** measures the level of government support for fossil fuels, including both direct subsidies and implicit subsidies such as underpricing of environmental externalities like pollution and climate change impacts. By expressing these subsidies as a percentage of GDP, this indicator highlights the economic scale of fossil fuel support and its implications for sustainability and energy policy. Note: Due to data limitations, values for 2007 and 2012 were assumed to be the same as 2015 in the absence of older data.
 """,
 "EJ Index": """
-** Environmental Justice Index** is an indication of bla bla bla bla bla.
+** Environmental Justice Index** is a synthetic index aims at measuring the relative enviromental justice across the world. The indicator is calcuated as a weighted average of indicators for three dimensions:
+
+- **Human Rights**:  measured as an average of *"Mortality","Educational Index", and "Protected Areas"*
+- **Common Goods**:  measured as an average of *"Red List Index","EJ Events", and "Climate Disaster"*
+- **Sustainability**: measured as an average of *"GHG Emission per capita","Waste Management", and "Fossil Subsidies"*
 """
 }
 
@@ -59,6 +65,18 @@ The **per capita consumption-based CO₂ emissions** measures the CO₂ emission
 with open('metadata.json', 'r') as json_file:
     metadata = json.load(json_file)
 
+
+def calc_slider_vals(x_value,y_value,z_value):
+    if (x_value + y_value) >= 1:
+        if x_value >= y_value:
+            y_value = 1 - x_value
+        else:
+            x_value = 1 - y_value
+
+    # Calculate z-slider value dynamically
+    z_value = 1 - x_value - y_value
+
+    return x_value,y_value,z_value
 
 
 def build_hover(df,metadata):
@@ -86,19 +104,24 @@ def build_hover(df,metadata):
     return hover_text
 
 def build_ej_hover(df,x,y,z):
-    x = round(x*100,0)
-    y = round(y*100,0)
-    z = round(z*100,0)
+
+    x,y,z = calc_slider_vals(x,y,z)
 
     hover_text = []
     for row,vals in df.iterrows():
         country = vals.name_official
         region = vals.UNregion
         normalized_value = round(vals.Normalized,3)
+        # x = round(x*normalized_value,3)
+        # y = round(y*normalized_value,3)
+        # z = round(z*normalized_value,3)
         text = f"""
     - {country} ({region}) <br>
-    - Normalized value: {normalized_value} <br>
-    - Common goods ({x}%), Human rights ({y}%), Sustainability ({z}%)
+    - Normalized value: {normalized_value} <br><br>
+    <b>Dimensions</b><br>
+    - Common goods ({round(x*normalized_value,3)}) <br>
+    - Human rights ({round(y*normalized_value,3)}) <br>
+    - Sustainability ({round(z*normalized_value,3)}) <br>
     """
         
         hover_text.append(text)
@@ -167,6 +190,7 @@ EXPLANATIONS = {k: LOREM_IPSUM for k in indicators}
 # App layout
 app.layout = html.Div(
     [
+
         # Top Banner
         html.Div(
             className="study-browser-banner",
@@ -289,6 +313,7 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
     if not selected_indicator:
         return px.choropleth()  # Return an empty figure if no indicator is selected
 
+    x_value, y_value, z_value = calc_slider_vals(x_value, y_value, z_value)
     # Filter data based on the selected indicator
 
     if selected_indicator == "EJ Index":
@@ -363,6 +388,15 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
         height=800,
     )
 
+    fig.update_layout(
+    sliders=[
+        {
+            "active": 3,  # Index for 2022 (adjust based on your actual data)
+            "currentvalue": {"prefix": "Year: "},
+        }
+    ]
+)
+
     return fig
 
 
@@ -414,14 +448,7 @@ def download_data(n_clicks, selected_indicator, x_value, y_value, z_value):
 def render_sliders(selected_indicator, x_value, y_value):
     if selected_indicator == "EJ Index":
 
-        if (x_value + y_value) >= 1:
-            if x_value >= y_value:
-                y_value = 1 - x_value
-            else:
-                x_value = 1 - y_value
-
-        # Calculate z-slider value dynamically
-        z_value = 1 - x_value - y_value
+        x_value, y_value, z_value = calc_slider_vals(x_value, y_value,0)
 
         marks = {k: f"{round(k,1)}" for k in MARKS}
 
@@ -535,6 +562,7 @@ Link: *{link}*
     return dcc.Markdown(
         text,
     )
+
 
 # Run the app
 if __name__ == "__main__":
