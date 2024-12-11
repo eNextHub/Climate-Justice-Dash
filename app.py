@@ -103,15 +103,17 @@ def build_hover(df,metadata):
 
     return hover_text
 
-def build_ej_hover(df,x,y,z):
+def build_ej_hover(df,dims):
 
-    x,y,z = calc_slider_vals(x,y,z)
-
+    
     hover_text = []
     for row,vals in df.iterrows():
         country = vals.name_official
         region = vals.UNregion
         normalized_value = round(vals.Normalized,3)
+        common_goods = dims["Common goods"].loc[row,"Normalized"]
+        human_right = dims["Human rights"].loc[row,"Normalized"]
+        sustainability = dims["Sustainability"].loc[row,"Normalized"]
         # x = round(x*normalized_value,3)
         # y = round(y*normalized_value,3)
         # z = round(z*normalized_value,3)
@@ -119,9 +121,9 @@ def build_ej_hover(df,x,y,z):
     - {country} ({region}) <br>
     - Normalized value: {normalized_value} <br><br>
     <b>Dimensions</b><br>
-    - Common goods ({round(x*normalized_value,3)}) <br>
-    - Human rights ({round(y*normalized_value,3)}) <br>
-    - Sustainability ({round(z*normalized_value,3)}) <br>
+    - Common goods ({round(common_goods,3)}) <br>
+    - Human rights ({round(human_right,3)}) <br>
+    - Sustainability ({round(sustainability,3)}) <br>
     """
         
         hover_text.append(text)
@@ -330,7 +332,7 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
             lambda row: f"{row['name_official']}", axis=1
         )
 
-        filtered_df["hover_text"] = build_ej_hover(filtered_df,x_value,y_value,z_value)
+        filtered_df["hover_text"] = build_ej_hover(filtered_df,dims)
         HOVER_COLS = []
 
     else:
