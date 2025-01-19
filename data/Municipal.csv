@@ -1,861 +1,861 @@
-Region,Year,Indicator,Value,continent,UNregion,name_official,Normalized
-AFG,2007,Municipal,3882.0699999999997,Asia,Southern Asia,Islamic Republic of Afghanistan,2.810489408729156e-05
-AFG,2012,Municipal,3882.0699999999997,Asia,Southern Asia,Islamic Republic of Afghanistan,2.810489408729156e-05
-AFG,2017,Municipal,3227.7999999999997,Asia,Southern Asia,Islamic Republic of Afghanistan,2.3368197156403593e-05
-AFG,2022,Municipal,3227.7999999999997,Asia,Southern Asia,Islamic Republic of Afghanistan,2.3368197156403593e-05
-AGO,2007,Municipal,40181.0,Africa,Middle Africa,Republic of Angola,0.0002908970598988329
-AGO,2012,Municipal,40181.0,Africa,Middle Africa,Republic of Angola,0.0002908970598988329
-AGO,2017,Municipal,40181.0,Africa,Middle Africa,Republic of Angola,0.0002908970598988329
-AGO,2022,Municipal,40181.0,Africa,Middle Africa,Republic of Angola,0.0002908970598988329
-ALB,2007,Municipal,1661818.1818181819,Europe,Southern Europe,Republic of Albania,0.012031010258015808
-ALB,2012,Municipal,1891272.7272727273,Europe,Southern Europe,Republic of Albania,0.013692184759724337
-ALB,2017,Municipal,2323818.1818181816,Europe,Southern Europe,Republic of Albania,0.016823669814846832
-ALB,2022,Municipal,2323818.1818181816,Europe,Southern Europe,Republic of Albania,0.016823669814846832
-AND,2007,Municipal,0.0,Europe,Southern Europe,Principality of Andorra,0.0
-AND,2012,Municipal,0.0,Europe,Southern Europe,Principality of Andorra,0.0
-AND,2017,Municipal,0.0,Europe,Southern Europe,Principality of Andorra,0.0
-AND,2022,Municipal,0.0,Europe,Southern Europe,Principality of Andorra,0.0
-ARE,2007,Municipal,686857.7,Asia,Western Asia,United Arab Emirates,0.004972621027323227
-ARE,2012,Municipal,686857.7,Asia,Western Asia,United Arab Emirates,0.004972621027323227
-ARE,2017,Municipal,1350728.0,Asia,Western Asia,United Arab Emirates,0.009778820933352349
-ARE,2022,Municipal,1350728.0,Asia,Western Asia,United Arab Emirates,0.009778820933352349
-ARG,2007,Municipal,342099.05,America,South America,Argentine Republic,0.0024766832044793266
-ARG,2012,Municipal,382973.8333333333,America,South America,Argentine Republic,0.0027726030246846096
-ARG,2017,Municipal,382973.8333333333,America,South America,Argentine Republic,0.0027726030246846096
-ARG,2022,Municipal,382973.8333333333,America,South America,Argentine Republic,0.0027726030246846096
-ARM,2007,Municipal,716418.7,Asia,Western Asia,Republic of Armenia,0.005186632823636643
-ARM,2012,Municipal,713118.7,Asia,Western Asia,Republic of Armenia,0.005162741922522532
-ARM,2017,Municipal,651431.98,Asia,Western Asia,Republic of Armenia,0.00471615061113649
-ARM,2022,Municipal,651431.98,Asia,Western Asia,Republic of Armenia,0.00471615061113649
-ASM,2007,Municipal,3165.75,Oceania,Polynesia,American Samoa,2.2918975818788237e-05
-ASM,2012,Municipal,3165.75,Oceania,Polynesia,American Samoa,2.2918975818788237e-05
-ASM,2017,Municipal,3165.75,Oceania,Polynesia,American Samoa,2.2918975818788237e-05
-ASM,2022,Municipal,3165.75,Oceania,Polynesia,American Samoa,2.2918975818788237e-05
-ATG,2007,Municipal,34617286.75,America,Caribbean,Antigua and Barbuda,0.25061762866155207
-ATG,2012,Municipal,34589061.75,America,Caribbean,Antigua and Barbuda,0.25041328906035637
-ATG,2017,Municipal,3525820.75,America,Caribbean,Antigua and Barbuda,0.02552576814676832
-ATG,2022,Municipal,3525820.75,America,Caribbean,Antigua and Barbuda,0.02552576814676832
-AUS,2007,Municipal,4004599.0,Oceania,Australia and New Zealand,Commonwealth of Australia,0.02899196324565855
-AUS,2012,Municipal,4313667.0,Oceania,Australia and New Zealand,Commonwealth of Australia,0.031229512647336272
-AUS,2017,Municipal,3094730.0,Oceania,Australia and New Zealand,Commonwealth of Australia,0.022404814668144524
-AUS,2022,Municipal,3094730.0,Oceania,Australia and New Zealand,Commonwealth of Australia,0.022404814668144524
-AUT,2007,Municipal,2979000.0,Europe,Western Europe,Republic of Austria,0.02156696800573961
-AUT,2012,Municipal,2818000.0,Europe,Western Europe,Republic of Austria,0.020401381618051096
-AUT,2017,Municipal,2898000.0,Europe,Western Europe,Republic of Austria,0.020980554978393212
-AUT,2022,Municipal,2898000.0,Europe,Western Europe,Republic of Austria,0.020980554978393212
-AZE,2007,Municipal,0.0,Asia,Western Asia,Republic of Azerbaijan,0.0
-AZE,2012,Municipal,0.0,Asia,Western Asia,Republic of Azerbaijan,0.0
-AZE,2017,Municipal,0.0,Asia,Western Asia,Republic of Azerbaijan,0.0
-AZE,2022,Municipal,0.0,Asia,Western Asia,Republic of Azerbaijan,0.0
-BDI,2007,Municipal,13334.89,Africa,Eastern Africa,Republic of Burundi,9.654016313865626e-05
-BDI,2012,Municipal,13349.89,Africa,Eastern Africa,Republic of Burundi,9.664875814372041e-05
-BDI,2017,Municipal,13349.89,Africa,Eastern Africa,Republic of Burundi,9.664875814372041e-05
-BDI,2022,Municipal,13349.89,Africa,Eastern Africa,Republic of Burundi,9.664875814372041e-05
-BEL,2007,Municipal,2977000.0,Europe,Western Europe,Kingdom of Belgium,0.021552488671731054
-BEL,2012,Municipal,2638000.0,Europe,Western Europe,Kingdom of Belgium,0.01909824155728133
-BEL,2017,Municipal,2517000.0,Europe,Western Europe,Kingdom of Belgium,0.018222241849763877
-BEL,2022,Municipal,2517000.0,Europe,Western Europe,Kingdom of Belgium,0.018222241849763877
-BEN,2007,Municipal,617.6,Africa,Western Africa,Republic of Benin,4.471218341841149e-06
-BEN,2012,Municipal,617.6,Africa,Western Africa,Republic of Benin,4.471218341841149e-06
-BEN,2017,Municipal,617.6,Africa,Western Africa,Republic of Benin,4.471218341841149e-06
-BEN,2022,Municipal,617.6,Africa,Western Africa,Republic of Benin,4.471218341841149e-06
-BFA,2007,Municipal,20525.225000000002,Africa,Western Africa,Burkina Faso,0.00014859579418785056
-BFA,2012,Municipal,44664.37,Africa,Western Africa,Burkina Faso,0.0003233551657557959
-BFA,2017,Municipal,52569.825000000004,Africa,Western Africa,Burkina Faso,0.0003805880274730884
-BFA,2022,Municipal,52569.825000000004,Africa,Western Africa,Burkina Faso,0.0003805880274730884
-BGD,2007,Municipal,3882.0699999999997,Asia,Southern Asia,People's Republic of Bangladesh,2.810489408729156e-05
-BGD,2012,Municipal,3882.0699999999997,Asia,Southern Asia,People's Republic of Bangladesh,2.810489408729156e-05
-BGD,2017,Municipal,3227.7999999999997,Asia,Southern Asia,People's Republic of Bangladesh,2.3368197156403593e-05
-BGD,2022,Municipal,3227.7999999999997,Asia,Southern Asia,People's Republic of Bangladesh,2.3368197156403593e-05
-BGR,2007,Municipal,858000.0,Europe,Eastern Europe,Republic of Bulgaria,0.006211634289669212
-BGR,2012,Municipal,841000.0,Europe,Eastern Europe,Republic of Bulgaria,0.006088559950596512
-BGR,2017,Municipal,1065000.0,Europe,Eastern Europe,Republic of Bulgaria,0.007710245359554442
-BGR,2022,Municipal,1065000.0,Europe,Eastern Europe,Republic of Bulgaria,0.007710245359554442
-BHR,2007,Municipal,18.8,Asia,Western Asia,Kingdom of Bahrain,1.3610573968039766e-07
-BHR,2012,Municipal,18.8,Asia,Western Asia,Kingdom of Bahrain,1.3610573968039766e-07
-BHR,2017,Municipal,18.8,Asia,Western Asia,Kingdom of Bahrain,1.3610573968039766e-07
-BHR,2022,Municipal,18.8,Asia,Western Asia,Kingdom of Bahrain,1.3610573968039766e-07
-BHS,2007,Municipal,34617286.75,America,Caribbean,Commonwealth of the Bahamas,0.25061762866155207
-BHS,2012,Municipal,34589061.75,America,Caribbean,Commonwealth of the Bahamas,0.25041328906035637
-BHS,2017,Municipal,3525820.75,America,Caribbean,Commonwealth of the Bahamas,0.02552576814676832
-BHS,2022,Municipal,3525820.75,America,Caribbean,Commonwealth of the Bahamas,0.02552576814676832
-BIH,2007,Municipal,0.0,Europe,Southern Europe,Bosnia and Herzegovina,0.0
-BIH,2012,Municipal,0.0,Europe,Southern Europe,Bosnia and Herzegovina,0.0
-BIH,2017,Municipal,0.0,Europe,Southern Europe,Bosnia and Herzegovina,0.0
-BIH,2022,Municipal,0.0,Europe,Southern Europe,Bosnia and Herzegovina,0.0
-BLR,2007,Municipal,39400.0,Europe,Eastern Europe,Republic of Belarus,0.000285242879968493
-BLR,2012,Municipal,372800.0,Europe,Eastern Europe,Republic of Belarus,0.0026989478591942684
-BLR,2017,Municipal,653800.0,Europe,Eastern Europe,Republic of Belarus,0.004733294287395957
-BLR,2022,Municipal,653800.0,Europe,Eastern Europe,Republic of Belarus,0.004733294287395957
-BLZ,2007,Municipal,651200.0,America,Central America,Belize,0.0047144711531848385
-BLZ,2012,Municipal,1100100.0,America,Central America,Belize,0.007964357671404547
-BLZ,2017,Municipal,1100100.0,America,Central America,Belize,0.007964357671404547
-BLZ,2022,Municipal,1100100.0,America,Central America,Belize,0.007964357671404547
-BMU,2007,Municipal,1600.0,America,Northern America,Bermuda,1.1583467206842354e-05
-BMU,2012,Municipal,1600.0,America,Northern America,Bermuda,1.1583467206842354e-05
-BMU,2017,Municipal,1000.0,America,Northern America,Bermuda,7.239667004276471e-06
-BMU,2022,Municipal,1000.0,America,Northern America,Bermuda,7.239667004276471e-06
-BOL,2007,Municipal,342099.05,America,South America,Plurinational State of Bolivia,0.0024766832044793266
-BOL,2012,Municipal,382973.8333333333,America,South America,Plurinational State of Bolivia,0.0027726030246846096
-BOL,2017,Municipal,382973.8333333333,America,South America,Plurinational State of Bolivia,0.0027726030246846096
-BOL,2022,Municipal,382973.8333333333,America,South America,Plurinational State of Bolivia,0.0027726030246846096
-BRA,2007,Municipal,273076.6,America,South America,Federative Republic of Brazil,0.001976983650660004
-BRA,2012,Municipal,518325.3,America,South America,Federative Republic of Brazil,0.0037525025718917033
-BRA,2017,Municipal,518325.3,America,South America,Federative Republic of Brazil,0.0037525025718917033
-BRA,2022,Municipal,518325.3,America,South America,Federative Republic of Brazil,0.0037525025718917033
-BRB,2007,Municipal,138127900.0,America,Caribbean,Barbados,1.0
-BRB,2012,Municipal,138127900.0,America,Caribbean,Barbados,1.0
-BRB,2017,Municipal,13764840.0,America,Caribbean,Barbados,0.09965285796714494
-BRB,2022,Municipal,13764840.0,America,Caribbean,Barbados,0.09965285796714494
-BRN,2007,Municipal,3199742.4,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.023165069475464407
-BRN,2012,Municipal,3923013.3333333335,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.028401310186669988
-BRN,2017,Municipal,4581690.333333333,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.0331699123300458
-BRN,2022,Municipal,4581690.333333333,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.0331699123300458
-BTN,2007,Municipal,7507.74,Asia,Southern Asia,Kingdom of Bhutan,5.4353537554686636e-05
-BTN,2012,Municipal,7507.74,Asia,Southern Asia,Kingdom of Bhutan,5.4353537554686636e-05
-BTN,2017,Municipal,6199.2,Asia,Southern Asia,Kingdom of Bhutan,4.4880143692910696e-05
-BTN,2022,Municipal,6199.2,Asia,Southern Asia,Kingdom of Bhutan,4.4880143692910696e-05
-BWA,2007,Municipal,1508.08,Africa,Southern Africa,Republic of Botswana,1.091799701580926e-05
-BWA,2012,Municipal,1508.08,Africa,Southern Africa,Republic of Botswana,1.091799701580926e-05
-BWA,2017,Municipal,1508.08,Africa,Southern Africa,Republic of Botswana,1.091799701580926e-05
-BWA,2022,Municipal,1508.08,Africa,Southern Africa,Republic of Botswana,1.091799701580926e-05
-CAF,2007,Municipal,40181.0,Africa,Middle Africa,Central African Republic,0.0002908970598988329
-CAF,2012,Municipal,40181.0,Africa,Middle Africa,Central African Republic,0.0002908970598988329
-CAF,2017,Municipal,40181.0,Africa,Middle Africa,Central African Republic,0.0002908970598988329
-CAF,2022,Municipal,40181.0,Africa,Middle Africa,Central African Republic,0.0002908970598988329
-CAN,2007,Municipal,6011315.0,America,Northern America,Canada,0.043519918857812215
-CAN,2012,Municipal,6011315.0,America,Northern America,Canada,0.043519918857812215
-CAN,2017,Municipal,6011315.0,America,Northern America,Canada,0.043519918857812215
-CAN,2022,Municipal,6011315.0,America,Northern America,Canada,0.043519918857812215
-CHE,2007,Municipal,2785000.0,Europe,Western Europe,Swiss Confederation,0.02016247260690997
-CHE,2012,Municipal,2790000.0,Europe,Western Europe,Swiss Confederation,0.020198670941931354
-CHE,2017,Municipal,3146000.0,Europe,Western Europe,Swiss Confederation,0.02277599239545378
-CHE,2022,Municipal,3146000.0,Europe,Western Europe,Swiss Confederation,0.02277599239545378
-CHL,2007,Municipal,109653.0,America,South America,Republic of Chile,0.0007938512060199279
-CHL,2012,Municipal,109653.0,America,South America,Republic of Chile,0.0007938512060199279
-CHL,2017,Municipal,109653.0,America,South America,Republic of Chile,0.0007938512060199279
-CHL,2022,Municipal,109653.0,America,South America,Republic of Chile,0.0007938512060199279
-CHN,2007,Municipal,5887780.0,Asia,Eastern Asia,People's Republic of China,0.042625566594438925
-CHN,2012,Municipal,5431730.0,Asia,Eastern Asia,People's Republic of China,0.03932391645713864
-CHN,2017,Municipal,5539676.175,Asia,Eastern Asia,People's Republic of China,0.04010541081852399
-CHN,2022,Municipal,5539676.175,Asia,Eastern Asia,People's Republic of China,0.04010541081852399
-CIV,2007,Municipal,20525.225000000002,Africa,Western Africa,Republic of Côte d'Ivoire,0.00014859579418785056
-CIV,2012,Municipal,44664.37,Africa,Western Africa,Republic of Côte d'Ivoire,0.0003233551657557959
-CIV,2017,Municipal,52569.825000000004,Africa,Western Africa,Republic of Côte d'Ivoire,0.0003805880274730884
-CIV,2022,Municipal,52569.825000000004,Africa,Western Africa,Republic of Côte d'Ivoire,0.0003805880274730884
-CMR,2007,Municipal,40181.0,Africa,Middle Africa,Republic of Cameroon,0.0002908970598988329
-CMR,2012,Municipal,40181.0,Africa,Middle Africa,Republic of Cameroon,0.0002908970598988329
-CMR,2017,Municipal,40181.0,Africa,Middle Africa,Republic of Cameroon,0.0002908970598988329
-CMR,2022,Municipal,40181.0,Africa,Middle Africa,Republic of Cameroon,0.0002908970598988329
-COD,2007,Municipal,40181.0,Africa,Middle Africa,Democratic Republic of the Congo,0.0002908970598988329
-COD,2012,Municipal,40181.0,Africa,Middle Africa,Democratic Republic of the Congo,0.0002908970598988329
-COD,2017,Municipal,40181.0,Africa,Middle Africa,Democratic Republic of the Congo,0.0002908970598988329
-COD,2022,Municipal,40181.0,Africa,Middle Africa,Democratic Republic of the Congo,0.0002908970598988329
-COG,2007,Municipal,40181.0,Africa,Middle Africa,Republic of the Congo,0.0002908970598988329
-COG,2012,Municipal,40181.0,Africa,Middle Africa,Republic of the Congo,0.0002908970598988329
-COG,2017,Municipal,40181.0,Africa,Middle Africa,Republic of the Congo,0.0002908970598988329
-COG,2022,Municipal,40181.0,Africa,Middle Africa,Republic of the Congo,0.0002908970598988329
-COL,2007,Municipal,1570971.9,America,South America,Republic of Colombia,0.011373313429075516
-COL,2012,Municipal,1570971.9,America,South America,Republic of Colombia,0.011373313429075516
-COL,2017,Municipal,1570971.9,America,South America,Republic of Colombia,0.011373313429075516
-COL,2022,Municipal,1570971.9,America,South America,Republic of Colombia,0.011373313429075516
-COM,2007,Municipal,13334.89,Africa,Eastern Africa,Union of the Comoros,9.654016313865626e-05
-COM,2012,Municipal,13349.89,Africa,Eastern Africa,Union of the Comoros,9.664875814372041e-05
-COM,2017,Municipal,13349.89,Africa,Eastern Africa,Union of the Comoros,9.664875814372041e-05
-COM,2022,Municipal,13349.89,Africa,Eastern Africa,Union of the Comoros,9.664875814372041e-05
-CPV,2007,Municipal,0.0,Africa,Western Africa,Republic of Cabo Verde,0.0
-CPV,2012,Municipal,0.0,Africa,Western Africa,Republic of Cabo Verde,0.0
-CPV,2017,Municipal,0.0,Africa,Western Africa,Republic of Cabo Verde,0.0
-CPV,2022,Municipal,0.0,Africa,Western Africa,Republic of Cabo Verde,0.0
-CRI,2007,Municipal,100200.0,America,Central America,Republic of Costa Rica,0.0007254146338285025
-CRI,2012,Municipal,100200.0,America,Central America,Republic of Costa Rica,0.0007254146338285025
-CRI,2017,Municipal,100200.0,America,Central America,Republic of Costa Rica,0.0007254146338285025
-CRI,2022,Municipal,100200.0,America,Central America,Republic of Costa Rica,0.0007254146338285025
-CUB,2007,Municipal,311200.0,America,Caribbean,Republic of Cuba,0.002252984371730838
-CUB,2012,Municipal,197800.0,America,Caribbean,Republic of Cuba,0.001432006133445886
-CUB,2017,Municipal,323500.0,America,Caribbean,Republic of Cuba,0.0023420322758834385
-CUB,2022,Municipal,323500.0,America,Caribbean,Republic of Cuba,0.0023420322758834385
-CUW,2007,Municipal,29797.0,America,Caribbean,Country of Curaçao,0.000215720357726426
-CUW,2012,Municipal,29797.0,America,Caribbean,Country of Curaçao,0.000215720357726426
-CUW,2017,Municipal,14193.0,America,Caribbean,Country of Curaçao,0.00010275259379169596
-CUW,2022,Municipal,14193.0,America,Caribbean,Country of Curaçao,0.00010275259379169596
-CYM,2007,Municipal,34617286.75,America,Caribbean,Cayman Islands,0.25061762866155207
-CYM,2012,Municipal,34589061.75,America,Caribbean,Cayman Islands,0.25041328906035637
-CYM,2017,Municipal,3525820.75,America,Caribbean,Cayman Islands,0.02552576814676832
-CYM,2022,Municipal,3525820.75,America,Caribbean,Cayman Islands,0.02552576814676832
-CYP,2007,Municipal,28000.0,Asia,Western Asia,Republic of Cyprus,0.00020271067611974118
-CYP,2012,Municipal,72000.0,Asia,Western Asia,Republic of Cyprus,0.000521256024307906
-CYP,2017,Municipal,86000.0,Asia,Western Asia,Republic of Cyprus,0.0006226113623677765
-CYP,2022,Municipal,86000.0,Asia,Western Asia,Republic of Cyprus,0.0006226113623677765
-CZE,2007,Municipal,307000.0,Europe,Eastern Europe,Czech Republic,0.0022225777703128767
-CZE,2012,Municipal,750000.0,Europe,Eastern Europe,Czech Republic,0.005429750253207353
-CZE,2017,Municipal,1660000.0,Europe,Eastern Europe,Czech Republic,0.012017847227098942
-CZE,2022,Municipal,1660000.0,Europe,Eastern Europe,Czech Republic,0.012017847227098942
-DEU,2007,Municipal,30264000.0,Europe,Western Europe,Federal Republic of Germany,0.21910128221742312
-DEU,2012,Municipal,32460000.0,Europe,Western Europe,Federal Republic of Germany,0.23499959095881426
-DEU,2017,Municipal,34784000.0,Europe,Western Europe,Federal Republic of Germany,0.25182457707675276
-DEU,2022,Municipal,34784000.0,Europe,Western Europe,Federal Republic of Germany,0.25182457707675276
-DJI,2007,Municipal,13334.89,Africa,Eastern Africa,Republic of Djibouti,9.654016313865626e-05
-DJI,2012,Municipal,13349.89,Africa,Eastern Africa,Republic of Djibouti,9.664875814372041e-05
-DJI,2017,Municipal,13349.89,Africa,Eastern Africa,Republic of Djibouti,9.664875814372041e-05
-DJI,2022,Municipal,13349.89,Africa,Eastern Africa,Republic of Djibouti,9.664875814372041e-05
-DMA,2007,Municipal,250.0,America,Caribbean,Commonwealth of Dominica,1.8099167510691178e-06
-DMA,2012,Municipal,750.0,America,Caribbean,Commonwealth of Dominica,5.429750253207354e-06
-DMA,2017,Municipal,750.0,America,Caribbean,Commonwealth of Dominica,5.429750253207354e-06
-DMA,2022,Municipal,750.0,America,Caribbean,Commonwealth of Dominica,5.429750253207354e-06
-DNK,2007,Municipal,1906000.0,Europe,Northern Europe,Kingdom of Denmark,0.013798805310150954
-DNK,2012,Municipal,1914000.0,Europe,Northern Europe,Kingdom of Denmark,0.013856722646185166
-DNK,2017,Municipal,2251000.0,Europe,Northern Europe,Kingdom of Denmark,0.016296490426626335
-DNK,2022,Municipal,2251000.0,Europe,Northern Europe,Kingdom of Denmark,0.016296490426626335
-DOM,2007,Municipal,34617286.75,America,Caribbean,Dominican Republic,0.25061762866155207
-DOM,2012,Municipal,34589061.75,America,Caribbean,Dominican Republic,0.25041328906035637
-DOM,2017,Municipal,3525820.75,America,Caribbean,Dominican Republic,0.02552576814676832
-DOM,2022,Municipal,3525820.75,America,Caribbean,Dominican Republic,0.02552576814676832
-DZA,2007,Municipal,1995000.0,Africa,Northern Africa,People's Democratic Republic of Algeria,0.01444313567353156
-DZA,2012,Municipal,1995000.0,Africa,Northern Africa,People's Democratic Republic of Algeria,0.01444313567353156
-DZA,2017,Municipal,1995000.0,Africa,Northern Africa,People's Democratic Republic of Algeria,0.01444313567353156
-DZA,2022,Municipal,1995000.0,Africa,Northern Africa,People's Democratic Republic of Algeria,0.01444313567353156
-ECU,2007,Municipal,49077.0,America,South America,Republic of Ecuador,0.0003553011375688764
-ECU,2012,Municipal,49077.0,America,South America,Republic of Ecuador,0.0003553011375688764
-ECU,2017,Municipal,49077.0,America,South America,Republic of Ecuador,0.0003553011375688764
-ECU,2022,Municipal,49077.0,America,South America,Republic of Ecuador,0.0003553011375688764
-EGY,2007,Municipal,1995000.0,Africa,Northern Africa,Arab Republic of Egypt,0.01444313567353156
-EGY,2012,Municipal,1995000.0,Africa,Northern Africa,Arab Republic of Egypt,0.01444313567353156
-EGY,2017,Municipal,1995000.0,Africa,Northern Africa,Arab Republic of Egypt,0.01444313567353156
-EGY,2022,Municipal,1995000.0,Africa,Northern Africa,Arab Republic of Egypt,0.01444313567353156
-ERI,2007,Municipal,13334.89,Africa,Eastern Africa,State of Eritrea,9.654016313865626e-05
-ERI,2012,Municipal,13349.89,Africa,Eastern Africa,State of Eritrea,9.664875814372041e-05
-ERI,2017,Municipal,13349.89,Africa,Eastern Africa,State of Eritrea,9.664875814372041e-05
-ERI,2022,Municipal,13349.89,Africa,Eastern Africa,State of Eritrea,9.664875814372041e-05
-ESP,2007,Municipal,7994000.0,Europe,Southern Europe,Kingdom of Spain,0.057873898032186115
-ESP,2012,Municipal,6522000.0,Europe,Southern Europe,Kingdom of Spain,0.04721710820189114
-ESP,2017,Municipal,7951000.0,Europe,Southern Europe,Kingdom of Spain,0.05756259235100222
-ESP,2022,Municipal,7951000.0,Europe,Southern Europe,Kingdom of Spain,0.05756259235100222
-EST,2007,Municipal,139000.0,Europe,Northern Europe,Republic of Estonia,0.0010063137135944294
-EST,2012,Municipal,71000.0,Europe,Northern Europe,Republic of Estonia,0.0005140163573036295
-EST,2017,Municipal,145000.0,Europe,Northern Europe,Republic of Estonia,0.0010497517156200884
-EST,2022,Municipal,145000.0,Europe,Northern Europe,Republic of Estonia,0.0010497517156200884
-ETH,2007,Municipal,13334.89,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,9.654016313865626e-05
-ETH,2012,Municipal,13349.89,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,9.664875814372041e-05
-ETH,2017,Municipal,13349.89,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,9.664875814372041e-05
-ETH,2022,Municipal,13349.89,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,9.664875814372041e-05
-FIN,2007,Municipal,953000.0,Europe,Northern Europe,Republic of Finland,0.006899402655075477
-FIN,2012,Municipal,912000.0,Europe,Northern Europe,Republic of Finland,0.006602576307900142
-FIN,2017,Municipal,1140000.0,Europe,Northern Europe,Republic of Finland,0.008253220384875177
-FIN,2022,Municipal,1140000.0,Europe,Northern Europe,Republic of Finland,0.008253220384875177
-FJI,2007,Municipal,576870.8928571428,Oceania,Melanesia,Republic of Fiji,0.004176353168745365
-FJI,2012,Municipal,621023.4642857143,Oceania,Melanesia,Republic of Fiji,0.004496003083270753
-FJI,2017,Municipal,446889.60714285716,Oceania,Melanesia,Republic of Fiji,0.003235331943386218
-FJI,2022,Municipal,446889.60714285716,Oceania,Melanesia,Republic of Fiji,0.003235331943386218
-FRA,2007,Municipal,11163000.0,Europe,Western Europe,French Republic,0.08081640276873825
-FRA,2012,Municipal,13012000.0,Europe,Western Europe,French Republic,0.09420254705964544
-FRA,2017,Municipal,15005000.0,Europe,Western Europe,French Republic,0.10863120339916846
-FRA,2022,Municipal,15005000.0,Europe,Western Europe,French Republic,0.10863120339916846
-FRO,2007,Municipal,1911300.0,Europe,Northern Europe,Faroe Islands,0.01383717554527362
-FRO,2012,Municipal,2027600.0,Europe,Northern Europe,Faroe Islands,0.014679148817870974
-FRO,2017,Municipal,2272200.0,Europe,Northern Europe,Faroe Islands,0.016449971367116997
-FRO,2022,Municipal,2272200.0,Europe,Northern Europe,Faroe Islands,0.016449971367116997
-FSM,2007,Municipal,8000.0,Oceania,Micronesia,Federated States of Micronesia,5.791733603421177e-05
-FSM,2012,Municipal,8000.0,Oceania,Micronesia,Federated States of Micronesia,5.791733603421177e-05
-FSM,2017,Municipal,8000.0,Oceania,Micronesia,Federated States of Micronesia,5.791733603421177e-05
-FSM,2022,Municipal,8000.0,Oceania,Micronesia,Federated States of Micronesia,5.791733603421177e-05
-GAB,2007,Municipal,40181.0,Africa,Middle Africa,Gabonese Republic,0.0002908970598988329
-GAB,2012,Municipal,40181.0,Africa,Middle Africa,Gabonese Republic,0.0002908970598988329
-GAB,2017,Municipal,40181.0,Africa,Middle Africa,Gabonese Republic,0.0002908970598988329
-GAB,2022,Municipal,40181.0,Africa,Middle Africa,Gabonese Republic,0.0002908970598988329
-GBR,2007,Municipal,11696000.0,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.08467514528201761
-GBR,2012,Municipal,12961000.0,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.09383332404242735
-GBR,2017,Municipal,13531000.0,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.09795993423486493
-GBR,2022,Municipal,13531000.0,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.09795993423486493
-GEO,2007,Municipal,716418.7,Asia,Western Asia,Georgia,0.005186632823636643
-GEO,2012,Municipal,713118.7,Asia,Western Asia,Georgia,0.005162741922522532
-GEO,2017,Municipal,651431.98,Asia,Western Asia,Georgia,0.00471615061113649
-GEO,2022,Municipal,651431.98,Asia,Western Asia,Georgia,0.00471615061113649
-GHA,2007,Municipal,77483.3,Africa,Western Africa,Republic of Ghana,0.0005609532903924551
-GHA,2012,Municipal,174039.88,Africa,Western Africa,Republic of Ghana,0.0012599907766642365
-GHA,2017,Municipal,205661.7,Africa,Western Africa,Republic of Ghana,0.0014889222235334064
-GHA,2022,Municipal,205661.7,Africa,Western Africa,Republic of Ghana,0.0014889222235334064
-GIB,2007,Municipal,1661818.1818181819,Europe,Southern Europe,Gibraltar,0.012031010258015808
-GIB,2012,Municipal,1891272.7272727273,Europe,Southern Europe,Gibraltar,0.013692184759724337
-GIB,2017,Municipal,2323818.1818181816,Europe,Southern Europe,Gibraltar,0.016823669814846832
-GIB,2022,Municipal,2323818.1818181816,Europe,Southern Europe,Gibraltar,0.016823669814846832
-GIN,2007,Municipal,20525.225000000002,Africa,Western Africa,Republic of Guinea,0.00014859579418785056
-GIN,2012,Municipal,44664.37,Africa,Western Africa,Republic of Guinea,0.0003233551657557959
-GIN,2017,Municipal,52569.825000000004,Africa,Western Africa,Republic of Guinea,0.0003805880274730884
-GIN,2022,Municipal,52569.825000000004,Africa,Western Africa,Republic of Guinea,0.0003805880274730884
-GMB,2007,Municipal,20525.225000000002,Africa,Western Africa,Republic of the Gambia,0.00014859579418785056
-GMB,2012,Municipal,44664.37,Africa,Western Africa,Republic of the Gambia,0.0003233551657557959
-GMB,2017,Municipal,52569.825000000004,Africa,Western Africa,Republic of the Gambia,0.0003805880274730884
-GMB,2022,Municipal,52569.825000000004,Africa,Western Africa,Republic of the Gambia,0.0003805880274730884
-GNB,2007,Municipal,20525.225000000002,Africa,Western Africa,Republic of Guinea-Bissau,0.00014859579418785056
-GNB,2012,Municipal,44664.37,Africa,Western Africa,Republic of Guinea-Bissau,0.0003233551657557959
-GNB,2017,Municipal,52569.825000000004,Africa,Western Africa,Republic of Guinea-Bissau,0.0003805880274730884
-GNB,2022,Municipal,52569.825000000004,Africa,Western Africa,Republic of Guinea-Bissau,0.0003805880274730884
-GNQ,2007,Municipal,40181.0,Africa,Middle Africa,Republic of Equatorial Guinea,0.0002908970598988329
-GNQ,2012,Municipal,40181.0,Africa,Middle Africa,Republic of Equatorial Guinea,0.0002908970598988329
-GNQ,2017,Municipal,40181.0,Africa,Middle Africa,Republic of Equatorial Guinea,0.0002908970598988329
-GNQ,2022,Municipal,40181.0,Africa,Middle Africa,Republic of Equatorial Guinea,0.0002908970598988329
-GRC,2007,Municipal,1002000.0,Europe,Southern Europe,Hellenic Republic,0.0072541463382850245
-GRC,2012,Municipal,927000.0,Europe,Southern Europe,Hellenic Republic,0.006711171312964289
-GRC,2017,Municipal,1022000.0,Europe,Southern Europe,Hellenic Republic,0.0073989396783705535
-GRC,2022,Municipal,1022000.0,Europe,Southern Europe,Hellenic Republic,0.0073989396783705535
-GRD,2007,Municipal,34617286.75,America,Caribbean,Grenada,0.25061762866155207
-GRD,2012,Municipal,34589061.75,America,Caribbean,Grenada,0.25041328906035637
-GRD,2017,Municipal,3525820.75,America,Caribbean,Grenada,0.02552576814676832
-GRD,2022,Municipal,3525820.75,America,Caribbean,Grenada,0.02552576814676832
-GRL,2007,Municipal,21085305.0,America,Northern America,Greenland,0.1526505868836057
-GRL,2012,Municipal,21801971.666666668,America,Northern America,Greenland,0.15783901490333718
-GRL,2017,Municipal,22258438.333333332,America,Northern America,Greenland,0.1611436815685559
-GRL,2022,Municipal,22258438.333333332,America,Northern America,Greenland,0.1611436815685559
-GTM,2007,Municipal,651200.0,America,Central America,Republic of Guatemala,0.0047144711531848385
-GTM,2012,Municipal,1100100.0,America,Central America,Republic of Guatemala,0.007964357671404547
-GTM,2017,Municipal,1100100.0,America,Central America,Republic of Guatemala,0.007964357671404547
-GTM,2022,Municipal,1100100.0,America,Central America,Republic of Guatemala,0.007964357671404547
-GUM,2007,Municipal,8000.0,Oceania,Micronesia,Guam,5.791733603421177e-05
-GUM,2012,Municipal,8000.0,Oceania,Micronesia,Guam,5.791733603421177e-05
-GUM,2017,Municipal,8000.0,Oceania,Micronesia,Guam,5.791733603421177e-05
-GUM,2022,Municipal,8000.0,Oceania,Micronesia,Guam,5.791733603421177e-05
-GUY,2007,Municipal,342099.05,America,South America,Co-operative Republic of Guyana,0.0024766832044793266
-GUY,2012,Municipal,382973.8333333333,America,South America,Co-operative Republic of Guyana,0.0027726030246846096
-GUY,2017,Municipal,382973.8333333333,America,South America,Co-operative Republic of Guyana,0.0027726030246846096
-GUY,2022,Municipal,382973.8333333333,America,South America,Co-operative Republic of Guyana,0.0027726030246846096
-HKG,2007,Municipal,2811000.0,Asia,Eastern Asia,Hong Kong SAR,0.02035070394902116
-HKG,2012,Municipal,2163000.0,Asia,Eastern Asia,Hong Kong SAR,0.015659399730250007
-HKG,2017,Municipal,1831000.0,Asia,Eastern Asia,Hong Kong SAR,0.013255830284830218
-HKG,2022,Municipal,1831000.0,Asia,Eastern Asia,Hong Kong SAR,0.013255830284830218
-HND,2007,Municipal,651200.0,America,Central America,Republic of Honduras,0.0047144711531848385
-HND,2012,Municipal,1100100.0,America,Central America,Republic of Honduras,0.007964357671404547
-HND,2017,Municipal,1100100.0,America,Central America,Republic of Honduras,0.007964357671404547
-HND,2022,Municipal,1100100.0,America,Central America,Republic of Honduras,0.007964357671404547
-HRV,2007,Municipal,55000.0,Europe,Southern Europe,Republic of Croatia,0.0003981816852352059
-HRV,2012,Municipal,245000.0,Europe,Southern Europe,Republic of Croatia,0.0017737184160477354
-HRV,2017,Municipal,405000.0,Europe,Southern Europe,Republic of Croatia,0.002932065136731971
-HRV,2022,Municipal,405000.0,Europe,Southern Europe,Republic of Croatia,0.002932065136731971
-HTI,2007,Municipal,34617286.75,America,Caribbean,Republic of Haiti,0.25061762866155207
-HTI,2012,Municipal,34589061.75,America,Caribbean,Republic of Haiti,0.25041328906035637
-HTI,2017,Municipal,3525820.75,America,Caribbean,Republic of Haiti,0.02552576814676832
-HTI,2022,Municipal,3525820.75,America,Caribbean,Republic of Haiti,0.02552576814676832
-HUN,2007,Municipal,554000.0,Europe,Eastern Europe,Republic of Hungary,0.004010775520369165
-HUN,2012,Municipal,1015000.0,Europe,Eastern Europe,Republic of Hungary,0.007348262009340618
-HUN,2017,Municipal,1319000.0,Europe,Eastern Europe,Republic of Hungary,0.009549120778640665
-HUN,2022,Municipal,1319000.0,Europe,Eastern Europe,Republic of Hungary,0.009549120778640665
-IDN,2007,Municipal,3199742.4,Asia,South-eastern Asia,Republic of Indonesia,0.023165069475464407
-IDN,2012,Municipal,3923013.3333333335,Asia,South-eastern Asia,Republic of Indonesia,0.028401310186669988
-IDN,2017,Municipal,4581690.333333333,Asia,South-eastern Asia,Republic of Indonesia,0.0331699123300458
-IDN,2022,Municipal,4581690.333333333,Asia,South-eastern Asia,Republic of Indonesia,0.0331699123300458
-IMN,2007,Municipal,1911300.0,Europe,Northern Europe,Isle of Man,0.01383717554527362
-IMN,2012,Municipal,2027600.0,Europe,Northern Europe,Isle of Man,0.014679148817870974
-IMN,2017,Municipal,2272200.0,Europe,Northern Europe,Isle of Man,0.016449971367116997
-IMN,2022,Municipal,2272200.0,Europe,Northern Europe,Isle of Man,0.016449971367116997
-IND,2007,Municipal,3882.0699999999997,Asia,Southern Asia,Republic of India,2.810489408729156e-05
-IND,2012,Municipal,3882.0699999999997,Asia,Southern Asia,Republic of India,2.810489408729156e-05
-IND,2017,Municipal,3227.7999999999997,Asia,Southern Asia,Republic of India,2.3368197156403593e-05
-IND,2022,Municipal,3227.7999999999997,Asia,Southern Asia,Republic of India,2.3368197156403593e-05
-IRL,2007,Municipal,1160000.0,Europe,Northern Europe,Ireland,0.008398013724960707
-IRL,2012,Municipal,985000.0,Europe,Northern Europe,Ireland,0.007131071999212324
-IRL,2017,Municipal,1118000.0,Europe,Northern Europe,Ireland,0.008093947710781094
-IRL,2022,Municipal,1118000.0,Europe,Northern Europe,Ireland,0.008093947710781094
-IRN,2007,Municipal,3882.0699999999997,Asia,Southern Asia,Islamic Republic of Iran,2.810489408729156e-05
-IRN,2012,Municipal,3882.0699999999997,Asia,Southern Asia,Islamic Republic of Iran,2.810489408729156e-05
-IRN,2017,Municipal,3227.7999999999997,Asia,Southern Asia,Islamic Republic of Iran,2.3368197156403593e-05
-IRN,2022,Municipal,3227.7999999999997,Asia,Southern Asia,Islamic Republic of Iran,2.3368197156403593e-05
-IRQ,2007,Municipal,716418.7,Asia,Western Asia,Republic of Iraq,0.005186632823636643
-IRQ,2012,Municipal,713118.7,Asia,Western Asia,Republic of Iraq,0.005162741922522532
-IRQ,2017,Municipal,651431.98,Asia,Western Asia,Republic of Iraq,0.00471615061113649
-IRQ,2022,Municipal,651431.98,Asia,Western Asia,Republic of Iraq,0.00471615061113649
-ISL,2007,Municipal,46000.0,Europe,Northern Europe,Republic of Iceland,0.0003330246821967177
-ISL,2012,Municipal,46000.0,Europe,Northern Europe,Republic of Iceland,0.0003330246821967177
-ISL,2017,Municipal,58000.0,Europe,Northern Europe,Republic of Iceland,0.00041990068624803535
-ISL,2022,Municipal,58000.0,Europe,Northern Europe,Republic of Iceland,0.00041990068624803535
-ISR,2007,Municipal,496678.5,Asia,Western Asia,State of Israel,0.0035957869481835314
-ISR,2012,Municipal,496678.5,Asia,Western Asia,State of Israel,0.0035957869481835314
-ISR,2017,Municipal,393589.0,Asia,Western Asia,State of Israel,0.0028494532965461722
-ISR,2022,Municipal,393589.0,Asia,Western Asia,State of Israel,0.0028494532965461722
-ITA,2007,Municipal,8135000.0,Europe,Southern Europe,Italian Republic,0.05889469107978909
-ITA,2012,Municipal,11516000.0,Europe,Southern Europe,Italian Republic,0.08337200522124784
-ITA,2017,Municipal,14121000.0,Europe,Southern Europe,Italian Republic,0.10223133776738805
-ITA,2022,Municipal,14121000.0,Europe,Southern Europe,Italian Republic,0.10223133776738805
-JAM,2007,Municipal,34617286.75,America,Caribbean,Jamaica,0.25061762866155207
-JAM,2012,Municipal,34589061.75,America,Caribbean,Jamaica,0.25041328906035637
-JAM,2017,Municipal,3525820.75,America,Caribbean,Jamaica,0.02552576814676832
-JAM,2022,Municipal,3525820.75,America,Caribbean,Jamaica,0.02552576814676832
-JOR,2007,Municipal,716418.7,Asia,Western Asia,Hashemite Kingdom of Jordan,0.005186632823636643
-JOR,2012,Municipal,713118.7,Asia,Western Asia,Hashemite Kingdom of Jordan,0.005162741922522532
-JOR,2017,Municipal,651431.98,Asia,Western Asia,Hashemite Kingdom of Jordan,0.00471615061113649
-JOR,2022,Municipal,651431.98,Asia,Western Asia,Hashemite Kingdom of Jordan,0.00471615061113649
-JPN,2007,Municipal,10304000.0,Asia,Eastern Asia,Japan,0.07459752881206476
-JPN,2012,Municipal,9127000.0,Asia,Eastern Asia,Japan,0.06607644074803136
-JPN,2017,Municipal,8495000.0,Asia,Eastern Asia,Japan,0.06150097120132862
-JPN,2022,Municipal,8495000.0,Asia,Eastern Asia,Japan,0.06150097120132862
-KAZ,2007,Municipal,22300.0,Asia,Central Asia,Republic of Kazakhstan,0.0001614445741953653
-KAZ,2012,Municipal,136500.0,Asia,Central Asia,Republic of Kazakhstan,0.0009882145460837384
-KAZ,2017,Municipal,442700.0,Asia,Central Asia,Republic of Kazakhstan,0.003205000582793194
-KAZ,2022,Municipal,442700.0,Asia,Central Asia,Republic of Kazakhstan,0.003205000582793194
-KEN,2007,Municipal,13334.89,Africa,Eastern Africa,Republic of Kenya,9.654016313865626e-05
-KEN,2012,Municipal,13349.89,Africa,Eastern Africa,Republic of Kenya,9.664875814372041e-05
-KEN,2017,Municipal,13349.89,Africa,Eastern Africa,Republic of Kenya,9.664875814372041e-05
-KEN,2022,Municipal,13349.89,Africa,Eastern Africa,Republic of Kenya,9.664875814372041e-05
-KGZ,2007,Municipal,326830.0,Asia,Central Asia,Kyrgyz Republic,0.002366140367007679
-KGZ,2012,Municipal,383930.0,Asia,Central Asia,Kyrgyz Republic,0.002779525352951866
-KGZ,2017,Municipal,537030.0,Asia,Central Asia,Kyrgyz Republic,0.0038879183713065933
-KGZ,2022,Municipal,537030.0,Asia,Central Asia,Kyrgyz Republic,0.0038879183713065933
-KHM,2007,Municipal,3199742.4,Asia,South-eastern Asia,Kingdom of Cambodia,0.023165069475464407
-KHM,2012,Municipal,3923013.3333333335,Asia,South-eastern Asia,Kingdom of Cambodia,0.028401310186669988
-KHM,2017,Municipal,4581690.333333333,Asia,South-eastern Asia,Kingdom of Cambodia,0.0331699123300458
-KHM,2022,Municipal,4581690.333333333,Asia,South-eastern Asia,Kingdom of Cambodia,0.0331699123300458
-KIR,2007,Municipal,8000.0,Oceania,Micronesia,Republic of Kiribati,5.791733603421177e-05
-KIR,2012,Municipal,8000.0,Oceania,Micronesia,Republic of Kiribati,5.791733603421177e-05
-KIR,2017,Municipal,8000.0,Oceania,Micronesia,Republic of Kiribati,5.791733603421177e-05
-KIR,2022,Municipal,8000.0,Oceania,Micronesia,Republic of Kiribati,5.791733603421177e-05
-KNA,2007,Municipal,34617286.75,America,Caribbean,Saint Kitts and Nevis,0.25061762866155207
-KNA,2012,Municipal,34589061.75,America,Caribbean,Saint Kitts and Nevis,0.25041328906035637
-KNA,2017,Municipal,3525820.75,America,Caribbean,Saint Kitts and Nevis,0.02552576814676832
-KNA,2022,Municipal,3525820.75,America,Caribbean,Saint Kitts and Nevis,0.02552576814676832
-KOR,2007,Municipal,10436000.0,Asia,Eastern Asia,Republic of Korea,0.07555316485662926
-KOR,2012,Municipal,10436000.0,Asia,Eastern Asia,Republic of Korea,0.07555316485662926
-KOR,2017,Municipal,11828961.0,Asia,Eastern Asia,Republic of Korea,0.08563773864657322
-KOR,2022,Municipal,11828961.0,Asia,Eastern Asia,Republic of Korea,0.08563773864657322
-KWT,2007,Municipal,2648000.0,Asia,Western Asia,State of Kuwait,0.019170638227324097
-KWT,2012,Municipal,2569000.0,Asia,Western Asia,State of Kuwait,0.018598704533986255
-KWT,2017,Municipal,1341884.0,Asia,Western Asia,State of Kuwait,0.009714793318366529
-KWT,2022,Municipal,1341884.0,Asia,Western Asia,State of Kuwait,0.009714793318366529
-LAO,2007,Municipal,3199742.4,Asia,South-eastern Asia,Lao People's Democratic Republic,0.023165069475464407
-LAO,2012,Municipal,3923013.3333333335,Asia,South-eastern Asia,Lao People's Democratic Republic,0.028401310186669988
-LAO,2017,Municipal,4581690.333333333,Asia,South-eastern Asia,Lao People's Democratic Republic,0.0331699123300458
-LAO,2022,Municipal,4581690.333333333,Asia,South-eastern Asia,Lao People's Democratic Republic,0.0331699123300458
-LBN,2007,Municipal,155000.0,Asia,Western Asia,Lebanese Republic,0.0011221483856628531
-LBN,2012,Municipal,155000.0,Asia,Western Asia,Lebanese Republic,0.0011221483856628531
-LBN,2017,Municipal,155000.0,Asia,Western Asia,Lebanese Republic,0.0011221483856628531
-LBN,2022,Municipal,155000.0,Asia,Western Asia,Lebanese Republic,0.0011221483856628531
-LBR,2007,Municipal,20525.225000000002,Africa,Western Africa,Republic of Liberia,0.00014859579418785056
-LBR,2012,Municipal,44664.37,Africa,Western Africa,Republic of Liberia,0.0003233551657557959
-LBR,2017,Municipal,52569.825000000004,Africa,Western Africa,Republic of Liberia,0.0003805880274730884
-LBR,2022,Municipal,52569.825000000004,Africa,Western Africa,Republic of Liberia,0.0003805880274730884
-LBY,2007,Municipal,1995000.0,Africa,Northern Africa,State of Libya,0.01444313567353156
-LBY,2012,Municipal,1995000.0,Africa,Northern Africa,State of Libya,0.01444313567353156
-LBY,2017,Municipal,1995000.0,Africa,Northern Africa,State of Libya,0.01444313567353156
-LBY,2022,Municipal,1995000.0,Africa,Northern Africa,State of Libya,0.01444313567353156
-LCA,2007,Municipal,34617286.75,America,Caribbean,Saint Lucia,0.25061762866155207
-LCA,2012,Municipal,34589061.75,America,Caribbean,Saint Lucia,0.25041328906035637
-LCA,2017,Municipal,3525820.75,America,Caribbean,Saint Lucia,0.02552576814676832
-LCA,2022,Municipal,3525820.75,America,Caribbean,Saint Lucia,0.02552576814676832
-LIE,2007,Municipal,0.0,Europe,Western Europe,Principality of Liechtenstein,0.0
-LIE,2012,Municipal,0.0,Europe,Western Europe,Principality of Liechtenstein,0.0
-LIE,2017,Municipal,0.0,Europe,Western Europe,Principality of Liechtenstein,0.0
-LIE,2022,Municipal,0.0,Europe,Western Europe,Principality of Liechtenstein,0.0
-LKA,2007,Municipal,3882.0699999999997,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,2.810489408729156e-05
-LKA,2012,Municipal,3882.0699999999997,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,2.810489408729156e-05
-LKA,2017,Municipal,3227.7999999999997,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,2.3368197156403593e-05
-LKA,2022,Municipal,3227.7999999999997,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,2.3368197156403593e-05
-LSO,2007,Municipal,1508.08,Africa,Southern Africa,Kingdom of Lesotho,1.091799701580926e-05
-LSO,2012,Municipal,1508.08,Africa,Southern Africa,Kingdom of Lesotho,1.091799701580926e-05
-LSO,2017,Municipal,1508.08,Africa,Southern Africa,Kingdom of Lesotho,1.091799701580926e-05
-LSO,2022,Municipal,1508.08,Africa,Southern Africa,Kingdom of Lesotho,1.091799701580926e-05
-LTU,2007,Municipal,102000.0,Europe,Northern Europe,Republic of Lithuania,0.0007384460344362001
-LTU,2012,Municipal,312000.0,Europe,Northern Europe,Republic of Lithuania,0.002258776105334259
-LTU,2017,Municipal,619000.0,Europe,Northern Europe,Republic of Lithuania,0.004481353875647136
-LTU,2022,Municipal,619000.0,Europe,Northern Europe,Republic of Lithuania,0.004481353875647136
-LUX,2007,Municipal,150000.0,Europe,Western Europe,Grand Duchy of Luxembourg,0.0010859500506414706
-LUX,2012,Municipal,164000.0,Europe,Western Europe,Grand Duchy of Luxembourg,0.0011873053887013413
-LUX,2017,Municipal,233000.0,Europe,Western Europe,Grand Duchy of Luxembourg,0.001686842411996418
-LUX,2022,Municipal,233000.0,Europe,Western Europe,Grand Duchy of Luxembourg,0.001686842411996418
-LVA,2007,Municipal,43000.0,Europe,Northern Europe,Republic of Latvia,0.00031130568118388827
-LVA,2012,Municipal,96000.0,Europe,Northern Europe,Republic of Latvia,0.0006950080324105413
-LVA,2017,Municipal,198000.0,Europe,Northern Europe,Republic of Latvia,0.0014334540668467413
-LVA,2022,Municipal,198000.0,Europe,Northern Europe,Republic of Latvia,0.0014334540668467413
-MAC,2007,Municipal,120.0,Asia,Eastern Asia,Macau SAR,8.687600405131765e-07
-MAC,2012,Municipal,920.0,Asia,Eastern Asia,Macau SAR,6.6604936439343535e-06
-MAC,2017,Municipal,3743.7,Asia,Eastern Asia,Macau SAR,2.7103141363909823e-05
-MAC,2022,Municipal,3743.7,Asia,Eastern Asia,Macau SAR,2.7103141363909823e-05
-MAF,2007,Municipal,34617286.75,America,Caribbean,Saint-Martin (French part),0.25061762866155207
-MAF,2012,Municipal,34589061.75,America,Caribbean,Saint-Martin (French part),0.25041328906035637
-MAF,2017,Municipal,3525820.75,America,Caribbean,Saint-Martin (French part),0.02552576814676832
-MAF,2022,Municipal,3525820.75,America,Caribbean,Saint-Martin (French part),0.02552576814676832
-MAR,2007,Municipal,1995000.0,Africa,Northern Africa,Kingdom of Morocco,0.01444313567353156
-MAR,2012,Municipal,1995000.0,Africa,Northern Africa,Kingdom of Morocco,0.01444313567353156
-MAR,2017,Municipal,1995000.0,Africa,Northern Africa,Kingdom of Morocco,0.01444313567353156
-MAR,2022,Municipal,1995000.0,Africa,Northern Africa,Kingdom of Morocco,0.01444313567353156
-MCO,2007,Municipal,0.0,Europe,Western Europe,Principality of Monaco,0.0
-MCO,2012,Municipal,0.0,Europe,Western Europe,Principality of Monaco,0.0
-MCO,2017,Municipal,0.0,Europe,Western Europe,Principality of Monaco,0.0
-MCO,2022,Municipal,0.0,Europe,Western Europe,Principality of Monaco,0.0
-MDA,2007,Municipal,366275.0,Europe,Eastern Europe,Republic of Moldova,0.0026517090319913643
-MDA,2012,Municipal,681150.0,Europe,Eastern Europe,Republic of Moldova,0.004931299179962919
-MDA,2017,Municipal,1265037.5,Europe,Eastern Europe,Republic of Moldova,0.009158450247922396
-MDA,2022,Municipal,1265037.5,Europe,Eastern Europe,Republic of Moldova,0.009158450247922396
-MDG,2007,Municipal,0.0,Africa,Eastern Africa,Republic of Madagascar,0.0
-MDG,2012,Municipal,0.0,Africa,Eastern Africa,Republic of Madagascar,0.0
-MDG,2017,Municipal,0.0,Africa,Eastern Africa,Republic of Madagascar,0.0
-MDG,2022,Municipal,0.0,Africa,Eastern Africa,Republic of Madagascar,0.0
-MDV,2007,Municipal,3882.0699999999997,Asia,Southern Asia,Republic of Maldives,2.810489408729156e-05
-MDV,2012,Municipal,3882.0699999999997,Asia,Southern Asia,Republic of Maldives,2.810489408729156e-05
-MDV,2017,Municipal,3227.7999999999997,Asia,Southern Asia,Republic of Maldives,2.3368197156403593e-05
-MDV,2022,Municipal,3227.7999999999997,Asia,Southern Asia,Republic of Maldives,2.3368197156403593e-05
-MEX,2007,Municipal,1202200.0,America,Central America,United Mexican States,0.008703527672541175
-MEX,2012,Municipal,2100000.0,America,Central America,United Mexican States,0.015203300708980589
-MEX,2017,Municipal,2100000.0,America,Central America,United Mexican States,0.015203300708980589
-MEX,2022,Municipal,2100000.0,America,Central America,United Mexican States,0.015203300708980589
-MHL,2007,Municipal,8000.0,Oceania,Micronesia,Republic of the Marshall Islands,5.791733603421177e-05
-MHL,2012,Municipal,8000.0,Oceania,Micronesia,Republic of the Marshall Islands,5.791733603421177e-05
-MHL,2017,Municipal,8000.0,Oceania,Micronesia,Republic of the Marshall Islands,5.791733603421177e-05
-MHL,2022,Municipal,8000.0,Oceania,Micronesia,Republic of the Marshall Islands,5.791733603421177e-05
-MKD,2007,Municipal,0.0,Europe,Southern Europe,Republic of North Macedonia,0.0
-MKD,2012,Municipal,0.0,Europe,Southern Europe,Republic of North Macedonia,0.0
-MKD,2017,Municipal,0.0,Europe,Southern Europe,Republic of North Macedonia,0.0
-MKD,2022,Municipal,0.0,Europe,Southern Europe,Republic of North Macedonia,0.0
-MLI,2007,Municipal,20525.225000000002,Africa,Western Africa,Republic of Mali,0.00014859579418785056
-MLI,2012,Municipal,44664.37,Africa,Western Africa,Republic of Mali,0.0003233551657557959
-MLI,2017,Municipal,52569.825000000004,Africa,Western Africa,Republic of Mali,0.0003805880274730884
-MLI,2022,Municipal,52569.825000000004,Africa,Western Africa,Republic of Mali,0.0003805880274730884
-MLT,2007,Municipal,13000.0,Europe,Southern Europe,Republic of Malta,9.411567105559412e-05
-MLT,2012,Municipal,38000.0,Europe,Southern Europe,Republic of Malta,0.0002751073461625059
-MLT,2017,Municipal,36000.0,Europe,Southern Europe,Republic of Malta,0.000260628012153953
-MLT,2022,Municipal,36000.0,Europe,Southern Europe,Republic of Malta,0.000260628012153953
-MMR,2007,Municipal,3199742.4,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.023165069475464407
-MMR,2012,Municipal,3923013.3333333335,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.028401310186669988
-MMR,2017,Municipal,4581690.333333333,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.0331699123300458
-MMR,2022,Municipal,4581690.333333333,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.0331699123300458
-MNE,2007,Municipal,1661818.1818181819,Europe,Southern Europe,Montenegro,0.012031010258015808
-MNE,2012,Municipal,1891272.7272727273,Europe,Southern Europe,Montenegro,0.013692184759724337
-MNE,2017,Municipal,2323818.1818181816,Europe,Southern Europe,Montenegro,0.016823669814846832
-MNE,2022,Municipal,2323818.1818181816,Europe,Southern Europe,Montenegro,0.016823669814846832
-MNG,2007,Municipal,5887780.0,Asia,Eastern Asia,Mongolia,0.042625566594438925
-MNG,2012,Municipal,5431730.0,Asia,Eastern Asia,Mongolia,0.03932391645713864
-MNG,2017,Municipal,5539676.175,Asia,Eastern Asia,Mongolia,0.04010541081852399
-MNG,2022,Municipal,5539676.175,Asia,Eastern Asia,Mongolia,0.04010541081852399
-MNP,2007,Municipal,8000.0,Oceania,Micronesia,Northern Mariana Islands,5.791733603421177e-05
-MNP,2012,Municipal,8000.0,Oceania,Micronesia,Northern Mariana Islands,5.791733603421177e-05
-MNP,2017,Municipal,8000.0,Oceania,Micronesia,Northern Mariana Islands,5.791733603421177e-05
-MNP,2022,Municipal,8000.0,Oceania,Micronesia,Northern Mariana Islands,5.791733603421177e-05
-MOZ,2007,Municipal,13334.89,Africa,Eastern Africa,Republic of Mozambique,9.654016313865626e-05
-MOZ,2012,Municipal,13349.89,Africa,Eastern Africa,Republic of Mozambique,9.664875814372041e-05
-MOZ,2017,Municipal,13349.89,Africa,Eastern Africa,Republic of Mozambique,9.664875814372041e-05
-MOZ,2022,Municipal,13349.89,Africa,Eastern Africa,Republic of Mozambique,9.664875814372041e-05
-MRT,2007,Municipal,20525.225000000002,Africa,Western Africa,Islamic Republic of Mauritania,0.00014859579418785056
-MRT,2012,Municipal,44664.37,Africa,Western Africa,Islamic Republic of Mauritania,0.0003233551657557959
-MRT,2017,Municipal,52569.825000000004,Africa,Western Africa,Islamic Republic of Mauritania,0.0003805880274730884
-MRT,2022,Municipal,52569.825000000004,Africa,Western Africa,Islamic Republic of Mauritania,0.0003805880274730884
-MUS,2007,Municipal,8800.0,Africa,Eastern Africa,Republic of Mauritius,6.370906963763295e-05
-MUS,2012,Municipal,8800.0,Africa,Eastern Africa,Republic of Mauritius,6.370906963763295e-05
-MUS,2017,Municipal,8800.0,Africa,Eastern Africa,Republic of Mauritius,6.370906963763295e-05
-MUS,2022,Municipal,8800.0,Africa,Eastern Africa,Republic of Mauritius,6.370906963763295e-05
-MWI,2007,Municipal,13334.89,Africa,Eastern Africa,Republic of Malawi,9.654016313865626e-05
-MWI,2012,Municipal,13349.89,Africa,Eastern Africa,Republic of Malawi,9.664875814372041e-05
-MWI,2017,Municipal,13349.89,Africa,Eastern Africa,Republic of Malawi,9.664875814372041e-05
-MWI,2022,Municipal,13349.89,Africa,Eastern Africa,Republic of Malawi,9.664875814372041e-05
-MYS,2007,Municipal,463127.2,Asia,South-eastern Asia,Malaysia,0.00335288670862295
-MYS,2012,Municipal,1323240.0,Asia,South-eastern Asia,Malaysia,0.009579816966738798
-MYS,2017,Municipal,2865071.0,Asia,South-eastern Asia,Malaysia,0.020742159983609395
-MYS,2022,Municipal,2865071.0,Asia,South-eastern Asia,Malaysia,0.020742159983609395
-NAM,2007,Municipal,1508.08,Africa,Southern Africa,Republic of Namibia,1.091799701580926e-05
-NAM,2012,Municipal,1508.08,Africa,Southern Africa,Republic of Namibia,1.091799701580926e-05
-NAM,2017,Municipal,1508.08,Africa,Southern Africa,Republic of Namibia,1.091799701580926e-05
-NAM,2022,Municipal,1508.08,Africa,Southern Africa,Republic of Namibia,1.091799701580926e-05
-NCL,2007,Municipal,576870.8928571428,Oceania,Melanesia,New Caledonia,0.004176353168745365
-NCL,2012,Municipal,621023.4642857143,Oceania,Melanesia,New Caledonia,0.004496003083270753
-NCL,2017,Municipal,446889.60714285716,Oceania,Melanesia,New Caledonia,0.003235331943386218
-NCL,2022,Municipal,446889.60714285716,Oceania,Melanesia,New Caledonia,0.003235331943386218
-NER,2007,Municipal,20525.225000000002,Africa,Western Africa,Republic of Niger,0.00014859579418785056
-NER,2012,Municipal,44664.37,Africa,Western Africa,Republic of Niger,0.0003233551657557959
-NER,2017,Municipal,52569.825000000004,Africa,Western Africa,Republic of Niger,0.0003805880274730884
-NER,2022,Municipal,52569.825000000004,Africa,Western Africa,Republic of Niger,0.0003805880274730884
-NGA,2007,Municipal,20525.225000000002,Africa,Western Africa,Federal Republic of Nigeria,0.00014859579418785056
-NGA,2012,Municipal,44664.37,Africa,Western Africa,Federal Republic of Nigeria,0.0003233551657557959
-NGA,2017,Municipal,52569.825000000004,Africa,Western Africa,Federal Republic of Nigeria,0.0003805880274730884
-NGA,2022,Municipal,52569.825000000004,Africa,Western Africa,Federal Republic of Nigeria,0.0003805880274730884
-NIC,2007,Municipal,651200.0,America,Central America,Republic of Nicaragua,0.0047144711531848385
-NIC,2012,Municipal,1100100.0,America,Central America,Republic of Nicaragua,0.007964357671404547
-NIC,2017,Municipal,1100100.0,America,Central America,Republic of Nicaragua,0.007964357671404547
-NIC,2022,Municipal,1100100.0,America,Central America,Republic of Nicaragua,0.007964357671404547
-NLD,2007,Municipal,4789000.0,Europe,Western Europe,Kingdom of the Netherlands,0.03467076528348002
-NLD,2012,Municipal,4549000.0,Europe,Western Europe,Kingdom of the Netherlands,0.032933245202453665
-NLD,2017,Municipal,4801000.0,Europe,Western Europe,Kingdom of the Netherlands,0.03475764128753134
-NLD,2022,Municipal,4801000.0,Europe,Western Europe,Kingdom of the Netherlands,0.03475764128753134
-NOR,2007,Municipal,986000.0,Europe,Northern Europe,Kingdom of Norway,0.007138311666216601
-NOR,2012,Municipal,953000.0,Europe,Northern Europe,Kingdom of Norway,0.006899402655075477
-NOR,2017,Municipal,1532000.0,Europe,Northern Europe,Kingdom of Norway,0.011091169850551554
-NOR,2022,Municipal,1532000.0,Europe,Northern Europe,Kingdom of Norway,0.011091169850551554
-NPL,2007,Municipal,256.4,Asia,Southern Asia,Federal Democratic Republic of Nepal,1.856250619896487e-06
-NPL,2012,Municipal,256.4,Asia,Southern Asia,Federal Democratic Republic of Nepal,1.856250619896487e-06
-NPL,2017,Municipal,256.4,Asia,Southern Asia,Federal Democratic Republic of Nepal,1.856250619896487e-06
-NPL,2022,Municipal,256.4,Asia,Southern Asia,Federal Democratic Republic of Nepal,1.856250619896487e-06
-NRU,2007,Municipal,3165.75,Oceania,Polynesia,Republic of Nauru,2.2918975818788237e-05
-NRU,2012,Municipal,3165.75,Oceania,Polynesia,Republic of Nauru,2.2918975818788237e-05
-NRU,2017,Municipal,3165.75,Oceania,Polynesia,Republic of Nauru,2.2918975818788237e-05
-NRU,2022,Municipal,3165.75,Oceania,Polynesia,Republic of Nauru,2.2918975818788237e-05
-NZL,2007,Municipal,4004599.0,Oceania,Australia and New Zealand,New Zealand,0.02899196324565855
-NZL,2012,Municipal,4313667.0,Oceania,Australia and New Zealand,New Zealand,0.031229512647336272
-NZL,2017,Municipal,3094730.0,Oceania,Australia and New Zealand,New Zealand,0.022404814668144524
-NZL,2022,Municipal,3094730.0,Oceania,Australia and New Zealand,New Zealand,0.022404814668144524
-OMN,2007,Municipal,716418.7,Asia,Western Asia,Sultanate of Oman,0.005186632823636643
-OMN,2012,Municipal,713118.7,Asia,Western Asia,Sultanate of Oman,0.005162741922522532
-OMN,2017,Municipal,651431.98,Asia,Western Asia,Sultanate of Oman,0.00471615061113649
-OMN,2022,Municipal,651431.98,Asia,Western Asia,Sultanate of Oman,0.00471615061113649
-PAK,2007,Municipal,3882.0699999999997,Asia,Southern Asia,Islamic Republic of Pakistan,2.810489408729156e-05
-PAK,2012,Municipal,3882.0699999999997,Asia,Southern Asia,Islamic Republic of Pakistan,2.810489408729156e-05
-PAK,2017,Municipal,3227.7999999999997,Asia,Southern Asia,Islamic Republic of Pakistan,2.3368197156403593e-05
-PAK,2022,Municipal,3227.7999999999997,Asia,Southern Asia,Islamic Republic of Pakistan,2.3368197156403593e-05
-PAN,2007,Municipal,651200.0,America,Central America,Republic of Panama,0.0047144711531848385
-PAN,2012,Municipal,1100100.0,America,Central America,Republic of Panama,0.007964357671404547
-PAN,2017,Municipal,1100100.0,America,Central America,Republic of Panama,0.007964357671404547
-PAN,2022,Municipal,1100100.0,America,Central America,Republic of Panama,0.007964357671404547
-PER,2007,Municipal,45003.8,America,South America,Republic of Peru,0.00032581252592705747
-PER,2012,Municipal,45003.8,America,South America,Republic of Peru,0.00032581252592705747
-PER,2017,Municipal,45003.8,America,South America,Republic of Peru,0.00032581252592705747
-PER,2022,Municipal,45003.8,America,South America,Republic of Peru,0.00032581252592705747
-PHL,2007,Municipal,3199742.4,Asia,South-eastern Asia,Republic of the Philippines,0.023165069475464407
-PHL,2012,Municipal,3923013.3333333335,Asia,South-eastern Asia,Republic of the Philippines,0.028401310186669988
-PHL,2017,Municipal,4581690.333333333,Asia,South-eastern Asia,Republic of the Philippines,0.0331699123300458
-PHL,2022,Municipal,4581690.333333333,Asia,South-eastern Asia,Republic of the Philippines,0.0331699123300458
-PLW,2007,Municipal,8000.0,Oceania,Micronesia,Republic of Palau,5.791733603421177e-05
-PLW,2012,Municipal,8000.0,Oceania,Micronesia,Republic of Palau,5.791733603421177e-05
-PLW,2017,Municipal,8000.0,Oceania,Micronesia,Republic of Palau,5.791733603421177e-05
-PLW,2022,Municipal,8000.0,Oceania,Micronesia,Republic of Palau,5.791733603421177e-05
-PNG,2007,Municipal,576870.8928571428,Oceania,Melanesia,Independent State of Papua New Guinea,0.004176353168745365
-PNG,2012,Municipal,621023.4642857143,Oceania,Melanesia,Independent State of Papua New Guinea,0.004496003083270753
-PNG,2017,Municipal,446889.60714285716,Oceania,Melanesia,Independent State of Papua New Guinea,0.003235331943386218
-PNG,2022,Municipal,446889.60714285716,Oceania,Melanesia,Independent State of Papua New Guinea,0.003235331943386218
-POL,2007,Municipal,943000.0,Europe,Eastern Europe,Republic of Poland,0.006827005985032712
-POL,2012,Municipal,1446000.0,Europe,Eastern Europe,Republic of Poland,0.010468558488183777
-POL,2017,Municipal,4047000.0,Europe,Eastern Europe,Republic of Poland,0.02929893236630688
-POL,2022,Municipal,4047000.0,Europe,Eastern Europe,Republic of Poland,0.02929893236630688
-PRI,2007,Municipal,34617286.75,America,Caribbean,Puerto Rico,0.25061762866155207
-PRI,2012,Municipal,34589061.75,America,Caribbean,Puerto Rico,0.25041328906035637
-PRI,2017,Municipal,3525820.75,America,Caribbean,Puerto Rico,0.02552576814676832
-PRI,2022,Municipal,3525820.75,America,Caribbean,Puerto Rico,0.02552576814676832
-PRK,2007,Municipal,5887780.0,Asia,Eastern Asia,Democratic People's Republic of Korea,0.042625566594438925
-PRK,2012,Municipal,5431730.0,Asia,Eastern Asia,Democratic People's Republic of Korea,0.03932391645713864
-PRK,2017,Municipal,5539676.175,Asia,Eastern Asia,Democratic People's Republic of Korea,0.04010541081852399
-PRK,2022,Municipal,5539676.175,Asia,Eastern Asia,Democratic People's Republic of Korea,0.04010541081852399
-PRT,2007,Municipal,849000.0,Europe,Southern Europe,Portuguese Republic,0.006146477286630724
-PRT,2012,Municipal,1243000.0,Europe,Southern Europe,Portuguese Republic,0.008998906086315654
-PRT,2017,Municipal,1458000.0,Europe,Southern Europe,Portuguese Republic,0.010555434492235095
-PRT,2022,Municipal,1458000.0,Europe,Southern Europe,Portuguese Republic,0.010555434492235095
-PRY,2007,Municipal,342099.05,America,South America,Republic of Paraguay,0.0024766832044793266
-PRY,2012,Municipal,382973.8333333333,America,South America,Republic of Paraguay,0.0027726030246846096
-PRY,2017,Municipal,382973.8333333333,America,South America,Republic of Paraguay,0.0027726030246846096
-PRY,2022,Municipal,382973.8333333333,America,South America,Republic of Paraguay,0.0027726030246846096
-PSE,2007,Municipal,13000.0,Asia,Western Asia,State of Palestine,9.411567105559412e-05
-PSE,2012,Municipal,15000.0,Asia,Western Asia,State of Palestine,0.00010859500506414707
-PSE,2017,Municipal,15000.0,Asia,Western Asia,State of Palestine,0.00010859500506414707
-PSE,2022,Municipal,15000.0,Asia,Western Asia,State of Palestine,0.00010859500506414707
-PYF,2007,Municipal,5468.5,Oceania,Polynesia,French Polynesia,3.959011901288588e-05
-PYF,2012,Municipal,5468.5,Oceania,Polynesia,French Polynesia,3.959011901288588e-05
-PYF,2017,Municipal,5468.5,Oceania,Polynesia,French Polynesia,3.959011901288588e-05
-PYF,2022,Municipal,5468.5,Oceania,Polynesia,French Polynesia,3.959011901288588e-05
-QAT,2007,Municipal,6632.0,Asia,Western Asia,State of Qatar,4.801347157236156e-05
-QAT,2012,Municipal,6632.0,Asia,Western Asia,State of Qatar,4.801347157236156e-05
-QAT,2017,Municipal,42100.0,Asia,Western Asia,State of Qatar,0.00030478998088003944
-QAT,2022,Municipal,42100.0,Asia,Western Asia,State of Qatar,0.00030478998088003944
-ROU,2007,Municipal,37000.0,Europe,Eastern Europe,Romania,0.0002678676791582294
-ROU,2012,Municipal,745000.0,Europe,Eastern Europe,Romania,0.005393551918185971
-ROU,2017,Municipal,745000.0,Europe,Eastern Europe,Romania,0.005393551918185971
-ROU,2022,Municipal,745000.0,Europe,Eastern Europe,Romania,0.005393551918185971
-RUS,2007,Municipal,366275.0,Europe,Eastern Europe,Russian Federation,0.0026517090319913643
-RUS,2012,Municipal,681150.0,Europe,Eastern Europe,Russian Federation,0.004931299179962919
-RUS,2017,Municipal,1265037.5,Europe,Eastern Europe,Russian Federation,0.009158450247922396
-RUS,2022,Municipal,1265037.5,Europe,Eastern Europe,Russian Federation,0.009158450247922396
-RWA,2007,Municipal,13334.89,Africa,Eastern Africa,Republic of Rwanda,9.654016313865626e-05
-RWA,2012,Municipal,13349.89,Africa,Eastern Africa,Republic of Rwanda,9.664875814372041e-05
-RWA,2017,Municipal,13349.89,Africa,Eastern Africa,Republic of Rwanda,9.664875814372041e-05
-RWA,2022,Municipal,13349.89,Africa,Eastern Africa,Republic of Rwanda,9.664875814372041e-05
-SAU,2007,Municipal,716418.7,Asia,Western Asia,Kingdom of Saudi Arabia,0.005186632823636643
-SAU,2012,Municipal,713118.7,Asia,Western Asia,Kingdom of Saudi Arabia,0.005162741922522532
-SAU,2017,Municipal,651431.98,Asia,Western Asia,Kingdom of Saudi Arabia,0.00471615061113649
-SAU,2022,Municipal,651431.98,Asia,Western Asia,Kingdom of Saudi Arabia,0.00471615061113649
-SDN,2007,Municipal,1995000.0,Africa,Northern Africa,Republic of the Sudan,0.01444313567353156
-SDN,2012,Municipal,1995000.0,Africa,Northern Africa,Republic of the Sudan,0.01444313567353156
-SDN,2017,Municipal,1995000.0,Africa,Northern Africa,Republic of the Sudan,0.01444313567353156
-SDN,2022,Municipal,1995000.0,Africa,Northern Africa,Republic of the Sudan,0.01444313567353156
-SEN,2007,Municipal,20525.225000000002,Africa,Western Africa,Republic of Senegal,0.00014859579418785056
-SEN,2012,Municipal,44664.37,Africa,Western Africa,Republic of Senegal,0.0003233551657557959
-SEN,2017,Municipal,52569.825000000004,Africa,Western Africa,Republic of Senegal,0.0003805880274730884
-SEN,2022,Municipal,52569.825000000004,Africa,Western Africa,Republic of Senegal,0.0003805880274730884
-SGP,2007,Municipal,2980100.0,Asia,South-eastern Asia,Republic of Singapore,0.021574931639444312
-SGP,2012,Municipal,4289800.0,Asia,South-eastern Asia,Republic of Singapore,0.031056723514945206
-SGP,2017,Municipal,4724000.0,Asia,South-eastern Asia,Republic of Singapore,0.03420018692820205
-SGP,2022,Municipal,4724000.0,Asia,South-eastern Asia,Republic of Singapore,0.03420018692820205
-SLB,2007,Municipal,576870.8928571428,Oceania,Melanesia,Solomon Islands,0.004176353168745365
-SLB,2012,Municipal,621023.4642857143,Oceania,Melanesia,Solomon Islands,0.004496003083270753
-SLB,2017,Municipal,446889.60714285716,Oceania,Melanesia,Solomon Islands,0.003235331943386218
-SLB,2022,Municipal,446889.60714285716,Oceania,Melanesia,Solomon Islands,0.003235331943386218
-SLE,2007,Municipal,20525.225000000002,Africa,Western Africa,Republic of Sierra Leone,0.00014859579418785056
-SLE,2012,Municipal,44664.37,Africa,Western Africa,Republic of Sierra Leone,0.0003233551657557959
-SLE,2017,Municipal,52569.825000000004,Africa,Western Africa,Republic of Sierra Leone,0.0003805880274730884
-SLE,2022,Municipal,52569.825000000004,Africa,Western Africa,Republic of Sierra Leone,0.0003805880274730884
-SLV,2007,Municipal,651200.0,America,Central America,Republic of El Salvador,0.0047144711531848385
-SLV,2012,Municipal,1100100.0,America,Central America,Republic of El Salvador,0.007964357671404547
-SLV,2017,Municipal,1100100.0,America,Central America,Republic of El Salvador,0.007964357671404547
-SLV,2022,Municipal,1100100.0,America,Central America,Republic of El Salvador,0.007964357671404547
-SMR,2007,Municipal,1661818.1818181819,Europe,Southern Europe,Republic of San Marino,0.012031010258015808
-SMR,2012,Municipal,1891272.7272727273,Europe,Southern Europe,Republic of San Marino,0.013692184759724337
-SMR,2017,Municipal,2323818.1818181816,Europe,Southern Europe,Republic of San Marino,0.016823669814846832
-SMR,2022,Municipal,2323818.1818181816,Europe,Southern Europe,Republic of San Marino,0.016823669814846832
-SOM,2007,Municipal,13334.89,Africa,Eastern Africa,Federal Republic of Somalia,9.654016313865626e-05
-SOM,2012,Municipal,13349.89,Africa,Eastern Africa,Federal Republic of Somalia,9.664875814372041e-05
-SOM,2017,Municipal,13349.89,Africa,Eastern Africa,Federal Republic of Somalia,9.664875814372041e-05
-SOM,2022,Municipal,13349.89,Africa,Eastern Africa,Federal Republic of Somalia,9.664875814372041e-05
-SRB,2007,Municipal,0.0,Europe,Southern Europe,Republic of Serbia,0.0
-SRB,2012,Municipal,0.0,Europe,Southern Europe,Republic of Serbia,0.0
-SRB,2017,Municipal,6000.0,Europe,Southern Europe,Republic of Serbia,4.343800202565883e-05
-SRB,2022,Municipal,6000.0,Europe,Southern Europe,Republic of Serbia,4.343800202565883e-05
-SSD,2007,Municipal,13334.89,Africa,Eastern Africa,Republic of South Sudan,9.654016313865626e-05
-SSD,2012,Municipal,13349.89,Africa,Eastern Africa,Republic of South Sudan,9.664875814372041e-05
-SSD,2017,Municipal,13349.89,Africa,Eastern Africa,Republic of South Sudan,9.664875814372041e-05
-SSD,2022,Municipal,13349.89,Africa,Eastern Africa,Republic of South Sudan,9.664875814372041e-05
-STP,2007,Municipal,40181.0,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.0002908970598988329
-STP,2012,Municipal,40181.0,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.0002908970598988329
-STP,2017,Municipal,40181.0,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.0002908970598988329
-STP,2022,Municipal,40181.0,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.0002908970598988329
-SUR,2007,Municipal,4812.0,America,South America,Republic of Suriname,3.483727762457838e-05
-SUR,2012,Municipal,4812.0,America,South America,Republic of Suriname,3.483727762457838e-05
-SUR,2017,Municipal,4812.0,America,South America,Republic of Suriname,3.483727762457838e-05
-SUR,2022,Municipal,4812.0,America,South America,Republic of Suriname,3.483727762457838e-05
-SVK,2007,Municipal,104000.0,Europe,Eastern Europe,Slovak Republic,0.000752925368444753
-SVK,2012,Municipal,222000.0,Europe,Eastern Europe,Slovak Republic,0.0016072060749493767
-SVK,2017,Municipal,614000.0,Europe,Eastern Europe,Slovak Republic,0.0044451555406257535
-SVK,2022,Municipal,614000.0,Europe,Eastern Europe,Slovak Republic,0.0044451555406257535
-SVN,2007,Municipal,232000.0,Europe,Southern Europe,Republic of Slovenia,0.0016796027449921414
-SVN,2012,Municipal,313000.0,Europe,Southern Europe,Republic of Slovenia,0.0022660157723385357
-SVN,2017,Municipal,563000.0,Europe,Southern Europe,Republic of Slovenia,0.004075932523407653
-SVN,2022,Municipal,563000.0,Europe,Southern Europe,Republic of Slovenia,0.004075932523407653
-SWE,2007,Municipal,2082000.0,Europe,Northern Europe,Kingdom of Sweden,0.015072986702903614
-SWE,2012,Municipal,2026000.0,Europe,Northern Europe,Kingdom of Sweden,0.01466756535066413
-SWE,2017,Municipal,2130000.0,Europe,Northern Europe,Kingdom of Sweden,0.015420490719108884
-SWE,2022,Municipal,2130000.0,Europe,Northern Europe,Kingdom of Sweden,0.015420490719108884
-SWZ,2007,Municipal,1508.08,Africa,Southern Africa,Kingdom of Eswatini,1.091799701580926e-05
-SWZ,2012,Municipal,1508.08,Africa,Southern Africa,Kingdom of Eswatini,1.091799701580926e-05
-SWZ,2017,Municipal,1508.08,Africa,Southern Africa,Kingdom of Eswatini,1.091799701580926e-05
-SWZ,2022,Municipal,1508.08,Africa,Southern Africa,Kingdom of Eswatini,1.091799701580926e-05
-SXM,2007,Municipal,34617286.75,America,Caribbean,Sint Maarten (Dutch part),0.25061762866155207
-SXM,2012,Municipal,34589061.75,America,Caribbean,Sint Maarten (Dutch part),0.25041328906035637
-SXM,2017,Municipal,3525820.75,America,Caribbean,Sint Maarten (Dutch part),0.02552576814676832
-SXM,2022,Municipal,3525820.75,America,Caribbean,Sint Maarten (Dutch part),0.02552576814676832
-SYC,2007,Municipal,13334.89,Africa,Eastern Africa,Republic of Seychelles,9.654016313865626e-05
-SYC,2012,Municipal,13349.89,Africa,Eastern Africa,Republic of Seychelles,9.664875814372041e-05
-SYC,2017,Municipal,13349.89,Africa,Eastern Africa,Republic of Seychelles,9.664875814372041e-05
-SYC,2022,Municipal,13349.89,Africa,Eastern Africa,Republic of Seychelles,9.664875814372041e-05
-SYR,2007,Municipal,716418.7,Asia,Western Asia,Syrian Arab Republic,0.005186632823636643
-SYR,2012,Municipal,713118.7,Asia,Western Asia,Syrian Arab Republic,0.005162741922522532
-SYR,2017,Municipal,651431.98,Asia,Western Asia,Syrian Arab Republic,0.00471615061113649
-SYR,2022,Municipal,651431.98,Asia,Western Asia,Syrian Arab Republic,0.00471615061113649
-TCA,2007,Municipal,34617286.75,America,Caribbean,Turks and Caicos Islands,0.25061762866155207
-TCA,2012,Municipal,34589061.75,America,Caribbean,Turks and Caicos Islands,0.25041328906035637
-TCA,2017,Municipal,3525820.75,America,Caribbean,Turks and Caicos Islands,0.02552576814676832
-TCA,2022,Municipal,3525820.75,America,Caribbean,Turks and Caicos Islands,0.02552576814676832
-TCD,2007,Municipal,40181.0,Africa,Middle Africa,Republic of Chad,0.0002908970598988329
-TCD,2012,Municipal,40181.0,Africa,Middle Africa,Republic of Chad,0.0002908970598988329
-TCD,2017,Municipal,40181.0,Africa,Middle Africa,Republic of Chad,0.0002908970598988329
-TCD,2022,Municipal,40181.0,Africa,Middle Africa,Republic of Chad,0.0002908970598988329
-TGO,2007,Municipal,4000.0,Africa,Western Africa,Togolese Republic,2.8958668017105885e-05
-TGO,2012,Municipal,4000.0,Africa,Western Africa,Togolese Republic,2.8958668017105885e-05
-TGO,2017,Municipal,4000.0,Africa,Western Africa,Togolese Republic,2.8958668017105885e-05
-TGO,2022,Municipal,4000.0,Africa,Western Africa,Togolese Republic,2.8958668017105885e-05
-THA,2007,Municipal,6156000.0,Asia,South-eastern Asia,Kingdom of Thailand,0.044567390078325955
-THA,2012,Municipal,6156000.0,Asia,South-eastern Asia,Kingdom of Thailand,0.044567390078325955
-THA,2017,Municipal,6156000.0,Asia,South-eastern Asia,Kingdom of Thailand,0.044567390078325955
-THA,2022,Municipal,6156000.0,Asia,South-eastern Asia,Kingdom of Thailand,0.044567390078325955
-TJK,2007,Municipal,326830.0,Asia,Central Asia,Republic of Tajikistan,0.002366140367007679
-TJK,2012,Municipal,383930.0,Asia,Central Asia,Republic of Tajikistan,0.002779525352951866
-TJK,2017,Municipal,537030.0,Asia,Central Asia,Republic of Tajikistan,0.0038879183713065933
-TJK,2022,Municipal,537030.0,Asia,Central Asia,Republic of Tajikistan,0.0038879183713065933
-TKM,2007,Municipal,326830.0,Asia,Central Asia,Turkmenistan,0.002366140367007679
-TKM,2012,Municipal,383930.0,Asia,Central Asia,Turkmenistan,0.002779525352951866
-TKM,2017,Municipal,537030.0,Asia,Central Asia,Turkmenistan,0.0038879183713065933
-TKM,2022,Municipal,537030.0,Asia,Central Asia,Turkmenistan,0.0038879183713065933
-TLS,2007,Municipal,3199742.4,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.023165069475464407
-TLS,2012,Municipal,3923013.3333333335,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.028401310186669988
-TLS,2017,Municipal,4581690.333333333,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.0331699123300458
-TLS,2022,Municipal,4581690.333333333,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,0.0331699123300458
-TON,2007,Municipal,3165.75,Oceania,Polynesia,Kingdom of Tonga,2.2918975818788237e-05
-TON,2012,Municipal,3165.75,Oceania,Polynesia,Kingdom of Tonga,2.2918975818788237e-05
-TON,2017,Municipal,3165.75,Oceania,Polynesia,Kingdom of Tonga,2.2918975818788237e-05
-TON,2022,Municipal,3165.75,Oceania,Polynesia,Kingdom of Tonga,2.2918975818788237e-05
-TTO,2007,Municipal,34617286.75,America,Caribbean,Republic of Trinidad and Tobago,0.25061762866155207
-TTO,2012,Municipal,34589061.75,America,Caribbean,Republic of Trinidad and Tobago,0.25041328906035637
-TTO,2017,Municipal,3525820.75,America,Caribbean,Republic of Trinidad and Tobago,0.02552576814676832
-TTO,2022,Municipal,3525820.75,America,Caribbean,Republic of Trinidad and Tobago,0.02552576814676832
-TUN,2007,Municipal,1995000.0,Africa,Northern Africa,Republic of Tunisia,0.01444313567353156
-TUN,2012,Municipal,1995000.0,Africa,Northern Africa,Republic of Tunisia,0.01444313567353156
-TUN,2017,Municipal,1995000.0,Africa,Northern Africa,Republic of Tunisia,0.01444313567353156
-TUN,2022,Municipal,1995000.0,Africa,Northern Africa,Republic of Tunisia,0.01444313567353156
-TUR,2007,Municipal,3130000.0,Asia,Western Asia,Republic of Türkiye,0.022660157723385355
-TUR,2012,Municipal,3130000.0,Asia,Western Asia,Republic of Türkiye,0.022660157723385355
-TUR,2017,Municipal,3130000.0,Asia,Western Asia,Republic of Türkiye,0.022660157723385355
-TUR,2022,Municipal,3130000.0,Asia,Western Asia,Republic of Türkiye,0.022660157723385355
-TUV,2007,Municipal,3165.75,Oceania,Polynesia,Tuvalu,2.2918975818788237e-05
-TUV,2012,Municipal,3165.75,Oceania,Polynesia,Tuvalu,2.2918975818788237e-05
-TUV,2017,Municipal,3165.75,Oceania,Polynesia,Tuvalu,2.2918975818788237e-05
-TUV,2022,Municipal,3165.75,Oceania,Polynesia,Tuvalu,2.2918975818788237e-05
-TZA,2007,Municipal,2600.0,Africa,Eastern Africa,United Republic of Tanzania,1.8823134211118824e-05
-TZA,2012,Municipal,2660.0,Africa,Eastern Africa,United Republic of Tanzania,1.9257514231375413e-05
-TZA,2017,Municipal,2660.0,Africa,Eastern Africa,United Republic of Tanzania,1.9257514231375413e-05
-TZA,2022,Municipal,2660.0,Africa,Eastern Africa,United Republic of Tanzania,1.9257514231375413e-05
-UGA,2007,Municipal,13334.89,Africa,Eastern Africa,Republic of Uganda,9.654016313865626e-05
-UGA,2012,Municipal,13349.89,Africa,Eastern Africa,Republic of Uganda,9.664875814372041e-05
-UGA,2017,Municipal,13349.89,Africa,Eastern Africa,Republic of Uganda,9.664875814372041e-05
-UGA,2022,Municipal,13349.89,Africa,Eastern Africa,Republic of Uganda,9.664875814372041e-05
-UKR,2007,Municipal,87800.0,Europe,Eastern Europe,Ukraine,0.0006356427629754742
-UKR,2012,Municipal,57400.0,Europe,Eastern Europe,Ukraine,0.00041555688604546945
-UKR,2017,Municipal,16500.0,Europe,Eastern Europe,Ukraine,0.00011945450557056177
-UKR,2022,Municipal,16500.0,Europe,Eastern Europe,Ukraine,0.00011945450557056177
-URY,2007,Municipal,342099.05,America,South America,Oriental Republic of Uruguay,0.0024766832044793266
-URY,2012,Municipal,382973.8333333333,America,South America,Oriental Republic of Uruguay,0.0027726030246846096
-URY,2017,Municipal,382973.8333333333,America,South America,Oriental Republic of Uruguay,0.0027726030246846096
-URY,2022,Municipal,382973.8333333333,America,South America,Oriental Republic of Uruguay,0.0027726030246846096
-USA,2007,Municipal,57243000.0,America,Northern America,United States of America,0.41442025832579804
-USA,2012,Municipal,59393000.0,America,Northern America,United States of America,0.4299855423849925
-USA,2017,Municipal,60763000.0,America,Northern America,United States of America,0.43990388618085124
-USA,2022,Municipal,60763000.0,America,Northern America,United States of America,0.43990388618085124
-UZB,2007,Municipal,631360.0,Asia,Central Asia,Republic of Uzbekistan,0.004570836159819993
-UZB,2012,Municipal,631360.0,Asia,Central Asia,Republic of Uzbekistan,0.004570836159819993
-UZB,2017,Municipal,631360.0,Asia,Central Asia,Republic of Uzbekistan,0.004570836159819993
-UZB,2022,Municipal,631360.0,Asia,Central Asia,Republic of Uzbekistan,0.004570836159819993
-VCT,2007,Municipal,34617286.75,America,Caribbean,Saint Vincent and the Grenadines,0.25061762866155207
-VCT,2012,Municipal,34589061.75,America,Caribbean,Saint Vincent and the Grenadines,0.25041328906035637
-VCT,2017,Municipal,3525820.75,America,Caribbean,Saint Vincent and the Grenadines,0.02552576814676832
-VCT,2022,Municipal,3525820.75,America,Caribbean,Saint Vincent and the Grenadines,0.02552576814676832
-VEN,2007,Municipal,342099.05,America,South America,Bolivarian Republic of Venezuela,0.0024766832044793266
-VEN,2012,Municipal,382973.8333333333,America,South America,Bolivarian Republic of Venezuela,0.0027726030246846096
-VEN,2017,Municipal,382973.8333333333,America,South America,Bolivarian Republic of Venezuela,0.0027726030246846096
-VEN,2022,Municipal,382973.8333333333,America,South America,Bolivarian Republic of Venezuela,0.0027726030246846096
-VGB,2007,Municipal,34617286.75,America,Caribbean,British Virgin Islands,0.25061762866155207
-VGB,2012,Municipal,34589061.75,America,Caribbean,British Virgin Islands,0.25041328906035637
-VGB,2017,Municipal,3525820.75,America,Caribbean,British Virgin Islands,0.02552576814676832
-VGB,2022,Municipal,3525820.75,America,Caribbean,British Virgin Islands,0.02552576814676832
-VIR,2007,Municipal,34617286.75,America,Caribbean,Virgin Islands of the United States,0.25061762866155207
-VIR,2012,Municipal,34589061.75,America,Caribbean,Virgin Islands of the United States,0.25041328906035637
-VIR,2017,Municipal,3525820.75,America,Caribbean,Virgin Islands of the United States,0.02552576814676832
-VIR,2022,Municipal,3525820.75,America,Caribbean,Virgin Islands of the United States,0.02552576814676832
-VNM,2007,Municipal,3199742.4,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.023165069475464407
-VNM,2012,Municipal,3923013.3333333335,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.028401310186669988
-VNM,2017,Municipal,4581690.333333333,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.0331699123300458
-VNM,2022,Municipal,4581690.333333333,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.0331699123300458
-VUT,2007,Municipal,576870.8928571428,Oceania,Melanesia,Republic of Vanuatu,0.004176353168745365
-VUT,2012,Municipal,621023.4642857143,Oceania,Melanesia,Republic of Vanuatu,0.004496003083270753
-VUT,2017,Municipal,446889.60714285716,Oceania,Melanesia,Republic of Vanuatu,0.003235331943386218
-VUT,2022,Municipal,446889.60714285716,Oceania,Melanesia,Republic of Vanuatu,0.003235331943386218
-WSM,2007,Municipal,863.0,Oceania,Polynesia,Independent State of Samoa,6.247832624690595e-06
-WSM,2012,Municipal,863.0,Oceania,Polynesia,Independent State of Samoa,6.247832624690595e-06
-WSM,2017,Municipal,863.0,Oceania,Polynesia,Independent State of Samoa,6.247832624690595e-06
-WSM,2022,Municipal,863.0,Oceania,Polynesia,Independent State of Samoa,6.247832624690595e-06
-XKX,2007,Municipal,1661818.1818181819,Europe,Southern Europe,Republic of Kosovo,0.012031010258015808
-XKX,2012,Municipal,1891272.7272727273,Europe,Southern Europe,Republic of Kosovo,0.013692184759724337
-XKX,2017,Municipal,2323818.1818181816,Europe,Southern Europe,Republic of Kosovo,0.016823669814846832
-XKX,2022,Municipal,2323818.1818181816,Europe,Southern Europe,Republic of Kosovo,0.016823669814846832
-YEM,2007,Municipal,716418.7,Asia,Western Asia,Republic of Yemen,0.005186632823636643
-YEM,2012,Municipal,713118.7,Asia,Western Asia,Republic of Yemen,0.005162741922522532
-YEM,2017,Municipal,651431.98,Asia,Western Asia,Republic of Yemen,0.00471615061113649
-YEM,2022,Municipal,651431.98,Asia,Western Asia,Republic of Yemen,0.00471615061113649
-ZAF,2007,Municipal,1508.08,Africa,Southern Africa,Republic of South Africa,1.091799701580926e-05
-ZAF,2012,Municipal,1508.08,Africa,Southern Africa,Republic of South Africa,1.091799701580926e-05
-ZAF,2017,Municipal,1508.08,Africa,Southern Africa,Republic of South Africa,1.091799701580926e-05
-ZAF,2022,Municipal,1508.08,Africa,Southern Africa,Republic of South Africa,1.091799701580926e-05
-ZMB,2007,Municipal,13334.89,Africa,Eastern Africa,Republic of Zambia,9.654016313865626e-05
-ZMB,2012,Municipal,13349.89,Africa,Eastern Africa,Republic of Zambia,9.664875814372041e-05
-ZMB,2017,Municipal,13349.89,Africa,Eastern Africa,Republic of Zambia,9.664875814372041e-05
-ZMB,2022,Municipal,13349.89,Africa,Eastern Africa,Republic of Zambia,9.664875814372041e-05
-ZWE,2007,Municipal,41939.56,Africa,Eastern Africa,Republic of Zimbabwe,0.0003036284487058733
-ZWE,2012,Municipal,41939.56,Africa,Eastern Africa,Republic of Zimbabwe,0.0003036284487058733
-ZWE,2017,Municipal,41939.56,Africa,Eastern Africa,Republic of Zimbabwe,0.0003036284487058733
-ZWE,2022,Municipal,41939.56,Africa,Eastern Africa,Republic of Zimbabwe,0.0003036284487058733
+Region,Year,Indicator,Normalized,Value,Unit,Source,Continent,UN_Region,Official_Name
+AFG,2007,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Afghanistan
+AFG,2012,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Afghanistan
+AFG,2017,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Afghanistan
+AFG,2022,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Afghanistan
+AGO,2007,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Angola
+AGO,2012,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Angola
+AGO,2017,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Angola
+AGO,2022,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Angola
+ALB,2007,Municipal,0.012031010258015808,1661818.1818181819,,Estimated,Europe,Southern Europe,Republic of Albania
+ALB,2012,Municipal,0.013692184759724337,1891272.7272727273,,Estimated,Europe,Southern Europe,Republic of Albania
+ALB,2017,Municipal,0.016823669814846832,2323818.1818181816,,Estimated,Europe,Southern Europe,Republic of Albania
+ALB,2022,Municipal,0.016823669814846832,2323818.1818181816,,Estimated,Europe,Southern Europe,Republic of Albania
+AND,2007,Municipal,0.0,0.0,,xx,Europe,Southern Europe,Principality of Andorra
+AND,2012,Municipal,0.0,0.0,,xx,Europe,Southern Europe,Principality of Andorra
+AND,2017,Municipal,0.0,0.0,,xx,Europe,Southern Europe,Principality of Andorra
+AND,2022,Municipal,0.0,0.0,,Estimated,Europe,Southern Europe,Principality of Andorra
+ARE,2007,Municipal,0.004972621027323227,686857.7,,Estimated,Asia,Western Asia,United Arab Emirates
+ARE,2012,Municipal,0.004972621027323227,686857.7,,xx,Asia,Western Asia,United Arab Emirates
+ARE,2017,Municipal,0.009778820933352349,1350728.0,,xx,Asia,Western Asia,United Arab Emirates
+ARE,2022,Municipal,0.009778820933352349,1350728.0,,Estimated,Asia,Western Asia,United Arab Emirates
+ARG,2007,Municipal,0.0024766832044793266,342099.05,,Estimated,America,South America,Argentine Republic
+ARG,2012,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Argentine Republic
+ARG,2017,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Argentine Republic
+ARG,2022,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Argentine Republic
+ARM,2007,Municipal,0.005186632823636643,716418.7,,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2012,Municipal,0.005162741922522532,713118.7,,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2017,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2022,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Republic of Armenia
+ASM,2007,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,American Samoa
+ASM,2012,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,American Samoa
+ASM,2017,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,American Samoa
+ASM,2022,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,American Samoa
+ATG,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Antigua and Barbuda
+ATG,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Antigua and Barbuda
+ATG,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Antigua and Barbuda
+ATG,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Antigua and Barbuda
+AUS,2007,Municipal,0.02899196324565855,4004599.0,,xx,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUS,2012,Municipal,0.031229512647336272,4313667.0,,xx,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUS,2017,Municipal,0.022404814668144524,3094730.0,,xx,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUS,2022,Municipal,0.022404814668144524,3094730.0,,Estimated,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUT,2007,Municipal,0.02156696800573961,2979000.0,,xx,Europe,Western Europe,Republic of Austria
+AUT,2012,Municipal,0.020401381618051096,2818000.0,,xx,Europe,Western Europe,Republic of Austria
+AUT,2017,Municipal,0.020980554978393212,2898000.0,,xx,Europe,Western Europe,Republic of Austria
+AUT,2022,Municipal,0.020980554978393212,2898000.0,,Estimated,Europe,Western Europe,Republic of Austria
+AZE,2007,Municipal,0.0,0.0,,xx,Asia,Western Asia,Republic of Azerbaijan
+AZE,2012,Municipal,0.0,0.0,,xx,Asia,Western Asia,Republic of Azerbaijan
+AZE,2017,Municipal,0.0,0.0,,xx,Asia,Western Asia,Republic of Azerbaijan
+AZE,2022,Municipal,0.0,0.0,,Estimated,Asia,Western Asia,Republic of Azerbaijan
+BDI,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Republic of Burundi
+BDI,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Burundi
+BDI,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Burundi
+BDI,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Burundi
+BEL,2007,Municipal,0.021552488671731054,2977000.0,,xx,Europe,Western Europe,Kingdom of Belgium
+BEL,2012,Municipal,0.01909824155728133,2638000.0,,xx,Europe,Western Europe,Kingdom of Belgium
+BEL,2017,Municipal,0.018222241849763877,2517000.0,,xx,Europe,Western Europe,Kingdom of Belgium
+BEL,2022,Municipal,0.018222241849763877,2517000.0,,Estimated,Europe,Western Europe,Kingdom of Belgium
+BEN,2007,Municipal,4.471218341841149e-06,617.6,,Estimated,Africa,Western Africa,Republic of Benin
+BEN,2012,Municipal,4.471218341841149e-06,617.6,,Estimated,Africa,Western Africa,Republic of Benin
+BEN,2017,Municipal,4.471218341841149e-06,617.6,,Estimated,Africa,Western Africa,Republic of Benin
+BEN,2022,Municipal,4.471218341841149e-06,617.6,,xx,Africa,Western Africa,Republic of Benin
+BFA,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Burkina Faso
+BFA,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Burkina Faso
+BFA,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Burkina Faso
+BFA,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Burkina Faso
+BGD,2007,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,People's Republic of Bangladesh
+BGD,2012,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,People's Republic of Bangladesh
+BGD,2017,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,People's Republic of Bangladesh
+BGD,2022,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,People's Republic of Bangladesh
+BGR,2007,Municipal,0.006211634289669212,858000.0,,xx,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2012,Municipal,0.006088559950596512,841000.0,,xx,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2017,Municipal,0.007710245359554442,1065000.0,,xx,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2022,Municipal,0.007710245359554442,1065000.0,,Estimated,Europe,Eastern Europe,Republic of Bulgaria
+BHR,2007,Municipal,1.3610573968039766e-07,18.8,,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHR,2012,Municipal,1.3610573968039766e-07,18.8,,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHR,2017,Municipal,1.3610573968039766e-07,18.8,,xx,Asia,Western Asia,Kingdom of Bahrain
+BHR,2022,Municipal,1.3610573968039766e-07,18.8,,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHS,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Commonwealth of the Bahamas
+BHS,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Commonwealth of the Bahamas
+BHS,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Commonwealth of the Bahamas
+BHS,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Commonwealth of the Bahamas
+BIH,2007,Municipal,0.0,0.0,,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2012,Municipal,0.0,0.0,,xx,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2017,Municipal,0.0,0.0,,xx,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2022,Municipal,0.0,0.0,,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BLR,2007,Municipal,0.000285242879968493,39400.0,,xx,Europe,Eastern Europe,Republic of Belarus
+BLR,2012,Municipal,0.0026989478591942684,372800.0,,xx,Europe,Eastern Europe,Republic of Belarus
+BLR,2017,Municipal,0.004733294287395957,653800.0,,xx,Europe,Eastern Europe,Republic of Belarus
+BLR,2022,Municipal,0.004733294287395957,653800.0,,Estimated,Europe,Eastern Europe,Republic of Belarus
+BLZ,2007,Municipal,0.0047144711531848385,651200.0,,Estimated,America,Central America,Belize
+BLZ,2012,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Belize
+BLZ,2017,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Belize
+BLZ,2022,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Belize
+BMU,2007,Municipal,1.1583467206842354e-05,1600.0,,Estimated,America,Northern America,Bermuda
+BMU,2012,Municipal,1.1583467206842354e-05,1600.0,,xx,America,Northern America,Bermuda
+BMU,2017,Municipal,7.239667004276471e-06,1000.0,,xx,America,Northern America,Bermuda
+BMU,2022,Municipal,7.239667004276471e-06,1000.0,,Estimated,America,Northern America,Bermuda
+BOL,2007,Municipal,0.0024766832044793266,342099.05,,Estimated,America,South America,Plurinational State of Bolivia
+BOL,2012,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Plurinational State of Bolivia
+BOL,2017,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Plurinational State of Bolivia
+BOL,2022,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Plurinational State of Bolivia
+BRA,2007,Municipal,0.001976983650660004,273076.6,,xx,America,South America,Federative Republic of Brazil
+BRA,2012,Municipal,0.0037525025718917033,518325.3,,xx,America,South America,Federative Republic of Brazil
+BRA,2017,Municipal,0.0037525025718917033,518325.3,,Estimated,America,South America,Federative Republic of Brazil
+BRA,2022,Municipal,0.0037525025718917033,518325.3,,Estimated,America,South America,Federative Republic of Brazil
+BRB,2007,Municipal,1.0,138127900.0,,Estimated,America,Caribbean,Barbados
+BRB,2012,Municipal,1.0,138127900.0,,xx,America,Caribbean,Barbados
+BRB,2017,Municipal,0.09965285796714494,13764840.0,,xx,America,Caribbean,Barbados
+BRB,2022,Municipal,0.09965285796714494,13764840.0,,Estimated,America,Caribbean,Barbados
+BRN,2007,Municipal,0.023165069475464407,3199742.4,,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BRN,2012,Municipal,0.028401310186669988,3923013.3333333335,,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BRN,2017,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BRN,2022,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BTN,2007,Municipal,5.4353537554686636e-05,7507.74,,Estimated,Asia,Southern Asia,Kingdom of Bhutan
+BTN,2012,Municipal,5.4353537554686636e-05,7507.74,,xx,Asia,Southern Asia,Kingdom of Bhutan
+BTN,2017,Municipal,4.4880143692910696e-05,6199.2,,xx,Asia,Southern Asia,Kingdom of Bhutan
+BTN,2022,Municipal,4.4880143692910696e-05,6199.2,,Estimated,Asia,Southern Asia,Kingdom of Bhutan
+BWA,2007,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of Botswana
+BWA,2012,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of Botswana
+BWA,2017,Municipal,1.091799701580926e-05,1508.08,,xx,Africa,Southern Africa,Republic of Botswana
+BWA,2022,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of Botswana
+CAF,2007,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Central African Republic
+CAF,2012,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Central African Republic
+CAF,2017,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Central African Republic
+CAF,2022,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Central African Republic
+CAN,2007,Municipal,0.043519918857812215,6011315.0,,Estimated,America,Northern America,Canada
+CAN,2012,Municipal,0.043519918857812215,6011315.0,,xx,America,Northern America,Canada
+CAN,2017,Municipal,0.043519918857812215,6011315.0,,Estimated,America,Northern America,Canada
+CAN,2022,Municipal,0.043519918857812215,6011315.0,,Estimated,America,Northern America,Canada
+CHE,2007,Municipal,0.02016247260690997,2785000.0,,xx,Europe,Western Europe,Swiss Confederation
+CHE,2012,Municipal,0.020198670941931354,2790000.0,,xx,Europe,Western Europe,Swiss Confederation
+CHE,2017,Municipal,0.02277599239545378,3146000.0,,xx,Europe,Western Europe,Swiss Confederation
+CHE,2022,Municipal,0.02277599239545378,3146000.0,,Estimated,Europe,Western Europe,Swiss Confederation
+CHL,2007,Municipal,0.0007938512060199279,109653.0,,Estimated,America,South America,Republic of Chile
+CHL,2012,Municipal,0.0007938512060199279,109653.0,,Estimated,America,South America,Republic of Chile
+CHL,2017,Municipal,0.0007938512060199279,109653.0,,xx,America,South America,Republic of Chile
+CHL,2022,Municipal,0.0007938512060199279,109653.0,,Estimated,America,South America,Republic of Chile
+CHN,2007,Municipal,0.042625566594438925,5887780.0,,Estimated,Asia,Eastern Asia,People's Republic of China
+CHN,2012,Municipal,0.03932391645713864,5431730.0,,Estimated,Asia,Eastern Asia,People's Republic of China
+CHN,2017,Municipal,0.04010541081852399,5539676.175,,Estimated,Asia,Eastern Asia,People's Republic of China
+CHN,2022,Municipal,0.04010541081852399,5539676.175,,Estimated,Asia,Eastern Asia,People's Republic of China
+CIV,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Republic of Côte d'Ivoire
+CIV,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Republic of Côte d'Ivoire
+CIV,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Côte d'Ivoire
+CIV,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Côte d'Ivoire
+CMR,2007,Municipal,0.0002908970598988329,40181.0,,xx,Africa,Middle Africa,Republic of Cameroon
+CMR,2012,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Cameroon
+CMR,2017,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Cameroon
+CMR,2022,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Cameroon
+COD,2007,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Democratic Republic of the Congo
+COD,2012,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Democratic Republic of the Congo
+COD,2017,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Democratic Republic of the Congo
+COD,2022,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Democratic Republic of the Congo
+COG,2007,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of the Congo
+COG,2012,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of the Congo
+COG,2017,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of the Congo
+COG,2022,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of the Congo
+COL,2007,Municipal,0.011373313429075516,1570971.9,,Estimated,America,South America,Republic of Colombia
+COL,2012,Municipal,0.011373313429075516,1570971.9,,xx,America,South America,Republic of Colombia
+COL,2017,Municipal,0.011373313429075516,1570971.9,,Estimated,America,South America,Republic of Colombia
+COL,2022,Municipal,0.011373313429075516,1570971.9,,Estimated,America,South America,Republic of Colombia
+COM,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Union of the Comoros
+COM,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Union of the Comoros
+COM,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Union of the Comoros
+COM,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Union of the Comoros
+CPV,2007,Municipal,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Cabo Verde
+CPV,2012,Municipal,0.0,0.0,,xx,Africa,Western Africa,Republic of Cabo Verde
+CPV,2017,Municipal,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Cabo Verde
+CPV,2022,Municipal,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Cabo Verde
+CRI,2007,Municipal,0.0007254146338285025,100200.0,,Estimated,America,Central America,Republic of Costa Rica
+CRI,2012,Municipal,0.0007254146338285025,100200.0,,Estimated,America,Central America,Republic of Costa Rica
+CRI,2017,Municipal,0.0007254146338285025,100200.0,,xx,America,Central America,Republic of Costa Rica
+CRI,2022,Municipal,0.0007254146338285025,100200.0,,Estimated,America,Central America,Republic of Costa Rica
+CUB,2007,Municipal,0.002252984371730838,311200.0,,xx,America,Caribbean,Republic of Cuba
+CUB,2012,Municipal,0.001432006133445886,197800.0,,xx,America,Caribbean,Republic of Cuba
+CUB,2017,Municipal,0.0023420322758834385,323500.0,,xx,America,Caribbean,Republic of Cuba
+CUB,2022,Municipal,0.0023420322758834385,323500.0,,Estimated,America,Caribbean,Republic of Cuba
+CUW,2007,Municipal,0.000215720357726426,29797.0,,Estimated,America,Caribbean,Country of Curaçao
+CUW,2012,Municipal,0.000215720357726426,29797.0,,xx,America,Caribbean,Country of Curaçao
+CUW,2017,Municipal,0.00010275259379169596,14193.0,,xx,America,Caribbean,Country of Curaçao
+CUW,2022,Municipal,0.00010275259379169596,14193.0,,Estimated,America,Caribbean,Country of Curaçao
+CYM,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Cayman Islands
+CYM,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Cayman Islands
+CYM,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Cayman Islands
+CYM,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Cayman Islands
+CYP,2007,Municipal,0.00020271067611974118,28000.0,,xx,Asia,Western Asia,Republic of Cyprus
+CYP,2012,Municipal,0.000521256024307906,72000.0,,xx,Asia,Western Asia,Republic of Cyprus
+CYP,2017,Municipal,0.0006226113623677765,86000.0,,xx,Asia,Western Asia,Republic of Cyprus
+CYP,2022,Municipal,0.0006226113623677765,86000.0,,Estimated,Asia,Western Asia,Republic of Cyprus
+CZE,2007,Municipal,0.0022225777703128767,307000.0,,xx,Europe,Eastern Europe,Czech Republic
+CZE,2012,Municipal,0.005429750253207353,750000.0,,xx,Europe,Eastern Europe,Czech Republic
+CZE,2017,Municipal,0.012017847227098942,1660000.0,,xx,Europe,Eastern Europe,Czech Republic
+CZE,2022,Municipal,0.012017847227098942,1660000.0,,Estimated,Europe,Eastern Europe,Czech Republic
+DEU,2007,Municipal,0.21910128221742312,30264000.0,,xx,Europe,Western Europe,Federal Republic of Germany
+DEU,2012,Municipal,0.23499959095881426,32460000.0,,xx,Europe,Western Europe,Federal Republic of Germany
+DEU,2017,Municipal,0.25182457707675276,34784000.0,,xx,Europe,Western Europe,Federal Republic of Germany
+DEU,2022,Municipal,0.25182457707675276,34784000.0,,Estimated,Europe,Western Europe,Federal Republic of Germany
+DJI,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Republic of Djibouti
+DJI,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Djibouti
+DJI,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Djibouti
+DJI,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Djibouti
+DMA,2007,Municipal,1.8099167510691178e-06,250.0,,xx,America,Caribbean,Commonwealth of Dominica
+DMA,2012,Municipal,5.429750253207354e-06,750.0,,xx,America,Caribbean,Commonwealth of Dominica
+DMA,2017,Municipal,5.429750253207354e-06,750.0,,Estimated,America,Caribbean,Commonwealth of Dominica
+DMA,2022,Municipal,5.429750253207354e-06,750.0,,Estimated,America,Caribbean,Commonwealth of Dominica
+DNK,2007,Municipal,0.013798805310150954,1906000.0,,xx,Europe,Northern Europe,Kingdom of Denmark
+DNK,2012,Municipal,0.013856722646185166,1914000.0,,xx,Europe,Northern Europe,Kingdom of Denmark
+DNK,2017,Municipal,0.016296490426626335,2251000.0,,xx,Europe,Northern Europe,Kingdom of Denmark
+DNK,2022,Municipal,0.016296490426626335,2251000.0,,Estimated,Europe,Northern Europe,Kingdom of Denmark
+DOM,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Dominican Republic
+DOM,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Dominican Republic
+DOM,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Dominican Republic
+DOM,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Dominican Republic
+DZA,2007,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,People's Democratic Republic of Algeria
+DZA,2012,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,People's Democratic Republic of Algeria
+DZA,2017,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,People's Democratic Republic of Algeria
+DZA,2022,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,People's Democratic Republic of Algeria
+ECU,2007,Municipal,0.0003553011375688764,49077.0,,Estimated,America,South America,Republic of Ecuador
+ECU,2012,Municipal,0.0003553011375688764,49077.0,,xx,America,South America,Republic of Ecuador
+ECU,2017,Municipal,0.0003553011375688764,49077.0,,Estimated,America,South America,Republic of Ecuador
+ECU,2022,Municipal,0.0003553011375688764,49077.0,,Estimated,America,South America,Republic of Ecuador
+EGY,2007,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+EGY,2012,Municipal,0.01444313567353156,1995000.0,,xx,Africa,Northern Africa,Arab Republic of Egypt
+EGY,2017,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+EGY,2022,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+ERI,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,State of Eritrea
+ERI,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,State of Eritrea
+ERI,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,State of Eritrea
+ERI,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,State of Eritrea
+ESP,2007,Municipal,0.057873898032186115,7994000.0,,xx,Europe,Southern Europe,Kingdom of Spain
+ESP,2012,Municipal,0.04721710820189114,6522000.0,,xx,Europe,Southern Europe,Kingdom of Spain
+ESP,2017,Municipal,0.05756259235100222,7951000.0,,xx,Europe,Southern Europe,Kingdom of Spain
+ESP,2022,Municipal,0.05756259235100222,7951000.0,,Estimated,Europe,Southern Europe,Kingdom of Spain
+EST,2007,Municipal,0.0010063137135944294,139000.0,,xx,Europe,Northern Europe,Republic of Estonia
+EST,2012,Municipal,0.0005140163573036295,71000.0,,xx,Europe,Northern Europe,Republic of Estonia
+EST,2017,Municipal,0.0010497517156200884,145000.0,,xx,Europe,Northern Europe,Republic of Estonia
+EST,2022,Municipal,0.0010497517156200884,145000.0,,Estimated,Europe,Northern Europe,Republic of Estonia
+ETH,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+ETH,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+ETH,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+ETH,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+FIN,2007,Municipal,0.006899402655075477,953000.0,,xx,Europe,Northern Europe,Republic of Finland
+FIN,2012,Municipal,0.006602576307900142,912000.0,,xx,Europe,Northern Europe,Republic of Finland
+FIN,2017,Municipal,0.008253220384875177,1140000.0,,xx,Europe,Northern Europe,Republic of Finland
+FIN,2022,Municipal,0.008253220384875177,1140000.0,,Estimated,Europe,Northern Europe,Republic of Finland
+FJI,2007,Municipal,0.004176353168745365,576870.8928571428,,Estimated,Oceania,Melanesia,Republic of Fiji
+FJI,2012,Municipal,0.004496003083270753,621023.4642857143,,Estimated,Oceania,Melanesia,Republic of Fiji
+FJI,2017,Municipal,0.003235331943386218,446889.60714285716,,Estimated,Oceania,Melanesia,Republic of Fiji
+FJI,2022,Municipal,0.003235331943386218,446889.60714285716,,Estimated,Oceania,Melanesia,Republic of Fiji
+FRA,2007,Municipal,0.08081640276873825,11163000.0,,xx,Europe,Western Europe,French Republic
+FRA,2012,Municipal,0.09420254705964544,13012000.0,,xx,Europe,Western Europe,French Republic
+FRA,2017,Municipal,0.10863120339916846,15005000.0,,xx,Europe,Western Europe,French Republic
+FRA,2022,Municipal,0.10863120339916846,15005000.0,,Estimated,Europe,Western Europe,French Republic
+FRO,2007,Municipal,0.01383717554527362,1911300.0,,Estimated,Europe,Northern Europe,Faroe Islands
+FRO,2012,Municipal,0.014679148817870974,2027600.0,,Estimated,Europe,Northern Europe,Faroe Islands
+FRO,2017,Municipal,0.016449971367116997,2272200.0,,Estimated,Europe,Northern Europe,Faroe Islands
+FRO,2022,Municipal,0.016449971367116997,2272200.0,,Estimated,Europe,Northern Europe,Faroe Islands
+FSM,2007,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Federated States of Micronesia
+FSM,2012,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Federated States of Micronesia
+FSM,2017,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Federated States of Micronesia
+FSM,2022,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Federated States of Micronesia
+GAB,2007,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Gabonese Republic
+GAB,2012,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Gabonese Republic
+GAB,2017,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Gabonese Republic
+GAB,2022,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Gabonese Republic
+GBR,2007,Municipal,0.08467514528201761,11696000.0,,xx,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2012,Municipal,0.09383332404242735,12961000.0,,xx,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2017,Municipal,0.09795993423486493,13531000.0,,xx,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2022,Municipal,0.09795993423486493,13531000.0,,Estimated,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GEO,2007,Municipal,0.005186632823636643,716418.7,,Estimated,Asia,Western Asia,Georgia
+GEO,2012,Municipal,0.005162741922522532,713118.7,,Estimated,Asia,Western Asia,Georgia
+GEO,2017,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Georgia
+GEO,2022,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Georgia
+GHA,2007,Municipal,0.0005609532903924551,77483.3,,xx,Africa,Western Africa,Republic of Ghana
+GHA,2012,Municipal,0.0012599907766642365,174039.88,,xx,Africa,Western Africa,Republic of Ghana
+GHA,2017,Municipal,0.0014889222235334064,205661.7,,xx,Africa,Western Africa,Republic of Ghana
+GHA,2022,Municipal,0.0014889222235334064,205661.7,,Estimated,Africa,Western Africa,Republic of Ghana
+GIB,2007,Municipal,0.012031010258015808,1661818.1818181819,,Estimated,Europe,Southern Europe,Gibraltar
+GIB,2012,Municipal,0.013692184759724337,1891272.7272727273,,Estimated,Europe,Southern Europe,Gibraltar
+GIB,2017,Municipal,0.016823669814846832,2323818.1818181816,,Estimated,Europe,Southern Europe,Gibraltar
+GIB,2022,Municipal,0.016823669814846832,2323818.1818181816,,Estimated,Europe,Southern Europe,Gibraltar
+GIN,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Republic of Guinea
+GIN,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Republic of Guinea
+GIN,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Guinea
+GIN,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Guinea
+GMB,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Republic of the Gambia
+GMB,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Republic of the Gambia
+GMB,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of the Gambia
+GMB,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of the Gambia
+GNB,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNB,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNB,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNB,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNQ,2007,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GNQ,2012,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GNQ,2017,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GNQ,2022,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GRC,2007,Municipal,0.0072541463382850245,1002000.0,,xx,Europe,Southern Europe,Hellenic Republic
+GRC,2012,Municipal,0.006711171312964289,927000.0,,xx,Europe,Southern Europe,Hellenic Republic
+GRC,2017,Municipal,0.0073989396783705535,1022000.0,,xx,Europe,Southern Europe,Hellenic Republic
+GRC,2022,Municipal,0.0073989396783705535,1022000.0,,Estimated,Europe,Southern Europe,Hellenic Republic
+GRD,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Grenada
+GRD,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Grenada
+GRD,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Grenada
+GRD,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Grenada
+GRL,2007,Municipal,0.1526505868836057,21085305.0,,Estimated,America,Northern America,Greenland
+GRL,2012,Municipal,0.15783901490333718,21801971.666666668,,Estimated,America,Northern America,Greenland
+GRL,2017,Municipal,0.1611436815685559,22258438.333333332,,Estimated,America,Northern America,Greenland
+GRL,2022,Municipal,0.1611436815685559,22258438.333333332,,Estimated,America,Northern America,Greenland
+GTM,2007,Municipal,0.0047144711531848385,651200.0,,Estimated,America,Central America,Republic of Guatemala
+GTM,2012,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Guatemala
+GTM,2017,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Guatemala
+GTM,2022,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Guatemala
+GUM,2007,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Guam
+GUM,2012,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Guam
+GUM,2017,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Guam
+GUM,2022,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Guam
+GUY,2007,Municipal,0.0024766832044793266,342099.05,,Estimated,America,South America,Co-operative Republic of Guyana
+GUY,2012,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Co-operative Republic of Guyana
+GUY,2017,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Co-operative Republic of Guyana
+GUY,2022,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Co-operative Republic of Guyana
+HKG,2007,Municipal,0.02035070394902116,2811000.0,,xx,Asia,Eastern Asia,Hong Kong SAR
+HKG,2012,Municipal,0.015659399730250007,2163000.0,,xx,Asia,Eastern Asia,Hong Kong SAR
+HKG,2017,Municipal,0.013255830284830218,1831000.0,,xx,Asia,Eastern Asia,Hong Kong SAR
+HKG,2022,Municipal,0.013255830284830218,1831000.0,,Estimated,Asia,Eastern Asia,Hong Kong SAR
+HND,2007,Municipal,0.0047144711531848385,651200.0,,Estimated,America,Central America,Republic of Honduras
+HND,2012,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Honduras
+HND,2017,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Honduras
+HND,2022,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Honduras
+HRV,2007,Municipal,0.0003981816852352059,55000.0,,xx,Europe,Southern Europe,Republic of Croatia
+HRV,2012,Municipal,0.0017737184160477354,245000.0,,xx,Europe,Southern Europe,Republic of Croatia
+HRV,2017,Municipal,0.002932065136731971,405000.0,,xx,Europe,Southern Europe,Republic of Croatia
+HRV,2022,Municipal,0.002932065136731971,405000.0,,Estimated,Europe,Southern Europe,Republic of Croatia
+HTI,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Republic of Haiti
+HTI,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Republic of Haiti
+HTI,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Republic of Haiti
+HTI,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Republic of Haiti
+HUN,2007,Municipal,0.004010775520369165,554000.0,,xx,Europe,Eastern Europe,Republic of Hungary
+HUN,2012,Municipal,0.007348262009340618,1015000.0,,xx,Europe,Eastern Europe,Republic of Hungary
+HUN,2017,Municipal,0.009549120778640665,1319000.0,,xx,Europe,Eastern Europe,Republic of Hungary
+HUN,2022,Municipal,0.009549120778640665,1319000.0,,Estimated,Europe,Eastern Europe,Republic of Hungary
+IDN,2007,Municipal,0.023165069475464407,3199742.4,,Estimated,Asia,South-eastern Asia,Republic of Indonesia
+IDN,2012,Municipal,0.028401310186669988,3923013.3333333335,,Estimated,Asia,South-eastern Asia,Republic of Indonesia
+IDN,2017,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Republic of Indonesia
+IDN,2022,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Republic of Indonesia
+IMN,2007,Municipal,0.01383717554527362,1911300.0,,Estimated,Europe,Northern Europe,Isle of Man
+IMN,2012,Municipal,0.014679148817870974,2027600.0,,Estimated,Europe,Northern Europe,Isle of Man
+IMN,2017,Municipal,0.016449971367116997,2272200.0,,Estimated,Europe,Northern Europe,Isle of Man
+IMN,2022,Municipal,0.016449971367116997,2272200.0,,Estimated,Europe,Northern Europe,Isle of Man
+IND,2007,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Republic of India
+IND,2012,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Republic of India
+IND,2017,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Republic of India
+IND,2022,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Republic of India
+IRL,2007,Municipal,0.008398013724960707,1160000.0,,xx,Europe,Northern Europe,Ireland
+IRL,2012,Municipal,0.007131071999212324,985000.0,,xx,Europe,Northern Europe,Ireland
+IRL,2017,Municipal,0.008093947710781094,1118000.0,,xx,Europe,Northern Europe,Ireland
+IRL,2022,Municipal,0.008093947710781094,1118000.0,,Estimated,Europe,Northern Europe,Ireland
+IRN,2007,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Iran
+IRN,2012,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Iran
+IRN,2017,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Iran
+IRN,2022,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Iran
+IRQ,2007,Municipal,0.005186632823636643,716418.7,,Estimated,Asia,Western Asia,Republic of Iraq
+IRQ,2012,Municipal,0.005162741922522532,713118.7,,Estimated,Asia,Western Asia,Republic of Iraq
+IRQ,2017,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Republic of Iraq
+IRQ,2022,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Republic of Iraq
+ISL,2007,Municipal,0.0003330246821967177,46000.0,,Estimated,Europe,Northern Europe,Republic of Iceland
+ISL,2012,Municipal,0.0003330246821967177,46000.0,,xx,Europe,Northern Europe,Republic of Iceland
+ISL,2017,Municipal,0.00041990068624803535,58000.0,,xx,Europe,Northern Europe,Republic of Iceland
+ISL,2022,Municipal,0.00041990068624803535,58000.0,,Estimated,Europe,Northern Europe,Republic of Iceland
+ISR,2007,Municipal,0.0035957869481835314,496678.5,,xx,Asia,Western Asia,State of Israel
+ISR,2012,Municipal,0.0035957869481835314,496678.5,,Estimated,Asia,Western Asia,State of Israel
+ISR,2017,Municipal,0.0028494532965461722,393589.0,,xx,Asia,Western Asia,State of Israel
+ISR,2022,Municipal,0.0028494532965461722,393589.0,,Estimated,Asia,Western Asia,State of Israel
+ITA,2007,Municipal,0.05889469107978909,8135000.0,,xx,Europe,Southern Europe,Italian Republic
+ITA,2012,Municipal,0.08337200522124784,11516000.0,,xx,Europe,Southern Europe,Italian Republic
+ITA,2017,Municipal,0.10223133776738805,14121000.0,,xx,Europe,Southern Europe,Italian Republic
+ITA,2022,Municipal,0.10223133776738805,14121000.0,,Estimated,Europe,Southern Europe,Italian Republic
+JAM,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Jamaica
+JAM,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Jamaica
+JAM,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Jamaica
+JAM,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Jamaica
+JOR,2007,Municipal,0.005186632823636643,716418.7,,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JOR,2012,Municipal,0.005162741922522532,713118.7,,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JOR,2017,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JOR,2022,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JPN,2007,Municipal,0.07459752881206476,10304000.0,,xx,Asia,Eastern Asia,Japan
+JPN,2012,Municipal,0.06607644074803136,9127000.0,,xx,Asia,Eastern Asia,Japan
+JPN,2017,Municipal,0.06150097120132862,8495000.0,,xx,Asia,Eastern Asia,Japan
+JPN,2022,Municipal,0.06150097120132862,8495000.0,,Estimated,Asia,Eastern Asia,Japan
+KAZ,2007,Municipal,0.0001614445741953653,22300.0,,xx,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2012,Municipal,0.0009882145460837384,136500.0,,xx,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2017,Municipal,0.003205000582793194,442700.0,,xx,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2022,Municipal,0.003205000582793194,442700.0,,Estimated,Asia,Central Asia,Republic of Kazakhstan
+KEN,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Republic of Kenya
+KEN,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Kenya
+KEN,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Kenya
+KEN,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Kenya
+KGZ,2007,Municipal,0.002366140367007679,326830.0,,Estimated,Asia,Central Asia,Kyrgyz Republic
+KGZ,2012,Municipal,0.002779525352951866,383930.0,,Estimated,Asia,Central Asia,Kyrgyz Republic
+KGZ,2017,Municipal,0.0038879183713065933,537030.0,,Estimated,Asia,Central Asia,Kyrgyz Republic
+KGZ,2022,Municipal,0.0038879183713065933,537030.0,,Estimated,Asia,Central Asia,Kyrgyz Republic
+KHM,2007,Municipal,0.023165069475464407,3199742.4,,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
+KHM,2012,Municipal,0.028401310186669988,3923013.3333333335,,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
+KHM,2017,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
+KHM,2022,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
+KIR,2007,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of Kiribati
+KIR,2012,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of Kiribati
+KIR,2017,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of Kiribati
+KIR,2022,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of Kiribati
+KNA,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Saint Kitts and Nevis
+KNA,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Saint Kitts and Nevis
+KNA,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Saint Kitts and Nevis
+KNA,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Saint Kitts and Nevis
+KOR,2007,Municipal,0.07555316485662926,10436000.0,,Estimated,Asia,Eastern Asia,Republic of Korea
+KOR,2012,Municipal,0.07555316485662926,10436000.0,,xx,Asia,Eastern Asia,Republic of Korea
+KOR,2017,Municipal,0.08563773864657322,11828961.0,,xx,Asia,Eastern Asia,Republic of Korea
+KOR,2022,Municipal,0.08563773864657322,11828961.0,,Estimated,Asia,Eastern Asia,Republic of Korea
+KWT,2007,Municipal,0.019170638227324097,2648000.0,,xx,Asia,Western Asia,State of Kuwait
+KWT,2012,Municipal,0.018598704533986255,2569000.0,,xx,Asia,Western Asia,State of Kuwait
+KWT,2017,Municipal,0.009714793318366529,1341884.0,,xx,Asia,Western Asia,State of Kuwait
+KWT,2022,Municipal,0.009714793318366529,1341884.0,,Estimated,Asia,Western Asia,State of Kuwait
+LAO,2007,Municipal,0.023165069475464407,3199742.4,,Estimated,Asia,South-eastern Asia,Lao People's Democratic Republic
+LAO,2012,Municipal,0.028401310186669988,3923013.3333333335,,Estimated,Asia,South-eastern Asia,Lao People's Democratic Republic
+LAO,2017,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Lao People's Democratic Republic
+LAO,2022,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Lao People's Democratic Republic
+LBN,2007,Municipal,0.0011221483856628531,155000.0,,Estimated,Asia,Western Asia,Lebanese Republic
+LBN,2012,Municipal,0.0011221483856628531,155000.0,,xx,Asia,Western Asia,Lebanese Republic
+LBN,2017,Municipal,0.0011221483856628531,155000.0,,Estimated,Asia,Western Asia,Lebanese Republic
+LBN,2022,Municipal,0.0011221483856628531,155000.0,,Estimated,Asia,Western Asia,Lebanese Republic
+LBR,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Republic of Liberia
+LBR,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Republic of Liberia
+LBR,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Liberia
+LBR,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Liberia
+LBY,2007,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,State of Libya
+LBY,2012,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,State of Libya
+LBY,2017,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,State of Libya
+LBY,2022,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,State of Libya
+LCA,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Saint Lucia
+LCA,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Saint Lucia
+LCA,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Saint Lucia
+LCA,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Saint Lucia
+LIE,2007,Municipal,0.0,0.0,,xx,Europe,Western Europe,Principality of Liechtenstein
+LIE,2012,Municipal,0.0,0.0,,xx,Europe,Western Europe,Principality of Liechtenstein
+LIE,2017,Municipal,0.0,0.0,,xx,Europe,Western Europe,Principality of Liechtenstein
+LIE,2022,Municipal,0.0,0.0,,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LKA,2007,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LKA,2012,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LKA,2017,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LKA,2022,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LSO,2007,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Kingdom of Lesotho
+LSO,2012,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Kingdom of Lesotho
+LSO,2017,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Kingdom of Lesotho
+LSO,2022,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Kingdom of Lesotho
+LTU,2007,Municipal,0.0007384460344362001,102000.0,,xx,Europe,Northern Europe,Republic of Lithuania
+LTU,2012,Municipal,0.002258776105334259,312000.0,,xx,Europe,Northern Europe,Republic of Lithuania
+LTU,2017,Municipal,0.004481353875647136,619000.0,,xx,Europe,Northern Europe,Republic of Lithuania
+LTU,2022,Municipal,0.004481353875647136,619000.0,,Estimated,Europe,Northern Europe,Republic of Lithuania
+LUX,2007,Municipal,0.0010859500506414706,150000.0,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2012,Municipal,0.0011873053887013413,164000.0,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2017,Municipal,0.001686842411996418,233000.0,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2022,Municipal,0.001686842411996418,233000.0,,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LVA,2007,Municipal,0.00031130568118388827,43000.0,,xx,Europe,Northern Europe,Republic of Latvia
+LVA,2012,Municipal,0.0006950080324105413,96000.0,,xx,Europe,Northern Europe,Republic of Latvia
+LVA,2017,Municipal,0.0014334540668467413,198000.0,,xx,Europe,Northern Europe,Republic of Latvia
+LVA,2022,Municipal,0.0014334540668467413,198000.0,,Estimated,Europe,Northern Europe,Republic of Latvia
+MAC,2007,Municipal,8.687600405131765e-07,120.0,,xx,Asia,Eastern Asia,Macau SAR
+MAC,2012,Municipal,6.6604936439343535e-06,920.0,,xx,Asia,Eastern Asia,Macau SAR
+MAC,2017,Municipal,2.7103141363909823e-05,3743.7,,xx,Asia,Eastern Asia,Macau SAR
+MAC,2022,Municipal,2.7103141363909823e-05,3743.7,,Estimated,Asia,Eastern Asia,Macau SAR
+MAF,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Saint-Martin (French part)
+MAF,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Saint-Martin (French part)
+MAF,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Saint-Martin (French part)
+MAF,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Saint-Martin (French part)
+MAR,2007,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
+MAR,2012,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
+MAR,2017,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
+MAR,2022,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
+MCO,2007,Municipal,0.0,0.0,,xx,Europe,Western Europe,Principality of Monaco
+MCO,2012,Municipal,0.0,0.0,,xx,Europe,Western Europe,Principality of Monaco
+MCO,2017,Municipal,0.0,0.0,,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2022,Municipal,0.0,0.0,,Estimated,Europe,Western Europe,Principality of Monaco
+MDA,2007,Municipal,0.0026517090319913643,366275.0,,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDA,2012,Municipal,0.004931299179962919,681150.0,,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDA,2017,Municipal,0.009158450247922396,1265037.5,,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDA,2022,Municipal,0.009158450247922396,1265037.5,,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDG,2007,Municipal,0.0,0.0,,xx,Africa,Eastern Africa,Republic of Madagascar
+MDG,2012,Municipal,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Madagascar
+MDG,2017,Municipal,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Madagascar
+MDG,2022,Municipal,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Madagascar
+MDV,2007,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Republic of Maldives
+MDV,2012,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Republic of Maldives
+MDV,2017,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Republic of Maldives
+MDV,2022,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Republic of Maldives
+MEX,2007,Municipal,0.008703527672541175,1202200.0,,xx,America,Central America,United Mexican States
+MEX,2012,Municipal,0.015203300708980589,2100000.0,,xx,America,Central America,United Mexican States
+MEX,2017,Municipal,0.015203300708980589,2100000.0,,Estimated,America,Central America,United Mexican States
+MEX,2022,Municipal,0.015203300708980589,2100000.0,,Estimated,America,Central America,United Mexican States
+MHL,2007,Municipal,5.791733603421177e-05,8000.0,,xx,Oceania,Micronesia,Republic of the Marshall Islands
+MHL,2012,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
+MHL,2017,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
+MHL,2022,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
+MKD,2007,Municipal,0.0,0.0,,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MKD,2012,Municipal,0.0,0.0,,xx,Europe,Southern Europe,Republic of North Macedonia
+MKD,2017,Municipal,0.0,0.0,,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MKD,2022,Municipal,0.0,0.0,,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MLI,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Republic of Mali
+MLI,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Republic of Mali
+MLI,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Mali
+MLI,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Mali
+MLT,2007,Municipal,9.411567105559412e-05,13000.0,,xx,Europe,Southern Europe,Republic of Malta
+MLT,2012,Municipal,0.0002751073461625059,38000.0,,xx,Europe,Southern Europe,Republic of Malta
+MLT,2017,Municipal,0.000260628012153953,36000.0,,xx,Europe,Southern Europe,Republic of Malta
+MLT,2022,Municipal,0.000260628012153953,36000.0,,Estimated,Europe,Southern Europe,Republic of Malta
+MMR,2007,Municipal,0.023165069475464407,3199742.4,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MMR,2012,Municipal,0.028401310186669988,3923013.3333333335,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MMR,2017,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MMR,2022,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MNE,2007,Municipal,0.012031010258015808,1661818.1818181819,,Estimated,Europe,Southern Europe,Montenegro
+MNE,2012,Municipal,0.013692184759724337,1891272.7272727273,,Estimated,Europe,Southern Europe,Montenegro
+MNE,2017,Municipal,0.016823669814846832,2323818.1818181816,,Estimated,Europe,Southern Europe,Montenegro
+MNE,2022,Municipal,0.016823669814846832,2323818.1818181816,,Estimated,Europe,Southern Europe,Montenegro
+MNG,2007,Municipal,0.042625566594438925,5887780.0,,Estimated,Asia,Eastern Asia,Mongolia
+MNG,2012,Municipal,0.03932391645713864,5431730.0,,Estimated,Asia,Eastern Asia,Mongolia
+MNG,2017,Municipal,0.04010541081852399,5539676.175,,Estimated,Asia,Eastern Asia,Mongolia
+MNG,2022,Municipal,0.04010541081852399,5539676.175,,Estimated,Asia,Eastern Asia,Mongolia
+MNP,2007,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MNP,2012,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MNP,2017,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MNP,2022,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MOZ,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Republic of Mozambique
+MOZ,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Mozambique
+MOZ,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Mozambique
+MOZ,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Mozambique
+MRT,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Islamic Republic of Mauritania
+MRT,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Islamic Republic of Mauritania
+MRT,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Islamic Republic of Mauritania
+MRT,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Islamic Republic of Mauritania
+MUS,2007,Municipal,6.370906963763295e-05,8800.0,,xx,Africa,Eastern Africa,Republic of Mauritius
+MUS,2012,Municipal,6.370906963763295e-05,8800.0,,Estimated,Africa,Eastern Africa,Republic of Mauritius
+MUS,2017,Municipal,6.370906963763295e-05,8800.0,,Estimated,Africa,Eastern Africa,Republic of Mauritius
+MUS,2022,Municipal,6.370906963763295e-05,8800.0,,Estimated,Africa,Eastern Africa,Republic of Mauritius
+MWI,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Republic of Malawi
+MWI,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Malawi
+MWI,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Malawi
+MWI,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Malawi
+MYS,2007,Municipal,0.00335288670862295,463127.2,,xx,Asia,South-eastern Asia,Malaysia
+MYS,2012,Municipal,0.009579816966738798,1323240.0,,xx,Asia,South-eastern Asia,Malaysia
+MYS,2017,Municipal,0.020742159983609395,2865071.0,,xx,Asia,South-eastern Asia,Malaysia
+MYS,2022,Municipal,0.020742159983609395,2865071.0,,Estimated,Asia,South-eastern Asia,Malaysia
+NAM,2007,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of Namibia
+NAM,2012,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of Namibia
+NAM,2017,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of Namibia
+NAM,2022,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of Namibia
+NCL,2007,Municipal,0.004176353168745365,576870.8928571428,,Estimated,Oceania,Melanesia,New Caledonia
+NCL,2012,Municipal,0.004496003083270753,621023.4642857143,,Estimated,Oceania,Melanesia,New Caledonia
+NCL,2017,Municipal,0.003235331943386218,446889.60714285716,,Estimated,Oceania,Melanesia,New Caledonia
+NCL,2022,Municipal,0.003235331943386218,446889.60714285716,,Estimated,Oceania,Melanesia,New Caledonia
+NER,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Republic of Niger
+NER,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Republic of Niger
+NER,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Niger
+NER,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Niger
+NGA,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Federal Republic of Nigeria
+NGA,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Federal Republic of Nigeria
+NGA,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Federal Republic of Nigeria
+NGA,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Federal Republic of Nigeria
+NIC,2007,Municipal,0.0047144711531848385,651200.0,,Estimated,America,Central America,Republic of Nicaragua
+NIC,2012,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Nicaragua
+NIC,2017,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Nicaragua
+NIC,2022,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Nicaragua
+NLD,2007,Municipal,0.03467076528348002,4789000.0,,xx,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2012,Municipal,0.032933245202453665,4549000.0,,xx,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2017,Municipal,0.03475764128753134,4801000.0,,xx,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2022,Municipal,0.03475764128753134,4801000.0,,Estimated,Europe,Western Europe,Kingdom of the Netherlands
+NOR,2007,Municipal,0.007138311666216601,986000.0,,xx,Europe,Northern Europe,Kingdom of Norway
+NOR,2012,Municipal,0.006899402655075477,953000.0,,xx,Europe,Northern Europe,Kingdom of Norway
+NOR,2017,Municipal,0.011091169850551554,1532000.0,,xx,Europe,Northern Europe,Kingdom of Norway
+NOR,2022,Municipal,0.011091169850551554,1532000.0,,Estimated,Europe,Northern Europe,Kingdom of Norway
+NPL,2007,Municipal,1.856250619896487e-06,256.4,,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NPL,2012,Municipal,1.856250619896487e-06,256.4,,xx,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NPL,2017,Municipal,1.856250619896487e-06,256.4,,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NPL,2022,Municipal,1.856250619896487e-06,256.4,,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NRU,2007,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Republic of Nauru
+NRU,2012,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Republic of Nauru
+NRU,2017,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Republic of Nauru
+NRU,2022,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Republic of Nauru
+NZL,2007,Municipal,0.02899196324565855,4004599.0,,Estimated,Oceania,Australia and New Zealand,New Zealand
+NZL,2012,Municipal,0.031229512647336272,4313667.0,,Estimated,Oceania,Australia and New Zealand,New Zealand
+NZL,2017,Municipal,0.022404814668144524,3094730.0,,Estimated,Oceania,Australia and New Zealand,New Zealand
+NZL,2022,Municipal,0.022404814668144524,3094730.0,,Estimated,Oceania,Australia and New Zealand,New Zealand
+OMN,2007,Municipal,0.005186632823636643,716418.7,,Estimated,Asia,Western Asia,Sultanate of Oman
+OMN,2012,Municipal,0.005162741922522532,713118.7,,Estimated,Asia,Western Asia,Sultanate of Oman
+OMN,2017,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Sultanate of Oman
+OMN,2022,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Sultanate of Oman
+PAK,2007,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Pakistan
+PAK,2012,Municipal,2.810489408729156e-05,3882.0699999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Pakistan
+PAK,2017,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Pakistan
+PAK,2022,Municipal,2.3368197156403593e-05,3227.7999999999997,,Estimated,Asia,Southern Asia,Islamic Republic of Pakistan
+PAN,2007,Municipal,0.0047144711531848385,651200.0,,Estimated,America,Central America,Republic of Panama
+PAN,2012,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Panama
+PAN,2017,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Panama
+PAN,2022,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of Panama
+PER,2007,Municipal,0.00032581252592705747,45003.8,,Estimated,America,South America,Republic of Peru
+PER,2012,Municipal,0.00032581252592705747,45003.8,,Estimated,America,South America,Republic of Peru
+PER,2017,Municipal,0.00032581252592705747,45003.8,,xx,America,South America,Republic of Peru
+PER,2022,Municipal,0.00032581252592705747,45003.8,,Estimated,America,South America,Republic of Peru
+PHL,2007,Municipal,0.023165069475464407,3199742.4,,Estimated,Asia,South-eastern Asia,Republic of the Philippines
+PHL,2012,Municipal,0.028401310186669988,3923013.3333333335,,Estimated,Asia,South-eastern Asia,Republic of the Philippines
+PHL,2017,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Republic of the Philippines
+PHL,2022,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Republic of the Philippines
+PLW,2007,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of Palau
+PLW,2012,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of Palau
+PLW,2017,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of Palau
+PLW,2022,Municipal,5.791733603421177e-05,8000.0,,Estimated,Oceania,Micronesia,Republic of Palau
+PNG,2007,Municipal,0.004176353168745365,576870.8928571428,,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
+PNG,2012,Municipal,0.004496003083270753,621023.4642857143,,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
+PNG,2017,Municipal,0.003235331943386218,446889.60714285716,,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
+PNG,2022,Municipal,0.003235331943386218,446889.60714285716,,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
+POL,2007,Municipal,0.006827005985032712,943000.0,,xx,Europe,Eastern Europe,Republic of Poland
+POL,2012,Municipal,0.010468558488183777,1446000.0,,xx,Europe,Eastern Europe,Republic of Poland
+POL,2017,Municipal,0.02929893236630688,4047000.0,,xx,Europe,Eastern Europe,Republic of Poland
+POL,2022,Municipal,0.02929893236630688,4047000.0,,Estimated,Europe,Eastern Europe,Republic of Poland
+PRI,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Puerto Rico
+PRI,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Puerto Rico
+PRI,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Puerto Rico
+PRI,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Puerto Rico
+PRK,2007,Municipal,0.042625566594438925,5887780.0,,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRK,2012,Municipal,0.03932391645713864,5431730.0,,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRK,2017,Municipal,0.04010541081852399,5539676.175,,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRK,2022,Municipal,0.04010541081852399,5539676.175,,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRT,2007,Municipal,0.006146477286630724,849000.0,,xx,Europe,Southern Europe,Portuguese Republic
+PRT,2012,Municipal,0.008998906086315654,1243000.0,,xx,Europe,Southern Europe,Portuguese Republic
+PRT,2017,Municipal,0.010555434492235095,1458000.0,,xx,Europe,Southern Europe,Portuguese Republic
+PRT,2022,Municipal,0.010555434492235095,1458000.0,,Estimated,Europe,Southern Europe,Portuguese Republic
+PRY,2007,Municipal,0.0024766832044793266,342099.05,,Estimated,America,South America,Republic of Paraguay
+PRY,2012,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Republic of Paraguay
+PRY,2017,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Republic of Paraguay
+PRY,2022,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Republic of Paraguay
+PSE,2007,Municipal,9.411567105559412e-05,13000.0,,xx,Asia,Western Asia,State of Palestine
+PSE,2012,Municipal,0.00010859500506414707,15000.0,,xx,Asia,Western Asia,State of Palestine
+PSE,2017,Municipal,0.00010859500506414707,15000.0,,Estimated,Asia,Western Asia,State of Palestine
+PSE,2022,Municipal,0.00010859500506414707,15000.0,,Estimated,Asia,Western Asia,State of Palestine
+PYF,2007,Municipal,3.959011901288588e-05,5468.5,,Estimated,Oceania,Polynesia,French Polynesia
+PYF,2012,Municipal,3.959011901288588e-05,5468.5,,xx,Oceania,Polynesia,French Polynesia
+PYF,2017,Municipal,3.959011901288588e-05,5468.5,,Estimated,Oceania,Polynesia,French Polynesia
+PYF,2022,Municipal,3.959011901288588e-05,5468.5,,Estimated,Oceania,Polynesia,French Polynesia
+QAT,2007,Municipal,4.801347157236156e-05,6632.0,,Estimated,Asia,Western Asia,State of Qatar
+QAT,2012,Municipal,4.801347157236156e-05,6632.0,,xx,Asia,Western Asia,State of Qatar
+QAT,2017,Municipal,0.00030478998088003944,42100.0,,xx,Asia,Western Asia,State of Qatar
+QAT,2022,Municipal,0.00030478998088003944,42100.0,,Estimated,Asia,Western Asia,State of Qatar
+ROU,2007,Municipal,0.0002678676791582294,37000.0,,xx,Europe,Eastern Europe,Romania
+ROU,2012,Municipal,0.005393551918185971,745000.0,,xx,Europe,Eastern Europe,Romania
+ROU,2017,Municipal,0.005393551918185971,745000.0,,xx,Europe,Eastern Europe,Romania
+ROU,2022,Municipal,0.005393551918185971,745000.0,,Estimated,Europe,Eastern Europe,Romania
+RUS,2007,Municipal,0.0026517090319913643,366275.0,,Estimated,Europe,Eastern Europe,Russian Federation
+RUS,2012,Municipal,0.004931299179962919,681150.0,,Estimated,Europe,Eastern Europe,Russian Federation
+RUS,2017,Municipal,0.009158450247922396,1265037.5,,Estimated,Europe,Eastern Europe,Russian Federation
+RUS,2022,Municipal,0.009158450247922396,1265037.5,,Estimated,Europe,Eastern Europe,Russian Federation
+RWA,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Republic of Rwanda
+RWA,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Rwanda
+RWA,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Rwanda
+RWA,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Rwanda
+SAU,2007,Municipal,0.005186632823636643,716418.7,,Estimated,Asia,Western Asia,Kingdom of Saudi Arabia
+SAU,2012,Municipal,0.005162741922522532,713118.7,,Estimated,Asia,Western Asia,Kingdom of Saudi Arabia
+SAU,2017,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Kingdom of Saudi Arabia
+SAU,2022,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Kingdom of Saudi Arabia
+SDN,2007,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Republic of the Sudan
+SDN,2012,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Republic of the Sudan
+SDN,2017,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Republic of the Sudan
+SDN,2022,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Republic of the Sudan
+SEN,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Republic of Senegal
+SEN,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Republic of Senegal
+SEN,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Senegal
+SEN,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Senegal
+SGP,2007,Municipal,0.021574931639444312,2980100.0,,xx,Asia,South-eastern Asia,Republic of Singapore
+SGP,2012,Municipal,0.031056723514945206,4289800.0,,xx,Asia,South-eastern Asia,Republic of Singapore
+SGP,2017,Municipal,0.03420018692820205,4724000.0,,xx,Asia,South-eastern Asia,Republic of Singapore
+SGP,2022,Municipal,0.03420018692820205,4724000.0,,Estimated,Asia,South-eastern Asia,Republic of Singapore
+SLB,2007,Municipal,0.004176353168745365,576870.8928571428,,Estimated,Oceania,Melanesia,Solomon Islands
+SLB,2012,Municipal,0.004496003083270753,621023.4642857143,,Estimated,Oceania,Melanesia,Solomon Islands
+SLB,2017,Municipal,0.003235331943386218,446889.60714285716,,Estimated,Oceania,Melanesia,Solomon Islands
+SLB,2022,Municipal,0.003235331943386218,446889.60714285716,,Estimated,Oceania,Melanesia,Solomon Islands
+SLE,2007,Municipal,0.00014859579418785056,20525.225000000002,,Estimated,Africa,Western Africa,Republic of Sierra Leone
+SLE,2012,Municipal,0.0003233551657557959,44664.37,,Estimated,Africa,Western Africa,Republic of Sierra Leone
+SLE,2017,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Sierra Leone
+SLE,2022,Municipal,0.0003805880274730884,52569.825000000004,,Estimated,Africa,Western Africa,Republic of Sierra Leone
+SLV,2007,Municipal,0.0047144711531848385,651200.0,,Estimated,America,Central America,Republic of El Salvador
+SLV,2012,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of El Salvador
+SLV,2017,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of El Salvador
+SLV,2022,Municipal,0.007964357671404547,1100100.0,,Estimated,America,Central America,Republic of El Salvador
+SMR,2007,Municipal,0.012031010258015808,1661818.1818181819,,Estimated,Europe,Southern Europe,Republic of San Marino
+SMR,2012,Municipal,0.013692184759724337,1891272.7272727273,,Estimated,Europe,Southern Europe,Republic of San Marino
+SMR,2017,Municipal,0.016823669814846832,2323818.1818181816,,Estimated,Europe,Southern Europe,Republic of San Marino
+SMR,2022,Municipal,0.016823669814846832,2323818.1818181816,,Estimated,Europe,Southern Europe,Republic of San Marino
+SOM,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
+SOM,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
+SOM,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
+SOM,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
+SRB,2007,Municipal,0.0,0.0,,xx,Europe,Southern Europe,Republic of Serbia
+SRB,2012,Municipal,0.0,0.0,,xx,Europe,Southern Europe,Republic of Serbia
+SRB,2017,Municipal,4.343800202565883e-05,6000.0,,xx,Europe,Southern Europe,Republic of Serbia
+SRB,2022,Municipal,4.343800202565883e-05,6000.0,,Estimated,Europe,Southern Europe,Republic of Serbia
+SSD,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Republic of South Sudan
+SSD,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of South Sudan
+SSD,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of South Sudan
+SSD,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of South Sudan
+STP,2007,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+STP,2012,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+STP,2017,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+STP,2022,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+SUR,2007,Municipal,3.483727762457838e-05,4812.0,,Estimated,America,South America,Republic of Suriname
+SUR,2012,Municipal,3.483727762457838e-05,4812.0,,Estimated,America,South America,Republic of Suriname
+SUR,2017,Municipal,3.483727762457838e-05,4812.0,,xx,America,South America,Republic of Suriname
+SUR,2022,Municipal,3.483727762457838e-05,4812.0,,Estimated,America,South America,Republic of Suriname
+SVK,2007,Municipal,0.000752925368444753,104000.0,,xx,Europe,Eastern Europe,Slovak Republic
+SVK,2012,Municipal,0.0016072060749493767,222000.0,,xx,Europe,Eastern Europe,Slovak Republic
+SVK,2017,Municipal,0.0044451555406257535,614000.0,,xx,Europe,Eastern Europe,Slovak Republic
+SVK,2022,Municipal,0.0044451555406257535,614000.0,,Estimated,Europe,Eastern Europe,Slovak Republic
+SVN,2007,Municipal,0.0016796027449921414,232000.0,,xx,Europe,Southern Europe,Republic of Slovenia
+SVN,2012,Municipal,0.0022660157723385357,313000.0,,xx,Europe,Southern Europe,Republic of Slovenia
+SVN,2017,Municipal,0.004075932523407653,563000.0,,xx,Europe,Southern Europe,Republic of Slovenia
+SVN,2022,Municipal,0.004075932523407653,563000.0,,Estimated,Europe,Southern Europe,Republic of Slovenia
+SWE,2007,Municipal,0.015072986702903614,2082000.0,,xx,Europe,Northern Europe,Kingdom of Sweden
+SWE,2012,Municipal,0.01466756535066413,2026000.0,,xx,Europe,Northern Europe,Kingdom of Sweden
+SWE,2017,Municipal,0.015420490719108884,2130000.0,,xx,Europe,Northern Europe,Kingdom of Sweden
+SWE,2022,Municipal,0.015420490719108884,2130000.0,,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWZ,2007,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Kingdom of Eswatini
+SWZ,2012,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Kingdom of Eswatini
+SWZ,2017,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Kingdom of Eswatini
+SWZ,2022,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Kingdom of Eswatini
+SXM,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SXM,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SXM,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SXM,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SYC,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYC,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYC,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYC,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYR,2007,Municipal,0.005186632823636643,716418.7,,Estimated,Asia,Western Asia,Syrian Arab Republic
+SYR,2012,Municipal,0.005162741922522532,713118.7,,Estimated,Asia,Western Asia,Syrian Arab Republic
+SYR,2017,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Syrian Arab Republic
+SYR,2022,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Syrian Arab Republic
+TCA,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Turks and Caicos Islands
+TCA,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Turks and Caicos Islands
+TCA,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Turks and Caicos Islands
+TCA,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Turks and Caicos Islands
+TCD,2007,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Chad
+TCD,2012,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Chad
+TCD,2017,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Chad
+TCD,2022,Municipal,0.0002908970598988329,40181.0,,Estimated,Africa,Middle Africa,Republic of Chad
+TGO,2007,Municipal,2.8958668017105885e-05,4000.0,,Estimated,Africa,Western Africa,Togolese Republic
+TGO,2012,Municipal,2.8958668017105885e-05,4000.0,,xx,Africa,Western Africa,Togolese Republic
+TGO,2017,Municipal,2.8958668017105885e-05,4000.0,,Estimated,Africa,Western Africa,Togolese Republic
+TGO,2022,Municipal,2.8958668017105885e-05,4000.0,,Estimated,Africa,Western Africa,Togolese Republic
+THA,2007,Municipal,0.044567390078325955,6156000.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
+THA,2012,Municipal,0.044567390078325955,6156000.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
+THA,2017,Municipal,0.044567390078325955,6156000.0,,xx,Asia,South-eastern Asia,Kingdom of Thailand
+THA,2022,Municipal,0.044567390078325955,6156000.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
+TJK,2007,Municipal,0.002366140367007679,326830.0,,Estimated,Asia,Central Asia,Republic of Tajikistan
+TJK,2012,Municipal,0.002779525352951866,383930.0,,Estimated,Asia,Central Asia,Republic of Tajikistan
+TJK,2017,Municipal,0.0038879183713065933,537030.0,,Estimated,Asia,Central Asia,Republic of Tajikistan
+TJK,2022,Municipal,0.0038879183713065933,537030.0,,Estimated,Asia,Central Asia,Republic of Tajikistan
+TKM,2007,Municipal,0.002366140367007679,326830.0,,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2012,Municipal,0.002779525352951866,383930.0,,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2017,Municipal,0.0038879183713065933,537030.0,,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2022,Municipal,0.0038879183713065933,537030.0,,Estimated,Asia,Central Asia,Turkmenistan
+TLS,2007,Municipal,0.023165069475464407,3199742.4,,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TLS,2012,Municipal,0.028401310186669988,3923013.3333333335,,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TLS,2017,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TLS,2022,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TON,2007,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TON,2012,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TON,2017,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TON,2022,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TTO,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TTO,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TTO,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TTO,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TUN,2007,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
+TUN,2012,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
+TUN,2017,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
+TUN,2022,Municipal,0.01444313567353156,1995000.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
+TUR,2007,Municipal,0.022660157723385355,3130000.0,,Estimated,Asia,Western Asia,Republic of Türkiye
+TUR,2012,Municipal,0.022660157723385355,3130000.0,,Estimated,Asia,Western Asia,Republic of Türkiye
+TUR,2017,Municipal,0.022660157723385355,3130000.0,,xx,Asia,Western Asia,Republic of Türkiye
+TUR,2022,Municipal,0.022660157723385355,3130000.0,,Estimated,Asia,Western Asia,Republic of Türkiye
+TUV,2007,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Tuvalu
+TUV,2012,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Tuvalu
+TUV,2017,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Tuvalu
+TUV,2022,Municipal,2.2918975818788237e-05,3165.75,,Estimated,Oceania,Polynesia,Tuvalu
+TZA,2007,Municipal,1.8823134211118824e-05,2600.0,,xx,Africa,Eastern Africa,United Republic of Tanzania
+TZA,2012,Municipal,1.9257514231375413e-05,2660.0,,xx,Africa,Eastern Africa,United Republic of Tanzania
+TZA,2017,Municipal,1.9257514231375413e-05,2660.0,,Estimated,Africa,Eastern Africa,United Republic of Tanzania
+TZA,2022,Municipal,1.9257514231375413e-05,2660.0,,Estimated,Africa,Eastern Africa,United Republic of Tanzania
+UGA,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Republic of Uganda
+UGA,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Uganda
+UGA,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Uganda
+UGA,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Uganda
+UKR,2007,Municipal,0.0006356427629754742,87800.0,,xx,Europe,Eastern Europe,Ukraine
+UKR,2012,Municipal,0.00041555688604546945,57400.0,,xx,Europe,Eastern Europe,Ukraine
+UKR,2017,Municipal,0.00011945450557056177,16500.0,,xx,Europe,Eastern Europe,Ukraine
+UKR,2022,Municipal,0.00011945450557056177,16500.0,,Estimated,Europe,Eastern Europe,Ukraine
+URY,2007,Municipal,0.0024766832044793266,342099.05,,Estimated,America,South America,Oriental Republic of Uruguay
+URY,2012,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Oriental Republic of Uruguay
+URY,2017,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Oriental Republic of Uruguay
+URY,2022,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Oriental Republic of Uruguay
+USA,2007,Municipal,0.41442025832579804,57243000.0,,xx,America,Northern America,United States of America
+USA,2012,Municipal,0.4299855423849925,59393000.0,,xx,America,Northern America,United States of America
+USA,2017,Municipal,0.43990388618085124,60763000.0,,xx,America,Northern America,United States of America
+USA,2022,Municipal,0.43990388618085124,60763000.0,,Estimated,America,Northern America,United States of America
+UZB,2007,Municipal,0.004570836159819993,631360.0,,Estimated,Asia,Central Asia,Republic of Uzbekistan
+UZB,2012,Municipal,0.004570836159819993,631360.0,,Estimated,Asia,Central Asia,Republic of Uzbekistan
+UZB,2017,Municipal,0.004570836159819993,631360.0,,xx,Asia,Central Asia,Republic of Uzbekistan
+UZB,2022,Municipal,0.004570836159819993,631360.0,,Estimated,Asia,Central Asia,Republic of Uzbekistan
+VCT,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VCT,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VCT,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VCT,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VEN,2007,Municipal,0.0024766832044793266,342099.05,,Estimated,America,South America,Bolivarian Republic of Venezuela
+VEN,2012,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Bolivarian Republic of Venezuela
+VEN,2017,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Bolivarian Republic of Venezuela
+VEN,2022,Municipal,0.0027726030246846096,382973.8333333333,,Estimated,America,South America,Bolivarian Republic of Venezuela
+VGB,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,British Virgin Islands
+VGB,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,British Virgin Islands
+VGB,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,British Virgin Islands
+VGB,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,British Virgin Islands
+VIR,2007,Municipal,0.25061762866155207,34617286.75,,Estimated,America,Caribbean,Virgin Islands of the United States
+VIR,2012,Municipal,0.25041328906035637,34589061.75,,Estimated,America,Caribbean,Virgin Islands of the United States
+VIR,2017,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Virgin Islands of the United States
+VIR,2022,Municipal,0.02552576814676832,3525820.75,,Estimated,America,Caribbean,Virgin Islands of the United States
+VNM,2007,Municipal,0.023165069475464407,3199742.4,,Estimated,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VNM,2012,Municipal,0.028401310186669988,3923013.3333333335,,Estimated,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VNM,2017,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VNM,2022,Municipal,0.0331699123300458,4581690.333333333,,Estimated,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VUT,2007,Municipal,0.004176353168745365,576870.8928571428,,Estimated,Oceania,Melanesia,Republic of Vanuatu
+VUT,2012,Municipal,0.004496003083270753,621023.4642857143,,Estimated,Oceania,Melanesia,Republic of Vanuatu
+VUT,2017,Municipal,0.003235331943386218,446889.60714285716,,Estimated,Oceania,Melanesia,Republic of Vanuatu
+VUT,2022,Municipal,0.003235331943386218,446889.60714285716,,Estimated,Oceania,Melanesia,Republic of Vanuatu
+WSM,2007,Municipal,6.247832624690595e-06,863.0,,Estimated,Oceania,Polynesia,Independent State of Samoa
+WSM,2012,Municipal,6.247832624690595e-06,863.0,,Estimated,Oceania,Polynesia,Independent State of Samoa
+WSM,2017,Municipal,6.247832624690595e-06,863.0,,xx,Oceania,Polynesia,Independent State of Samoa
+WSM,2022,Municipal,6.247832624690595e-06,863.0,,Estimated,Oceania,Polynesia,Independent State of Samoa
+XKX,2007,Municipal,0.012031010258015808,1661818.1818181819,,Estimated,Europe,Southern Europe,Republic of Kosovo
+XKX,2012,Municipal,0.013692184759724337,1891272.7272727273,,Estimated,Europe,Southern Europe,Republic of Kosovo
+XKX,2017,Municipal,0.016823669814846832,2323818.1818181816,,Estimated,Europe,Southern Europe,Republic of Kosovo
+XKX,2022,Municipal,0.016823669814846832,2323818.1818181816,,Estimated,Europe,Southern Europe,Republic of Kosovo
+YEM,2007,Municipal,0.005186632823636643,716418.7,,Estimated,Asia,Western Asia,Republic of Yemen
+YEM,2012,Municipal,0.005162741922522532,713118.7,,Estimated,Asia,Western Asia,Republic of Yemen
+YEM,2017,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Republic of Yemen
+YEM,2022,Municipal,0.00471615061113649,651431.98,,Estimated,Asia,Western Asia,Republic of Yemen
+ZAF,2007,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of South Africa
+ZAF,2012,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of South Africa
+ZAF,2017,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of South Africa
+ZAF,2022,Municipal,1.091799701580926e-05,1508.08,,Estimated,Africa,Southern Africa,Republic of South Africa
+ZMB,2007,Municipal,9.654016313865626e-05,13334.89,,Estimated,Africa,Eastern Africa,Republic of Zambia
+ZMB,2012,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Zambia
+ZMB,2017,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Zambia
+ZMB,2022,Municipal,9.664875814372041e-05,13349.89,,Estimated,Africa,Eastern Africa,Republic of Zambia
+ZWE,2007,Municipal,0.0003036284487058733,41939.56,,Estimated,Africa,Eastern Africa,Republic of Zimbabwe
+ZWE,2012,Municipal,0.0003036284487058733,41939.56,,Estimated,Africa,Eastern Africa,Republic of Zimbabwe
+ZWE,2017,Municipal,0.0003036284487058733,41939.56,,xx,Africa,Eastern Africa,Republic of Zimbabwe
+ZWE,2022,Municipal,0.0003036284487058733,41939.56,,Estimated,Africa,Eastern Africa,Republic of Zimbabwe

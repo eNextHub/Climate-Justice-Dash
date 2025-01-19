@@ -1,861 +1,861 @@
-Region,Year,Indicator,Value,continent,UNregion,name_official,Normalized
-AFG,2007,Climate Disaster,1560.2,Asia,Southern Asia,Islamic Republic of Afghanistan,0.9999847465657145
-AFG,2012,Climate Disaster,44151.8,Asia,Southern Asia,Islamic Republic of Afghanistan,0.9995683459941759
-AFG,2017,Climate Disaster,1543.6,Asia,Southern Asia,Islamic Republic of Afghanistan,0.9999849088570933
-AFG,2022,Climate Disaster,0.0,Asia,Southern Asia,Islamic Republic of Afghanistan,1.0
-AGO,2007,Climate Disaster,0.0,Africa,Middle Africa,Republic of Angola,1.0
-AGO,2012,Climate Disaster,0.0,Africa,Middle Africa,Republic of Angola,1.0
-AGO,2017,Climate Disaster,497.2,Africa,Middle Africa,Republic of Angola,0.9999951390799084
-AGO,2022,Climate Disaster,497.2,Africa,Middle Africa,Republic of Angola,0.9999951390799084
-ALB,2007,Climate Disaster,7480.75,Europe,Southern Europe,Republic of Albania,0.999926863781226
-ALB,2012,Climate Disaster,0.0,Europe,Southern Europe,Republic of Albania,1.0
-ALB,2017,Climate Disaster,2212.6,Europe,Southern Europe,Republic of Albania,0.9999783683189976
-ALB,2022,Climate Disaster,2212.6,Europe,Southern Europe,Republic of Albania,0.9999783683189976
-AND,2007,Climate Disaster,369497.42361111107,Europe,Southern Europe,Principality of Andorra,0.9963875755225512
-AND,2012,Climate Disaster,231109.0625,Europe,Southern Europe,Principality of Andorra,0.9977405416628454
-AND,2017,Climate Disaster,221126.26249999998,Europe,Southern Europe,Principality of Andorra,0.9978381393963317
-AND,2022,Climate Disaster,169315.6,Europe,Southern Europe,Principality of Andorra,0.9983446709536528
-ARE,2007,Climate Disaster,0.0,Asia,Western Asia,United Arab Emirates,1.0
-ARE,2012,Climate Disaster,0.0,Asia,Western Asia,United Arab Emirates,1.0
-ARE,2017,Climate Disaster,0.0,Asia,Western Asia,United Arab Emirates,1.0
-ARE,2022,Climate Disaster,0.0,Asia,Western Asia,United Arab Emirates,1.0
-ARG,2007,Climate Disaster,392127.2,America,South America,Argentine Republic,0.9961663334977827
-ARG,2012,Climate Disaster,19202.4,America,South America,Argentine Republic,0.9998122660258146
-ARG,2017,Climate Disaster,615397.0,America,South America,Argentine Republic,0.9939835164087955
-ARG,2022,Climate Disaster,987829.6,America,South America,Argentine Republic,0.9903423959179096
-ARM,2007,Climate Disaster,204646.0,Asia,Western Asia,Republic of Armenia,0.9979992601507552
-ARM,2012,Climate Disaster,209679.55000000002,Asia,Western Asia,Republic of Armenia,0.9979500492007823
-ARM,2017,Climate Disaster,52823.68333333333,Asia,Western Asia,Republic of Armenia,0.9994835645542601
-ARM,2022,Climate Disaster,53172.98333333333,Asia,Western Asia,Republic of Armenia,0.9994801495916938
-ASM,2007,Climate Disaster,26850.5,Oceania,Polynesia,American Samoa,0.9997374936948578
-ASM,2012,Climate Disaster,26850.5,Oceania,Polynesia,American Samoa,0.9997374936948578
-ASM,2017,Climate Disaster,26850.5,Oceania,Polynesia,American Samoa,0.9997374936948578
-ASM,2022,Climate Disaster,26850.5,Oceania,Polynesia,American Samoa,0.9997374936948578
-ATG,2007,Climate Disaster,109458.33333333331,America,Caribbean,Antigua and Barbuda,0.9989298708534157
-ATG,2012,Climate Disaster,109458.33333333331,America,Caribbean,Antigua and Barbuda,0.9989298708534157
-ATG,2017,Climate Disaster,109458.33333333331,America,Caribbean,Antigua and Barbuda,0.9989298708534157
-ATG,2022,Climate Disaster,109458.33333333331,America,Caribbean,Antigua and Barbuda,0.9989298708534157
-AUS,2007,Climate Disaster,1034808.2,Oceania,Australia and New Zealand,Commonwealth of Australia,0.9898831054500689
-AUS,2012,Climate Disaster,4819549.2,Oceania,Australia and New Zealand,Commonwealth of Australia,0.9528812479118305
-AUS,2017,Climate Disaster,2570250.2,Oceania,Australia and New Zealand,Commonwealth of Australia,0.9748717199570516
-AUS,2022,Climate Disaster,4674530.0,Oceania,Australia and New Zealand,Commonwealth of Australia,0.9542990410392095
-AUT,2007,Climate Disaster,1243551.0,Europe,Western Europe,Republic of Austria,0.9878423128706736
-AUT,2012,Climate Disaster,457925.8,Europe,Western Europe,Republic of Austria,0.9955230476234216
-AUT,2017,Climate Disaster,489770.0,Europe,Western Europe,Republic of Austria,0.9952117199653813
-AUT,2022,Climate Disaster,29336.6,Europe,Western Europe,Republic of Austria,0.9997131881167414
-AZE,2007,Climate Disaster,53609.2,Asia,Western Asia,Republic of Azerbaijan,0.9994758848805931
-AZE,2012,Climate Disaster,53609.2,Asia,Western Asia,Republic of Azerbaijan,0.9994758848805931
-AZE,2017,Climate Disaster,53609.2,Asia,Western Asia,Republic of Azerbaijan,0.9994758848805931
-AZE,2022,Climate Disaster,53609.2,Asia,Western Asia,Republic of Azerbaijan,0.9994758848805931
-BDI,2007,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Burundi,1.0
-BDI,2012,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Burundi,1.0
-BDI,2017,Climate Disaster,3857.2,Africa,Eastern Africa,Republic of Burundi,0.9999622897405934
-BDI,2022,Climate Disaster,3857.2,Africa,Eastern Africa,Republic of Burundi,0.9999622897405934
-BEL,2007,Climate Disaster,133954.2,Europe,Western Europe,Kingdom of Belgium,0.9986903848308117
-BEL,2012,Climate Disaster,138091.4,Europe,Western Europe,Kingdom of Belgium,0.9986499371264622
-BEL,2017,Climate Disaster,138091.4,Europe,Western Europe,Kingdom of Belgium,0.9986499371264622
-BEL,2022,Climate Disaster,449794.6,Europe,Western Europe,Kingdom of Belgium,0.995602543024564
-BEN,2007,Climate Disaster,0.0,Africa,Western Africa,Republic of Benin,1.0
-BEN,2012,Climate Disaster,0.0,Africa,Western Africa,Republic of Benin,1.0
-BEN,2017,Climate Disaster,0.0,Africa,Western Africa,Republic of Benin,1.0
-BEN,2022,Climate Disaster,0.0,Africa,Western Africa,Republic of Benin,1.0
-BFA,2007,Climate Disaster,0.0,Africa,Western Africa,Burkina Faso,1.0
-BFA,2012,Climate Disaster,42657.4,Africa,Western Africa,Burkina Faso,0.9995829561288997
-BFA,2017,Climate Disaster,7970.6,Africa,Western Africa,Burkina Faso,0.9999220747190642
-BFA,2022,Climate Disaster,7970.6,Africa,Western Africa,Burkina Faso,0.9999220747190642
-BGD,2007,Climate Disaster,1419299.2,Asia,Southern Asia,People's Republic of Bangladesh,0.9861240949373984
-BGD,2012,Climate Disaster,76694.8,Asia,Southern Asia,People's Republic of Bangladesh,0.9992501864556852
-BGD,2017,Climate Disaster,414579.2,Asia,Southern Asia,People's Republic of Bangladesh,0.9959468295197169
-BGD,2022,Climate Disaster,586489.2,Asia,Southern Asia,People's Republic of Bangladesh,0.9942661360906557
-BGR,2007,Climate Disaster,143665.8,Europe,Eastern Europe,Republic of Bulgaria,0.9985954385082845
-BGR,2012,Climate Disaster,1889.0,Europe,Eastern Europe,Republic of Bulgaria,0.9999815320232244
-BGR,2017,Climate Disaster,1889.0,Europe,Eastern Europe,Republic of Bulgaria,0.9999815320232244
-BGR,2022,Climate Disaster,251192.4,Europe,Eastern Europe,Republic of Bulgaria,0.9975441951247157
-BHR,2007,Climate Disaster,204646.0,Asia,Western Asia,Kingdom of Bahrain,0.9979992601507552
-BHR,2012,Climate Disaster,209679.55000000002,Asia,Western Asia,Kingdom of Bahrain,0.9979500492007823
-BHR,2017,Climate Disaster,52823.68333333333,Asia,Western Asia,Kingdom of Bahrain,0.9994835645542601
-BHR,2022,Climate Disaster,53172.98333333333,Asia,Western Asia,Kingdom of Bahrain,0.9994801495916938
-BHS,2007,Climate Disaster,754167.25,America,Caribbean,Commonwealth of the Bahamas,0.9926268166977595
-BHS,2012,Climate Disaster,10836.8,America,Caribbean,Commonwealth of the Bahamas,0.9998940530594378
-BHS,2017,Climate Disaster,187755.4,America,Caribbean,Commonwealth of the Bahamas,0.9981643926063012
-BHS,2022,Climate Disaster,187755.4,America,Caribbean,Commonwealth of the Bahamas,0.9981643926063012
-BIH,2007,Climate Disaster,46378.2,Europe,Southern Europe,Bosnia and Herzegovina,0.999546579396244
-BIH,2012,Climate Disaster,24314.0,Europe,Southern Europe,Bosnia and Herzegovina,0.9997622920130639
-BIH,2017,Climate Disaster,24314.0,Europe,Southern Europe,Bosnia and Herzegovina,0.9997622920130639
-BIH,2022,Climate Disaster,0.0,Europe,Southern Europe,Bosnia and Herzegovina,1.0
-BLR,2007,Climate Disaster,22770.33333333333,Europe,Eastern Europe,Republic of Belarus,0.9997773838077433
-BLR,2012,Climate Disaster,17077.75,Europe,Eastern Europe,Republic of Belarus,0.9998330378558073
-BLR,2017,Climate Disaster,2939.2,Europe,Eastern Europe,Republic of Belarus,0.9999712646493706
-BLR,2022,Climate Disaster,2939.2,Europe,Eastern Europe,Republic of Belarus,0.9999712646493706
-BLZ,2007,Climate Disaster,235745.5,America,Central America,Belize,0.9976952131186042
-BLZ,2012,Climate Disaster,235745.5,America,Central America,Belize,0.9976952131186042
-BLZ,2017,Climate Disaster,235745.5,America,Central America,Belize,0.9976952131186042
-BLZ,2022,Climate Disaster,20823.2,America,Central America,Belize,0.9997964201302307
-BMU,2007,Climate Disaster,39525285.099999994,America,Northern America,Bermuda,0.6135775292342451
-BMU,2012,Climate Disaster,32860588.599999998,America,Northern America,Bermuda,0.6787355282700036
-BMU,2017,Climate Disaster,38545751.4,America,Northern America,Bermuda,0.6231540277109714
-BMU,2022,Climate Disaster,51863660.2,America,Northern America,Bermuda,0.4929503059437882
-BOL,2007,Climate Disaster,184319.4,America,South America,Plurinational State of Bolivia,0.9981979849663863
-BOL,2012,Climate Disaster,33365.6,America,South America,Plurinational State of Bolivia,0.9996737982393306
-BOL,2017,Climate Disaster,33365.6,America,South America,Plurinational State of Bolivia,0.9996737982393306
-BOL,2022,Climate Disaster,2354.6,America,South America,Plurinational State of Bolivia,0.9999769800433479
-BRA,2007,Climate Disaster,782503.6,America,South America,Federative Republic of Brazil,0.99234978384773
-BRA,2012,Climate Disaster,1454309.8,America,South America,Federative Republic of Brazil,0.9857818106876894
-BRA,2017,Climate Disaster,1581493.2,America,South America,Federative Republic of Brazil,0.9845383908478565
-BRA,2022,Climate Disaster,2727863.0,America,South America,Federative Republic of Brazil,0.9733308043774115
-BRB,2007,Climate Disaster,2101.25,America,Caribbean,Barbados,0.9999794569421918
-BRB,2012,Climate Disaster,2101.25,America,Caribbean,Barbados,0.9999794569421918
-BRB,2017,Climate Disaster,2101.25,America,Caribbean,Barbados,0.9999794569421918
-BRB,2022,Climate Disaster,2101.25,America,Caribbean,Barbados,0.9999794569421918
-BRN,2007,Climate Disaster,214000.31111111108,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.9979078068948781
-BRN,2012,Climate Disaster,1610822.6666666667,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.9842516487042666
-BRN,2017,Climate Disaster,1153211.4666666666,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.98872552536592
-BRN,2022,Climate Disaster,297708.55555555556,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace",0.9970894257861816
-BTN,2007,Climate Disaster,775826.7,Asia,Southern Asia,Kingdom of Bhutan,0.9924150611553706
-BTN,2012,Climate Disaster,802861.275,Asia,Southern Asia,Kingdom of Bhutan,0.9921507552245931
-BTN,2017,Climate Disaster,1482833.5250000001,Asia,Southern Asia,Kingdom of Bhutan,0.9855029459492806
-BTN,2022,Climate Disaster,2317741.75,Asia,Southern Asia,Kingdom of Bhutan,0.977340391312397
-BWA,2007,Climate Disaster,11313.0,Africa,Southern Africa,Republic of Botswana,0.999889397447717
-BWA,2012,Climate Disaster,11313.0,Africa,Southern Africa,Republic of Botswana,0.999889397447717
-BWA,2017,Climate Disaster,11313.0,Africa,Southern Africa,Republic of Botswana,0.999889397447717
-BWA,2022,Climate Disaster,11313.0,Africa,Southern Africa,Republic of Botswana,0.999889397447717
-CAF,2007,Climate Disaster,0.0,Africa,Middle Africa,Central African Republic,1.0
-CAF,2012,Climate Disaster,0.0,Africa,Middle Africa,Central African Republic,1.0
-CAF,2017,Climate Disaster,0.0,Africa,Middle Africa,Central African Republic,1.0
-CAF,2022,Climate Disaster,0.0,Africa,Middle Africa,Central African Republic,1.0
-CAN,2007,Climate Disaster,436769.6,America,Northern America,Canada,0.9957298830973551
-CAN,2012,Climate Disaster,1052864.4,America,Northern America,Canada,0.9897065774022891
-CAN,2017,Climate Disaster,3010829.2,America,Northern America,Canada,0.9705643601159583
-CAN,2022,Climate Disaster,1442158.2,America,Northern America,Canada,0.9859006118875764
-CHE,2007,Climate Disaster,942956.0,Europe,Western Europe,Swiss Confederation,0.9907811066657329
-CHE,2012,Climate Disaster,420228.0,Europe,Western Europe,Swiss Confederation,0.9958916035233114
-CHE,2017,Climate Disaster,420228.0,Europe,Western Europe,Swiss Confederation,0.9958916035233114
-CHE,2022,Climate Disaster,0.0,Europe,Western Europe,Swiss Confederation,1.0
-CHL,2007,Climate Disaster,0.0,America,South America,Republic of Chile,1.0
-CHL,2012,Climate Disaster,114602.0,America,South America,Republic of Chile,0.9988795833380416
-CHL,2017,Climate Disaster,818644.0,America,South America,Republic of Chile,0.9919964540076762
-CHL,2022,Climate Disaster,201983.2,America,South America,Republic of Chile,0.9980252932521624
-CHN,2007,Climate Disaster,16312016.8,Asia,Eastern Asia,People's Republic of China,0.8405241146501305
-CHN,2012,Climate Disaster,23959863.2,Asia,Eastern Asia,People's Republic of China,0.765754263036208
-CHN,2017,Climate Disaster,33253027.4,Asia,Eastern Asia,People's Republic of China,0.6748988153826285
-CHN,2022,Climate Disaster,21518724.6,Asia,Eastern Asia,People's Republic of China,0.7896202720202559
-CIV,2007,Climate Disaster,0.0,Africa,Western Africa,Republic of Côte d'Ivoire,1.0
-CIV,2012,Climate Disaster,0.0,Africa,Western Africa,Republic of Côte d'Ivoire,1.0
-CIV,2017,Climate Disaster,0.0,Africa,Western Africa,Republic of Côte d'Ivoire,1.0
-CIV,2022,Climate Disaster,0.0,Africa,Western Africa,Republic of Côte d'Ivoire,1.0
-CMR,2007,Climate Disaster,0.0,Africa,Middle Africa,Republic of Cameroon,1.0
-CMR,2012,Climate Disaster,530.8,Africa,Middle Africa,Republic of Cameroon,0.9999948105865154
-CMR,2017,Climate Disaster,530.8,Africa,Middle Africa,Republic of Cameroon,0.9999948105865154
-CMR,2022,Climate Disaster,3123.4,Africa,Middle Africa,Republic of Cameroon,0.9999694638016617
-COD,2007,Climate Disaster,0.0,Africa,Middle Africa,Democratic Republic of the Congo,1.0
-COD,2012,Climate Disaster,0.0,Africa,Middle Africa,Democratic Republic of the Congo,1.0
-COD,2017,Climate Disaster,3861.2,Africa,Middle Africa,Democratic Republic of the Congo,0.9999622506342372
-COD,2022,Climate Disaster,0.0,Africa,Middle Africa,Democratic Republic of the Congo,1.0
-COG,2007,Climate Disaster,0.0,Africa,Middle Africa,Republic of the Congo,1.0
-COG,2012,Climate Disaster,0.0,Africa,Middle Africa,Republic of the Congo,1.0
-COG,2017,Climate Disaster,0.0,Africa,Middle Africa,Republic of the Congo,1.0
-COG,2022,Climate Disaster,0.0,Africa,Middle Africa,Republic of the Congo,1.0
-COL,2007,Climate Disaster,3120.4,America,South America,Republic of Colombia,0.9999694931314289
-COL,2012,Climate Disaster,935077.8,America,South America,Republic of Colombia,0.9908581285898377
-COL,2017,Climate Disaster,28438.4,America,South America,Republic of Colombia,0.9997219694490546
-COL,2022,Climate Disaster,39964.6,America,South America,Republic of Colombia,0.9996092825279794
-COM,2007,Climate Disaster,2212.0,Africa,Eastern Africa,Union of the Comoros,0.999978374184951
-COM,2012,Climate Disaster,2212.0,Africa,Eastern Africa,Union of the Comoros,0.999978374184951
-COM,2017,Climate Disaster,2212.0,Africa,Eastern Africa,Union of the Comoros,0.999978374184951
-COM,2022,Climate Disaster,2212.0,Africa,Eastern Africa,Union of the Comoros,0.999978374184951
-CPV,2007,Climate Disaster,353.5,Africa,Western Africa,Republic of Cabo Verde,0.9999965439757595
-CPV,2012,Climate Disaster,353.5,Africa,Western Africa,Republic of Cabo Verde,0.9999965439757595
-CPV,2017,Climate Disaster,353.5,Africa,Western Africa,Republic of Cabo Verde,0.9999965439757595
-CPV,2022,Climate Disaster,282.8,Africa,Western Africa,Republic of Cabo Verde,0.9999972351806077
-CRI,2007,Climate Disaster,37894.0,America,Central America,Republic of Costa Rica,0.9996295259333323
-CRI,2012,Climate Disaster,29740.0,America,Central America,Republic of Costa Rica,0.9997092442407057
-CRI,2017,Climate Disaster,45993.8,America,Central America,Republic of Costa Rica,0.9995503375170871
-CRI,2022,Climate Disaster,0.0,America,Central America,Republic of Costa Rica,1.0
-CUB,2007,Climate Disaster,1190430.8,America,Caribbean,Republic of Cuba,0.9883616472380194
-CUB,2012,Climate Disaster,1813293.6,America,Caribbean,Republic of Cuba,0.9822721735880476
-CUB,2017,Climate Disaster,794419.2,America,Caribbean,Republic of Cuba,0.9922332899228662
-CUB,2022,Climate Disaster,32901.4,America,Caribbean,Republic of Cuba,0.9996783365319822
-CUW,2007,Climate Disaster,893785.1960784314,America,Caribbean,Country of Curaçao,0.9912618294104985
-CUW,2012,Climate Disaster,870848.2107843137,America,Caribbean,Country of Curaçao,0.9914860748904956
-CUW,2017,Climate Disaster,1868513.8343137256,America,Caribbean,Country of Curaçao,0.9817323080481587
-CUW,2022,Climate Disaster,1817212.0637254901,America,Caribbean,Country of Curaçao,0.9822338643783713
-CYM,2007,Climate Disaster,893785.1960784314,America,Caribbean,Cayman Islands,0.9912618294104985
-CYM,2012,Climate Disaster,870848.2107843137,America,Caribbean,Cayman Islands,0.9914860748904956
-CYM,2017,Climate Disaster,1868513.8343137256,America,Caribbean,Cayman Islands,0.9817323080481587
-CYM,2022,Climate Disaster,1817212.0637254901,America,Caribbean,Cayman Islands,0.9822338643783713
-CYP,2007,Climate Disaster,4141.0,Asia,Western Asia,Republic of Cyprus,0.999959515144612
-CYP,2012,Climate Disaster,4141.0,Asia,Western Asia,Republic of Cyprus,0.999959515144612
-CYP,2017,Climate Disaster,4141.0,Asia,Western Asia,Republic of Cyprus,0.999959515144612
-CYP,2022,Climate Disaster,13883.0,Asia,Western Asia,Republic of Cyprus,0.9998642716137767
-CZE,2007,Climate Disaster,863965.2,Europe,Eastern Europe,Czech Republic,0.9915533672585797
-CZE,2012,Climate Disaster,197980.4,Europe,Eastern Europe,Czech Republic,0.9980644269829392
-CZE,2017,Climate Disaster,357207.2,Europe,Eastern Europe,Czech Republic,0.9965077319885209
-CZE,2022,Climate Disaster,158374.0,Europe,Eastern Europe,Czech Republic,0.9984516424807507
-DEU,2007,Climate Disaster,2550955.8,Europe,Western Europe,Federal Republic of Germany,0.9750603533774325
-DEU,2012,Climate Disaster,1063577.8,Europe,Western Europe,Federal Republic of Germany,0.9896018368928197
-DEU,2017,Climate Disaster,5464519.6,Europe,Western Europe,Federal Republic of Germany,0.9465756373410728
-DEU,2022,Climate Disaster,9351760.4,Europe,Western Europe,Federal Republic of Germany,0.9085716813772623
-DJI,2007,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Djibouti,1.0
-DJI,2012,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Djibouti,1.0
-DJI,2017,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Djibouti,1.0
-DJI,2022,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Djibouti,1.0
-DMA,2007,Climate Disaster,29391.0,America,Caribbean,Commonwealth of Dominica,0.9997126562702953
-DMA,2012,Climate Disaster,29391.0,America,Caribbean,Commonwealth of Dominica,0.9997126562702953
-DMA,2017,Climate Disaster,614998.0,America,Caribbean,Commonwealth of Dominica,0.9939874172678391
-DMA,2022,Climate Disaster,614998.0,America,Caribbean,Commonwealth of Dominica,0.9939874172678391
-DNK,2007,Climate Disaster,725089.0,Europe,Northern Europe,Kingdom of Denmark,0.9929111027992289
-DNK,2012,Climate Disaster,725089.0,Europe,Northern Europe,Kingdom of Denmark,0.9929111027992289
-DNK,2017,Climate Disaster,725089.0,Europe,Northern Europe,Kingdom of Denmark,0.9929111027992289
-DNK,2022,Climate Disaster,435053.4,Europe,Northern Europe,Kingdom of Denmark,0.9957466616795373
-DOM,2007,Climate Disaster,158625.8,America,Caribbean,Dominican Republic,0.99844918073562
-DOM,2012,Climate Disaster,30975.8,America,Caribbean,Dominican Republic,0.9996971623319184
-DOM,2017,Climate Disaster,15689.4,America,Caribbean,Dominican Republic,0.9998466111832591
-DOM,2022,Climate Disaster,54514.2,America,Caribbean,Dominican Republic,0.9994670370674741
-DZA,2007,Climate Disaster,15283.2,Africa,Northern Africa,People's Democratic Republic of Algeria,0.9998505824337443
-DZA,2012,Climate Disaster,322202.0,Africa,Northern Africa,People's Democratic Republic of Algeria,0.996849963444649
-DZA,2017,Climate Disaster,211046.0,Africa,Northern Africa,People's Democratic Republic of Algeria,0.9979366899806315
-DZA,2022,Climate Disaster,0.0,Africa,Northern Africa,People's Democratic Republic of Algeria,1.0
-ECU,2007,Climate Disaster,283528.0,America,South America,Republic of Ecuador,0.9972280632508006
-ECU,2012,Climate Disaster,283528.0,America,South America,Republic of Ecuador,0.9972280632508006
-ECU,2017,Climate Disaster,283528.0,America,South America,Republic of Ecuador,0.9972280632508006
-ECU,2022,Climate Disaster,13575.6,America,South America,Republic of Ecuador,0.9998672769372605
-EGY,2007,Climate Disaster,43128.85,Africa,Northern Africa,Arab Republic of Egypt,0.9995783469559772
-EGY,2012,Climate Disaster,104620.0,Africa,Northern Africa,Arab Republic of Egypt,0.9989771732502566
-EGY,2017,Climate Disaster,74551.85,Africa,Northern Africa,Arab Republic of Egypt,0.9992711371972581
-EGY,2022,Climate Disaster,38753.75,Africa,Northern Africa,Arab Republic of Egypt,0.9996211205108692
-ERI,2007,Climate Disaster,26765.140625,Africa,Eastern Africa,State of Eritrea,0.9997383282183914
-ERI,2012,Climate Disaster,14977.628125,Africa,Eastern Africa,State of Eritrea,0.9998535698844011
-ERI,2017,Climate Disaster,23678.1,Africa,Eastern Africa,State of Eritrea,0.9997685089460611
-ERI,2022,Climate Disaster,63469.6625,Africa,Eastern Africa,State of Eritrea,0.9993794831905737
-ESP,2007,Climate Disaster,1253572.2,Europe,Southern Europe,Kingdom of Spain,0.9877443397161666
-ESP,2012,Climate Disaster,857133.4,Europe,Southern Europe,Kingdom of Spain,0.9916201589598691
-ESP,2017,Climate Disaster,13209.8,Europe,Southern Europe,Kingdom of Spain,0.9998708532135466
-ESP,2022,Climate Disaster,1179332.4,Europe,Southern Europe,Kingdom of Spain,0.9884701517342854
-EST,2007,Climate Disaster,67610.33333333333,Europe,Northern Europe,Republic of Estonia,0.999339001553313
-EST,2012,Climate Disaster,67610.33333333333,Europe,Northern Europe,Republic of Estonia,0.999339001553313
-EST,2017,Climate Disaster,67610.33333333333,Europe,Northern Europe,Republic of Estonia,0.999339001553313
-EST,2022,Climate Disaster,40566.2,Europe,Northern Europe,Republic of Estonia,0.9996034009319877
-ETH,2007,Climate Disaster,2902.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.9999716283384845
-ETH,2012,Climate Disaster,0.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,1.0
-ETH,2017,Climate Disaster,0.0,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,1.0
-ETH,2022,Climate Disaster,133277.8,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia,0.9986969977156668
-FIN,2007,Climate Disaster,0.0,Europe,Northern Europe,Republic of Finland,1.0
-FIN,2012,Climate Disaster,0.0,Europe,Northern Europe,Republic of Finland,1.0
-FIN,2017,Climate Disaster,0.0,Europe,Northern Europe,Republic of Finland,1.0
-FIN,2022,Climate Disaster,0.0,Europe,Northern Europe,Republic of Finland,1.0
-FJI,2007,Climate Disaster,22446.4,Oceania,Melanesia,Republic of Fiji,0.999780550770833
-FJI,2012,Climate Disaster,72491.8,Oceania,Melanesia,Republic of Fiji,0.9992912774595962
-FJI,2017,Climate Disaster,72491.8,Oceania,Melanesia,Republic of Fiji,0.9992912774595962
-FJI,2022,Climate Disaster,25340.8,Oceania,Melanesia,Republic of Fiji,0.9997522534113946
-FRA,2007,Climate Disaster,2031122.8,Europe,Western Europe,French Republic,0.980142547009619
-FRA,2012,Climate Disaster,2532993.0,Europe,Western Europe,French Republic,0.9752359682917919
-FRA,2017,Climate Disaster,1279889.0,Europe,Western Europe,French Republic,0.9874870511766173
-FRA,2022,Climate Disaster,1827271.0,Europe,Western Europe,French Republic,0.9821355222918149
-FRO,2007,Climate Disaster,483491.28148148145,Europe,Northern Europe,Faroe Islands,0.9952731044162975
-FRO,2012,Climate Disaster,544466.9703703704,Europe,Northern Europe,Faroe Islands,0.9946769701620479
-FRO,2017,Climate Disaster,345400.5925925926,Europe,Northern Europe,Faroe Islands,0.9966231603375939
-FRO,2022,Climate Disaster,90960.62222222223,Europe,Northern Europe,Faroe Islands,0.9991107153739038
-FSM,2007,Climate Disaster,629.9,Oceania,Micronesia,Federated States of Micronesia,0.9999938417265373
-FSM,2012,Climate Disaster,629.9,Oceania,Micronesia,Federated States of Micronesia,0.9999938417265373
-FSM,2017,Climate Disaster,629.9,Oceania,Micronesia,Federated States of Micronesia,0.9999938417265373
-FSM,2022,Climate Disaster,629.9,Oceania,Micronesia,Federated States of Micronesia,0.9999938417265373
-GAB,2007,Climate Disaster,0.0,Africa,Middle Africa,Gabonese Republic,1.0
-GAB,2012,Climate Disaster,0.0,Africa,Middle Africa,Gabonese Republic,1.0
-GAB,2017,Climate Disaster,0.0,Africa,Middle Africa,Gabonese Republic,1.0
-GAB,2022,Climate Disaster,0.0,Africa,Middle Africa,Gabonese Republic,1.0
-GBR,2007,Climate Disaster,3220599.6,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.9685135211136225
-GBR,2012,Climate Disaster,3769380.8,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.9631483128253767
-GBR,2017,Climate Disaster,1977783.4,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.9806640244052914
-GBR,2022,Climate Disaster,102313.6,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,0.9989997219753151
-GEO,2007,Climate Disaster,25645.6,Asia,Western Asia,Georgia,0.9997492735070425
-GEO,2012,Climate Disaster,25645.6,Asia,Western Asia,Georgia,0.9997492735070425
-GEO,2017,Climate Disaster,25645.6,Asia,Western Asia,Georgia,0.9997492735070425
-GEO,2022,Climate Disaster,0.0,Asia,Western Asia,Georgia,1.0
-GHA,2007,Climate Disaster,0.0,Africa,Western Africa,Republic of Ghana,1.0
-GHA,2012,Climate Disaster,0.0,Africa,Western Africa,Republic of Ghana,1.0
-GHA,2017,Climate Disaster,3085.4,Africa,Western Africa,Republic of Ghana,0.9999698353120468
-GHA,2022,Climate Disaster,0.0,Africa,Western Africa,Republic of Ghana,1.0
-GIB,2007,Climate Disaster,369497.42361111107,Europe,Southern Europe,Gibraltar,0.9963875755225512
-GIB,2012,Climate Disaster,231109.0625,Europe,Southern Europe,Gibraltar,0.9977405416628454
-GIB,2017,Climate Disaster,221126.26249999998,Europe,Southern Europe,Gibraltar,0.9978381393963317
-GIB,2022,Climate Disaster,169315.6,Europe,Southern Europe,Gibraltar,0.9983446709536528
-GIN,2007,Climate Disaster,0.0,Africa,Western Africa,Republic of Guinea,1.0
-GIN,2012,Climate Disaster,0.0,Africa,Western Africa,Republic of Guinea,1.0
-GIN,2017,Climate Disaster,0.0,Africa,Western Africa,Republic of Guinea,1.0
-GIN,2022,Climate Disaster,0.0,Africa,Western Africa,Republic of Guinea,1.0
-GMB,2007,Climate Disaster,0.0,Africa,Western Africa,Republic of the Gambia,1.0
-GMB,2012,Climate Disaster,0.0,Africa,Western Africa,Republic of the Gambia,1.0
-GMB,2017,Climate Disaster,0.0,Africa,Western Africa,Republic of the Gambia,1.0
-GMB,2022,Climate Disaster,0.0,Africa,Western Africa,Republic of the Gambia,1.0
-GNB,2007,Climate Disaster,1008.94,Africa,Western Africa,Republic of Guinea-Bissau,0.9999901360082117
-GNB,2012,Climate Disaster,15807.753333333334,Africa,Western Africa,Republic of Guinea-Bissau,0.9998454540913527
-GNB,2017,Climate Disaster,3227.0333333333333,Africa,Western Africa,Republic of Guinea-Bissau,0.9999684506211466
-GNB,2022,Climate Disaster,65811.18666666668,Africa,Western Africa,Republic of Guinea-Bissau,0.999356591070971
-GNQ,2007,Climate Disaster,81.95238095238095,Africa,Middle Africa,Republic of Equatorial Guinea,0.9999991987852471
-GNQ,2012,Climate Disaster,455.0,Africa,Middle Africa,Republic of Equatorial Guinea,0.9999955516519677
-GNQ,2017,Climate Disaster,1077.6285714285714,Africa,Middle Africa,Republic of Equatorial Guinea,0.9999894644682742
-GNQ,2022,Climate Disaster,517.2285714285714,Africa,Middle Africa,Republic of Equatorial Guinea,0.9999949432687958
-GRC,2007,Climate Disaster,824515.2,Europe,Southern Europe,Hellenic Republic,0.9919390536978588
-GRC,2012,Climate Disaster,516055.8,Europe,Southern Europe,Hellenic Republic,0.9949547345000935
-GRC,2017,Climate Disaster,14219.0,Europe,Southern Europe,Hellenic Republic,0.9998609866798451
-GRC,2022,Climate Disaster,137504.2,Europe,Southern Europe,Hellenic Republic,0.9986556779395711
-GRD,2007,Climate Disaster,893785.1960784314,America,Caribbean,Grenada,0.9912618294104985
-GRD,2012,Climate Disaster,870848.2107843137,America,Caribbean,Grenada,0.9914860748904956
-GRD,2017,Climate Disaster,1868513.8343137256,America,Caribbean,Grenada,0.9817323080481587
-GRD,2022,Climate Disaster,1817212.0637254901,America,Caribbean,Grenada,0.9822338643783713
-GRL,2007,Climate Disaster,39525285.099999994,America,Northern America,Greenland,0.6135775292342451
-GRL,2012,Climate Disaster,32860588.599999998,America,Northern America,Greenland,0.6787355282700036
-GRL,2017,Climate Disaster,38545751.4,America,Northern America,Greenland,0.6231540277109714
-GRL,2022,Climate Disaster,51863660.2,America,Northern America,Greenland,0.4929503059437882
-GTM,2007,Climate Disaster,308430.6,America,Central America,Republic of Guatemala,0.9969846007635309
-GTM,2012,Climate Disaster,338165.8,America,Central America,Republic of Guatemala,0.9966938919318642
-GTM,2017,Climate Disaster,16215.8,America,Central America,Republic of Guatemala,0.9998414647867665
-GTM,2022,Climate Disaster,144208.6,America,Central America,Republic of Guatemala,0.9985901317757309
-GUM,2007,Climate Disaster,629.9,Oceania,Micronesia,Guam,0.9999938417265373
-GUM,2012,Climate Disaster,629.9,Oceania,Micronesia,Guam,0.9999938417265373
-GUM,2017,Climate Disaster,629.9,Oceania,Micronesia,Guam,0.9999938417265373
-GUM,2022,Climate Disaster,629.9,Oceania,Micronesia,Guam,0.9999938417265373
-GUY,2007,Climate Disaster,55196.2,America,South America,Co-operative Republic of Guyana,0.9994603694337202
-GUY,2012,Climate Disaster,55196.2,America,South America,Co-operative Republic of Guyana,0.9994603694337202
-GUY,2017,Climate Disaster,55196.2,America,South America,Co-operative Republic of Guyana,0.9994603694337202
-GUY,2022,Climate Disaster,4108.2,America,South America,Co-operative Republic of Guyana,0.9999598358167339
-HKG,2007,Climate Disaster,187936.0,Asia,Eastern Asia,Hong Kong SAR,0.998162626954313
-HKG,2012,Climate Disaster,187936.0,Asia,Eastern Asia,Hong Kong SAR,0.998162626954313
-HKG,2017,Climate Disaster,187936.0,Asia,Eastern Asia,Hong Kong SAR,0.998162626954313
-HKG,2022,Climate Disaster,187936.0,Asia,Eastern Asia,Hong Kong SAR,0.998162626954313
-HND,2007,Climate Disaster,47019.0,America,Central America,Republic of Honduras,0.9995403145579604
-HND,2012,Climate Disaster,25152.4,America,Central America,Republic of Honduras,0.9997540953207775
-HND,2017,Climate Disaster,360.4,America,Central America,Republic of Honduras,0.9999964765172948
-HND,2022,Climate Disaster,0.0,America,Central America,Republic of Honduras,1.0
-HRV,2007,Climate Disaster,115945.4,Europe,Southern Europe,Republic of Croatia,0.998866449468269
-HRV,2012,Climate Disaster,22357.8,Europe,Southern Europe,Republic of Croatia,0.9997814169766258
-HRV,2017,Climate Disaster,62384.8,Europe,Southern Europe,Republic of Croatia,0.9993900894454465
-HRV,2022,Climate Disaster,40027.0,Europe,Southern Europe,Republic of Croatia,0.9996086724688207
-HTI,2007,Climate Disaster,32212.8,America,Caribbean,Republic of Haiti,0.9996850686912241
-HTI,2012,Climate Disaster,67418.4,America,Caribbean,Republic of Haiti,0.999340878006644
-HTI,2017,Climate Disaster,530172.0,America,Caribbean,Republic of Haiti,0.9948167262132963
-HTI,2022,Climate Disaster,0.0,America,Caribbean,Republic of Haiti,1.0
-HUN,2007,Climate Disaster,51128.4,Europe,Eastern Europe,Republic of Hungary,0.9995001386427874
-HUN,2012,Climate Disaster,125990.6,Europe,Eastern Europe,Republic of Hungary,0.9987682416756241
-HUN,2017,Climate Disaster,0.0,Europe,Eastern Europe,Republic of Hungary,1.0
-HUN,2022,Climate Disaster,0.0,Europe,Eastern Europe,Republic of Hungary,1.0
-IDN,2007,Climate Disaster,357217.6,Asia,South-eastern Asia,Republic of Indonesia,0.9965076303119946
-IDN,2012,Climate Disaster,22554.6,Asia,South-eastern Asia,Republic of Indonesia,0.9997794929438946
-IDN,2017,Climate Disaster,1384996.8,Asia,South-eastern Asia,Republic of Indonesia,0.9864594554067199
-IDN,2022,Climate Disaster,527638.8,Asia,South-eastern Asia,Republic of Indonesia,0.9948414922687584
-IMN,2007,Climate Disaster,483491.28148148145,Europe,Northern Europe,Isle of Man,0.9952731044162975
-IMN,2012,Climate Disaster,544466.9703703704,Europe,Northern Europe,Isle of Man,0.9946769701620479
-IMN,2017,Climate Disaster,345400.5925925926,Europe,Northern Europe,Isle of Man,0.9966231603375939
-IMN,2022,Climate Disaster,90960.62222222223,Europe,Northern Europe,Isle of Man,0.9991107153739038
-IND,2007,Climate Disaster,4181220.6,Asia,Southern Asia,Republic of India,0.9591219243332246
-IND,2012,Climate Disaster,2040750.6,Asia,Southern Asia,Republic of India,0.9800484199652567
-IND,2017,Climate Disaster,9578397.4,Asia,Southern Asia,Republic of India,0.9063559445575186
-IND,2022,Climate Disaster,13151987.6,Asia,Southern Asia,Republic of India,0.8714184216251847
-IRL,2007,Climate Disaster,88048.8,Europe,Northern Europe,Ireland,0.9991391830632499
-IRL,2012,Climate Disaster,88048.8,Europe,Northern Europe,Ireland,0.9991391830632499
-IRL,2017,Climate Disaster,88048.8,Europe,Northern Europe,Ireland,0.9991391830632499
-IRL,2022,Climate Disaster,0.0,Europe,Northern Europe,Ireland,1.0
-IRN,2007,Climate Disaster,11657.8,Asia,Southern Asia,Islamic Republic of Iran,0.9998860264798016
-IRN,2012,Climate Disaster,11302.8,Asia,Southern Asia,Islamic Republic of Iran,0.9998894971689257
-IRN,2017,Climate Disaster,272600.6,Asia,Southern Asia,Islamic Republic of Iran,0.9973348959503338
-IRN,2022,Climate Disaster,1252349.0,Asia,Southern Asia,Islamic Republic of Iran,0.9877562984399315
-IRQ,2007,Climate Disaster,393.0,Asia,Western Asia,Republic of Iraq,0.9999961578004908
-IRQ,2012,Climate Disaster,393.0,Asia,Western Asia,Republic of Iraq,0.9999961578004908
-IRQ,2017,Climate Disaster,393.0,Asia,Western Asia,Republic of Iraq,0.9999961578004908
-IRQ,2022,Climate Disaster,26694.8,Asia,Western Asia,Republic of Iraq,0.9997390159097778
-ISL,2007,Climate Disaster,483491.28148148145,Europe,Northern Europe,Republic of Iceland,0.9952731044162975
-ISL,2012,Climate Disaster,544466.9703703704,Europe,Northern Europe,Republic of Iceland,0.9946769701620479
-ISL,2017,Climate Disaster,345400.5925925926,Europe,Northern Europe,Republic of Iceland,0.9966231603375939
-ISL,2022,Climate Disaster,90960.62222222223,Europe,Northern Europe,Republic of Iceland,0.9991107153739038
-ISR,2007,Climate Disaster,204646.0,Asia,Western Asia,State of Israel,0.9979992601507552
-ISR,2012,Climate Disaster,209679.55000000002,Asia,Western Asia,State of Israel,0.9979500492007823
-ISR,2017,Climate Disaster,52823.68333333333,Asia,Western Asia,State of Israel,0.9994835645542601
-ISR,2022,Climate Disaster,53172.98333333333,Asia,Western Asia,State of Israel,0.9994801495916938
-ITA,2007,Climate Disaster,1724273.6,Europe,Southern Europe,Italian Republic,0.9831424855481141
-ITA,2012,Climate Disaster,863419.6,Europe,Southern Europe,Italian Republic,0.9915587013655829
-ITA,2017,Climate Disaster,1460591.4,Europe,Southern Europe,Italian Republic,0.9857203980657128
-ITA,2022,Climate Disaster,310835.0,Europe,Southern Europe,Italian Republic,0.9969610939327425
-JAM,2007,Climate Disaster,394822.0,America,Caribbean,Jamaica,0.9961399875455249
-JAM,2012,Climate Disaster,153221.8,America,Caribbean,Jamaica,0.9985020134230183
-JAM,2017,Climate Disaster,48885.6,America,Caribbean,Jamaica,0.9995220655767802
-JAM,2022,Climate Disaster,48885.6,America,Caribbean,Jamaica,0.9995220655767802
-JOR,2007,Climate Disaster,204646.0,Asia,Western Asia,Hashemite Kingdom of Jordan,0.9979992601507552
-JOR,2012,Climate Disaster,209679.55000000002,Asia,Western Asia,Hashemite Kingdom of Jordan,0.9979500492007823
-JOR,2017,Climate Disaster,52823.68333333333,Asia,Western Asia,Hashemite Kingdom of Jordan,0.9994835645542601
-JOR,2022,Climate Disaster,53172.98333333333,Asia,Western Asia,Hashemite Kingdom of Jordan,0.9994801495916938
-JPN,2007,Climate Disaster,6941692.8,Asia,Eastern Asia,Japan,0.9321339219619481
-JPN,2012,Climate Disaster,1418633.8,Asia,Eastern Asia,Japan,0.9861306002797735
-JPN,2017,Climate Disaster,2769413.8,Asia,Eastern Asia,Japan,0.9729245792797893
-JPN,2022,Climate Disaster,15222511.4,Asia,Eastern Asia,Japan,0.8511757612483895
-KAZ,2007,Climate Disaster,67001.4,Asia,Central Asia,Republic of Kazakhstan,0.9993449548442911
-KAZ,2012,Climate Disaster,67001.4,Asia,Central Asia,Republic of Kazakhstan,0.9993449548442911
-KAZ,2017,Climate Disaster,19514.4,Asia,Central Asia,Republic of Kazakhstan,0.999809215730021
-KAZ,2022,Climate Disaster,19514.4,Asia,Central Asia,Republic of Kazakhstan,0.999809215730021
-KEN,2007,Climate Disaster,156.0,Africa,Eastern Africa,Republic of Kenya,0.9999984748521032
-KEN,2012,Climate Disaster,26542.6,Africa,Eastern Africa,Republic of Kenya,0.999740503906636
-KEN,2017,Climate Disaster,9417.4,Africa,Eastern Africa,Republic of Kenya,0.9999079299499805
-KEN,2022,Climate Disaster,9417.4,Africa,Eastern Africa,Republic of Kenya,0.9999079299499805
-KGZ,2007,Climate Disaster,888.8,Asia,Central Asia,Kyrgyz Republic,0.999991310567624
-KGZ,2012,Climate Disaster,58.8,Asia,Central Asia,Kyrgyz Republic,0.999999425136562
-KGZ,2017,Climate Disaster,0.0,Asia,Central Asia,Kyrgyz Republic,1.0
-KGZ,2022,Climate Disaster,0.0,Asia,Central Asia,Kyrgyz Republic,1.0
-KHM,2007,Climate Disaster,13202.0,Asia,South-eastern Asia,Kingdom of Cambodia,0.9998709294709414
-KHM,2012,Climate Disaster,161005.8,Asia,South-eastern Asia,Kingdom of Cambodia,0.9984259124536051
-KHM,2017,Climate Disaster,161005.8,Asia,South-eastern Asia,Kingdom of Cambodia,0.9984259124536051
-KHM,2022,Climate Disaster,23546.2,Asia,South-eastern Asia,Kingdom of Cambodia,0.9997697984781608
-KIR,2007,Climate Disaster,629.9,Oceania,Micronesia,Republic of Kiribati,0.9999938417265373
-KIR,2012,Climate Disaster,629.9,Oceania,Micronesia,Republic of Kiribati,0.9999938417265373
-KIR,2017,Climate Disaster,629.9,Oceania,Micronesia,Republic of Kiribati,0.9999938417265373
-KIR,2022,Climate Disaster,629.9,Oceania,Micronesia,Republic of Kiribati,0.9999938417265373
-KNA,2007,Climate Disaster,12430.5,America,Caribbean,Saint Kitts and Nevis,0.999878472109418
-KNA,2012,Climate Disaster,12430.5,America,Caribbean,Saint Kitts and Nevis,0.999878472109418
-KNA,2017,Climate Disaster,12430.5,America,Caribbean,Saint Kitts and Nevis,0.999878472109418
-KNA,2022,Climate Disaster,12430.5,America,Caribbean,Saint Kitts and Nevis,0.999878472109418
-KOR,2007,Climate Disaster,1829955.0,Asia,Eastern Asia,Republic of Korea,0.9821092819267192
-KOR,2012,Climate Disaster,246737.4,Asia,Eastern Asia,Republic of Korea,0.9975877498290754
-KOR,2017,Climate Disaster,246737.4,Asia,Eastern Asia,Republic of Korea,0.9975877498290754
-KOR,2022,Climate Disaster,604272.2,Asia,Eastern Asia,Republic of Korea,0.9940922790070131
-KWT,2007,Climate Disaster,204646.0,Asia,Western Asia,State of Kuwait,0.9979992601507552
-KWT,2012,Climate Disaster,209679.55000000002,Asia,Western Asia,State of Kuwait,0.9979500492007823
-KWT,2017,Climate Disaster,52823.68333333333,Asia,Western Asia,State of Kuwait,0.9994835645542601
-KWT,2022,Climate Disaster,53172.98333333333,Asia,Western Asia,State of Kuwait,0.9994801495916938
-LAO,2007,Climate Disaster,34236.6,Asia,South-eastern Asia,Lao People's Democratic Republic,0.9996652828302404
-LAO,2012,Climate Disaster,34236.6,Asia,South-eastern Asia,Lao People's Democratic Republic,0.9996652828302404
-LAO,2017,Climate Disaster,34236.6,Asia,South-eastern Asia,Lao People's Democratic Republic,0.9996652828302404
-LAO,2022,Climate Disaster,54604.6,Asia,South-eastern Asia,Lao People's Democratic Republic,0.9994661532638212
-LBN,2007,Climate Disaster,0.0,Asia,Western Asia,Lebanese Republic,1.0
-LBN,2012,Climate Disaster,0.0,Asia,Western Asia,Lebanese Republic,1.0
-LBN,2017,Climate Disaster,0.0,Asia,Western Asia,Lebanese Republic,1.0
-LBN,2022,Climate Disaster,0.0,Asia,Western Asia,Lebanese Republic,1.0
-LBR,2007,Climate Disaster,0.0,Africa,Western Africa,Republic of Liberia,1.0
-LBR,2012,Climate Disaster,0.0,Africa,Western Africa,Republic of Liberia,1.0
-LBR,2017,Climate Disaster,0.0,Africa,Western Africa,Republic of Liberia,1.0
-LBR,2022,Climate Disaster,0.0,Africa,Western Africa,Republic of Liberia,1.0
-LBY,2007,Climate Disaster,43128.85,Africa,Northern Africa,State of Libya,0.9995783469559772
-LBY,2012,Climate Disaster,104620.0,Africa,Northern Africa,State of Libya,0.9989771732502566
-LBY,2017,Climate Disaster,74551.85,Africa,Northern Africa,State of Libya,0.9992711371972581
-LBY,2022,Climate Disaster,38753.75,Africa,Northern Africa,State of Libya,0.9996211205108692
-LCA,2007,Climate Disaster,29794.5,America,Caribbean,Saint Lucia,0.9997087114166008
-LCA,2012,Climate Disaster,29794.5,America,Caribbean,Saint Lucia,0.9997087114166008
-LCA,2017,Climate Disaster,29794.5,America,Caribbean,Saint Lucia,0.9997087114166008
-LCA,2022,Climate Disaster,7786.4,America,Caribbean,Saint Lucia,0.999923875566773
-LIE,2007,Climate Disaster,1029385.3428571429,Europe,Western Europe,Principality of Liechtenstein,0.9899361224960043
-LIE,2012,Climate Disaster,684422.3142857143,Europe,Western Europe,Principality of Liechtenstein,0.9933086842747784
-LIE,2017,Climate Disaster,1138662.6,Europe,Western Europe,Principality of Liechtenstein,0.9888677636569266
-LIE,2022,Climate Disaster,1687412.5714285714,Europe,Western Europe,Principality of Liechtenstein,0.9835028606775913
-LKA,2007,Climate Disaster,10528.4,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.9998970681595105
-LKA,2012,Climate Disaster,180252.2,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.9982377483095002
-LKA,2017,Climate Disaster,499976.0,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,0.9951119400972118
-LKA,2022,Climate Disaster,0.0,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka,1.0
-LSO,2007,Climate Disaster,0.0,Africa,Southern Africa,Kingdom of Lesotho,1.0
-LSO,2012,Climate Disaster,0.0,Africa,Southern Africa,Kingdom of Lesotho,1.0
-LSO,2017,Climate Disaster,0.0,Africa,Southern Africa,Kingdom of Lesotho,1.0
-LSO,2022,Climate Disaster,0.0,Africa,Southern Africa,Kingdom of Lesotho,1.0
-LTU,2007,Climate Disaster,77551.2,Europe,Northern Europe,Republic of Lithuania,0.9992418137847955
-LTU,2012,Climate Disaster,77551.2,Europe,Northern Europe,Republic of Lithuania,0.9992418137847955
-LTU,2017,Climate Disaster,77551.2,Europe,Northern Europe,Republic of Lithuania,0.9992418137847955
-LTU,2022,Climate Disaster,68189.8,Europe,Northern Europe,Republic of Lithuania,0.9993333363458263
-LUX,2007,Climate Disaster,8663.6,Europe,Western Europe,Grand Duchy of Luxembourg,0.9999152995428305
-LUX,2012,Climate Disaster,8663.6,Europe,Western Europe,Grand Duchy of Luxembourg,0.9999152995428305
-LUX,2017,Climate Disaster,8663.6,Europe,Western Europe,Grand Duchy of Luxembourg,0.9999152995428305
-LUX,2022,Climate Disaster,8663.6,Europe,Western Europe,Grand Duchy of Luxembourg,0.9999152995428305
-LVA,2007,Climate Disaster,101415.6,Europe,Northern Europe,Republic of Latvia,0.9990085013523106
-LVA,2012,Climate Disaster,101415.6,Europe,Northern Europe,Republic of Latvia,0.9990085013523106
-LVA,2017,Climate Disaster,101415.6,Europe,Northern Europe,Republic of Latvia,0.9990085013523106
-LVA,2022,Climate Disaster,101415.6,Europe,Northern Europe,Republic of Latvia,0.9990085013523106
-MAC,2007,Climate Disaster,1765164.0,Asia,Eastern Asia,Macau SAR,0.9827427169099214
-MAC,2012,Climate Disaster,1765164.0,Asia,Eastern Asia,Macau SAR,0.9827427169099214
-MAC,2017,Climate Disaster,1765164.0,Asia,Eastern Asia,Macau SAR,0.9827427169099214
-MAC,2022,Climate Disaster,1765164.0,Asia,Eastern Asia,Macau SAR,0.9827427169099214
-MAF,2007,Climate Disaster,5096601.0,America,Caribbean,Saint-Martin (French part),0.950172626308843
-MAF,2012,Climate Disaster,5096601.0,America,Caribbean,Saint-Martin (French part),0.950172626308843
-MAF,2017,Climate Disaster,5096601.0,America,Caribbean,Saint-Martin (French part),0.950172626308843
-MAF,2022,Climate Disaster,5096601.0,America,Caribbean,Saint-Martin (French part),0.950172626308843
-MAR,2007,Climate Disaster,8104.6,Africa,Northern Africa,Kingdom of Morocco,0.9999207646561272
-MAR,2012,Climate Disaster,8104.6,Africa,Northern Africa,Kingdom of Morocco,0.9999207646561272
-MAR,2017,Climate Disaster,85330.2,Africa,Northern Africa,Kingdom of Morocco,0.9991657616983277
-MAR,2022,Climate Disaster,85330.2,Africa,Northern Africa,Kingdom of Morocco,0.9991657616983277
-MCO,2007,Climate Disaster,1029385.3428571429,Europe,Western Europe,Principality of Monaco,0.9899361224960043
-MCO,2012,Climate Disaster,684422.3142857143,Europe,Western Europe,Principality of Monaco,0.9933086842747784
-MCO,2017,Climate Disaster,1138662.6,Europe,Western Europe,Principality of Monaco,0.9888677636569266
-MCO,2022,Climate Disaster,1687412.5714285714,Europe,Western Europe,Principality of Monaco,0.9835028606775913
-MDA,2007,Climate Disaster,133212.0,Europe,Eastern Europe,Republic of Moldova,0.9986976410152283
-MDA,2012,Climate Disaster,119328.2,Europe,Eastern Europe,Republic of Moldova,0.9988333772227229
-MDA,2017,Climate Disaster,119328.2,Europe,Eastern Europe,Republic of Moldova,0.9988333772227229
-MDA,2022,Climate Disaster,119328.2,Europe,Eastern Europe,Republic of Moldova,0.9988333772227229
-MDG,2007,Climate Disaster,200888.4,Africa,Eastern Africa,Republic of Madagascar,0.9980359966618891
-MDG,2012,Climate Disaster,44945.6,Africa,Eastern Africa,Republic of Madagascar,0.9995605853377627
-MDG,2017,Climate Disaster,23339.2,Africa,Eastern Africa,Republic of Madagascar,0.9997718222321008
-MDG,2022,Climate Disaster,9291.0,Africa,Eastern Africa,Republic of Madagascar,0.9999091657108405
-MDV,2007,Climate Disaster,0.0,Asia,Southern Asia,Republic of Maldives,1.0
-MDV,2012,Climate Disaster,0.0,Asia,Southern Asia,Republic of Maldives,1.0
-MDV,2017,Climate Disaster,0.0,Asia,Southern Asia,Republic of Maldives,1.0
-MDV,2022,Climate Disaster,0.0,Asia,Southern Asia,Republic of Maldives,1.0
-MEX,2007,Climate Disaster,3561485.0,America,Central America,United Mexican States,0.9651808246338197
-MEX,2012,Climate Disaster,2074813.4,America,Central America,United Mexican States,0.9797154019666793
-MEX,2017,Climate Disaster,2377502.2,America,Central America,United Mexican States,0.9767561379494004
-MEX,2022,Climate Disaster,519674.0,America,Central America,United Mexican States,0.9949193608454775
-MHL,2007,Climate Disaster,1259.8,Oceania,Micronesia,Republic of the Marshall Islands,0.9999876834530748
-MHL,2012,Climate Disaster,1259.8,Oceania,Micronesia,Republic of the Marshall Islands,0.9999876834530748
-MHL,2017,Climate Disaster,1259.8,Oceania,Micronesia,Republic of the Marshall Islands,0.9999876834530748
-MHL,2022,Climate Disaster,1259.8,Oceania,Micronesia,Republic of the Marshall Islands,0.9999876834530748
-MKD,2007,Climate Disaster,1161.4,Europe,Southern Europe,Republic of North Macedonia,0.9999886454694403
-MKD,2012,Climate Disaster,1161.4,Europe,Southern Europe,Republic of North Macedonia,0.9999886454694403
-MKD,2017,Climate Disaster,35064.6,Europe,Southern Europe,Republic of North Macedonia,0.9996571878144805
-MKD,2022,Climate Disaster,35064.6,Europe,Southern Europe,Republic of North Macedonia,0.9996571878144805
-MLI,2007,Climate Disaster,0.0,Africa,Western Africa,Republic of Mali,1.0
-MLI,2012,Climate Disaster,0.0,Africa,Western Africa,Republic of Mali,1.0
-MLI,2017,Climate Disaster,0.0,Africa,Western Africa,Republic of Mali,1.0
-MLI,2022,Climate Disaster,0.0,Africa,Western Africa,Republic of Mali,1.0
-MLT,2007,Climate Disaster,0.0,Europe,Southern Europe,Republic of Malta,1.0
-MLT,2012,Climate Disaster,0.0,Europe,Southern Europe,Republic of Malta,1.0
-MLT,2017,Climate Disaster,0.0,Europe,Southern Europe,Republic of Malta,1.0
-MLT,2022,Climate Disaster,0.0,Europe,Southern Europe,Republic of Malta,1.0
-MMR,2007,Climate Disaster,222.0,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.9999978295972238
-MMR,2012,Climate Disaster,1148571.2,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.9887708913463501
-MMR,2017,Climate Disaster,32272.4,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.9996844860065148
-MMR,2022,Climate Disaster,32272.4,Asia,South-eastern Asia,Republic of the Union of Myanmar,0.9996844860065148
-MNE,2007,Climate Disaster,0.0,Europe,Southern Europe,Montenegro,1.0
-MNE,2012,Climate Disaster,0.0,Europe,Southern Europe,Montenegro,1.0
-MNE,2017,Climate Disaster,0.0,Europe,Southern Europe,Montenegro,1.0
-MNE,2022,Climate Disaster,0.0,Europe,Southern Europe,Montenegro,1.0
-MNG,2007,Climate Disaster,17638.2,Asia,Eastern Asia,Mongolia,0.9998275585664564
-MNG,2012,Climate Disaster,17638.2,Asia,Eastern Asia,Mongolia,0.9998275585664564
-MNG,2017,Climate Disaster,17638.2,Asia,Eastern Asia,Mongolia,0.9998275585664564
-MNG,2022,Climate Disaster,400.2,Asia,Eastern Asia,Mongolia,0.9999960874090494
-MNP,2007,Climate Disaster,629.9,Oceania,Micronesia,Northern Mariana Islands,0.9999938417265373
-MNP,2012,Climate Disaster,629.9,Oceania,Micronesia,Northern Mariana Islands,0.9999938417265373
-MNP,2017,Climate Disaster,629.9,Oceania,Micronesia,Northern Mariana Islands,0.9999938417265373
-MNP,2022,Climate Disaster,629.9,Oceania,Micronesia,Northern Mariana Islands,0.9999938417265373
-MOZ,2007,Climate Disaster,62649.0,Africa,Eastern Africa,Republic of Mozambique,0.999387506470611
-MOZ,2012,Climate Disaster,6513.2,Africa,Eastern Africa,Republic of Mozambique,0.999936323119992
-MOZ,2017,Climate Disaster,12455.0,Africa,Eastern Africa,Republic of Mozambique,0.9998782325829856
-MOZ,2022,Climate Disaster,532796.6,Africa,Eastern Africa,Republic of Mozambique,0.9947910665775921
-MRT,2007,Climate Disaster,0.0,Africa,Western Africa,Islamic Republic of Mauritania,1.0
-MRT,2012,Climate Disaster,0.0,Africa,Western Africa,Islamic Republic of Mauritania,1.0
-MRT,2017,Climate Disaster,523.2,Africa,Western Africa,Islamic Republic of Mauritania,0.9999948848885923
-MRT,2022,Climate Disaster,0.0,Africa,Western Africa,Islamic Republic of Mauritania,1.0
-MUS,2007,Climate Disaster,42349.0,Africa,Eastern Africa,Republic of Mauritius,0.9995859712289726
-MUS,2012,Climate Disaster,42349.0,Africa,Eastern Africa,Republic of Mauritius,0.9995859712289726
-MUS,2017,Climate Disaster,42349.0,Africa,Eastern Africa,Republic of Mauritius,0.9995859712289726
-MUS,2022,Climate Disaster,17462.8,Africa,Eastern Africa,Republic of Mauritius,0.9998292733801815
-MWI,2007,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Malawi,1.0
-MWI,2012,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Malawi,1.0
-MWI,2017,Climate Disaster,100274.4,Africa,Eastern Africa,Republic of Malawi,0.9990196583957707
-MWI,2022,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Malawi,1.0
-MYS,2007,Climate Disaster,294383.6,Asia,South-eastern Asia,Malaysia,0.9971219325103637
-MYS,2012,Climate Disaster,294383.6,Asia,South-eastern Asia,Malaysia,0.9971219325103637
-MYS,2017,Climate Disaster,107146.4,Asia,South-eastern Asia,Malaysia,0.9989524736756001
-MYS,2022,Climate Disaster,330001.2,Asia,South-eastern Asia,Malaysia,0.9967737138710818
-NAM,2007,Climate Disaster,2566.4,Africa,Southern Africa,Republic of Namibia,0.9999749093617802
-NAM,2012,Climate Disaster,3251.0,Africa,Southern Africa,Republic of Namibia,0.9999682163088949
-NAM,2017,Climate Disaster,35419.8,Africa,Southern Africa,Republic of Namibia,0.9996537151700386
-NAM,2022,Climate Disaster,35419.8,Africa,Southern Africa,Republic of Namibia,0.9996537151700386
-NCL,2007,Climate Disaster,34627.05,Oceania,Melanesia,New Caledonia,0.9996614655610333
-NCL,2012,Climate Disaster,48930.05,Oceania,Melanesia,New Caledonia,0.9995216310073956
-NCL,2017,Climate Disaster,48930.05,Oceania,Melanesia,New Caledonia,0.9995216310073956
-NCL,2022,Climate Disaster,37142.3,Oceania,Melanesia,New Caledonia,0.9996368749953451
-NER,2007,Climate Disaster,0.0,Africa,Western Africa,Republic of Niger,1.0
-NER,2012,Climate Disaster,48869.0,Africa,Western Africa,Republic of Niger,0.9995222278681589
-NER,2017,Climate Disaster,19932.4,Africa,Western Africa,Republic of Niger,0.9998051291157848
-NER,2022,Climate Disaster,2354.6,Africa,Western Africa,Republic of Niger,0.9999769800433479
-NGA,2007,Climate Disaster,897.2,Africa,Western Africa,Federal Republic of Nigeria,0.9999912284442757
-NGA,2012,Climate Disaster,142582.2,Africa,Western Africa,Federal Republic of Nigeria,0.9986060324202135
-NGA,2017,Climate Disaster,6427.8,Africa,Western Africa,Federal Republic of Nigeria,0.9999371580406997
-NGA,2022,Climate Disaster,964863.0,Africa,Western Africa,Federal Republic of Nigeria,0.9905669309287168
-NIC,2007,Climate Disaster,700.0,America,Central America,Republic of Nicaragua,0.9999931563876427
-NIC,2012,Climate Disaster,0.0,America,Central America,Republic of Nicaragua,1.0
-NIC,2017,Climate Disaster,0.0,America,Central America,Republic of Nicaragua,1.0
-NIC,2022,Climate Disaster,253872.2,America,Central America,Republic of Nicaragua,0.9975179958212942
-NLD,2007,Climate Disaster,294494.0,Europe,Western Europe,Kingdom of the Netherlands,0.997120853174929
-NLD,2012,Climate Disaster,169476.6,Europe,Western Europe,Kingdom of the Netherlands,0.9983430969228106
-NLD,2017,Climate Disaster,169476.6,Europe,Western Europe,Kingdom of the Netherlands,0.9983430969228106
-NLD,2022,Climate Disaster,145061.8,Europe,Western Europe,Kingdom of the Netherlands,0.9985817903899262
-NOR,2007,Climate Disaster,30610.2,Europe,Northern Europe,Kingdom of Norway,0.9997007366528866
-NOR,2012,Climate Disaster,30610.2,Europe,Northern Europe,Kingdom of Norway,0.9997007366528866
-NOR,2017,Climate Disaster,30610.2,Europe,Northern Europe,Kingdom of Norway,0.9997007366528866
-NOR,2022,Climate Disaster,30610.2,Europe,Northern Europe,Kingdom of Norway,0.9997007366528866
-NPL,2007,Climate Disaster,705.4,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.9999931035940616
-NPL,2012,Climate Disaster,17350.4,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.9998303722687941
-NPL,2017,Climate Disaster,155595.6,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.9984788057558558
-NPL,2022,Climate Disaster,72173.2,Asia,Southern Asia,Federal Democratic Republic of Nepal,0.9992943922808777
-NRU,2007,Climate Disaster,26850.5,Oceania,Polynesia,Republic of Nauru,0.9997374936948578
-NRU,2012,Climate Disaster,26850.5,Oceania,Polynesia,Republic of Nauru,0.9997374936948578
-NRU,2017,Climate Disaster,26850.5,Oceania,Polynesia,Republic of Nauru,0.9997374936948578
-NRU,2022,Climate Disaster,26850.5,Oceania,Polynesia,Republic of Nauru,0.9997374936948578
-NZL,2007,Climate Disaster,106534.0,Oceania,Australia and New Zealand,New Zealand,0.998958460858754
-NZL,2012,Climate Disaster,107955.6,Oceania,Australia and New Zealand,New Zealand,0.9989445624597153
-NZL,2017,Climate Disaster,321589.0,Oceania,Australia and New Zealand,New Zealand,0.9968559564937562
-NZL,2022,Climate Disaster,116888.4,Oceania,Australia and New Zealand,New Zealand,0.9988572301447648
-OMN,2007,Climate Disaster,1939210.0,Asia,Western Asia,Sultanate of Oman,0.9810411406865814
-OMN,2012,Climate Disaster,1939210.0,Asia,Western Asia,Sultanate of Oman,0.9810411406865814
-OMN,2017,Climate Disaster,336294.0,Asia,Western Asia,Sultanate of Oman,0.9967121917513077
-OMN,2022,Climate Disaster,336294.0,Asia,Western Asia,Sultanate of Oman,0.9967121917513077
-PAK,2007,Climate Disaster,581642.0,Asia,Southern Asia,Islamic Republic of Pakistan,0.9943135251732533
-PAK,2012,Climate Disaster,4052387.6,Asia,Southern Asia,Islamic Republic of Pakistan,0.9603814716344069
-PAK,2017,Climate Disaster,939975.8,Asia,Southern Asia,Islamic Republic of Pakistan,0.9908102428565148
-PAK,2022,Climate Disaster,3478935.0,Asia,Southern Asia,Islamic Republic of Pakistan,0.9659878820625266
-PAN,2007,Climate Disaster,2184.4,America,Central America,Republic of Panama,0.9999786440188095
-PAN,2012,Climate Disaster,3361.2,America,Central America,Republic of Panama,0.9999671389287781
-PAN,2017,Climate Disaster,52319.0,America,Central America,Republic of Panama,0.9994884986358266
-PAN,2022,Climate Disaster,20063.4,America,Central America,Republic of Panama,0.9998038483826152
-PER,2007,Climate Disaster,0.0,America,South America,Republic of Peru,1.0
-PER,2012,Climate Disaster,0.0,America,South America,Republic of Peru,1.0
-PER,2017,Climate Disaster,820243.2,America,South America,Republic of Peru,0.9919808192864165
-PER,2022,Climate Disaster,803543.8,America,South America,Republic of Peru,0.99214408245813
-PHL,2007,Climate Disaster,169448.8,Asia,South-eastern Asia,Republic of the Philippines,0.998343368711987
-PHL,2012,Climate Disaster,964585.6,Asia,South-eastern Asia,Republic of the Philippines,0.9905696429545282
-PHL,2017,Climate Disaster,4096316.8,Asia,South-eastern Asia,Republic of the Philippines,0.9599519938973123
-PHL,2022,Climate Disaster,790101.6,Asia,South-eastern Asia,Republic of the Philippines,0.9922755013238861
-PLW,2007,Climate Disaster,0.0,Oceania,Micronesia,Republic of Palau,1.0
-PLW,2012,Climate Disaster,0.0,Oceania,Micronesia,Republic of Palau,1.0
-PLW,2017,Climate Disaster,0.0,Oceania,Micronesia,Republic of Palau,1.0
-PLW,2022,Climate Disaster,0.0,Oceania,Micronesia,Republic of Palau,1.0
-PNG,2007,Climate Disaster,0.0,Oceania,Melanesia,Independent State of Papua New Guinea,1.0
-PNG,2012,Climate Disaster,7166.6,Oceania,Melanesia,Independent State of Papua New Guinea,0.999929935096686
-PNG,2017,Climate Disaster,7166.6,Oceania,Melanesia,Independent State of Papua New Guinea,0.999929935096686
-PNG,2022,Climate Disaster,7166.6,Oceania,Melanesia,Independent State of Papua New Guinea,0.999929935096686
-POL,2007,Climate Disaster,29442.0,Europe,Eastern Europe,Republic of Poland,0.9997121576642521
-POL,2012,Climate Disaster,904896.6,Europe,Eastern Europe,Republic of Poland,0.9911531977802349
-POL,2017,Climate Disaster,68369.0,Europe,Eastern Europe,Republic of Poland,0.9993315843810628
-POL,2022,Climate Disaster,0.0,Europe,Eastern Europe,Republic of Poland,1.0
-PRI,2007,Climate Disaster,103139.5,America,Caribbean,Puerto Rico,0.9989916474903923
-PRI,2012,Climate Disaster,167723.0,America,Caribbean,Puerto Rico,0.9983602411494245
-PRI,2017,Climate Disaster,17041256.4,America,Caribbean,Puerto Rico,0.8333946387387164
-PRI,2022,Climate Disaster,17443999.4,America,Caribbean,Puerto Rico,0.829457185922124
-PRK,2007,Climate Disaster,94795.4,Asia,Eastern Asia,Democratic People's Republic of Korea,0.9990732243273501
-PRK,2012,Climate Disaster,91199.2,Asia,Eastern Asia,Democratic People's Republic of Korea,0.9991083828970063
-PRK,2017,Climate Disaster,18514.4,Asia,Eastern Asia,Democratic People's Republic of Korea,0.9998189923191029
-PRK,2022,Climate Disaster,18514.4,Asia,Eastern Asia,Democratic People's Republic of Korea,0.9998189923191029
-PRT,2007,Climate Disaster,221850.0,Europe,Southern Europe,Portuguese Republic,0.9978310637121911
-PRT,2012,Climate Disaster,221850.0,Europe,Southern Europe,Portuguese Republic,0.9978310637121911
-PRT,2017,Climate Disaster,221850.0,Europe,Southern Europe,Portuguese Republic,0.9978310637121911
-PRT,2022,Climate Disaster,249880.4,Europe,Southern Europe,Portuguese Republic,0.9975570220095911
-PRY,2007,Climate Disaster,8817.4,America,South America,Republic of Paraguay,0.9999137959034297
-PRY,2012,Climate Disaster,1825.6,America,South America,Republic of Paraguay,0.9999821518589722
-PRY,2017,Climate Disaster,1825.6,America,South America,Republic of Paraguay,0.9999821518589722
-PRY,2022,Climate Disaster,1825.6,America,South America,Republic of Paraguay,0.9999821518589722
-PSE,2007,Climate Disaster,0.0,Asia,Western Asia,State of Palestine,1.0
-PSE,2012,Climate Disaster,0.0,Asia,Western Asia,State of Palestine,1.0
-PSE,2017,Climate Disaster,0.0,Asia,Western Asia,State of Palestine,1.0
-PSE,2022,Climate Disaster,0.0,Asia,Western Asia,State of Palestine,1.0
-PYF,2007,Climate Disaster,8928.5,Oceania,Polynesia,French Polynesia,0.9999127097243827
-PYF,2012,Climate Disaster,8928.5,Oceania,Polynesia,French Polynesia,0.9999127097243827
-PYF,2017,Climate Disaster,8928.5,Oceania,Polynesia,French Polynesia,0.9999127097243827
-PYF,2022,Climate Disaster,8928.5,Oceania,Polynesia,French Polynesia,0.9999127097243827
-QAT,2007,Climate Disaster,204646.0,Asia,Western Asia,State of Qatar,0.9979992601507552
-QAT,2012,Climate Disaster,209679.55000000002,Asia,Western Asia,State of Qatar,0.9979500492007823
-QAT,2017,Climate Disaster,52823.68333333333,Asia,Western Asia,State of Qatar,0.9994835645542601
-QAT,2022,Climate Disaster,53172.98333333333,Asia,Western Asia,State of Qatar,0.9994801495916938
-ROU,2007,Climate Disaster,409718.8,Europe,Eastern Europe,Romania,0.9959943476532904
-ROU,2012,Climate Disaster,310612.6,Europe,Eastern Europe,Romania,0.9969632682461543
-ROU,2017,Climate Disaster,4692.4,Europe,Eastern Europe,Romania,0.9999541243333923
-ROU,2022,Climate Disaster,20014.4,Europe,Eastern Europe,Romania,0.9998043274354801
-RUS,2007,Climate Disaster,377526.2,Europe,Eastern Europe,Russian Federation,0.9963090814749668
-RUS,2012,Climate Disaster,1847296.2,Europe,Eastern Europe,Russian Federation,0.981939744140133
-RUS,2017,Climate Disaster,302376.8,Europe,Eastern Europe,Russian Federation,0.9970437862785146
-RUS,2022,Climate Disaster,189017.0,Europe,Eastern Europe,Russian Federation,0.9981520584615156
-RWA,2007,Climate Disaster,2.6,Africa,Eastern Africa,Republic of Rwanda,0.9999999745808684
-RWA,2012,Climate Disaster,2.6,Africa,Eastern Africa,Republic of Rwanda,0.9999999745808684
-RWA,2017,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Rwanda,1.0
-RWA,2022,Climate Disaster,17473.6,Africa,Eastern Africa,Republic of Rwanda,0.9998291677930194
-SAU,2007,Climate Disaster,336925.4,Asia,Western Asia,Kingdom of Saudi Arabia,0.9967060188129613
-SAU,2012,Climate Disaster,336925.4,Asia,Western Asia,Kingdom of Saudi Arabia,0.9967060188129613
-SAU,2017,Climate Disaster,13209.8,Asia,Western Asia,Kingdom of Saudi Arabia,0.9998708532135466
-SAU,2022,Climate Disaster,13209.8,Asia,Western Asia,Kingdom of Saudi Arabia,0.9998708532135466
-SDN,2007,Climate Disaster,149127.6,Africa,Northern Africa,Republic of the Sudan,0.9985420407340372
-SDN,2012,Climate Disaster,88173.4,Africa,Northern Africa,Republic of the Sudan,0.9991379649002502
-SDN,2017,Climate Disaster,1831.2,Africa,Northern Africa,Republic of the Sudan,0.9999820971100732
-SDN,2022,Climate Disaster,60948.0,Africa,Northern Africa,Republic of the Sudan,0.9994041364486392
-SEN,2007,Climate Disaster,13883.4,Africa,Western Africa,Republic of Senegal,0.999864267703141
-SEN,2012,Climate Disaster,2654.2,Africa,Western Africa,Republic of Senegal,0.9999740509772589
-SEN,2017,Climate Disaster,2654.2,Africa,Western Africa,Republic of Senegal,0.9999740509772589
-SEN,2022,Climate Disaster,4238.4,Africa,Western Africa,Republic of Senegal,0.9999585629048354
-SGP,2007,Climate Disaster,214000.31111111108,Asia,South-eastern Asia,Republic of Singapore,0.9979078068948781
-SGP,2012,Climate Disaster,1610822.6666666667,Asia,South-eastern Asia,Republic of Singapore,0.9842516487042666
-SGP,2017,Climate Disaster,1153211.4666666666,Asia,South-eastern Asia,Republic of Singapore,0.98872552536592
-SGP,2022,Climate Disaster,297708.55555555556,Asia,South-eastern Asia,Republic of Singapore,0.9970894257861816
-SLB,2007,Climate Disaster,0.0,Oceania,Melanesia,Solomon Islands,1.0
-SLB,2012,Climate Disaster,0.0,Oceania,Melanesia,Solomon Islands,1.0
-SLB,2017,Climate Disaster,0.0,Oceania,Melanesia,Solomon Islands,1.0
-SLB,2022,Climate Disaster,0.0,Oceania,Melanesia,Solomon Islands,1.0
-SLE,2007,Climate Disaster,0.0,Africa,Western Africa,Republic of Sierra Leone,1.0
-SLE,2012,Climate Disaster,0.0,Africa,Western Africa,Republic of Sierra Leone,1.0
-SLE,2017,Climate Disaster,7458.4,Africa,Western Africa,Republic of Sierra Leone,0.9999270822879919
-SLE,2022,Climate Disaster,7458.4,Africa,Western Africa,Republic of Sierra Leone,0.9999270822879919
-SLV,2007,Climate Disaster,118704.8,America,Central America,Republic of El Salvador,0.9988394719483565
-SLV,2012,Climate Disaster,118704.8,America,Central America,Republic of El Salvador,0.9988394719483565
-SLV,2017,Climate Disaster,576617.2,America,Central America,Republic of El Salvador,0.9943626505780718
-SLV,2022,Climate Disaster,64321.2,America,Central America,Republic of El Salvador,0.9993711580583483
-SMR,2007,Climate Disaster,369497.42361111107,Europe,Southern Europe,Republic of San Marino,0.9963875755225512
-SMR,2012,Climate Disaster,231109.0625,Europe,Southern Europe,Republic of San Marino,0.9977405416628454
-SMR,2017,Climate Disaster,221126.26249999998,Europe,Southern Europe,Republic of San Marino,0.9978381393963317
-SMR,2022,Climate Disaster,169315.6,Europe,Southern Europe,Republic of San Marino,0.9983446709536528
-SOM,2007,Climate Disaster,6.2,Africa,Eastern Africa,Federal Republic of Somalia,0.9999999393851476
-SOM,2012,Climate Disaster,0.0,Africa,Eastern Africa,Federal Republic of Somalia,1.0
-SOM,2017,Climate Disaster,0.0,Africa,Eastern Africa,Federal Republic of Somalia,1.0
-SOM,2022,Climate Disaster,242738.0,Africa,Eastern Africa,Federal Republic of Somalia,0.9976268503194493
-SRB,2007,Climate Disaster,0.0,Europe,Southern Europe,Republic of Serbia,1.0
-SRB,2012,Climate Disaster,0.0,Europe,Southern Europe,Republic of Serbia,1.0
-SRB,2017,Climate Disaster,552652.2,Europe,Southern Europe,Republic of Serbia,0.9945969465354184
-SRB,2022,Climate Disaster,6593.0,Europe,Southern Europe,Republic of Serbia,0.9999355429481833
-SSD,2007,Climate Disaster,0.0,Africa,Eastern Africa,Republic of South Sudan,1.0
-SSD,2012,Climate Disaster,0.0,Africa,Eastern Africa,Republic of South Sudan,1.0
-SSD,2017,Climate Disaster,0.0,Africa,Eastern Africa,Republic of South Sudan,1.0
-SSD,2022,Climate Disaster,0.0,Africa,Eastern Africa,Republic of South Sudan,1.0
-STP,2007,Climate Disaster,81.95238095238095,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.9999991987852471
-STP,2012,Climate Disaster,455.0,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.9999955516519677
-STP,2017,Climate Disaster,1077.6285714285714,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.9999894644682742
-STP,2022,Climate Disaster,517.2285714285714,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe,0.9999949432687958
-SUR,2007,Climate Disaster,5466.0,America,South America,Republic of Suriname,0.9999465611640787
-SUR,2012,Climate Disaster,5466.0,America,South America,Republic of Suriname,0.9999465611640787
-SUR,2017,Climate Disaster,5466.0,America,South America,Republic of Suriname,0.9999465611640787
-SUR,2022,Climate Disaster,5466.0,America,South America,Republic of Suriname,0.9999465611640787
-SVK,2007,Climate Disaster,173356.8,Europe,Eastern Europe,Slovak Republic,0.9983051618018552
-SVK,2012,Climate Disaster,6986.8,Europe,Eastern Europe,Slovak Republic,0.9999316929274029
-SVK,2017,Climate Disaster,6986.8,Europe,Eastern Europe,Slovak Republic,0.9999316929274029
-SVK,2022,Climate Disaster,0.0,Europe,Eastern Europe,Slovak Republic,1.0
-SVN,2007,Climate Disaster,238792.3333333333,Europe,Southern Europe,Republic of Slovenia,0.9976654254811034
-SVN,2012,Climate Disaster,267016.75,Europe,Southern Europe,Republic of Slovenia,0.9973894869572784
-SVN,2017,Climate Disaster,267016.75,Europe,Southern Europe,Republic of Slovenia,0.9973894869572784
-SVN,2022,Climate Disaster,70338.0,Europe,Southern Europe,Republic of Slovenia,0.9993123342771607
-SWE,2007,Climate Disaster,40496.8,Europe,Northern Europe,Kingdom of Sweden,0.99960407942727
-SWE,2012,Climate Disaster,40496.8,Europe,Northern Europe,Kingdom of Sweden,0.99960407942727
-SWE,2017,Climate Disaster,40496.8,Europe,Northern Europe,Kingdom of Sweden,0.99960407942727
-SWE,2022,Climate Disaster,40496.8,Europe,Northern Europe,Kingdom of Sweden,0.99960407942727
-SWZ,2007,Climate Disaster,17.6,Africa,Southern Africa,Kingdom of Eswatini,0.9999998279320322
-SWZ,2012,Climate Disaster,17.6,Africa,Southern Africa,Kingdom of Eswatini,0.9999998279320322
-SWZ,2017,Climate Disaster,17.6,Africa,Southern Africa,Kingdom of Eswatini,0.9999998279320322
-SWZ,2022,Climate Disaster,0.0,Africa,Southern Africa,Kingdom of Eswatini,1.0
-SXM,2007,Climate Disaster,3107683.0,America,Caribbean,Sint Maarten (Dutch part),0.9696174603123423
-SXM,2012,Climate Disaster,3107683.0,America,Caribbean,Sint Maarten (Dutch part),0.9696174603123423
-SXM,2017,Climate Disaster,3107683.0,America,Caribbean,Sint Maarten (Dutch part),0.9696174603123423
-SXM,2022,Climate Disaster,3107683.0,America,Caribbean,Sint Maarten (Dutch part),0.9696174603123423
-SYC,2007,Climate Disaster,26765.140625,Africa,Eastern Africa,Republic of Seychelles,0.9997383282183914
-SYC,2012,Climate Disaster,14977.628125,Africa,Eastern Africa,Republic of Seychelles,0.9998535698844011
-SYC,2017,Climate Disaster,23678.1,Africa,Eastern Africa,Republic of Seychelles,0.9997685089460611
-SYC,2022,Climate Disaster,63469.6625,Africa,Eastern Africa,Republic of Seychelles,0.9993794831905737
-SYR,2007,Climate Disaster,0.0,Asia,Western Asia,Syrian Arab Republic,1.0
-SYR,2012,Climate Disaster,0.0,Asia,Western Asia,Syrian Arab Republic,1.0
-SYR,2017,Climate Disaster,0.0,Asia,Western Asia,Syrian Arab Republic,1.0
-SYR,2022,Climate Disaster,0.0,Asia,Western Asia,Syrian Arab Republic,1.0
-TCA,2007,Climate Disaster,443050.0,America,Caribbean,Turks and Caicos Islands,0.9956684822072854
-TCA,2012,Climate Disaster,443050.0,America,Caribbean,Turks and Caicos Islands,0.9956684822072854
-TCA,2017,Climate Disaster,443050.0,America,Caribbean,Turks and Caicos Islands,0.9956684822072854
-TCA,2022,Climate Disaster,443050.0,America,Caribbean,Turks and Caicos Islands,0.9956684822072854
-TCD,2007,Climate Disaster,573.6666666666666,Africa,Middle Africa,Republic of Chad,0.99999439149673
-TCD,2012,Climate Disaster,2654.2,Africa,Middle Africa,Republic of Chad,0.9999740509772589
-TCD,2017,Climate Disaster,2654.2,Africa,Middle Africa,Republic of Chad,0.9999740509772589
-TCD,2022,Climate Disaster,0.0,Africa,Middle Africa,Republic of Chad,1.0
-TGO,2007,Climate Disaster,0.0,Africa,Western Africa,Togolese Republic,1.0
-TGO,2012,Climate Disaster,0.0,Africa,Western Africa,Togolese Republic,1.0
-TGO,2017,Climate Disaster,0.0,Africa,Western Africa,Togolese Republic,1.0
-TGO,2022,Climate Disaster,0.0,Africa,Western Africa,Togolese Republic,1.0
-THA,2007,Climate Disaster,281613.8,Asia,South-eastern Asia,Kingdom of Thailand,0.9972467775976211
-THA,2012,Climate Disaster,11023633.4,Asia,South-eastern Asia,Kingdom of Thailand,0.8922264660592188
-THA,2017,Climate Disaster,1364761.6,Asia,South-eastern Asia,Kingdom of Thailand,0.9866572866421089
-THA,2022,Climate Disaster,475036.4,Asia,South-eastern Asia,Kingdom of Thailand,0.9953557643182775
-TJK,2007,Climate Disaster,39681.6,Asia,Central Asia,Republic of Tajikistan,0.9996120493026897
-TJK,2012,Climate Disaster,295256.0,Asia,Central Asia,Republic of Tajikistan,0.9971134034140486
-TJK,2017,Climate Disaster,514.8,Asia,Central Asia,Republic of Tajikistan,0.9999949670119407
-TJK,2022,Climate Disaster,514.8,Asia,Central Asia,Republic of Tajikistan,0.9999949670119407
-TKM,2007,Climate Disaster,31316.6,Asia,Central Asia,Turkmenistan,0.9996938304703593
-TKM,2012,Climate Disaster,95002.7,Asia,Central Asia,Turkmenistan,0.9990711976404335
-TKM,2017,Climate Disaster,9430.95,Asia,Central Asia,Turkmenistan,0.9999077974771985
-TKM,2022,Climate Disaster,9430.95,Asia,Central Asia,Turkmenistan,0.9999077974771985
-TLS,2007,Climate Disaster,0.0,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,1.0
-TLS,2012,Climate Disaster,0.0,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,1.0
-TLS,2017,Climate Disaster,0.0,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,1.0
-TLS,2022,Climate Disaster,0.0,Asia,South-eastern Asia,Democratic Republic of Timor-Leste,1.0
-TON,2007,Climate Disaster,26850.5,Oceania,Polynesia,Kingdom of Tonga,0.9997374936948578
-TON,2012,Climate Disaster,26850.5,Oceania,Polynesia,Kingdom of Tonga,0.9997374936948578
-TON,2017,Climate Disaster,26850.5,Oceania,Polynesia,Kingdom of Tonga,0.9997374936948578
-TON,2022,Climate Disaster,26850.5,Oceania,Polynesia,Kingdom of Tonga,0.9997374936948578
-TTO,2007,Climate Disaster,1220.6,America,Caribbean,Republic of Trinidad and Tobago,0.9999880666953668
-TTO,2012,Climate Disaster,1220.6,America,Caribbean,Republic of Trinidad and Tobago,0.9999880666953668
-TTO,2017,Climate Disaster,1220.6,America,Caribbean,Republic of Trinidad and Tobago,0.9999880666953668
-TTO,2022,Climate Disaster,1220.6,America,Caribbean,Republic of Trinidad and Tobago,0.9999880666953668
-TUN,2007,Climate Disaster,0.0,Africa,Northern Africa,Republic of Tunisia,1.0
-TUN,2012,Climate Disaster,0.0,Africa,Northern Africa,Republic of Tunisia,1.0
-TUN,2017,Climate Disaster,0.0,Africa,Northern Africa,Republic of Tunisia,1.0
-TUN,2022,Climate Disaster,8736.8,Africa,Northern Africa,Republic of Tunisia,0.9999145838965097
-TUR,2007,Climate Disaster,95827.8,Asia,Western Asia,Republic of Türkiye,0.9990631309767821
-TUR,2012,Climate Disaster,156230.4,Asia,Western Asia,Republic of Türkiye,0.9984725995771065
-TUR,2017,Climate Disaster,149168.8,Asia,Western Asia,Republic of Türkiye,0.998541637938567
-TUR,2022,Climate Disaster,189675.8,Asia,Western Asia,Republic of Türkiye,0.9981456176446285
-TUV,2007,Climate Disaster,26850.5,Oceania,Polynesia,Tuvalu,0.9997374936948578
-TUV,2012,Climate Disaster,26850.5,Oceania,Polynesia,Tuvalu,0.9997374936948578
-TUV,2017,Climate Disaster,26850.5,Oceania,Polynesia,Tuvalu,0.9997374936948578
-TUV,2022,Climate Disaster,26850.5,Oceania,Polynesia,Tuvalu,0.9997374936948578
-TZA,2007,Climate Disaster,0.0,Africa,Eastern Africa,United Republic of Tanzania,1.0
-TZA,2012,Climate Disaster,0.0,Africa,Eastern Africa,United Republic of Tanzania,1.0
-TZA,2017,Climate Disaster,514.8,Africa,Eastern Africa,United Republic of Tanzania,0.9999949670119407
-TZA,2022,Climate Disaster,0.0,Africa,Eastern Africa,United Republic of Tanzania,1.0
-UGA,2007,Climate Disaster,20.8,Africa,Eastern Africa,Republic of Uganda,0.9999997966469472
-UGA,2012,Climate Disaster,20.8,Africa,Eastern Africa,Republic of Uganda,0.9999997966469472
-UGA,2017,Climate Disaster,1496.6,Africa,Eastern Africa,Republic of Uganda,0.9999853683567802
-UGA,2022,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Uganda,1.0
-UKR,2007,Climate Disaster,41764.8,Europe,Eastern Europe,Ukraine,0.9995916827123142
-UKR,2012,Climate Disaster,761538.4,Europe,Eastern Europe,Ukraine,0.9925547519931488
-UKR,2017,Climate Disaster,454595.4,Europe,Eastern Europe,Ukraine,0.9955556075756997
-UKR,2022,Climate Disaster,454595.4,Europe,Eastern Europe,Ukraine,0.9955556075756997
-URY,2007,Climate Disaster,21695.8,America,South America,Oriental Republic of Uruguay,0.999787889078598
-URY,2012,Climate Disaster,21695.8,America,South America,Oriental Republic of Uruguay,0.999787889078598
-URY,2017,Climate Disaster,761.8,America,South America,Oriental Republic of Uruguay,0.9999925521944375
-URY,2022,Climate Disaster,121343.6,America,South America,Oriental Republic of Uruguay,0.9988136734850874
-USA,2007,Climate Disaster,78613800.6,America,Northern America,United States of America,0.2314251753711352
-USA,2012,Climate Disaster,64668312.8,America,Northern America,United States of America,0.36776447913771804
-USA,2017,Climate Disaster,74080673.6,America,Northern America,United States of America,0.2757436953059845
-USA,2022,Climate Disaster,102285162.2,America,Northern America,United States of America,0.0
-UZB,2007,Climate Disaster,17694.6,Asia,Central Asia,Republic of Uzbekistan,0.9998270071668324
-UZB,2012,Climate Disaster,17694.6,Asia,Central Asia,Republic of Uzbekistan,0.9998270071668324
-UZB,2017,Climate Disaster,17694.6,Asia,Central Asia,Republic of Uzbekistan,0.9998270071668324
-UZB,2022,Climate Disaster,17694.6,Asia,Central Asia,Republic of Uzbekistan,0.9998270071668324
-VCT,2007,Climate Disaster,893785.1960784314,America,Caribbean,Saint Vincent and the Grenadines,0.9912618294104985
-VCT,2012,Climate Disaster,870848.2107843137,America,Caribbean,Saint Vincent and the Grenadines,0.9914860748904956
-VCT,2017,Climate Disaster,1868513.8343137256,America,Caribbean,Saint Vincent and the Grenadines,0.9817323080481587
-VCT,2022,Climate Disaster,1817212.0637254901,America,Caribbean,Saint Vincent and the Grenadines,0.9822338643783713
-VEN,2007,Climate Disaster,76529.6,America,South America,Bolivarian Republic of Venezuela,0.9992518015482016
-VEN,2012,Climate Disaster,76529.6,America,South America,Bolivarian Republic of Venezuela,0.9992518015482016
-VEN,2017,Climate Disaster,76529.6,America,South America,Bolivarian Republic of Venezuela,0.9992518015482016
-VEN,2022,Climate Disaster,7063.8,America,South America,Bolivarian Republic of Venezuela,0.9999309401300437
-VGB,2007,Climate Disaster,3729220.0,America,Caribbean,British Virgin Islands,0.9635409484641752
-VGB,2012,Climate Disaster,3729220.0,America,Caribbean,British Virgin Islands,0.9635409484641752
-VGB,2017,Climate Disaster,3729220.0,America,Caribbean,British Virgin Islands,0.9635409484641752
-VGB,2022,Climate Disaster,3729220.0,America,Caribbean,British Virgin Islands,0.9635409484641752
-VIR,2007,Climate Disaster,0.0,America,Caribbean,Virgin Islands of the United States,1.0
-VIR,2012,Climate Disaster,0.0,America,Caribbean,Virgin Islands of the United States,1.0
-VIR,2017,Climate Disaster,0.0,America,Caribbean,Virgin Islands of the United States,1.0
-VIR,2022,Climate Disaster,0.0,America,Caribbean,Virgin Islands of the United States,1.0
-VNM,2007,Climate Disaster,775678.4,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.9924165110235313
-VNM,2012,Climate Disaster,848433.2,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.9917052172401991
-VNM,2017,Climate Disaster,3198166.8,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.9687328373811779
-VNM,2022,Climate Disaster,446175.8,Asia,South-eastern Asia,Socialist Republic of Vietnam,0.9956379225451334
-VUT,2007,Climate Disaster,116061.8,Oceania,Melanesia,Republic of Vanuatu,0.9988653114732999
-VUT,2012,Climate Disaster,116061.8,Oceania,Melanesia,Republic of Vanuatu,0.9988653114732999
-VUT,2017,Climate Disaster,116061.8,Oceania,Melanesia,Republic of Vanuatu,0.9988653114732999
-VUT,2022,Climate Disaster,116061.8,Oceania,Melanesia,Republic of Vanuatu,0.9988653114732999
-WSM,2007,Climate Disaster,44772.5,Oceania,Polynesia,Independent State of Samoa,0.9995622776653328
-WSM,2012,Climate Disaster,44772.5,Oceania,Polynesia,Independent State of Samoa,0.9995622776653328
-WSM,2017,Climate Disaster,44772.5,Oceania,Polynesia,Independent State of Samoa,0.9995622776653328
-WSM,2022,Climate Disaster,44772.5,Oceania,Polynesia,Independent State of Samoa,0.9995622776653328
-XKX,2007,Climate Disaster,369497.42361111107,Europe,Southern Europe,Republic of Kosovo,0.9963875755225512
-XKX,2012,Climate Disaster,231109.0625,Europe,Southern Europe,Republic of Kosovo,0.9977405416628454
-XKX,2017,Climate Disaster,221126.26249999998,Europe,Southern Europe,Republic of Kosovo,0.9978381393963317
-XKX,2022,Climate Disaster,169315.6,Europe,Southern Europe,Republic of Kosovo,0.9983446709536528
-YEM,2007,Climate Disaster,0.0,Asia,Western Asia,Republic of Yemen,1.0
-YEM,2012,Climate Disaster,0.0,Asia,Western Asia,Republic of Yemen,1.0
-YEM,2017,Climate Disaster,51422.8,Asia,Western Asia,Republic of Yemen,0.9994972604149618
-YEM,2022,Climate Disaster,4709.2,Asia,Western Asia,Republic of Yemen,0.9999539600866957
-ZAF,2007,Climate Disaster,70053.0,Africa,Southern Africa,Republic of South Africa,0.999315120605049
-ZAF,2012,Climate Disaster,239286.6,Africa,Southern Africa,Republic of South Africa,0.9976605932390066
-ZAF,2017,Climate Disaster,709924.2,Africa,Southern Africa,Republic of South Africa,0.9930593628173373
-ZAF,2022,Climate Disaster,1378891.0,Africa,Southern Africa,Republic of South Africa,0.9865191493043357
-ZMB,2007,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Zambia,1.0
-ZMB,2012,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Zambia,1.0
-ZMB,2017,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Zambia,1.0
-ZMB,2022,Climate Disaster,0.0,Africa,Eastern Africa,Republic of Zambia,1.0
-ZWE,2007,Climate Disaster,117056.25,Africa,Eastern Africa,Republic of Zimbabwe,0.9988555891442874
-ZWE,2012,Climate Disaster,117056.25,Africa,Eastern Africa,Republic of Zimbabwe,0.9988555891442874
-ZWE,2017,Climate Disaster,182934.0,Africa,Eastern Africa,Republic of Zimbabwe,0.9982115294529005
-ZWE,2022,Climate Disaster,46988.2,Africa,Eastern Africa,Republic of Zimbabwe,0.9995406156769041
+Region,Year,Indicator,Normalized,Value,Unit,Source,Continent,UN_Region,Official_Name
+AFG,2007,Climate Disaster,0.9999410465789481,0.010891384929108043,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Afghanistan
+AFG,2012,Climate Disaster,0.9990954204040231,0.167117096904787,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Afghanistan
+AFG,2017,Climate Disaster,0.9999641587941893,0.006621504941406472,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Afghanistan
+AFG,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Afghanistan
+AGO,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Angola
+AGO,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Angola
+AGO,2017,Climate Disaster,0.9999970620065871,0.0005427813451345056,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Angola
+AGO,2022,Climate Disaster,0.9999970620065871,0.0005427813451345056,% of country's GDP,Estimated,Africa,Middle Africa,Republic of Angola
+ALB,2007,Climate Disaster,0.9997419392984499,0.04767557820236549,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Albania
+ALB,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Albania
+ALB,2017,Climate Disaster,0.9999260002548371,0.013671127049854863,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Albania
+ALB,2022,Climate Disaster,0.999939512992912,0.01117470819591324,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Albania
+AND,2007,Climate Disaster,0.9995040439141165,0.09162570284995093,% of country's GDP,Estimated,Europe,Southern Europe,Principality of Andorra
+AND,2012,Climate Disaster,0.9995924330221053,0.07529620438371391,% of country's GDP,Estimated,Europe,Southern Europe,Principality of Andorra
+AND,2017,Climate Disaster,0.9990939703619939,0.16738498578419025,% of country's GDP,Estimated,Europe,Southern Europe,Principality of Andorra
+AND,2022,Climate Disaster,0.9996918658847056,0.056926420885850405,% of country's GDP,Estimated,Europe,Southern Europe,Principality of Andorra
+ARE,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,United Arab Emirates
+ARE,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,United Arab Emirates
+ARE,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Western Asia,United Arab Emirates
+ARE,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,United Arab Emirates
+ARG,2007,Climate Disaster,0.9994976779707696,0.0928017828498956,% of country's GDP,EM-DATA,America,South America,Argentine Republic
+ARG,2012,Climate Disaster,0.9999856554056054,0.002650100645827239,% of country's GDP,EM-DATA,America,South America,Argentine Republic
+ARG,2017,Climate Disaster,0.9995836588398774,0.07691719591186796,% of country's GDP,EM-DATA,America,South America,Argentine Republic
+ARG,2022,Climate Disaster,0.9991884241515215,0.1499350641104084,% of country's GDP,EM-DATA,America,South America,Argentine Republic
+ARM,2007,Climate Disaster,0.9986647940645356,0.24667341679739443,% of country's GDP,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2012,Climate Disaster,0.9986630809213928,0.2469899124489642,% of country's GDP,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2017,Climate Disaster,0.9996894828702507,0.05736667231241956,% of country's GDP,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2022,Climate Disaster,0.9997202321291484,0.05168588214003814,% of country's GDP,Estimated,Asia,Western Asia,Republic of Armenia
+ASM,2007,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,American Samoa
+ASM,2012,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,American Samoa
+ASM,2017,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,American Samoa
+ASM,2022,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,American Samoa
+ATG,2007,Climate Disaster,0.968871389534231,5.750873704044454,% of country's GDP,Estimated,America,Caribbean,Antigua and Barbuda
+ATG,2012,Climate Disaster,0.968871389534231,5.750873704044454,% of country's GDP,Estimated,America,Caribbean,Antigua and Barbuda
+ATG,2017,Climate Disaster,0.968871389534231,5.750873704044454,% of country's GDP,EM-DATA,America,Caribbean,Antigua and Barbuda
+ATG,2022,Climate Disaster,0.968871389534231,5.750873704044454,% of country's GDP,Estimated,America,Caribbean,Antigua and Barbuda
+AUS,2007,Climate Disaster,0.9995542112065462,0.08235751649274439,% of country's GDP,EM-DATA,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUS,2012,Climate Disaster,0.9987297825182692,0.23466708615653306,% of country's GDP,EM-DATA,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUS,2017,Climate Disaster,0.9991556981215125,0.15598105404058077,% of country's GDP,EM-DATA,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUS,2022,Climate Disaster,0.998562732895812,0.26552876827741595,% of country's GDP,EM-DATA,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUT,2007,Climate Disaster,0.9988157018835006,0.2187938617888422,% of country's GDP,EM-DATA,Europe,Western Europe,Republic of Austria
+AUT,2012,Climate Disaster,0.9995408248092468,0.08483059444481617,% of country's GDP,EM-DATA,Europe,Western Europe,Republic of Austria
+AUT,2017,Climate Disaster,0.9994860148714397,0.09495648909089248,% of country's GDP,EM-DATA,Europe,Western Europe,Republic of Austria
+AUT,2022,Climate Disaster,0.9999676717011788,0.005972510844689289,% of country's GDP,EM-DATA,Europe,Western Europe,Republic of Austria
+AZE,2007,Climate Disaster,0.9996862072431116,0.05797183000162775,% of country's GDP,Estimated,Asia,Western Asia,Republic of Azerbaijan
+AZE,2012,Climate Disaster,0.9996862072431116,0.05797183000162775,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Azerbaijan
+AZE,2017,Climate Disaster,0.9996862072431116,0.05797183000162775,% of country's GDP,Estimated,Asia,Western Asia,Republic of Azerbaijan
+AZE,2022,Climate Disaster,0.9996862072431116,0.05797183000162775,% of country's GDP,Estimated,Asia,Western Asia,Republic of Azerbaijan
+BDI,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Burundi
+BDI,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Burundi
+BDI,2017,Climate Disaster,0.9993833196940688,0.11392897087654562,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Burundi
+BDI,2022,Climate Disaster,0.9993833196940688,0.11392897087654562,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Burundi
+BEL,2007,Climate Disaster,0.9998952277188767,0.019356217557071995,% of country's GDP,EM-DATA,Europe,Western Europe,Kingdom of Belgium
+BEL,2012,Climate Disaster,0.9998869976522952,0.020876686115678975,% of country's GDP,EM-DATA,Europe,Western Europe,Kingdom of Belgium
+BEL,2017,Climate Disaster,0.9998869976522952,0.020876686115678975,% of country's GDP,Estimated,Europe,Western Europe,Kingdom of Belgium
+BEL,2022,Climate Disaster,0.9996059557279652,0.07279794402535125,% of country's GDP,EM-DATA,Europe,Western Europe,Kingdom of Belgium
+BEN,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Benin
+BEN,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Benin
+BEN,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Republic of Benin
+BEN,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Benin
+BFA,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Burkina Faso
+BFA,2012,Climate Disaster,0.9986149003286798,0.2558910647821902,% of country's GDP,EM-DATA,Africa,Western Africa,Burkina Faso
+BFA,2017,Climate Disaster,0.9997539706707093,0.04545283515940367,% of country's GDP,EM-DATA,Africa,Western Africa,Burkina Faso
+BFA,2022,Climate Disaster,0.999779822425257,0.04067683734878578,% of country's GDP,EM-DATA,Africa,Western Africa,Burkina Faso
+BGD,2007,Climate Disaster,0.9934334606844609,1.2131392218047843,% of country's GDP,EM-DATA,Asia,Southern Asia,People's Republic of Bangladesh
+BGD,2012,Climate Disaster,0.9997653545486064,0.04334971384852943,% of country's GDP,EM-DATA,Asia,Southern Asia,People's Republic of Bangladesh
+BGD,2017,Climate Disaster,0.9993854110406877,0.11354260379827334,% of country's GDP,EM-DATA,Asia,Southern Asia,People's Republic of Bangladesh
+BGD,2022,Climate Disaster,0.9993373493783333,0.12242178427150899,% of country's GDP,EM-DATA,Asia,Southern Asia,People's Republic of Bangladesh
+BGR,2007,Climate Disaster,0.9988090630022374,0.2200203658668949,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2012,Climate Disaster,0.9999858081693642,0.002621878214125852,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2017,Climate Disaster,0.9999858081693642,0.002621878214125852,% of country's GDP,Estimated,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2022,Climate Disaster,0.9985592797221947,0.2661667268966319,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Bulgaria
+BHR,2007,Climate Disaster,0.9986647940645356,0.24667341679739443,% of country's GDP,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHR,2012,Climate Disaster,0.9986630809213928,0.2469899124489642,% of country's GDP,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHR,2017,Climate Disaster,0.9996894828702507,0.05736667231241956,% of country's GDP,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHR,2022,Climate Disaster,0.9997202321291484,0.05168588214003814,% of country's GDP,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHS,2007,Climate Disaster,0.9738392476139495,4.833083800524869,% of country's GDP,EM-DATA,America,Caribbean,Commonwealth of the Bahamas
+BHS,2012,Climate Disaster,0.9995877112801885,0.0761685254099331,% of country's GDP,EM-DATA,America,Caribbean,Commonwealth of the Bahamas
+BHS,2017,Climate Disaster,0.993318756632292,1.2343302903264999,% of country's GDP,EM-DATA,America,Caribbean,Commonwealth of the Bahamas
+BHS,2022,Climate Disaster,0.993318756632292,1.2343302903264999,% of country's GDP,Estimated,America,Caribbean,Commonwealth of the Bahamas
+BIH,2007,Climate Disaster,0.9989173678609043,0.20001152016488363,% of country's GDP,EM-DATA,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2012,Climate Disaster,0.9994243416629383,0.10635034277429523,% of country's GDP,EM-DATA,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2017,Climate Disaster,0.9994243416629383,0.10635034277429523,% of country's GDP,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Southern Europe,Bosnia and Herzegovina
+BLR,2007,Climate Disaster,0.9998147563677267,0.034222945314390005,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Belarus
+BLR,2012,Climate Disaster,0.999893959944936,0.01959043320978494,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Belarus
+BLR,2017,Climate Disaster,0.9999766132357468,0.004320601708646321,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Belarus
+BLR,2022,Climate Disaster,0.9999766132357468,0.004320601708646321,% of country's GDP,Estimated,Europe,Eastern Europe,Republic of Belarus
+BLZ,2007,Climate Disaster,0.9491344625508086,9.397184049712665,% of country's GDP,EM-DATA,America,Central America,Belize
+BLZ,2012,Climate Disaster,0.9491344625508086,9.397184049712665,% of country's GDP,Estimated,America,Central America,Belize
+BLZ,2017,Climate Disaster,0.9491344625508086,9.397184049712665,% of country's GDP,Estimated,America,Central America,Belize
+BLZ,2022,Climate Disaster,0.9961971210332005,0.7025651425681432,% of country's GDP,EM-DATA,America,Central America,Belize
+BMU,2007,Climate Disaster,0.9989449770354981,0.19491084673980957,% of country's GDP,Estimated,America,Northern America,Bermuda
+BMU,2012,Climate Disaster,0.9990712071243842,0.17159039369123677,% of country's GDP,Estimated,America,Northern America,Bermuda
+BMU,2017,Climate Disaster,0.9987801448205982,0.2253628725791924,% of country's GDP,Estimated,America,Northern America,Bermuda
+BMU,2022,Climate Disaster,0.9988042115294379,0.22091665410240482,% of country's GDP,Estimated,America,Northern America,Bermuda
+BOL,2007,Climate Disaster,0.9948254471587142,0.9559758505077602,% of country's GDP,EM-DATA,America,South America,Plurinational State of Bolivia
+BOL,2012,Climate Disaster,0.9994975538285978,0.09282471756944244,% of country's GDP,EM-DATA,America,South America,Plurinational State of Bolivia
+BOL,2017,Climate Disaster,0.9994975538285978,0.09282471756944244,% of country's GDP,Estimated,America,South America,Plurinational State of Bolivia
+BOL,2022,Climate Disaster,0.999972184334787,0.0051388216576401385,% of country's GDP,EM-DATA,America,South America,Plurinational State of Bolivia
+BRA,2007,Climate Disaster,0.9997937027033672,0.03811251709180067,% of country's GDP,EM-DATA,America,South America,Federative Republic of Brazil
+BRA,2012,Climate Disaster,0.9997593913379798,0.04445139075190152,% of country's GDP,EM-DATA,America,South America,Federative Republic of Brazil
+BRA,2017,Climate Disaster,0.9996662749004821,0.061654242527388034,% of country's GDP,EM-DATA,America,South America,Federative Republic of Brazil
+BRA,2022,Climate Disaster,0.9992734485087514,0.13422718852968651,% of country's GDP,EM-DATA,America,South America,Federative Republic of Brazil
+BRB,2007,Climate Disaster,0.999834164650242,0.03063735058694139,% of country's GDP,Estimated,America,Caribbean,Barbados
+BRB,2012,Climate Disaster,0.999834164650242,0.03063735058694139,% of country's GDP,Estimated,America,Caribbean,Barbados
+BRB,2017,Climate Disaster,0.999834164650242,0.03063735058694139,% of country's GDP,EM-DATA,America,Caribbean,Barbados
+BRB,2022,Climate Disaster,0.999834164650242,0.03063735058694139,% of country's GDP,Estimated,America,Caribbean,Barbados
+BRN,2007,Climate Disaster,0.9992547390561777,0.13768367750279176,% of country's GDP,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BRN,2012,Climate Disaster,0.9969418326255584,0.5649829553292378,% of country's GDP,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BRN,2017,Climate Disaster,0.998089796954669,0.352901600759185,% of country's GDP,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BRN,2022,Climate Disaster,0.9994375231018306,0.10391512998537225,% of country's GDP,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BTN,2007,Climate Disaster,0.9988485009261335,0.2127343830979,% of country's GDP,Estimated,Asia,Southern Asia,Kingdom of Bhutan
+BTN,2012,Climate Disaster,0.9988025183807113,0.2212294558736107,% of country's GDP,Estimated,Asia,Southern Asia,Kingdom of Bhutan
+BTN,2017,Climate Disaster,0.9989602267262127,0.19209353353459002,% of country's GDP,Estimated,Asia,Southern Asia,Kingdom of Bhutan
+BTN,2022,Climate Disaster,0.9987389867245908,0.23296664957070873,% of country's GDP,Estimated,Asia,Southern Asia,Kingdom of Bhutan
+BWA,2007,Climate Disaster,0.9996941263801004,0.056508804316089754,% of country's GDP,Estimated,Africa,Southern Africa,Republic of Botswana
+BWA,2012,Climate Disaster,0.9996941263801004,0.056508804316089754,% of country's GDP,Estimated,Africa,Southern Africa,Republic of Botswana
+BWA,2017,Climate Disaster,0.9996941263801004,0.056508804316089754,% of country's GDP,EM-DATA,Africa,Southern Africa,Republic of Botswana
+BWA,2022,Climate Disaster,0.9996941263801004,0.056508804316089754,% of country's GDP,Estimated,Africa,Southern Africa,Republic of Botswana
+CAF,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Central African Republic
+CAF,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Central African Republic
+CAF,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Central African Republic
+CAF,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Central African Republic
+CAN,2007,Climate Disaster,0.999890472570957,0.020234710195242984,% of country's GDP,EM-DATA,America,Northern America,Canada
+CAN,2012,Climate Disaster,0.9997651337709873,0.04339050154141979,% of country's GDP,EM-DATA,America,Northern America,Canada
+CAN,2017,Climate Disaster,0.999205077710427,0.14685839243903667,% of country's GDP,EM-DATA,America,Northern America,Canada
+CAN,2022,Climate Disaster,0.9996531292018058,0.06408285246876776,% of country's GDP,EM-DATA,America,Northern America,Canada
+CHE,2007,Climate Disaster,0.9992922522051775,0.13075328841986555,% of country's GDP,EM-DATA,Europe,Western Europe,Swiss Confederation
+CHE,2012,Climate Disaster,0.9997503070377323,0.04612967521854662,% of country's GDP,EM-DATA,Europe,Western Europe,Swiss Confederation
+CHE,2017,Climate Disaster,0.9997503070377323,0.04612967521854662,% of country's GDP,Estimated,Europe,Western Europe,Swiss Confederation
+CHE,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Western Europe,Swiss Confederation
+CHL,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,America,South America,Republic of Chile
+CHL,2012,Climate Disaster,0.9998249540724163,0.03233896428009356,% of country's GDP,EM-DATA,America,South America,Republic of Chile
+CHL,2017,Climate Disaster,0.9987091597350988,0.23847705453173754,% of country's GDP,EM-DATA,America,South America,Republic of Chile
+CHL,2022,Climate Disaster,0.9996524258403738,0.06421279539597882,% of country's GDP,EM-DATA,America,South America,Republic of Chile
+CHN,2007,Climate Disaster,0.9983076959450277,0.3126457218413292,% of country's GDP,EM-DATA,Asia,Eastern Asia,People's Republic of China
+CHN,2012,Climate Disaster,0.9988546573434343,0.2115970121122869,% of country's GDP,EM-DATA,Asia,Eastern Asia,People's Republic of China
+CHN,2017,Climate Disaster,0.9988237897189527,0.2172996698050377,% of country's GDP,EM-DATA,Asia,Eastern Asia,People's Republic of China
+CHN,2022,Climate Disaster,0.999374377370581,0.11558102576205656,% of country's GDP,EM-DATA,Asia,Eastern Asia,People's Republic of China
+CIV,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Côte d'Ivoire
+CIV,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Republic of Côte d'Ivoire
+CIV,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Côte d'Ivoire
+CIV,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Côte d'Ivoire
+CMR,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Cameroon
+CMR,2012,Climate Disaster,0.99999282070055,0.0013263439582817378,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Cameroon
+CMR,2017,Climate Disaster,0.9999935971937525,0.0011828902585195341,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Cameroon
+CMR,2022,Climate Disaster,0.9999633842380101,0.006764600784639265,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Cameroon
+COD,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Democratic Republic of the Congo
+COD,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Democratic Republic of the Congo
+COD,2017,Climate Disaster,0.999955777045823,0.00816999604180912,% of country's GDP,EM-DATA,Africa,Middle Africa,Democratic Republic of the Congo
+COD,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Democratic Republic of the Congo
+COG,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of the Congo
+COG,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of the Congo
+COG,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Middle Africa,Republic of the Congo
+COG,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of the Congo
+COL,2007,Climate Disaster,0.9999944268775832,0.0010296098244235315,% of country's GDP,EM-DATA,America,South America,Republic of Colombia
+COL,2012,Climate Disaster,0.9989711621778614,0.19007325699839986,% of country's GDP,EM-DATA,America,South America,Republic of Colombia
+COL,2017,Climate Disaster,0.9999602931827098,0.007335659639428197,% of country's GDP,EM-DATA,America,South America,Republic of Colombia
+COL,2022,Climate Disaster,0.9999398344275179,0.011115324567959939,% of country's GDP,EM-DATA,America,South America,Republic of Colombia
+COM,2007,Climate Disaster,0.9991118839779692,0.1640755241180231,% of country's GDP,Estimated,Africa,Eastern Africa,Union of the Comoros
+COM,2012,Climate Disaster,0.9991118839779692,0.1640755241180231,% of country's GDP,EM-DATA,Africa,Eastern Africa,Union of the Comoros
+COM,2017,Climate Disaster,0.9991118839779692,0.1640755241180231,% of country's GDP,Estimated,Africa,Eastern Africa,Union of the Comoros
+COM,2022,Climate Disaster,0.9991118839779692,0.1640755241180231,% of country's GDP,Estimated,Africa,Eastern Africa,Union of the Comoros
+CPV,2007,Climate Disaster,0.9999229102332154,0.014241994937091586,% of country's GDP,Estimated,Africa,Western Africa,Republic of Cabo Verde
+CPV,2012,Climate Disaster,0.9999229102332154,0.014241994937091586,% of country's GDP,Estimated,Africa,Western Africa,Republic of Cabo Verde
+CPV,2017,Climate Disaster,0.9999229102332154,0.014241994937091586,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Cabo Verde
+CPV,2022,Climate Disaster,0.999934569171405,0.012088057448471782,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Cabo Verde
+CRI,2007,Climate Disaster,0.9994808361634467,0.09591323258736455,% of country's GDP,EM-DATA,America,Central America,Republic of Costa Rica
+CRI,2012,Climate Disaster,0.9997431857126484,0.04744530866796494,% of country's GDP,EM-DATA,America,Central America,Republic of Costa Rica
+CRI,2017,Climate Disaster,0.999669053398664,0.06114092722382499,% of country's GDP,EM-DATA,America,Central America,Republic of Costa Rica
+CRI,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,America,Central America,Republic of Costa Rica
+CUB,2007,Climate Disaster,0.9919194563576758,1.492844854033157,% of country's GDP,EM-DATA,America,Caribbean,Republic of Cuba
+CUB,2012,Climate Disaster,0.9898884293785963,1.8680681444860787,% of country's GDP,EM-DATA,America,Caribbean,Republic of Cuba
+CUB,2017,Climate Disaster,0.9964282885892287,0.65985795457293,% of country's GDP,EM-DATA,America,Caribbean,Republic of Cuba
+CUB,2022,Climate Disaster,0.9964282885892287,0.65985795457293,% of country's GDP,Estimated,America,Caribbean,Republic of Cuba
+CUW,2007,Climate Disaster,0.9129013915192892,16.09108436502164,% of country's GDP,Estimated,America,Caribbean,Country of Curaçao
+CUW,2012,Climate Disaster,0.9149687311191352,15.709152477790164,% of country's GDP,Estimated,America,Caribbean,Country of Curaçao
+CUW,2017,Climate Disaster,0.8770394266427131,22.716424452426413,% of country's GDP,Estimated,America,Caribbean,Country of Curaçao
+CUW,2022,Climate Disaster,0.8779391191309222,22.550210227160637,% of country's GDP,Estimated,America,Caribbean,Country of Curaçao
+CYM,2007,Climate Disaster,0.9129013915192892,16.09108436502164,% of country's GDP,Estimated,America,Caribbean,Cayman Islands
+CYM,2012,Climate Disaster,0.9149687311191352,15.709152477790164,% of country's GDP,Estimated,America,Caribbean,Cayman Islands
+CYM,2017,Climate Disaster,0.8770394266427131,22.716424452426413,% of country's GDP,Estimated,America,Caribbean,Cayman Islands
+CYM,2022,Climate Disaster,0.8779391191309222,22.550210227160637,% of country's GDP,Estimated,America,Caribbean,Cayman Islands
+CYP,2007,Climate Disaster,0.9999363645017669,0.011756378070094673,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Cyprus
+CYP,2012,Climate Disaster,0.9999363645017669,0.011756378070094673,% of country's GDP,Estimated,Asia,Western Asia,Republic of Cyprus
+CYP,2017,Climate Disaster,0.9999363645017669,0.011756378070094673,% of country's GDP,Estimated,Asia,Western Asia,Republic of Cyprus
+CYP,2022,Climate Disaster,0.9997669966085232,0.04304635050992908,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Cyprus
+CZE,2007,Climate Disaster,0.9983254858895135,0.3093591079382663,% of country's GDP,EM-DATA,Europe,Eastern Europe,Czech Republic
+CZE,2012,Climate Disaster,0.999616148037251,0.07091495976817536,% of country's GDP,EM-DATA,Europe,Eastern Europe,Czech Republic
+CZE,2017,Climate Disaster,0.9992979775406275,0.12969555790784348,% of country's GDP,EM-DATA,Europe,Eastern Europe,Czech Republic
+CZE,2022,Climate Disaster,0.9997272112542427,0.05039651951250332,% of country's GDP,EM-DATA,Europe,Eastern Europe,Czech Republic
+DEU,2007,Climate Disaster,0.9997303149261291,0.04982312979896804,% of country's GDP,EM-DATA,Europe,Western Europe,Federal Republic of Germany
+DEU,2012,Climate Disaster,0.9998794320207124,0.022274403234194055,% of country's GDP,EM-DATA,Europe,Western Europe,Federal Republic of Germany
+DEU,2017,Climate Disaster,0.9993676809162783,0.11681816620562,% of country's GDP,EM-DATA,Europe,Western Europe,Federal Republic of Germany
+DEU,2022,Climate Disaster,0.9988322994473355,0.21572753496019356,% of country's GDP,EM-DATA,Europe,Western Europe,Federal Republic of Germany
+DJI,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Djibouti
+DJI,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Djibouti
+DJI,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Djibouti
+DJI,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Djibouti
+DMA,2007,Climate Disaster,0.9743087201385713,4.746350818993681,% of country's GDP,EM-DATA,America,Caribbean,Commonwealth of Dominica
+DMA,2012,Climate Disaster,0.9743087201385713,4.746350818993681,% of country's GDP,Estimated,America,Caribbean,Commonwealth of Dominica
+DMA,2017,Climate Disaster,0.4865414625658625,94.859203699254,% of country's GDP,EM-DATA,America,Caribbean,Commonwealth of Dominica
+DMA,2022,Climate Disaster,0.4865414625658625,94.859203699254,% of country's GDP,Estimated,America,Caribbean,Commonwealth of Dominica
+DNK,2007,Climate Disaster,0.9991659514493512,0.15408679687445648,% of country's GDP,EM-DATA,Europe,Northern Europe,Kingdom of Denmark
+DNK,2012,Climate Disaster,0.9991659514493512,0.15408679687445648,% of country's GDP,Estimated,Europe,Northern Europe,Kingdom of Denmark
+DNK,2017,Climate Disaster,0.9991659514493512,0.15408679687445648,% of country's GDP,Estimated,Europe,Northern Europe,Kingdom of Denmark
+DNK,2022,Climate Disaster,0.9994372933490012,0.10395757580886957,% of country's GDP,EM-DATA,Europe,Northern Europe,Kingdom of Denmark
+DOM,2007,Climate Disaster,0.9986710721369854,0.24551357055872353,% of country's GDP,EM-DATA,America,Caribbean,Dominican Republic
+DOM,2012,Climate Disaster,0.9997918016165019,0.03846373451845757,% of country's GDP,EM-DATA,America,Caribbean,Dominican Republic
+DOM,2017,Climate Disaster,0.9999146003438015,0.0157772104124625,% of country's GDP,EM-DATA,America,Caribbean,Dominican Republic
+DOM,2022,Climate Disaster,0.9997503810485117,0.046116002052982066,% of country's GDP,EM-DATA,America,Caribbean,Dominican Republic
+DZA,2007,Climate Disaster,0.9999604914375968,0.007299032922098727,% of country's GDP,EM-DATA,Africa,Northern Africa,People's Democratic Republic of Algeria
+DZA,2012,Climate Disaster,0.9994214527515219,0.10688405643670348,% of country's GDP,EM-DATA,Africa,Northern Africa,People's Democratic Republic of Algeria
+DZA,2017,Climate Disaster,0.9995160226708089,0.08941268030128921,% of country's GDP,EM-DATA,Africa,Northern Africa,People's Democratic Republic of Algeria
+DZA,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Northern Africa,People's Democratic Republic of Algeria
+ECU,2007,Climate Disaster,0.998681942912153,0.24350524271760784,% of country's GDP,Estimated,America,South America,Republic of Ecuador
+ECU,2012,Climate Disaster,0.998681942912153,0.24350524271760784,% of country's GDP,EM-DATA,America,South America,Republic of Ecuador
+ECU,2017,Climate Disaster,0.998681942912153,0.24350524271760784,% of country's GDP,Estimated,America,South America,Republic of Ecuador
+ECU,2022,Climate Disaster,0.9999394632542364,0.01118389719719113,% of country's GDP,EM-DATA,America,South America,Republic of Ecuador
+EGY,2007,Climate Disaster,0.9997513709415579,0.045933123671827385,% of country's GDP,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+EGY,2012,Climate Disaster,0.999608732728816,0.07228490534711307,% of country's GDP,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+EGY,2017,Climate Disaster,0.9997958151086888,0.037722259510962475,% of country's GDP,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+EGY,2022,Climate Disaster,0.9997428479006718,0.04750771794303021,% of country's GDP,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+ERI,2007,Climate Disaster,0.9986361828740365,0.2519592082484102,% of country's GDP,Estimated,Africa,Eastern Africa,State of Eritrea
+ERI,2012,Climate Disaster,0.9991947407231009,0.14876810532706758,% of country's GDP,Estimated,Africa,Eastern Africa,State of Eritrea
+ERI,2017,Climate Disaster,0.9993052509039146,0.1283518360699025,% of country's GDP,Estimated,Africa,Eastern Africa,State of Eritrea
+ERI,2022,Climate Disaster,0.9980258007239883,0.364724622560465,% of country's GDP,Estimated,Africa,Eastern Africa,State of Eritrea
+ESP,2007,Climate Disaster,0.9996873325611185,0.05776393245537145,% of country's GDP,EM-DATA,Europe,Southern Europe,Kingdom of Spain
+ESP,2012,Climate Disaster,0.9997373463499,0.04852410522121182,% of country's GDP,EM-DATA,Europe,Southern Europe,Kingdom of Spain
+ESP,2017,Climate Disaster,0.9999956481416844,0.0008039866597606638,% of country's GDP,EM-DATA,Europe,Southern Europe,Kingdom of Spain
+ESP,2022,Climate Disaster,0.9995761374147291,0.07830674608634015,% of country's GDP,EM-DATA,Europe,Southern Europe,Kingdom of Spain
+EST,2007,Climate Disaster,0.9988133112820737,0.21923551487506632,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Estonia
+EST,2012,Climate Disaster,0.9988133112820737,0.21923551487506632,% of country's GDP,EM-DATA,Europe,Northern Europe,Republic of Estonia
+EST,2017,Climate Disaster,0.9988133112820737,0.21923551487506632,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Estonia
+EST,2022,Climate Disaster,0.9994504454171462,0.10152778913619792,% of country's GDP,EM-DATA,Europe,Northern Europe,Republic of Estonia
+ETH,2007,Climate Disaster,0.999945762147208,0.010020204458807006,% of country's GDP,EM-DATA,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+ETH,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+ETH,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+ETH,2022,Climate Disaster,0.9994534387986773,0.10097477508012004,% of country's GDP,EM-DATA,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+FIN,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Finland
+FIN,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Finland
+FIN,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Finland
+FIN,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Northern Europe,Republic of Finland
+FJI,2007,Climate Disaster,0.9975527079674309,0.45212642599953157,% of country's GDP,EM-DATA,Oceania,Melanesia,Republic of Fiji
+FJI,2012,Climate Disaster,0.992556315533228,1.3751879258548187,% of country's GDP,EM-DATA,Oceania,Melanesia,Republic of Fiji
+FJI,2017,Climate Disaster,0.992556315533228,1.3751879258548187,% of country's GDP,Estimated,Oceania,Melanesia,Republic of Fiji
+FJI,2022,Climate Disaster,0.9973489736186512,0.48976544976180314,% of country's GDP,EM-DATA,Oceania,Melanesia,Republic of Fiji
+FRA,2007,Climate Disaster,0.9997183062329063,0.05204168298979682,% of country's GDP,EM-DATA,Europe,Western Europe,French Republic
+FRA,2012,Climate Disaster,0.9996149443033702,0.07113734430183948,% of country's GDP,EM-DATA,Europe,Western Europe,French Republic
+FRA,2017,Climate Disaster,0.999784726033636,0.03977091729453727,% of country's GDP,EM-DATA,Europe,Western Europe,French Republic
+FRA,2022,Climate Disaster,0.9996602764996828,0.06276242066019816,% of country's GDP,EM-DATA,Europe,Western Europe,French Republic
+FRO,2007,Climate Disaster,0.9994618122094826,0.09942782430740633,% of country's GDP,Estimated,Europe,Northern Europe,Faroe Islands
+FRO,2012,Climate Disaster,0.9994413596580026,0.10320634312745723,% of country's GDP,Estimated,Europe,Northern Europe,Faroe Islands
+FRO,2017,Climate Disaster,0.9994687575020865,0.09814471208345345,% of country's GDP,Estimated,Europe,Northern Europe,Faroe Islands
+FRO,2022,Climate Disaster,0.9996579650898588,0.06318944344653796,% of country's GDP,Estimated,Europe,Northern Europe,Faroe Islands
+FSM,2007,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Federated States of Micronesia
+FSM,2012,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Federated States of Micronesia
+FSM,2017,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Federated States of Micronesia
+FSM,2022,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Federated States of Micronesia
+GAB,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Middle Africa,Gabonese Republic
+GAB,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Gabonese Republic
+GAB,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Middle Africa,Gabonese Republic
+GAB,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Middle Africa,Gabonese Republic
+GBR,2007,Climate Disaster,0.9996161639677752,0.07091201667397963,% of country's GDP,EM-DATA,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2012,Climate Disaster,0.9994320910044552,0.1049186860544377,% of country's GDP,EM-DATA,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2017,Climate Disaster,0.9996786716012113,0.05936400665840357,% of country's GDP,EM-DATA,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2022,Climate Disaster,0.9999829189104723,0.0031556560710892557,% of country's GDP,EM-DATA,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GEO,2007,Climate Disaster,0.999380870238546,0.1143814969978176,% of country's GDP,Estimated,Asia,Western Asia,Georgia
+GEO,2012,Climate Disaster,0.999380870238546,0.1143814969978176,% of country's GDP,EM-DATA,Asia,Western Asia,Georgia
+GEO,2017,Climate Disaster,0.999380870238546,0.1143814969978176,% of country's GDP,Estimated,Asia,Western Asia,Georgia
+GEO,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Western Asia,Georgia
+GHA,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Ghana
+GHA,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Republic of Ghana
+GHA,2017,Climate Disaster,0.9999777586517388,0.004108991148141608,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Ghana
+GHA,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Ghana
+GIB,2007,Climate Disaster,0.9995040439141165,0.09162570284995093,% of country's GDP,Estimated,Europe,Southern Europe,Gibraltar
+GIB,2012,Climate Disaster,0.9995924330221053,0.07529620438371391,% of country's GDP,Estimated,Europe,Southern Europe,Gibraltar
+GIB,2017,Climate Disaster,0.9990939703619939,0.16738498578419025,% of country's GDP,Estimated,Europe,Southern Europe,Gibraltar
+GIB,2022,Climate Disaster,0.9996918658847056,0.056926420885850405,% of country's GDP,Estimated,Europe,Southern Europe,Gibraltar
+GIN,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Guinea
+GIN,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Republic of Guinea
+GIN,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Guinea
+GIN,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Guinea
+GMB,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of the Gambia
+GMB,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of the Gambia
+GMB,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of the Gambia
+GMB,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of the Gambia
+GNB,2007,Climate Disaster,0.9999704205074047,0.005464680999225114,% of country's GDP,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNB,2012,Climate Disaster,0.9997491221993903,0.04634856888460623,% of country's GDP,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNB,2017,Climate Disaster,0.9998812164389919,0.021944739815007632,% of country's GDP,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNB,2022,Climate Disaster,0.9998639945773548,0.025126402913426275,% of country's GDP,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNQ,2007,Climate Disaster,0.999996510383185,0.0006446913395191453,% of country's GDP,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GNQ,2012,Climate Disaster,0.9999864697833243,0.0024996479485072417,% of country's GDP,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GNQ,2017,Climate Disaster,0.9999758380134253,0.004463820618747642,% of country's GDP,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GNQ,2022,Climate Disaster,0.9999943494635138,0.0010439117328248243,% of country's GDP,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GRC,2007,Climate Disaster,0.9990335166873325,0.17855353596102935,% of country's GDP,EM-DATA,Europe,Southern Europe,Hellenic Republic
+GRC,2012,Climate Disaster,0.9991187504412484,0.16280697526471732,% of country's GDP,EM-DATA,Europe,Southern Europe,Hellenic Republic
+GRC,2017,Climate Disaster,0.9999691012111218,0.005708415177786607,% of country's GDP,EM-DATA,Europe,Southern Europe,Hellenic Republic
+GRC,2022,Climate Disaster,0.9996734005160821,0.06033781642399842,% of country's GDP,EM-DATA,Europe,Southern Europe,Hellenic Republic
+GRD,2007,Climate Disaster,0.9129013915192892,16.09108436502164,% of country's GDP,Estimated,America,Caribbean,Grenada
+GRD,2012,Climate Disaster,0.9149687311191352,15.709152477790164,% of country's GDP,Estimated,America,Caribbean,Grenada
+GRD,2017,Climate Disaster,0.8770394266427131,22.716424452426413,% of country's GDP,Estimated,America,Caribbean,Grenada
+GRD,2022,Climate Disaster,0.8779391191309222,22.550210227160637,% of country's GDP,Estimated,America,Caribbean,Grenada
+GRL,2007,Climate Disaster,0.9989449770354981,0.19491084673980957,% of country's GDP,Estimated,America,Northern America,Greenland
+GRL,2012,Climate Disaster,0.9990712071243842,0.17159039369123677,% of country's GDP,Estimated,America,Northern America,Greenland
+GRL,2017,Climate Disaster,0.9987801448205982,0.2253628725791924,% of country's GDP,Estimated,America,Northern America,Greenland
+GRL,2022,Climate Disaster,0.9988042115294379,0.22091665410240482,% of country's GDP,Estimated,America,Northern America,Greenland
+GTM,2007,Climate Disaster,0.9966156668285667,0.6252406500034267,% of country's GDP,EM-DATA,America,Central America,Republic of Guatemala
+GTM,2012,Climate Disaster,0.9972189259807083,0.5137911781874713,% of country's GDP,EM-DATA,America,Central America,Republic of Guatemala
+GTM,2017,Climate Disaster,0.9999014563604405,0.0182055034569335,% of country's GDP,EM-DATA,America,Central America,Republic of Guatemala
+GTM,2022,Climate Disaster,0.9992160265485829,0.14483564280458944,% of country's GDP,EM-DATA,America,Central America,Republic of Guatemala
+GUM,2007,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Guam
+GUM,2012,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Guam
+GUM,2017,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Guam
+GUM,2022,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Guam
+GUY,2007,Climate Disaster,0.9949381217959237,0.9351597074630211,% of country's GDP,Estimated,America,South America,Co-operative Republic of Guyana
+GUY,2012,Climate Disaster,0.9949381217959237,0.9351597074630211,% of country's GDP,Estimated,America,South America,Co-operative Republic of Guyana
+GUY,2017,Climate Disaster,0.9949381217959237,0.9351597074630211,% of country's GDP,EM-DATA,America,South America,Co-operative Republic of Guyana
+GUY,2022,Climate Disaster,0.9998548897486889,0.026808479914963382,% of country's GDP,EM-DATA,America,South America,Co-operative Republic of Guyana
+HKG,2007,Climate Disaster,0.9997602068083132,0.044300736198829065,% of country's GDP,Estimated,Asia,Eastern Asia,Hong Kong SAR
+HKG,2012,Climate Disaster,0.9997602068083132,0.044300736198829065,% of country's GDP,Estimated,Asia,Eastern Asia,Hong Kong SAR
+HKG,2017,Climate Disaster,0.9997602068083132,0.044300736198829065,% of country's GDP,EM-DATA,Asia,Eastern Asia,Hong Kong SAR
+HKG,2022,Climate Disaster,0.9997602068083132,0.044300736198829065,% of country's GDP,Estimated,Asia,Eastern Asia,Hong Kong SAR
+HND,2007,Climate Disaster,0.9985989619924417,0.25883560221533747,% of country's GDP,EM-DATA,America,Central America,Republic of Honduras
+HND,2012,Climate Disaster,0.999446332184776,0.1022876907033502,% of country's GDP,EM-DATA,America,Central America,Republic of Honduras
+HND,2017,Climate Disaster,0.9999932170124592,0.001253127078244813,% of country's GDP,EM-DATA,America,Central America,Republic of Honduras
+HND,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,America,Central America,Republic of Honduras
+HRV,2007,Climate Disaster,0.9992798039759774,0.13305304394694878,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Croatia
+HRV,2012,Climate Disaster,0.99984155435585,0.02927213501753833,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Croatia
+HRV,2017,Climate Disaster,0.99951652016191,0.08932077101114148,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Croatia
+HRV,2022,Climate Disaster,0.9997077273969899,0.053996076339867666,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Croatia
+HTI,2007,Climate Disaster,0.9987143283579943,0.23752217421258845,% of country's GDP,EM-DATA,America,Caribbean,Republic of Haiti
+HTI,2012,Climate Disaster,0.9979942056188034,0.37056167910957377,% of country's GDP,EM-DATA,America,Caribbean,Republic of Haiti
+HTI,2017,Climate Disaster,0.9847046258062985,2.8257530268113644,% of country's GDP,EM-DATA,America,Caribbean,Republic of Haiti
+HTI,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,America,Caribbean,Republic of Haiti
+HUN,2007,Climate Disaster,0.9998656633461238,0.024818105232019688,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Hungary
+HUN,2012,Climate Disaster,0.9996010802661794,0.07369866412046801,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Hungary
+HUN,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Hungary
+HUN,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Hungary
+IDN,2007,Climate Disaster,0.9996955819107588,0.05623990143658961,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of Indonesia
+IDN,2012,Climate Disaster,0.9999899777465926,0.001851567182526726,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of Indonesia
+IDN,2017,Climate Disaster,0.9994061903785699,0.10970371262945255,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of Indonesia
+IDN,2022,Climate Disaster,0.9997920429961183,0.03841914069727908,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of Indonesia
+IMN,2007,Climate Disaster,0.9994618122094826,0.09942782430740633,% of country's GDP,Estimated,Europe,Northern Europe,Isle of Man
+IMN,2012,Climate Disaster,0.9994413596580026,0.10320634312745723,% of country's GDP,Estimated,Europe,Northern Europe,Isle of Man
+IMN,2017,Climate Disaster,0.9994687575020865,0.09814471208345345,% of country's GDP,Estimated,Europe,Northern Europe,Isle of Man
+IMN,2022,Climate Disaster,0.9996579650898588,0.06318944344653796,% of country's GDP,Estimated,Europe,Northern Europe,Isle of Man
+IND,2007,Climate Disaster,0.9987342563555542,0.2338405644193158,% of country's GDP,EM-DATA,Asia,Southern Asia,Republic of India
+IND,2012,Climate Disaster,0.9995445809055367,0.08413667219580354,% of country's GDP,EM-DATA,Asia,Southern Asia,Republic of India
+IND,2017,Climate Disaster,0.9984269786996226,0.2906087582094175,% of country's GDP,EM-DATA,Asia,Southern Asia,Republic of India
+IND,2022,Climate Disaster,0.997961063805973,0.3766844830850454,% of country's GDP,EM-DATA,Asia,Southern Asia,Republic of India
+IRL,2007,Climate Disaster,0.9998899957511742,0.020322800550354795,% of country's GDP,Estimated,Europe,Northern Europe,Ireland
+IRL,2012,Climate Disaster,0.9998899957511742,0.020322800550354795,% of country's GDP,Estimated,Europe,Northern Europe,Ireland
+IRL,2017,Climate Disaster,0.9998899957511742,0.020322800550354795,% of country's GDP,EM-DATA,Europe,Northern Europe,Ireland
+IRL,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Northern Europe,Ireland
+IRN,2007,Climate Disaster,0.9999877223650817,0.002268238984741984,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Iran
+IRN,2012,Climate Disaster,0.9999928418872501,0.0013224298087058984,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Iran
+IRN,2017,Climate Disaster,0.9997573405066768,0.0448302728039866,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Iran
+IRN,2022,Climate Disaster,0.9983490407171054,0.30500745726788275,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Iran
+IRQ,2007,Climate Disaster,0.9999992647373445,0.00013583653776647216,% of country's GDP,Estimated,Asia,Western Asia,Republic of Iraq
+IRQ,2012,Climate Disaster,0.9999992647373445,0.00013583653776647216,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Iraq
+IRQ,2017,Climate Disaster,0.9999992647373445,0.00013583653776647216,% of country's GDP,Estimated,Asia,Western Asia,Republic of Iraq
+IRQ,2022,Climate Disaster,0.9999515831986899,0.008944790831383878,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Iraq
+ISL,2007,Climate Disaster,0.9994618122094826,0.09942782430740633,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Iceland
+ISL,2012,Climate Disaster,0.9994413596580026,0.10320634312745723,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Iceland
+ISL,2017,Climate Disaster,0.9994687575020865,0.09814471208345345,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Iceland
+ISL,2022,Climate Disaster,0.9996579650898588,0.06318944344653796,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Iceland
+ISR,2007,Climate Disaster,0.9986647940645356,0.24667341679739443,% of country's GDP,Estimated,Asia,Western Asia,State of Israel
+ISR,2012,Climate Disaster,0.9986630809213928,0.2469899124489642,% of country's GDP,Estimated,Asia,Western Asia,State of Israel
+ISR,2017,Climate Disaster,0.9996894828702507,0.05736667231241956,% of country's GDP,Estimated,Asia,Western Asia,State of Israel
+ISR,2022,Climate Disaster,0.9997202321291484,0.05168588214003814,% of country's GDP,Estimated,Asia,Western Asia,State of Israel
+ITA,2007,Climate Disaster,0.9997142416781322,0.052792591585457765,% of country's GDP,EM-DATA,Europe,Southern Europe,Italian Republic
+ITA,2012,Climate Disaster,0.9998321418629693,0.031011051627938855,% of country's GDP,EM-DATA,Europe,Southern Europe,Italian Republic
+ITA,2017,Climate Disaster,0.9996772748706878,0.059622046471900815,% of country's GDP,EM-DATA,Europe,Southern Europe,Italian Republic
+ITA,2022,Climate Disaster,0.9999231580788934,0.01419620653950248,% of country's GDP,EM-DATA,Europe,Southern Europe,Italian Republic
+JAM,2007,Climate Disaster,0.9886382786651489,2.0990279835692784,% of country's GDP,EM-DATA,America,Caribbean,Jamaica
+JAM,2012,Climate Disaster,0.9957795153078056,0.7797159613453623,% of country's GDP,EM-DATA,America,Caribbean,Jamaica
+JAM,2017,Climate Disaster,0.9985625762396778,0.26555770980833765,% of country's GDP,EM-DATA,America,Caribbean,Jamaica
+JAM,2022,Climate Disaster,0.9985625762396778,0.26555770980833765,% of country's GDP,Estimated,America,Caribbean,Jamaica
+JOR,2007,Climate Disaster,0.9986647940645356,0.24667341679739443,% of country's GDP,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JOR,2012,Climate Disaster,0.9986630809213928,0.2469899124489642,% of country's GDP,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JOR,2017,Climate Disaster,0.9996894828702507,0.05736667231241956,% of country's GDP,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JOR,2022,Climate Disaster,0.9997202321291484,0.05168588214003814,% of country's GDP,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JPN,2007,Climate Disaster,0.9994417063088812,0.10314230090419042,% of country's GDP,EM-DATA,Asia,Eastern Asia,Japan
+JPN,2012,Climate Disaster,0.9999077533712217,0.01704215844492687,% of country's GDP,EM-DATA,Asia,Eastern Asia,Japan
+JPN,2017,Climate Disaster,0.9997554338532997,0.04518251861917047,% of country's GDP,EM-DATA,Asia,Eastern Asia,Japan
+JPN,2022,Climate Disaster,0.9981406998261128,0.3434975194184182,% of country's GDP,EM-DATA,Asia,Eastern Asia,Japan
+KAZ,2007,Climate Disaster,0.9998686182884926,0.024272192641922406,% of country's GDP,Estimated,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2012,Climate Disaster,0.9998686182884926,0.024272192641922406,% of country's GDP,EM-DATA,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2017,Climate Disaster,0.9999490583213152,0.009411250807699847,% of country's GDP,EM-DATA,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2022,Climate Disaster,0.9999490583213152,0.009411250807699847,% of country's GDP,Estimated,Asia,Central Asia,Republic of Kazakhstan
+KEN,2007,Climate Disaster,0.9999982020337221,0.0003321663522358956,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Kenya
+KEN,2012,Climate Disaster,0.9998080442533016,0.03546297889659141,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Kenya
+KEN,2017,Climate Disaster,0.9999500134683402,0.00923479160096076,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Kenya
+KEN,2022,Climate Disaster,0.9999500134683402,0.00923479160096076,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Kenya
+KGZ,2007,Climate Disaster,0.9999139073742245,0.015905233490219096,% of country's GDP,EM-DATA,Asia,Central Asia,Kyrgyz Republic
+KGZ,2012,Climate Disaster,0.999996369165163,0.0006707807472152769,% of country's GDP,EM-DATA,Asia,Central Asia,Kyrgyz Republic
+KGZ,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Central Asia,Kyrgyz Republic
+KGZ,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Central Asia,Kyrgyz Republic
+KHM,2007,Climate Disaster,0.9995198700402284,0.08870189574348451,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Kingdom of Cambodia
+KHM,2012,Climate Disaster,0.9963162858013113,0.6805499764195979,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Kingdom of Cambodia
+KHM,2017,Climate Disaster,0.9963162858013113,0.6805499764195979,% of country's GDP,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
+KHM,2022,Climate Disaster,0.999693925651775,0.05654588799025705,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Kingdom of Cambodia
+KIR,2007,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Republic of Kiribati
+KIR,2012,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Republic of Kiribati
+KIR,2017,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Republic of Kiribati
+KIR,2022,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Republic of Kiribati
+KNA,2007,Climate Disaster,0.9948790338045487,0.9460759536666936,% of country's GDP,Estimated,America,Caribbean,Saint Kitts and Nevis
+KNA,2012,Climate Disaster,0.9948790338045487,0.9460759536666936,% of country's GDP,Estimated,America,Caribbean,Saint Kitts and Nevis
+KNA,2017,Climate Disaster,0.9948790338045487,0.9460759536666936,% of country's GDP,EM-DATA,America,Caribbean,Saint Kitts and Nevis
+KNA,2022,Climate Disaster,0.9948790338045487,0.9460759536666936,% of country's GDP,Estimated,America,Caribbean,Saint Kitts and Nevis
+KOR,2007,Climate Disaster,0.9994251897661264,0.1061936594450499,% of country's GDP,EM-DATA,Asia,Eastern Asia,Republic of Korea
+KOR,2012,Climate Disaster,0.9999212592221173,0.014547011967018552,% of country's GDP,EM-DATA,Asia,Eastern Asia,Republic of Korea
+KOR,2017,Climate Disaster,0.9999212592221173,0.014547011967018552,% of country's GDP,Estimated,Asia,Eastern Asia,Republic of Korea
+KOR,2022,Climate Disaster,0.999812325375442,0.034672060433742054,% of country's GDP,EM-DATA,Asia,Eastern Asia,Republic of Korea
+KWT,2007,Climate Disaster,0.9986647940645356,0.24667341679739443,% of country's GDP,Estimated,Asia,Western Asia,State of Kuwait
+KWT,2012,Climate Disaster,0.9986630809213928,0.2469899124489642,% of country's GDP,Estimated,Asia,Western Asia,State of Kuwait
+KWT,2017,Climate Disaster,0.9996894828702507,0.05736667231241956,% of country's GDP,Estimated,Asia,Western Asia,State of Kuwait
+KWT,2022,Climate Disaster,0.9997202321291484,0.05168588214003814,% of country's GDP,Estimated,Asia,Western Asia,State of Kuwait
+LAO,2007,Climate Disaster,0.9991267132341688,0.16133588433801918,% of country's GDP,Estimated,Asia,South-eastern Asia,Lao People's Democratic Republic
+LAO,2012,Climate Disaster,0.9991267132341688,0.16133588433801918,% of country's GDP,Estimated,Asia,South-eastern Asia,Lao People's Democratic Republic
+LAO,2017,Climate Disaster,0.9991267132341688,0.16133588433801918,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Lao People's Democratic Republic
+LAO,2022,Climate Disaster,0.9981648154028163,0.33904227281895877,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Lao People's Democratic Republic
+LBN,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Western Asia,Lebanese Republic
+LBN,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,Lebanese Republic
+LBN,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,Lebanese Republic
+LBN,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,Lebanese Republic
+LBR,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Liberia
+LBR,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Republic of Liberia
+LBR,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Republic of Liberia
+LBR,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Republic of Liberia
+LBY,2007,Climate Disaster,0.9997513709415579,0.045933123671827385,% of country's GDP,Estimated,Africa,Northern Africa,State of Libya
+LBY,2012,Climate Disaster,0.999608732728816,0.07228490534711307,% of country's GDP,Estimated,Africa,Northern Africa,State of Libya
+LBY,2017,Climate Disaster,0.9997958151086888,0.037722259510962475,% of country's GDP,Estimated,Africa,Northern Africa,State of Libya
+LBY,2022,Climate Disaster,0.9997428479006718,0.04750771794303021,% of country's GDP,Estimated,Africa,Northern Africa,State of Libya
+LCA,2007,Climate Disaster,0.9917862787160563,1.5174488368546368,% of country's GDP,EM-DATA,America,Caribbean,Saint Lucia
+LCA,2012,Climate Disaster,0.9917862787160563,1.5174488368546368,% of country's GDP,Estimated,America,Caribbean,Saint Lucia
+LCA,2017,Climate Disaster,0.9917862787160563,1.5174488368546368,% of country's GDP,Estimated,America,Caribbean,Saint Lucia
+LCA,2022,Climate Disaster,0.9982720702554488,0.3192274111079653,% of country's GDP,EM-DATA,America,Caribbean,Saint Lucia
+LIE,2007,Climate Disaster,0.9996099348573529,0.07206281739365947,% of country's GDP,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LIE,2012,Climate Disaster,0.9997908002439123,0.03864873369468484,% of country's GDP,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LIE,2017,Climate Disaster,0.9997341174850588,0.049120623781856276,% of country's GDP,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LIE,2022,Climate Disaster,0.9997055675929356,0.05439509062789126,% of country's GDP,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LKA,2007,Climate Disaster,0.9998801262546566,0.022146146570174434,% of country's GDP,EM-DATA,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LKA,2012,Climate Disaster,0.998956414303136,0.19279786190943546,% of country's GDP,EM-DATA,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LKA,2017,Climate Disaster,0.9976931696067353,0.42617675668194627,% of country's GDP,EM-DATA,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LKA,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LSO,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Southern Africa,Kingdom of Lesotho
+LSO,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Southern Africa,Kingdom of Lesotho
+LSO,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Southern Africa,Kingdom of Lesotho
+LSO,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Southern Africa,Kingdom of Lesotho
+LTU,2007,Climate Disaster,0.9992594119150624,0.13682038740147773,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Lithuania
+LTU,2012,Climate Disaster,0.9992594119150624,0.13682038740147773,% of country's GDP,EM-DATA,Europe,Northern Europe,Republic of Lithuania
+LTU,2017,Climate Disaster,0.9992594119150624,0.13682038740147773,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Lithuania
+LTU,2022,Climate Disaster,0.9995009310091041,0.09220079834283637,% of country's GDP,EM-DATA,Europe,Northern Europe,Republic of Lithuania
+LUX,2007,Climate Disaster,0.9999448313300296,0.010192168833486797,% of country's GDP,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2012,Climate Disaster,0.9999448313300296,0.010192168833486797,% of country's GDP,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2017,Climate Disaster,0.9999448313300296,0.010192168833486797,% of country's GDP,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2022,Climate Disaster,0.9999448313300296,0.010192168833486797,% of country's GDP,EM-DATA,Europe,Western Europe,Grand Duchy of Luxembourg
+LVA,2007,Climate Disaster,0.9984745846157133,0.2818137748514857,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Latvia
+LVA,2012,Climate Disaster,0.9984745846157133,0.2818137748514857,% of country's GDP,EM-DATA,Europe,Northern Europe,Republic of Latvia
+LVA,2017,Climate Disaster,0.9984745846157133,0.2818137748514857,% of country's GDP,Estimated,Europe,Northern Europe,Republic of Latvia
+LVA,2022,Climate Disaster,0.998613206218812,0.25620404412001213,% of country's GDP,EM-DATA,Europe,Northern Europe,Republic of Latvia
+MAC,2007,Climate Disaster,0.9847446317026578,2.8183621136309305,% of country's GDP,Estimated,Asia,Eastern Asia,Macau SAR
+MAC,2012,Climate Disaster,0.9847446317026578,2.8183621136309305,% of country's GDP,Estimated,Asia,Eastern Asia,Macau SAR
+MAC,2017,Climate Disaster,0.9847446317026578,2.8183621136309305,% of country's GDP,EM-DATA,Asia,Eastern Asia,Macau SAR
+MAC,2022,Climate Disaster,0.9847446317026578,2.8183621136309305,% of country's GDP,Estimated,Asia,Eastern Asia,Macau SAR
+MAF,2007,Climate Disaster,0.9129013915192892,16.09108436502164,% of country's GDP,Estimated,America,Caribbean,Saint-Martin (French part)
+MAF,2012,Climate Disaster,0.9149687311191352,15.709152477790164,% of country's GDP,Estimated,America,Caribbean,Saint-Martin (French part)
+MAF,2017,Climate Disaster,0.8770394266427131,22.716424452426413,% of country's GDP,Estimated,America,Caribbean,Saint-Martin (French part)
+MAF,2022,Climate Disaster,0.8779391191309222,22.550210227160637,% of country's GDP,Estimated,America,Caribbean,Saint-Martin (French part)
+MAR,2007,Climate Disaster,0.9999690889768618,0.005710675403468975,% of country's GDP,Estimated,Africa,Northern Africa,Kingdom of Morocco
+MAR,2012,Climate Disaster,0.9999690889768618,0.005710675403468975,% of country's GDP,EM-DATA,Africa,Northern Africa,Kingdom of Morocco
+MAR,2017,Climate Disaster,0.9996865524296938,0.057908058300650475,% of country's GDP,EM-DATA,Africa,Northern Africa,Kingdom of Morocco
+MAR,2022,Climate Disaster,0.9996865524296938,0.057908058300650475,% of country's GDP,Estimated,Africa,Northern Africa,Kingdom of Morocco
+MCO,2007,Climate Disaster,0.9996099348573529,0.07206281739365947,% of country's GDP,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2012,Climate Disaster,0.9997908002439123,0.03864873369468484,% of country's GDP,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2017,Climate Disaster,0.9997341174850588,0.049120623781856276,% of country's GDP,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2022,Climate Disaster,0.9997055675929356,0.05439509062789126,% of country's GDP,Estimated,Europe,Western Europe,Principality of Monaco
+MDA,2007,Climate Disaster,0.9888515604796382,2.0596251075608194,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Moldova
+MDA,2012,Climate Disaster,0.9944117056914052,1.032412764620482,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Moldova
+MDA,2017,Climate Disaster,0.9944117056914052,1.032412764620482,% of country's GDP,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDA,2022,Climate Disaster,0.9944117056914052,1.032412764620482,% of country's GDP,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDG,2007,Climate Disaster,0.9913200150074362,1.603589003760029,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Madagascar
+MDG,2012,Climate Disaster,0.9984168267313726,0.29248428963791456,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Madagascar
+MDG,2017,Climate Disaster,0.999228703765812,0.1424935827475561,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Madagascar
+MDG,2022,Climate Disaster,0.9996808496155847,0.05896162809413697,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Madagascar
+MDV,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Southern Asia,Republic of Maldives
+MDV,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Southern Asia,Republic of Maldives
+MDV,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Southern Asia,Republic of Maldives
+MDV,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Southern Asia,Republic of Maldives
+MEX,2007,Climate Disaster,0.9988099954741748,0.21984809578272438,% of country's GDP,EM-DATA,America,Central America,United Mexican States
+MEX,2012,Climate Disaster,0.9993257693491093,0.124561143676237,% of country's GDP,EM-DATA,America,Central America,United Mexican States
+MEX,2017,Climate Disaster,0.9991305594157647,0.16062531922544124,% of country's GDP,EM-DATA,America,Central America,United Mexican States
+MEX,2022,Climate Disaster,0.9998154968026475,0.03408615322337883,% of country's GDP,EM-DATA,America,Central America,United Mexican States
+MHL,2007,Climate Disaster,0.9974153500809745,0.4775026906462774,% of country's GDP,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
+MHL,2012,Climate Disaster,0.9974153500809745,0.4775026906462774,% of country's GDP,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
+MHL,2017,Climate Disaster,0.9974153500809745,0.4775026906462774,% of country's GDP,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
+MHL,2022,Climate Disaster,0.9974153500809745,0.4775026906462774,% of country's GDP,EM-DATA,Oceania,Micronesia,Republic of the Marshall Islands
+MKD,2007,Climate Disaster,0.9999486856822126,0.009480094240917475,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of North Macedonia
+MKD,2012,Climate Disaster,0.9999513928992301,0.008979947818561242,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of North Macedonia
+MKD,2017,Climate Disaster,0.9986496445905856,0.24947221539668307,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of North Macedonia
+MKD,2022,Climate Disaster,0.9986496445905856,0.24947221539668307,% of country's GDP,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MLI,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Mali
+MLI,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Republic of Mali
+MLI,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Republic of Mali
+MLI,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Mali
+MLT,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Europe,Southern Europe,Republic of Malta
+MLT,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Europe,Southern Europe,Republic of Malta
+MLT,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Europe,Southern Europe,Republic of Malta
+MLT,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Malta
+MMR,2007,Climate Disaster,0.9999959484828056,0.000748499960184264,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MMR,2012,Climate Disaster,0.9921842882680774,1.4439183248135221,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MMR,2017,Climate Disaster,0.9997872509555694,0.03930444908620553,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MMR,2022,Climate Disaster,0.9997872509555694,0.03930444908620553,% of country's GDP,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MNE,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Southern Europe,Montenegro
+MNE,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Southern Europe,Montenegro
+MNE,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Southern Europe,Montenegro
+MNE,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Southern Europe,Montenegro
+MNG,2007,Climate Disaster,0.999331025639362,0.12359006719891288,% of country's GDP,Estimated,Asia,Eastern Asia,Mongolia
+MNG,2012,Climate Disaster,0.999331025639362,0.12359006719891288,% of country's GDP,Estimated,Asia,Eastern Asia,Mongolia
+MNG,2017,Climate Disaster,0.999331025639362,0.12359006719891288,% of country's GDP,EM-DATA,Asia,Eastern Asia,Mongolia
+MNG,2022,Climate Disaster,0.999987865858604,0.002241729188391883,% of country's GDP,EM-DATA,Asia,Eastern Asia,Mongolia
+MNP,2007,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MNP,2012,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MNP,2017,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MNP,2022,Climate Disaster,0.9987076750404872,0.2387513453231387,% of country's GDP,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MOZ,2007,Climate Disaster,0.9978656327606116,0.39431494847064996,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Mozambique
+MOZ,2012,Climate Disaster,0.9998408163212331,0.029408483662971815,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Mozambique
+MOZ,2017,Climate Disaster,0.9995911373768077,0.07553556914687573,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Mozambique
+MOZ,2022,Climate Disaster,0.9853315228303737,2.7099365622485516,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Mozambique
+MRT,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Islamic Republic of Mauritania
+MRT,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Islamic Republic of Mauritania
+MRT,2017,Climate Disaster,0.9999664973383724,0.00618946920170295,% of country's GDP,EM-DATA,Africa,Western Africa,Islamic Republic of Mauritania
+MRT,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Islamic Republic of Mauritania
+MUS,2007,Climate Disaster,0.9980861110492715,0.3535825555499692,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Mauritius
+MUS,2012,Climate Disaster,0.9980861110492715,0.3535825555499692,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Mauritius
+MUS,2017,Climate Disaster,0.9980861110492715,0.3535825555499692,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Mauritius
+MUS,2022,Climate Disaster,0.9992977528797619,0.12973706301343474,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Mauritius
+MWI,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Malawi
+MWI,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Malawi
+MWI,2017,Climate Disaster,0.9951178670510004,0.9019525631228018,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Malawi
+MWI,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Malawi
+MYS,2007,Climate Disaster,0.9994397774438034,0.10349865023323201,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Malaysia
+MYS,2012,Climate Disaster,0.9994397774438034,0.10349865023323201,% of country's GDP,Estimated,Asia,South-eastern Asia,Malaysia
+MYS,2017,Climate Disaster,0.9998537932005032,0.027011062363459563,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Malaysia
+MYS,2022,Climate Disaster,0.9995790971617177,0.07775994586388428,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Malaysia
+NAM,2007,Climate Disaster,0.9998930615111384,0.01975641489749459,% of country's GDP,EM-DATA,Africa,Southern Africa,Republic of Namibia
+NAM,2012,Climate Disaster,0.9998983324463568,0.01878263282725127,% of country's GDP,EM-DATA,Africa,Southern Africa,Republic of Namibia
+NAM,2017,Climate Disaster,0.9988039515833623,0.2209646779951772,% of country's GDP,EM-DATA,Africa,Southern Africa,Republic of Namibia
+NAM,2022,Climate Disaster,0.9988039515833623,0.2209646779951772,% of country's GDP,Estimated,Africa,Southern Africa,Republic of Namibia
+NCL,2007,Climate Disaster,0.9850317855557617,2.765311703795091,% of country's GDP,Estimated,Oceania,Melanesia,New Caledonia
+NCL,2012,Climate Disaster,0.98374837248901,3.0024166161754495,% of country's GDP,Estimated,Oceania,Melanesia,New Caledonia
+NCL,2017,Climate Disaster,0.98374837248901,3.0024166161754495,% of country's GDP,Estimated,Oceania,Melanesia,New Caledonia
+NCL,2022,Climate Disaster,0.9849465370103658,2.7810609971521956,% of country's GDP,Estimated,Oceania,Melanesia,New Caledonia
+NER,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Niger
+NER,2012,Climate Disaster,0.9978856574300947,0.39061547896529275,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Niger
+NER,2017,Climate Disaster,0.9992240232208264,0.14335829282216206,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Niger
+NER,2022,Climate Disaster,0.9999206860603149,0.014652901085977115,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Niger
+NGA,2007,Climate Disaster,0.9999988123831495,0.0002194069832812628,% of country's GDP,EM-DATA,Africa,Western Africa,Federal Republic of Nigeria
+NGA,2012,Climate Disaster,0.9998746611104842,0.023155807889456013,% of country's GDP,EM-DATA,Africa,Western Africa,Federal Republic of Nigeria
+NGA,2017,Climate Disaster,0.9999925510086854,0.001376168342592318,% of country's GDP,EM-DATA,Africa,Western Africa,Federal Republic of Nigeria
+NGA,2022,Climate Disaster,0.99894928028944,0.19411583952406755,% of country's GDP,EM-DATA,Africa,Western Africa,Federal Republic of Nigeria
+NIC,2007,Climate Disaster,0.9999652677253746,0.006416634788262147,% of country's GDP,EM-DATA,America,Central America,Republic of Nicaragua
+NIC,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,America,Central America,Republic of Nicaragua
+NIC,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,America,Central America,Republic of Nicaragua
+NIC,2022,Climate Disaster,0.9915664505816111,1.5580611166472171,% of country's GDP,EM-DATA,America,Central America,Republic of Nicaragua
+NLD,2007,Climate Disaster,0.9998729097048511,0.023479372367584784,% of country's GDP,EM-DATA,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2012,Climate Disaster,0.9999182645539998,0.015100263714231826,% of country's GDP,EM-DATA,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2017,Climate Disaster,0.9999182645539998,0.015100263714231826,% of country's GDP,Estimated,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2022,Climate Disaster,0.9999279384443562,0.013313055071319756,% of country's GDP,EM-DATA,Europe,Western Europe,Kingdom of the Netherlands
+NOR,2007,Climate Disaster,0.9999731968320433,0.004951767248222308,% of country's GDP,Estimated,Europe,Northern Europe,Kingdom of Norway
+NOR,2012,Climate Disaster,0.9999731968320433,0.004951767248222308,% of country's GDP,Estimated,Europe,Northern Europe,Kingdom of Norway
+NOR,2017,Climate Disaster,0.9999731968320433,0.004951767248222308,% of country's GDP,Estimated,Europe,Northern Europe,Kingdom of Norway
+NOR,2022,Climate Disaster,0.9999731968320433,0.004951767248222308,% of country's GDP,EM-DATA,Europe,Northern Europe,Kingdom of Norway
+NPL,2007,Climate Disaster,0.9999748372218309,0.004648712458664646,% of country's GDP,EM-DATA,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NPL,2012,Climate Disaster,0.9996739388266604,0.060238365915183625,% of country's GDP,EM-DATA,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NPL,2017,Climate Disaster,0.9976614095881255,0.4320442802600631,% of country's GDP,EM-DATA,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NPL,2022,Climate Disaster,0.9990889014554565,0.1683214439452714,% of country's GDP,EM-DATA,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NRU,2007,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Republic of Nauru
+NRU,2012,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Republic of Nauru
+NRU,2017,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Republic of Nauru
+NRU,2022,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Republic of Nauru
+NZL,2007,Climate Disaster,0.9997139721643202,0.05284238307534499,% of country's GDP,EM-DATA,Oceania,Australia and New Zealand,New Zealand
+NZL,2012,Climate Disaster,0.999750124165628,0.046163460034495986,% of country's GDP,EM-DATA,Oceania,Australia and New Zealand,New Zealand
+NZL,2017,Climate Disaster,0.9993220938313992,0.1252401793874746,% of country's GDP,EM-DATA,Oceania,Australia and New Zealand,New Zealand
+NZL,2022,Climate Disaster,0.9997537081795875,0.04550132923821093,% of country's GDP,EM-DATA,Oceania,Australia and New Zealand,New Zealand
+OMN,2007,Climate Disaster,0.9852118654960418,2.7320427278373463,% of country's GDP,EM-DATA,Asia,Western Asia,Sultanate of Oman
+OMN,2012,Climate Disaster,0.9852118654960418,2.7320427278373463,% of country's GDP,Estimated,Asia,Western Asia,Sultanate of Oman
+OMN,2017,Climate Disaster,0.9981889422870587,0.3345849372015662,% of country's GDP,EM-DATA,Asia,Western Asia,Sultanate of Oman
+OMN,2022,Climate Disaster,0.9981889422870587,0.3345849372015662,% of country's GDP,Estimated,Asia,Western Asia,Sultanate of Oman
+PAK,2007,Climate Disaster,0.9988365579485358,0.21494079561641077,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Pakistan
+PAK,2012,Climate Disaster,0.9933915961704782,1.2208735064064407,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Pakistan
+PAK,2017,Climate Disaster,0.9987933455736648,0.22292409158162696,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Pakistan
+PAK,2022,Climate Disaster,0.995175538439858,0.8912980279959614,% of country's GDP,EM-DATA,Asia,Southern Asia,Islamic Republic of Pakistan
+PAN,2007,Climate Disaster,0.9999629521636164,0.006844424626160001,% of country's GDP,EM-DATA,America,Central America,Republic of Panama
+PAN,2012,Climate Disaster,0.9999670420629535,0.006088833734113004,% of country's GDP,EM-DATA,America,Central America,Republic of Panama
+PAN,2017,Climate Disaster,0.9996458472209038,0.06542816637313614,% of country's GDP,EM-DATA,America,Central America,Republic of Panama
+PAN,2022,Climate Disaster,0.9998632514621121,0.025263690182089994,% of country's GDP,EM-DATA,America,Central America,Republic of Panama
+PER,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,America,South America,Republic of Peru
+PER,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,America,South America,Republic of Peru
+PER,2017,Climate Disaster,0.9983073275796825,0.3127137757167044,% of country's GDP,EM-DATA,America,South America,Republic of Peru
+PER,2022,Climate Disaster,0.9983051971991661,0.3131073541356758,% of country's GDP,EM-DATA,America,South America,Republic of Peru
+PHL,2007,Climate Disaster,0.9995998639946034,0.07392336493807387,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of the Philippines
+PHL,2012,Climate Disaster,0.9984979561908817,0.2774959792593622,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of the Philippines
+PHL,2017,Climate Disaster,0.9945698378505234,1.003198544582085,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of the Philippines
+PHL,2022,Climate Disaster,0.9989841522825337,0.18767339236406985,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Republic of the Philippines
+PLW,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Oceania,Micronesia,Republic of Palau
+PLW,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Oceania,Micronesia,Republic of Palau
+PLW,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Oceania,Micronesia,Republic of Palau
+PLW,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Oceania,Micronesia,Republic of Palau
+PNG,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Oceania,Melanesia,Independent State of Papua New Guinea
+PNG,2012,Climate Disaster,0.9998627401671967,0.025358149666146104,% of country's GDP,EM-DATA,Oceania,Melanesia,Independent State of Papua New Guinea
+PNG,2017,Climate Disaster,0.9998627401671967,0.025358149666146104,% of country's GDP,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
+PNG,2022,Climate Disaster,0.9998627401671967,0.025358149666146104,% of country's GDP,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
+POL,2007,Climate Disaster,0.9999747636902381,0.004662297096646155,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Poland
+POL,2012,Climate Disaster,0.9992591140082079,0.13687542438098813,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Poland
+POL,2017,Climate Disaster,0.9999436542458965,0.01040962994364537,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Poland
+POL,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Eastern Europe,Republic of Poland
+PRI,2007,Climate Disaster,0.9995756501107074,0.07839677335840262,% of country's GDP,EM-DATA,America,Caribbean,Puerto Rico
+PRI,2012,Climate Disaster,0.9993264640382564,0.12443280291546564,% of country's GDP,EM-DATA,America,Caribbean,Puerto Rico
+PRI,2017,Climate Disaster,0.9282669700552311,13.252361395136722,% of country's GDP,EM-DATA,America,Caribbean,Puerto Rico
+PRI,2022,Climate Disaster,0.920145410940563,14.752783677067608,% of country's GDP,EM-DATA,America,Caribbean,Puerto Rico
+PRK,2007,Climate Disaster,0.9968350760283947,0.5847057665365404,% of country's GDP,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRK,2012,Climate Disaster,0.9970865890145177,0.5382398499254841,% of country's GDP,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRK,2017,Climate Disaster,0.997056057824117,0.5438803529033165,% of country's GDP,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRK,2022,Climate Disaster,0.9969700178236184,0.5597758641053947,% of country's GDP,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRT,2007,Climate Disaster,0.9995626132203455,0.08080528144288224,% of country's GDP,Estimated,Europe,Southern Europe,Portuguese Republic
+PRT,2012,Climate Disaster,0.9995626132203455,0.08080528144288224,% of country's GDP,Estimated,Europe,Southern Europe,Portuguese Republic
+PRT,2017,Climate Disaster,0.9995626132203455,0.08080528144288224,% of country's GDP,EM-DATA,Europe,Southern Europe,Portuguese Republic
+PRT,2022,Climate Disaster,0.9994943185036229,0.09342242961132327,% of country's GDP,EM-DATA,Europe,Southern Europe,Portuguese Republic
+PRY,2007,Climate Disaster,0.9998181195625917,0.03360160987337613,% of country's GDP,EM-DATA,America,South America,Republic of Paraguay
+PRY,2012,Climate Disaster,0.9999776210794925,0.004134407014819221,% of country's GDP,EM-DATA,America,South America,Republic of Paraguay
+PRY,2017,Climate Disaster,0.9999776210794925,0.004134407014819221,% of country's GDP,Estimated,America,South America,Republic of Paraguay
+PRY,2022,Climate Disaster,0.9999776210794925,0.004134407014819221,% of country's GDP,Estimated,America,South America,Republic of Paraguay
+PSE,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,State of Palestine
+PSE,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Western Asia,State of Palestine
+PSE,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,State of Palestine
+PSE,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Western Asia,State of Palestine
+PYF,2007,Climate Disaster,0.9993335164489344,0.1231299010990501,% of country's GDP,Estimated,Oceania,Polynesia,French Polynesia
+PYF,2012,Climate Disaster,0.9993335164489344,0.1231299010990501,% of country's GDP,Estimated,Oceania,Polynesia,French Polynesia
+PYF,2017,Climate Disaster,0.9993335164489344,0.1231299010990501,% of country's GDP,EM-DATA,Oceania,Polynesia,French Polynesia
+PYF,2022,Climate Disaster,0.9993335164489344,0.1231299010990501,% of country's GDP,Estimated,Oceania,Polynesia,French Polynesia
+QAT,2007,Climate Disaster,0.9986647940645356,0.24667341679739443,% of country's GDP,Estimated,Asia,Western Asia,State of Qatar
+QAT,2012,Climate Disaster,0.9986630809213928,0.2469899124489642,% of country's GDP,Estimated,Asia,Western Asia,State of Qatar
+QAT,2017,Climate Disaster,0.9996894828702507,0.05736667231241956,% of country's GDP,Estimated,Asia,Western Asia,State of Qatar
+QAT,2022,Climate Disaster,0.9997202321291484,0.05168588214003814,% of country's GDP,Estimated,Asia,Western Asia,State of Qatar
+ROU,2007,Climate Disaster,0.9991356119722469,0.15969188166502762,% of country's GDP,EM-DATA,Europe,Eastern Europe,Romania
+ROU,2012,Climate Disaster,0.9992927175803813,0.13066731240029517,% of country's GDP,EM-DATA,Europe,Eastern Europe,Romania
+ROU,2017,Climate Disaster,0.9999902770018767,0.0017962810865915816,% of country's GDP,EM-DATA,Europe,Eastern Europe,Romania
+ROU,2022,Climate Disaster,0.9999648894210234,0.006486524851218678,% of country's GDP,EM-DATA,Europe,Eastern Europe,Romania
+RUS,2007,Climate Disaster,0.9998930102915904,0.0197658774834473,% of country's GDP,EM-DATA,Europe,Eastern Europe,Russian Federation
+RUS,2012,Climate Disaster,0.9996588140672954,0.06303259860372804,% of country's GDP,EM-DATA,Europe,Eastern Europe,Russian Federation
+RUS,2017,Climate Disaster,0.9999163592529973,0.0154522596841598,% of country's GDP,EM-DATA,Europe,Eastern Europe,Russian Federation
+RUS,2022,Climate Disaster,0.9999566347264089,0.008011543330471212,% of country's GDP,EM-DATA,Europe,Eastern Europe,Russian Federation
+RWA,2007,Climate Disaster,0.9999997647314179,4.346483449795483e-05,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Rwanda
+RWA,2012,Climate Disaster,0.9999998614670557,2.5593351399624958e-05,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Rwanda
+RWA,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Rwanda
+RWA,2022,Climate Disaster,0.9993178025523589,0.12603297429287766,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Rwanda
+SAU,2007,Climate Disaster,0.9998147624133564,0.03422182841089082,% of country's GDP,Estimated,Asia,Western Asia,Kingdom of Saudi Arabia
+SAU,2012,Climate Disaster,0.9998147624133564,0.03422182841089082,% of country's GDP,EM-DATA,Asia,Western Asia,Kingdom of Saudi Arabia
+SAU,2017,Climate Disaster,0.9999919550637355,0.0014862665477613553,% of country's GDP,EM-DATA,Asia,Western Asia,Kingdom of Saudi Arabia
+SAU,2022,Climate Disaster,0.9999919550637355,0.0014862665477613553,% of country's GDP,Estimated,Asia,Western Asia,Kingdom of Saudi Arabia
+SDN,2007,Climate Disaster,0.9990759033517728,0.17072278636174185,% of country's GDP,EM-DATA,Africa,Northern Africa,Republic of the Sudan
+SDN,2012,Climate Disaster,0.9990443891868803,0.1765448895482798,% of country's GDP,EM-DATA,Africa,Northern Africa,Republic of the Sudan
+SDN,2017,Climate Disaster,0.999980685334252,0.003568299441910205,% of country's GDP,EM-DATA,Africa,Northern Africa,Republic of the Sudan
+SDN,2022,Climate Disaster,0.9993867267870871,0.11329952544506176,% of country's GDP,EM-DATA,Africa,Northern Africa,Republic of the Sudan
+SEN,2007,Climate Disaster,0.9996345849947075,0.06750881306800385,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Senegal
+SEN,2012,Climate Disaster,0.9999387038883807,0.01132418669506283,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Senegal
+SEN,2017,Climate Disaster,0.9999387038883807,0.01132418669506283,% of country's GDP,Estimated,Africa,Western Africa,Republic of Senegal
+SEN,2022,Climate Disaster,0.9999202201542252,0.014738975184372297,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Senegal
+SGP,2007,Climate Disaster,0.9992547390561777,0.13768367750279176,% of country's GDP,Estimated,Asia,South-eastern Asia,Republic of Singapore
+SGP,2012,Climate Disaster,0.9969418326255584,0.5649829553292378,% of country's GDP,Estimated,Asia,South-eastern Asia,Republic of Singapore
+SGP,2017,Climate Disaster,0.998089796954669,0.352901600759185,% of country's GDP,Estimated,Asia,South-eastern Asia,Republic of Singapore
+SGP,2022,Climate Disaster,0.9994375231018306,0.10391512998537225,% of country's GDP,Estimated,Asia,South-eastern Asia,Republic of Singapore
+SLB,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Oceania,Melanesia,Solomon Islands
+SLB,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Oceania,Melanesia,Solomon Islands
+SLB,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Oceania,Melanesia,Solomon Islands
+SLB,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Oceania,Melanesia,Solomon Islands
+SLE,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Sierra Leone
+SLE,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Republic of Sierra Leone
+SLE,2017,Climate Disaster,0.9994418315729506,0.10311915891895751,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Sierra Leone
+SLE,2022,Climate Disaster,0.9994553405596791,0.1006234331097196,% of country's GDP,EM-DATA,Africa,Western Africa,Republic of Sierra Leone
+SLV,2007,Climate Disaster,0.9974298499598826,0.4748239018704023,% of country's GDP,EM-DATA,America,Central America,Republic of El Salvador
+SLV,2012,Climate Disaster,0.9974298499598826,0.4748239018704023,% of country's GDP,Estimated,America,Central America,Republic of El Salvador
+SLV,2017,Climate Disaster,0.9899483256693496,1.8570025685316887,% of country's GDP,EM-DATA,America,Central America,Republic of El Salvador
+SLV,2022,Climate Disaster,0.9989546510321295,0.19312361846307613,% of country's GDP,EM-DATA,America,Central America,Republic of El Salvador
+SMR,2007,Climate Disaster,0.9995040439141165,0.09162570284995093,% of country's GDP,Estimated,Europe,Southern Europe,Republic of San Marino
+SMR,2012,Climate Disaster,0.9995924330221053,0.07529620438371391,% of country's GDP,Estimated,Europe,Southern Europe,Republic of San Marino
+SMR,2017,Climate Disaster,0.9990939703619939,0.16738498578419025,% of country's GDP,Estimated,Europe,Southern Europe,Republic of San Marino
+SMR,2022,Climate Disaster,0.9996918658847056,0.056926420885850405,% of country's GDP,Estimated,Europe,Southern Europe,Republic of San Marino
+SOM,2007,Climate Disaster,0.9999995794922855,7.768694849655001e-05,% of country's GDP,EM-DATA,Africa,Eastern Africa,Federal Republic of Somalia
+SOM,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Federal Republic of Somalia
+SOM,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
+SOM,2022,Climate Disaster,0.9876312297253608,2.285075840504029,% of country's GDP,EM-DATA,Africa,Eastern Africa,Federal Republic of Somalia
+SRB,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Serbia
+SRB,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Serbia
+SRB,2017,Climate Disaster,0.9947654447570344,0.967061029988556,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Serbia
+SRB,2022,Climate Disaster,0.999948686790375,0.009479889512808804,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Serbia
+SSD,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of South Sudan
+SSD,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of South Sudan
+SSD,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of South Sudan
+SSD,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of South Sudan
+STP,2007,Climate Disaster,0.999996510383185,0.0006446913395191453,% of country's GDP,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+STP,2012,Climate Disaster,0.9999864697833243,0.0024996479485072417,% of country's GDP,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+STP,2017,Climate Disaster,0.9999758380134253,0.004463820618747642,% of country's GDP,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+STP,2022,Climate Disaster,0.9999943494635138,0.0010439117328248243,% of country's GDP,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+SUR,2007,Climate Disaster,0.9992505313336791,0.13846103570507187,% of country's GDP,Estimated,America,South America,Republic of Suriname
+SUR,2012,Climate Disaster,0.9992505313336791,0.13846103570507187,% of country's GDP,Estimated,America,South America,Republic of Suriname
+SUR,2017,Climate Disaster,0.9992505313336791,0.13846103570507187,% of country's GDP,Estimated,America,South America,Republic of Suriname
+SUR,2022,Climate Disaster,0.9992505313336791,0.13846103570507187,% of country's GDP,EM-DATA,America,South America,Republic of Suriname
+SVK,2007,Climate Disaster,0.9992625652175117,0.13623782866003703,% of country's GDP,EM-DATA,Europe,Eastern Europe,Slovak Republic
+SVK,2012,Climate Disaster,0.999969916534819,0.005557787715128739,% of country's GDP,EM-DATA,Europe,Eastern Europe,Slovak Republic
+SVK,2017,Climate Disaster,0.9999683017568881,0.0058561108269483495,% of country's GDP,EM-DATA,Europe,Eastern Europe,Slovak Republic
+SVK,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Europe,Eastern Europe,Slovak Republic
+SVN,2007,Climate Disaster,0.9981630260049248,0.33937285619955515,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Slovenia
+SVN,2012,Climate Disaster,0.9976410554727818,0.43580461343742183,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Slovenia
+SVN,2017,Climate Disaster,0.9976410554727818,0.43580461343742183,% of country's GDP,Estimated,Europe,Southern Europe,Republic of Slovenia
+SVN,2022,Climate Disaster,0.9993898043322764,0.1127309625237678,% of country's GDP,EM-DATA,Europe,Southern Europe,Republic of Slovenia
+SWE,2007,Climate Disaster,0.9999636940721504,0.006707360291614116,% of country's GDP,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWE,2012,Climate Disaster,0.9999636940721504,0.006707360291614116,% of country's GDP,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWE,2017,Climate Disaster,0.9999636940721504,0.006707360291614116,% of country's GDP,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWE,2022,Climate Disaster,0.9999636940721504,0.006707360291614116,% of country's GDP,EM-DATA,Europe,Northern Europe,Kingdom of Sweden
+SWZ,2007,Climate Disaster,0.9999981314710473,0.0003452024956396669,% of country's GDP,EM-DATA,Africa,Southern Africa,Kingdom of Eswatini
+SWZ,2012,Climate Disaster,0.9999981314710473,0.0003452024956396669,% of country's GDP,Estimated,Africa,Southern Africa,Kingdom of Eswatini
+SWZ,2017,Climate Disaster,0.9999981314710473,0.0003452024956396669,% of country's GDP,Estimated,Africa,Southern Africa,Kingdom of Eswatini
+SWZ,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Southern Africa,Kingdom of Eswatini
+SXM,2007,Climate Disaster,0.0,184.7455963499717,% of country's GDP,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SXM,2012,Climate Disaster,0.0,184.7455963499717,% of country's GDP,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SXM,2017,Climate Disaster,0.0,184.7455963499717,% of country's GDP,EM-DATA,America,Caribbean,Sint Maarten (Dutch part)
+SXM,2022,Climate Disaster,0.0,184.7455963499717,% of country's GDP,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SYC,2007,Climate Disaster,0.9986361828740365,0.2519592082484102,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYC,2012,Climate Disaster,0.9991947407231009,0.14876810532706758,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYC,2017,Climate Disaster,0.9993052509039146,0.1283518360699025,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYC,2022,Climate Disaster,0.9980258007239883,0.364724622560465,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYR,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,Syrian Arab Republic
+SYR,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,Syrian Arab Republic
+SYR,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,Syrian Arab Republic
+SYR,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Western Asia,Syrian Arab Republic
+TCA,2007,Climate Disaster,0.8125043674473212,34.63899244895981,% of country's GDP,Estimated,America,Caribbean,Turks and Caicos Islands
+TCA,2012,Climate Disaster,0.8125043674473212,34.63899244895981,% of country's GDP,Estimated,America,Caribbean,Turks and Caicos Islands
+TCA,2017,Climate Disaster,0.8125043674473212,34.63899244895981,% of country's GDP,EM-DATA,America,Caribbean,Turks and Caicos Islands
+TCA,2022,Climate Disaster,0.8125043674473212,34.63899244895981,% of country's GDP,Estimated,America,Caribbean,Turks and Caicos Islands
+TCD,2007,Climate Disaster,0.999975572682295,0.004512839376634017,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Chad
+TCD,2012,Climate Disaster,0.9999124677827197,0.016171191681268952,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Chad
+TCD,2017,Climate Disaster,0.9998844298478146,0.021351076685770336,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Chad
+TCD,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Middle Africa,Republic of Chad
+TGO,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Togolese Republic
+TGO,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Western Africa,Togolese Republic
+TGO,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Togolese Republic
+TGO,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Western Africa,Togolese Republic
+THA,2007,Climate Disaster,0.9996055135114223,0.07287964158427475,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Kingdom of Thailand
+THA,2012,Climate Disaster,0.9886907112143957,2.0893413009905397,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Kingdom of Thailand
+THA,2017,Climate Disaster,0.9986977888097578,0.2405777829148924,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Kingdom of Thailand
+THA,2022,Climate Disaster,0.9995017323298011,0.0920527578728034,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Kingdom of Thailand
+TJK,2007,Climate Disaster,0.9960704670478259,0.7259639086262861,% of country's GDP,EM-DATA,Asia,Central Asia,Republic of Tajikistan
+TJK,2012,Climate Disaster,0.9842234239860699,2.9146529440541786,% of country's GDP,EM-DATA,Asia,Central Asia,Republic of Tajikistan
+TJK,2017,Climate Disaster,0.9999702557104139,0.005495126517599092,% of country's GDP,EM-DATA,Asia,Central Asia,Republic of Tajikistan
+TJK,2022,Climate Disaster,0.9999702557104139,0.005495126517599092,% of country's GDP,Estimated,Asia,Central Asia,Republic of Tajikistan
+TKM,2007,Climate Disaster,0.9989377222028102,0.19625114513115605,% of country's GDP,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2012,Climate Disaster,0.9959965768851058,0.7396147908023781,% of country's GDP,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2017,Climate Disaster,0.9999543025331067,0.008442405772873873,% of country's GDP,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2022,Climate Disaster,0.9999543025331067,0.008442405772873873,% of country's GDP,Estimated,Asia,Central Asia,Turkmenistan
+TLS,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TLS,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TLS,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TLS,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TON,2007,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TON,2012,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TON,2017,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TON,2022,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TTO,2007,Climate Disaster,0.9999788852559046,0.003900855989676414,% of country's GDP,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TTO,2012,Climate Disaster,0.9999788852559046,0.003900855989676414,% of country's GDP,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TTO,2017,Climate Disaster,0.9999788852559046,0.003900855989676414,% of country's GDP,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TTO,2022,Climate Disaster,0.9999788852559046,0.003900855989676414,% of country's GDP,EM-DATA,America,Caribbean,Republic of Trinidad and Tobago
+TUN,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Northern Africa,Republic of Tunisia
+TUN,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Northern Africa,Republic of Tunisia
+TUN,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Northern Africa,Republic of Tunisia
+TUN,2022,Climate Disaster,0.9998981123859064,0.018823288026408598,% of country's GDP,EM-DATA,Africa,Northern Africa,Republic of Tunisia
+TUR,2007,Climate Disaster,0.9999481941442596,0.00957090371319006,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Türkiye
+TUR,2012,Climate Disaster,0.9999276364265447,0.013368851532027215,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Türkiye
+TUR,2017,Climate Disaster,0.9999243829348042,0.013969919803818034,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Türkiye
+TUR,2022,Climate Disaster,0.9998912937120213,0.02008300799960689,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Türkiye
+TUV,2007,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Tuvalu
+TUV,2012,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Tuvalu
+TUV,2017,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Tuvalu
+TUV,2022,Climate Disaster,0.9878571998320103,2.2433288583937814,% of country's GDP,Estimated,Oceania,Polynesia,Tuvalu
+TZA,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,United Republic of Tanzania
+TZA,2012,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,United Republic of Tanzania
+TZA,2017,Climate Disaster,0.9999957922959223,0.0007773547991185444,% of country's GDP,EM-DATA,Africa,Eastern Africa,United Republic of Tanzania
+TZA,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,United Republic of Tanzania
+UGA,2007,Climate Disaster,0.9999993563319091,0.00011891484530963596,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Uganda
+UGA,2012,Climate Disaster,0.999999689316656,5.739737966593844e-05,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Uganda
+UGA,2017,Climate Disaster,0.9999788033199893,0.003915993289213867,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Uganda
+UGA,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Uganda
+UKR,2007,Climate Disaster,0.9998965716154706,0.019107938579387574,% of country's GDP,EM-DATA,Europe,Eastern Europe,Ukraine
+UKR,2012,Climate Disaster,0.9982989306026524,0.3142650802456641,% of country's GDP,EM-DATA,Europe,Eastern Europe,Ukraine
+UKR,2017,Climate Disaster,0.9982340216360759,0.32625672598431105,% of country's GDP,EM-DATA,Europe,Eastern Europe,Ukraine
+UKR,2022,Climate Disaster,0.9982340216360759,0.32625672598431105,% of country's GDP,Estimated,Europe,Eastern Europe,Ukraine
+URY,2007,Climate Disaster,0.999664201664443,0.06203726375580154,% of country's GDP,EM-DATA,America,South America,Oriental Republic of Uruguay
+URY,2012,Climate Disaster,0.999664201664443,0.06203726375580154,% of country's GDP,Estimated,America,South America,Oriental Republic of Uruguay
+URY,2017,Climate Disaster,0.9999948971074296,0.0009427369310125426,% of country's GDP,EM-DATA,America,South America,Oriental Republic of Uruguay
+URY,2022,Climate Disaster,0.9991009061219501,0.1661036346749118,% of country's GDP,EM-DATA,America,South America,Oriental Republic of Uruguay
+USA,2007,Climate Disaster,0.9979994815000395,0.36958698328437617,% of country's GDP,EM-DATA,America,Northern America,United States of America
+USA,2012,Climate Disaster,0.9983772804777812,0.29979028584105377,% of country's GDP,EM-DATA,America,Northern America,United States of America
+USA,2017,Climate Disaster,0.9983552119307693,0.3038673527193481,% of country's GDP,EM-DATA,America,Northern America,United States of America
+USA,2022,Climate Disaster,0.99795529385707,0.3777504557360419,% of country's GDP,EM-DATA,America,Northern America,United States of America
+UZB,2007,Climate Disaster,0.999897896100698,0.018863245766196548,% of country's GDP,Estimated,Asia,Central Asia,Republic of Uzbekistan
+UZB,2012,Climate Disaster,0.999897896100698,0.018863245766196548,% of country's GDP,Estimated,Asia,Central Asia,Republic of Uzbekistan
+UZB,2017,Climate Disaster,0.999897896100698,0.018863245766196548,% of country's GDP,Estimated,Asia,Central Asia,Republic of Uzbekistan
+UZB,2022,Climate Disaster,0.999897896100698,0.018863245766196548,% of country's GDP,EM-DATA,Asia,Central Asia,Republic of Uzbekistan
+VCT,2007,Climate Disaster,0.9129013915192892,16.09108436502164,% of country's GDP,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VCT,2012,Climate Disaster,0.9149687311191352,15.709152477790164,% of country's GDP,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VCT,2017,Climate Disaster,0.8770394266427131,22.716424452426413,% of country's GDP,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VCT,2022,Climate Disaster,0.8779391191309222,22.550210227160637,% of country's GDP,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VEN,2007,Climate Disaster,0.9999181366151335,0.015123899856385443,% of country's GDP,Estimated,America,South America,Bolivarian Republic of Venezuela
+VEN,2012,Climate Disaster,0.9999181366151335,0.015123899856385443,% of country's GDP,EM-DATA,America,South America,Bolivarian Republic of Venezuela
+VEN,2017,Climate Disaster,0.9999181366151335,0.015123899856385443,% of country's GDP,Estimated,America,South America,Bolivarian Republic of Venezuela
+VEN,2022,Climate Disaster,0.9999181366151335,0.015123899856385443,% of country's GDP,Estimated,America,South America,Bolivarian Republic of Venezuela
+VGB,2007,Climate Disaster,0.9129013915192892,16.09108436502164,% of country's GDP,Estimated,America,Caribbean,British Virgin Islands
+VGB,2012,Climate Disaster,0.9149687311191352,15.709152477790164,% of country's GDP,Estimated,America,Caribbean,British Virgin Islands
+VGB,2017,Climate Disaster,0.8770394266427131,22.716424452426413,% of country's GDP,Estimated,America,Caribbean,British Virgin Islands
+VGB,2022,Climate Disaster,0.8779391191309222,22.550210227160637,% of country's GDP,Estimated,America,Caribbean,British Virgin Islands
+VIR,2007,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,America,Caribbean,Virgin Islands of the United States
+VIR,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,America,Caribbean,Virgin Islands of the United States
+VIR,2017,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,America,Caribbean,Virgin Islands of the United States
+VIR,2022,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,America,Caribbean,Virgin Islands of the United States
+VNM,2007,Climate Disaster,0.9963093828878083,0.6818252592912677,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VNM,2012,Climate Disaster,0.9982307837307951,0.32685491472634043,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VNM,2017,Climate Disaster,0.9950503123616181,0.9144329944989528,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VNM,2022,Climate Disaster,0.9994346911361446,0.10443832317489227,% of country's GDP,EM-DATA,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VUT,2007,Climate Disaster,0.9425744342556154,10.609120389180832,% of country's GDP,Estimated,Oceania,Melanesia,Republic of Vanuatu
+VUT,2012,Climate Disaster,0.9425744342556154,10.609120389180832,% of country's GDP,Estimated,Oceania,Melanesia,Republic of Vanuatu
+VUT,2017,Climate Disaster,0.9425744342556154,10.609120389180832,% of country's GDP,EM-DATA,Oceania,Melanesia,Republic of Vanuatu
+VUT,2022,Climate Disaster,0.9425744342556154,10.609120389180832,% of country's GDP,Estimated,Oceania,Melanesia,Republic of Vanuatu
+WSM,2007,Climate Disaster,0.9763808832150863,4.363527815688513,% of country's GDP,Estimated,Oceania,Polynesia,Independent State of Samoa
+WSM,2012,Climate Disaster,0.9763808832150863,4.363527815688513,% of country's GDP,EM-DATA,Oceania,Polynesia,Independent State of Samoa
+WSM,2017,Climate Disaster,0.9763808832150863,4.363527815688513,% of country's GDP,Estimated,Oceania,Polynesia,Independent State of Samoa
+WSM,2022,Climate Disaster,0.9763808832150863,4.363527815688513,% of country's GDP,Estimated,Oceania,Polynesia,Independent State of Samoa
+XKX,2007,Climate Disaster,0.9995040439141165,0.09162570284995093,% of country's GDP,Estimated,Europe,Southern Europe,Republic of Kosovo
+XKX,2012,Climate Disaster,0.9995924330221053,0.07529620438371391,% of country's GDP,Estimated,Europe,Southern Europe,Republic of Kosovo
+XKX,2017,Climate Disaster,0.9990939703619939,0.16738498578419025,% of country's GDP,Estimated,Europe,Southern Europe,Republic of Kosovo
+XKX,2022,Climate Disaster,0.9996918658847056,0.056926420885850405,% of country's GDP,Estimated,Europe,Southern Europe,Republic of Kosovo
+YEM,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Yemen
+YEM,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Asia,Western Asia,Republic of Yemen
+YEM,2017,Climate Disaster,0.9991658074366403,0.15411340258858264,% of country's GDP,EM-DATA,Asia,Western Asia,Republic of Yemen
+YEM,2022,Climate Disaster,0.9991658074366403,0.15411340258858264,% of country's GDP,Estimated,Asia,Western Asia,Republic of Yemen
+ZAF,2007,Climate Disaster,0.9999225322165622,0.014311831849119532,% of country's GDP,EM-DATA,Africa,Southern Africa,Republic of South Africa
+ZAF,2012,Climate Disaster,0.9997753329401468,0.041506249952802325,% of country's GDP,EM-DATA,Africa,Southern Africa,Republic of South Africa
+ZAF,2017,Climate Disaster,0.9991895898367978,0.14971970888885222,% of country's GDP,EM-DATA,Africa,Southern Africa,Republic of South Africa
+ZAF,2022,Climate Disaster,0.9982383175387575,0.3254630768815467,% of country's GDP,EM-DATA,Africa,Southern Africa,Republic of South Africa
+ZMB,2007,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Zambia
+ZMB,2012,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Zambia
+ZMB,2017,Climate Disaster,1.0,0.0,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Zambia
+ZMB,2022,Climate Disaster,1.0,0.0,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Zambia
+ZWE,2007,Climate Disaster,0.991852618452755,1.5051928626365456,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Zimbabwe
+ZWE,2012,Climate Disaster,0.991852618452755,1.5051928626365456,% of country's GDP,Estimated,Africa,Eastern Africa,Republic of Zimbabwe
+ZWE,2017,Climate Disaster,0.9984403824634522,0.2881324718673751,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Zimbabwe
+ZWE,2022,Climate Disaster,0.9992549980413171,0.13763583113876088,% of country's GDP,EM-DATA,Africa,Eastern Africa,Republic of Zimbabwe

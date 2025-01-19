@@ -1,0 +1,861 @@
+Region,Year,Indicator,Normalized,Value,Unit,Source,Continent,UN_Region,Official_Name
+AFG,2007,Protected Forests,0.352415420084714,32.8645,%,Estimated,Asia,Southern Asia,Islamic Republic of Afghanistan
+AFG,2012,Protected Forests,0.35682269047236076,33.2755,%,Estimated,Asia,Southern Asia,Islamic Republic of Afghanistan
+AFG,2017,Protected Forests,0.3659321216020589,34.125,%,Estimated,Asia,Southern Asia,Islamic Republic of Afghanistan
+AFG,2022,Protected Forests,0.3659321216020589,34.125,%,Estimated,Asia,Southern Asia,Islamic Republic of Afghanistan
+AGO,2007,Protected Forests,0.014369202723714548,1.34,%,Estimated,Africa,Middle Africa,Republic of Angola
+AGO,2012,Protected Forests,0.014369202723714548,1.34,%,Estimated,Africa,Middle Africa,Republic of Angola
+AGO,2017,Protected Forests,0.014369202723714548,1.34,%,Food and Agriculture Organization (FAO),Africa,Middle Africa,Republic of Angola
+AGO,2022,Protected Forests,0.014369202723714548,1.34,%,Estimated,Africa,Middle Africa,Republic of Angola
+ALB,2007,Protected Forests,0.33640734187621757,31.37166666666667,%,Estimated,Europe,Southern Europe,Republic of Albania
+ALB,2012,Protected Forests,0.3370060586563723,31.4275,%,Estimated,Europe,Southern Europe,Republic of Albania
+ALB,2017,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Republic of Albania
+ALB,2022,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Republic of Albania
+AND,2007,Protected Forests,0.33640734187621757,31.37166666666667,%,Estimated,Europe,Southern Europe,Principality of Andorra
+AND,2012,Protected Forests,0.3370060586563723,31.4275,%,Estimated,Europe,Southern Europe,Principality of Andorra
+AND,2017,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Principality of Andorra
+AND,2022,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Principality of Andorra
+ARE,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,United Arab Emirates
+ARE,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,United Arab Emirates
+ARE,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,United Arab Emirates
+ARE,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,United Arab Emirates
+ARG,2007,Protected Forests,0.2901345772344647,27.0565,%,Estimated,America,South America,Argentine Republic
+ARG,2012,Protected Forests,0.30576912766071523,28.514499999999998,%,Estimated,America,South America,Argentine Republic
+ARG,2017,Protected Forests,0.3149268135756796,29.3685,%,Estimated,America,South America,Argentine Republic
+ARG,2022,Protected Forests,0.3149268135756796,29.3685,%,Estimated,America,South America,Argentine Republic
+ARM,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Republic of Armenia
+ASM,2007,Protected Forests,0.16009865422765535,14.93,%,Estimated,Oceania,Polynesia,American Samoa
+ASM,2012,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,American Samoa
+ASM,2017,Protected Forests,0.1607420513645381,14.99,%,Food and Agriculture Organization (FAO),Oceania,Polynesia,American Samoa
+ASM,2022,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,American Samoa
+ATG,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Antigua and Barbuda
+ATG,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Antigua and Barbuda
+ATG,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Antigua and Barbuda
+ATG,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Antigua and Barbuda
+AUS,2007,Protected Forests,0.23760120100798884,22.1575,%,Estimated,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUS,2012,Protected Forests,0.23760120100798884,22.1575,%,Estimated,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUS,2017,Protected Forests,0.2712991260522224,25.299999999999997,%,Food and Agriculture Organization (FAO),Oceania,Australia and New Zealand,Commonwealth of Australia
+AUS,2022,Protected Forests,0.2712991260522224,25.299999999999997,%,Estimated,Oceania,Australia and New Zealand,Commonwealth of Australia
+AUT,2007,Protected Forests,0.3767358318588816,35.1325,%,Estimated,Europe,Western Europe,Republic of Austria
+AUT,2012,Protected Forests,0.3767358318588816,35.1325,%,Estimated,Europe,Western Europe,Republic of Austria
+AUT,2017,Protected Forests,0.3887191035333226,36.25,%,Food and Agriculture Organization (FAO),Europe,Western Europe,Republic of Austria
+AUT,2022,Protected Forests,0.3887191035333226,36.25,%,Estimated,Europe,Western Europe,Republic of Austria
+AZE,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,Republic of Azerbaijan
+AZE,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,Republic of Azerbaijan
+AZE,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Republic of Azerbaijan
+AZE,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Republic of Azerbaijan
+BDI,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,Republic of Burundi
+BDI,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,Republic of Burundi
+BDI,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Burundi
+BDI,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Burundi
+BEL,2007,Protected Forests,0.4722481368291244,44.0395,%,Estimated,Europe,Western Europe,Kingdom of Belgium
+BEL,2012,Protected Forests,0.4979089593051312,46.432500000000005,%,Estimated,Europe,Western Europe,Kingdom of Belgium
+BEL,2017,Protected Forests,0.5128518578092328,47.826,%,Estimated,Europe,Western Europe,Kingdom of Belgium
+BEL,2022,Protected Forests,0.5128518578092328,47.826,%,Estimated,Europe,Western Europe,Kingdom of Belgium
+BEN,2007,Protected Forests,0.6113345128947509,57.01,%,Estimated,Africa,Western Africa,Republic of Benin
+BEN,2012,Protected Forests,0.6113345128947509,57.01,%,Estimated,Africa,Western Africa,Republic of Benin
+BEN,2017,Protected Forests,0.6235054420674494,58.144999999999996,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Republic of Benin
+BEN,2022,Protected Forests,0.6235054420674494,58.144999999999996,%,Estimated,Africa,Western Africa,Republic of Benin
+BFA,2007,Protected Forests,0.1187067717548657,11.07,%,Estimated,Africa,Western Africa,Burkina Faso
+BFA,2012,Protected Forests,0.13444319339445607,12.5375,%,Estimated,Africa,Western Africa,Burkina Faso
+BFA,2017,Protected Forests,0.14792772505495685,13.795,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Burkina Faso
+BFA,2022,Protected Forests,0.14792772505495685,13.795,%,Estimated,Africa,Western Africa,Burkina Faso
+BGD,2007,Protected Forests,0.264865154683395,24.7,%,Estimated,Asia,Southern Asia,People's Republic of Bangladesh
+BGD,2012,Protected Forests,0.264865154683395,24.7,%,Estimated,Asia,Southern Asia,People's Republic of Bangladesh
+BGD,2017,Protected Forests,0.264865154683395,24.7,%,Food and Agriculture Organization (FAO),Asia,Southern Asia,People's Republic of Bangladesh
+BGD,2022,Protected Forests,0.264865154683395,24.7,%,Estimated,Asia,Southern Asia,People's Republic of Bangladesh
+BGR,2007,Protected Forests,0.5344753632513002,49.8425,%,Estimated,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2012,Protected Forests,0.5975818990938825,55.727500000000006,%,Estimated,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2017,Protected Forests,0.6150876628599004,57.36,%,Food and Agriculture Organization (FAO),Europe,Eastern Europe,Republic of Bulgaria
+BGR,2022,Protected Forests,0.6150876628599004,57.36,%,Estimated,Europe,Eastern Europe,Republic of Bulgaria
+BHR,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHR,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHR,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHR,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Kingdom of Bahrain
+BHS,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Commonwealth of the Bahamas
+BHS,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Commonwealth of the Bahamas
+BHS,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Commonwealth of the Bahamas
+BHS,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Commonwealth of the Bahamas
+BIH,2007,Protected Forests,0.33640734187621757,31.37166666666667,%,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2012,Protected Forests,0.3370060586563723,31.4275,%,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2017,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2022,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BLR,2007,Protected Forests,0.5739370543134416,53.522499999999994,%,Estimated,Europe,Eastern Europe,Republic of Belarus
+BLR,2012,Protected Forests,0.6046860758136293,56.39,%,Estimated,Europe,Eastern Europe,Republic of Belarus
+BLR,2017,Protected Forests,0.6087073079191465,56.765,%,Food and Agriculture Organization (FAO),Europe,Eastern Europe,Republic of Belarus
+BLR,2022,Protected Forests,0.6087073079191465,56.765,%,Estimated,Europe,Eastern Europe,Republic of Belarus
+BLZ,2007,Protected Forests,0.22047522027415867,20.560416666666665,%,Estimated,America,Central America,Belize
+BLZ,2012,Protected Forests,0.2150912372884385,20.058333333333334,%,Estimated,America,Central America,Belize
+BLZ,2017,Protected Forests,0.21124872660983326,19.7,%,Estimated,America,Central America,Belize
+BLZ,2022,Protected Forests,0.21124872660983326,19.7,%,Estimated,America,Central America,Belize
+BMU,2007,Protected Forests,0.2400943649134095,22.39,%,Estimated,America,Northern America,Bermuda
+BMU,2012,Protected Forests,0.25020999767662144,23.333333333333332,%,Estimated,America,Northern America,Bermuda
+BMU,2017,Protected Forests,0.2571622611834933,23.981666666666666,%,Estimated,America,Northern America,Bermuda
+BMU,2022,Protected Forests,0.2571622611834933,23.981666666666666,%,Estimated,America,Northern America,Bermuda
+BOL,2007,Protected Forests,0.2521580612299609,23.515,%,Estimated,America,South America,Plurinational State of Bolivia
+BOL,2012,Protected Forests,0.2521580612299609,23.515,%,Estimated,America,South America,Plurinational State of Bolivia
+BOL,2017,Protected Forests,0.2521580612299609,23.515,%,Food and Agriculture Organization (FAO),America,South America,Plurinational State of Bolivia
+BOL,2022,Protected Forests,0.2521580612299609,23.515,%,Estimated,America,South America,Plurinational State of Bolivia
+BRA,2007,Protected Forests,0.14897324540239132,13.892500000000002,%,Estimated,America,South America,Federative Republic of Brazil
+BRA,2012,Protected Forests,0.18015119832716747,16.8,%,Estimated,America,South America,Federative Republic of Brazil
+BRA,2017,Protected Forests,0.19398423677014637,18.09,%,Food and Agriculture Organization (FAO),America,South America,Federative Republic of Brazil
+BRA,2022,Protected Forests,0.19398423677014637,18.09,%,Estimated,America,South America,Federative Republic of Brazil
+BRB,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Barbados
+BRB,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Barbados
+BRB,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Barbados
+BRB,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Barbados
+BRN,2007,Protected Forests,0.3541686772827195,33.028000000000006,%,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BRN,2012,Protected Forests,0.3833252908691223,35.747,%,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BRN,2017,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BRN,2022,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,"Nation of Brunei, Abode of Peace"
+BTN,2007,Protected Forests,0.25516058120208035,23.795,%,Estimated,Asia,Southern Asia,Kingdom of Bhutan
+BTN,2012,Protected Forests,0.26826979786606614,25.0175,%,Estimated,Asia,Southern Asia,Kingdom of Bhutan
+BTN,2017,Protected Forests,0.29070827301485175,27.11,%,Food and Agriculture Organization (FAO),Asia,Southern Asia,Kingdom of Bhutan
+BTN,2022,Protected Forests,0.29070827301485175,27.11,%,Estimated,Asia,Southern Asia,Kingdom of Bhutan
+BWA,2007,Protected Forests,0.11591871749504049,10.81,%,Estimated,Africa,Southern Africa,Republic of Botswana
+BWA,2012,Protected Forests,0.11591871749504049,10.81,%,Estimated,Africa,Southern Africa,Republic of Botswana
+BWA,2017,Protected Forests,0.11591871749504049,10.81,%,Food and Agriculture Organization (FAO),Africa,Southern Africa,Republic of Botswana
+BWA,2022,Protected Forests,0.11591871749504049,10.81,%,Estimated,Africa,Southern Africa,Republic of Botswana
+CAF,2007,Protected Forests,0.014208353439493861,1.325,%,Estimated,Africa,Middle Africa,Central African Republic
+CAF,2012,Protected Forests,0.05627044126320305,5.2475,%,Estimated,Africa,Middle Africa,Central African Republic
+CAF,2017,Protected Forests,0.09264918771111467,8.639999999999999,%,Food and Agriculture Organization (FAO),Africa,Middle Africa,Central African Republic
+CAF,2022,Protected Forests,0.09264918771111467,8.639999999999999,%,Estimated,Africa,Middle Africa,Central African Republic
+CAN,2007,Protected Forests,0.32620234839954965,30.42,%,Estimated,America,Northern America,Canada
+CAN,2012,Protected Forests,0.3353707576001287,31.275,%,Estimated,America,Northern America,Canada
+CAN,2017,Protected Forests,0.3546190552785374,33.07,%,Food and Agriculture Organization (FAO),America,Northern America,Canada
+CAN,2022,Protected Forests,0.3546190552785374,33.07,%,Estimated,America,Northern America,Canada
+CHE,2007,Protected Forests,0.5529462227226423,51.565000000000005,%,Estimated,Europe,Western Europe,Swiss Confederation
+CHE,2012,Protected Forests,0.5529462227226423,51.565000000000005,%,Estimated,Europe,Western Europe,Swiss Confederation
+CHE,2017,Protected Forests,0.5529462227226423,51.565000000000005,%,Food and Agriculture Organization (FAO),Europe,Western Europe,Swiss Confederation
+CHE,2022,Protected Forests,0.5529462227226423,51.565000000000005,%,Estimated,Europe,Western Europe,Swiss Confederation
+CHL,2007,Protected Forests,0.11063749932979465,10.317499999999999,%,Estimated,America,South America,Republic of Chile
+CHL,2012,Protected Forests,0.11350597823173021,10.585,%,Estimated,America,South America,Republic of Chile
+CHL,2017,Protected Forests,0.11543616964237843,10.765,%,Food and Agriculture Organization (FAO),America,South America,Republic of Chile
+CHL,2022,Protected Forests,0.11543616964237843,10.765,%,Estimated,America,South America,Republic of Chile
+CHN,2007,Protected Forests,0.33360141547370115,31.11,%,Estimated,Asia,Eastern Asia,People's Republic of China
+CHN,2012,Protected Forests,0.39920111522170393,37.2275,%,Estimated,Asia,Eastern Asia,People's Republic of China
+CHN,2017,Protected Forests,0.4434078601683556,41.35,%,Food and Agriculture Organization (FAO),Asia,Eastern Asia,People's Republic of China
+CHN,2022,Protected Forests,0.4434078601683556,41.35,%,Estimated,Asia,Eastern Asia,People's Republic of China
+CIV,2007,Protected Forests,0.6423516165353065,59.9025,%,Estimated,Africa,Western Africa,Republic of Côte d'Ivoire
+CIV,2012,Protected Forests,0.5734813146748164,53.480000000000004,%,Estimated,Africa,Western Africa,Republic of Côte d'Ivoire
+CIV,2017,Protected Forests,0.5321966650581738,49.629999999999995,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Republic of Côte d'Ivoire
+CIV,2022,Protected Forests,0.5321966650581738,49.629999999999995,%,Estimated,Africa,Western Africa,Republic of Côte d'Ivoire
+CMR,2007,Protected Forests,0.3882901721087341,36.21,%,Estimated,Africa,Middle Africa,Republic of Cameroon
+CMR,2012,Protected Forests,0.3882901721087341,36.21,%,Estimated,Africa,Middle Africa,Republic of Cameroon
+CMR,2017,Protected Forests,0.41869068682644367,39.045,%,Food and Agriculture Organization (FAO),Africa,Middle Africa,Republic of Cameroon
+CMR,2022,Protected Forests,0.41869068682644367,39.045,%,Estimated,Africa,Middle Africa,Republic of Cameroon
+COD,2007,Protected Forests,0.15874752024020158,14.803999999999998,%,Estimated,Africa,Middle Africa,Democratic Republic of the Congo
+COD,2012,Protected Forests,0.19599485282290494,18.2775,%,Estimated,Africa,Middle Africa,Democratic Republic of the Congo
+COD,2017,Protected Forests,0.22336603935445823,20.830000000000002,%,Estimated,Africa,Middle Africa,Democratic Republic of the Congo
+COD,2022,Protected Forests,0.22336603935445823,20.830000000000002,%,Estimated,Africa,Middle Africa,Democratic Republic of the Congo
+COG,2007,Protected Forests,0.1611977910031634,15.032500000000002,%,Estimated,Africa,Middle Africa,Republic of the Congo
+COG,2012,Protected Forests,0.2422122138223152,22.587500000000002,%,Estimated,Africa,Middle Africa,Republic of the Congo
+COG,2017,Protected Forests,0.26931531821350063,25.115000000000002,%,Food and Agriculture Organization (FAO),Africa,Middle Africa,Republic of the Congo
+COG,2022,Protected Forests,0.26931531821350063,25.115000000000002,%,Estimated,Africa,Middle Africa,Republic of the Congo
+COL,2007,Protected Forests,0.21317891802048147,19.88,%,Estimated,America,South America,Republic of Colombia
+COL,2012,Protected Forests,0.2940861079834861,27.424999999999997,%,Estimated,America,South America,Republic of Colombia
+COL,2017,Protected Forests,0.3466302074955767,32.325,%,Food and Agriculture Organization (FAO),America,South America,Republic of Colombia
+COL,2022,Protected Forests,0.3466302074955767,32.325,%,Estimated,America,South America,Republic of Colombia
+COM,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,Union of the Comoros
+COM,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,Union of the Comoros
+COM,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Union of the Comoros
+COM,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Union of the Comoros
+CPV,2007,Protected Forests,0.26442178806663286,24.658653846153847,%,Estimated,Africa,Western Africa,Republic of Cabo Verde
+CPV,2012,Protected Forests,0.26590036417927687,24.796538461538464,%,Estimated,Africa,Western Africa,Republic of Cabo Verde
+CPV,2017,Protected Forests,0.2699793370534886,25.176923076923078,%,Estimated,Africa,Western Africa,Republic of Cabo Verde
+CPV,2022,Protected Forests,0.2699793370534886,25.176923076923078,%,Estimated,Africa,Western Africa,Republic of Cabo Verde
+CRI,2007,Protected Forests,0.4289314245884939,40.0,%,Estimated,America,Central America,Republic of Costa Rica
+CRI,2012,Protected Forests,0.4289314245884939,40.0,%,Estimated,America,Central America,Republic of Costa Rica
+CRI,2017,Protected Forests,0.4289314245884939,40.0,%,Food and Agriculture Organization (FAO),America,Central America,Republic of Costa Rica
+CRI,2022,Protected Forests,0.4289314245884939,40.0,%,Estimated,America,Central America,Republic of Costa Rica
+CUB,2007,Protected Forests,0.3427698246742802,31.965,%,Estimated,America,Caribbean,Republic of Cuba
+CUB,2012,Protected Forests,0.4182617554018551,39.004999999999995,%,Estimated,America,Caribbean,Republic of Cuba
+CUB,2017,Protected Forests,0.4464639965685487,41.635000000000005,%,Food and Agriculture Organization (FAO),America,Caribbean,Republic of Cuba
+CUB,2022,Protected Forests,0.4464639965685487,41.635000000000005,%,Estimated,America,Caribbean,Republic of Cuba
+CUW,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Country of Curaçao
+CUW,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Country of Curaçao
+CUW,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Country of Curaçao
+CUW,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Country of Curaçao
+CYM,2007,Protected Forests,0.333011634764892,31.055,%,Estimated,America,Caribbean,Cayman Islands
+CYM,2012,Protected Forests,0.6017103640555466,56.1125,%,Estimated,America,Caribbean,Cayman Islands
+CYM,2017,Protected Forests,0.6023269529783927,56.17,%,Food and Agriculture Organization (FAO),America,Caribbean,Cayman Islands
+CYM,2022,Protected Forests,0.6023269529783927,56.17,%,Estimated,America,Caribbean,Cayman Islands
+CYP,2007,Protected Forests,0.3782102836309045,35.269999999999996,%,Estimated,Asia,Western Asia,Republic of Cyprus
+CYP,2012,Protected Forests,0.38475148785587904,35.879999999999995,%,Estimated,Asia,Western Asia,Republic of Cyprus
+CYP,2017,Protected Forests,0.4080746340678784,38.055,%,Food and Agriculture Organization (FAO),Asia,Western Asia,Republic of Cyprus
+CYP,2022,Protected Forests,0.4080746340678784,38.055,%,Estimated,Asia,Western Asia,Republic of Cyprus
+CZE,2007,Protected Forests,0.55712830411238,51.955,%,Estimated,Europe,Eastern Europe,Czech Republic
+CZE,2012,Protected Forests,0.5628384537022143,52.4875,%,Estimated,Europe,Eastern Europe,Czech Republic
+CZE,2017,Protected Forests,0.5655460833199293,52.74,%,Food and Agriculture Organization (FAO),Europe,Eastern Europe,Czech Republic
+CZE,2022,Protected Forests,0.5655460833199293,52.74,%,Estimated,Europe,Eastern Europe,Czech Republic
+DEU,2007,Protected Forests,0.4825210444480189,44.9975,%,Estimated,Europe,Western Europe,Federal Republic of Germany
+DEU,2012,Protected Forests,0.511125408825264,47.665,%,Estimated,Europe,Western Europe,Federal Republic of Germany
+DEU,2017,Protected Forests,0.511125408825264,47.665,%,Food and Agriculture Organization (FAO),Europe,Western Europe,Federal Republic of Germany
+DEU,2022,Protected Forests,0.511125408825264,47.665,%,Estimated,Europe,Western Europe,Federal Republic of Germany
+DJI,2007,Protected Forests,0.0,0.0,%,Estimated,Africa,Eastern Africa,Republic of Djibouti
+DJI,2012,Protected Forests,0.04308079995710686,4.0175,%,Estimated,Africa,Eastern Africa,Republic of Djibouti
+DJI,2017,Protected Forests,0.08616159991421372,8.035,%,Food and Agriculture Organization (FAO),Africa,Eastern Africa,Republic of Djibouti
+DJI,2022,Protected Forests,0.08616159991421372,8.035,%,Estimated,Africa,Eastern Africa,Republic of Djibouti
+DMA,2007,Protected Forests,0.479330866977642,44.7,%,Estimated,America,Caribbean,Commonwealth of Dominica
+DMA,2012,Protected Forests,0.479330866977642,44.7,%,Estimated,America,Caribbean,Commonwealth of Dominica
+DMA,2017,Protected Forests,0.479330866977642,44.7,%,Food and Agriculture Organization (FAO),America,Caribbean,Commonwealth of Dominica
+DMA,2022,Protected Forests,0.479330866977642,44.7,%,Estimated,America,Caribbean,Commonwealth of Dominica
+DNK,2007,Protected Forests,0.26826979786606614,25.0175,%,Estimated,Europe,Northern Europe,Kingdom of Denmark
+DNK,2012,Protected Forests,0.30279877754543993,28.2375,%,Estimated,Europe,Northern Europe,Kingdom of Denmark
+DNK,2017,Protected Forests,0.30287920218755027,28.245,%,Food and Agriculture Organization (FAO),Europe,Northern Europe,Kingdom of Denmark
+DNK,2022,Protected Forests,0.30287920218755027,28.245,%,Estimated,Europe,Northern Europe,Kingdom of Denmark
+DOM,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Dominican Republic
+DOM,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Dominican Republic
+DOM,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Dominican Republic
+DOM,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Dominican Republic
+DZA,2007,Protected Forests,0.07425875288188301,6.925,%,Estimated,Africa,Northern Africa,People's Democratic Republic of Algeria
+DZA,2012,Protected Forests,0.07425875288188301,6.925,%,Estimated,Africa,Northern Africa,People's Democratic Republic of Algeria
+DZA,2017,Protected Forests,0.09618787196396976,8.969999999999999,%,Food and Agriculture Organization (FAO),Africa,Northern Africa,People's Democratic Republic of Algeria
+DZA,2022,Protected Forests,0.09618787196396976,8.969999999999999,%,Estimated,Africa,Northern Africa,People's Democratic Republic of Algeria
+ECU,2007,Protected Forests,0.3348077851053563,31.2225,%,Estimated,America,South America,Republic of Ecuador
+ECU,2012,Protected Forests,0.36925634014261977,34.435,%,Estimated,America,South America,Republic of Ecuador
+ECU,2017,Protected Forests,0.3751541472307115,34.985,%,Food and Agriculture Organization (FAO),America,South America,Republic of Ecuador
+ECU,2022,Protected Forests,0.3751541472307115,34.985,%,Estimated,America,South America,Republic of Ecuador
+EGY,2007,Protected Forests,0.22715940164066276,21.183750000000003,%,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+EGY,2012,Protected Forests,0.26411452469036517,24.630000000000003,%,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+EGY,2017,Protected Forests,0.28141922685110715,26.24375,%,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+EGY,2022,Protected Forests,0.28141922685110715,26.24375,%,Estimated,Africa,Northern Africa,Arab Republic of Egypt
+ERI,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,State of Eritrea
+ERI,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,State of Eritrea
+ERI,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,State of Eritrea
+ERI,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,State of Eritrea
+ESP,2007,Protected Forests,0.33640734187621757,31.37166666666667,%,Estimated,Europe,Southern Europe,Kingdom of Spain
+ESP,2012,Protected Forests,0.3370060586563723,31.4275,%,Estimated,Europe,Southern Europe,Kingdom of Spain
+ESP,2017,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Kingdom of Spain
+ESP,2022,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Kingdom of Spain
+EST,2007,Protected Forests,0.38845102139295484,36.225,%,Estimated,Europe,Northern Europe,Republic of Estonia
+EST,2012,Protected Forests,0.46279019891694817,43.1575,%,Estimated,Europe,Northern Europe,Republic of Estonia
+EST,2017,Protected Forests,0.4868907833360141,45.404999999999994,%,Food and Agriculture Organization (FAO),Europe,Northern Europe,Republic of Estonia
+EST,2022,Protected Forests,0.4868907833360141,45.404999999999994,%,Estimated,Europe,Northern Europe,Republic of Estonia
+ETH,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+ETH,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+ETH,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+ETH,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
+FIN,2007,Protected Forests,0.5966704198166318,55.6425,%,Estimated,Europe,Northern Europe,Republic of Finland
+FIN,2012,Protected Forests,0.6039354458205994,56.32,%,Estimated,Europe,Northern Europe,Republic of Finland
+FIN,2017,Protected Forests,0.6038818293925259,56.315,%,Food and Agriculture Organization (FAO),Europe,Northern Europe,Republic of Finland
+FIN,2022,Protected Forests,0.6038818293925259,56.315,%,Estimated,Europe,Northern Europe,Republic of Finland
+FJI,2007,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,Republic of Fiji
+FJI,2012,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,Republic of Fiji
+FJI,2017,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,Republic of Fiji
+FJI,2022,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,Republic of Fiji
+FRA,2007,Protected Forests,0.3045145032437939,28.3975,%,Estimated,Europe,Western Europe,French Republic
+FRA,2012,Protected Forests,0.3045145032437939,28.3975,%,Estimated,Europe,Western Europe,French Republic
+FRA,2017,Protected Forests,0.37134738083748864,34.63,%,Food and Agriculture Organization (FAO),Europe,Western Europe,French Republic
+FRA,2022,Protected Forests,0.37134738083748864,34.63,%,Estimated,Europe,Western Europe,French Republic
+FRO,2007,Protected Forests,0.4271567208192591,39.834500000000006,%,Estimated,Europe,Northern Europe,Faroe Islands
+FRO,2012,Protected Forests,0.45818990938823656,42.7285,%,Estimated,Europe,Northern Europe,Faroe Islands
+FRO,2017,Protected Forests,0.4803120476113881,44.7915,%,Estimated,Europe,Northern Europe,Faroe Islands
+FRO,2022,Protected Forests,0.4803120476113881,44.7915,%,Estimated,Europe,Northern Europe,Faroe Islands
+FSM,2007,Protected Forests,0.25837550471618353,24.094807692307693,%,Estimated,Oceania,Micronesia,Federated States of Micronesia
+FSM,2012,Protected Forests,0.25969116937429626,24.217499999999998,%,Estimated,Oceania,Micronesia,Federated States of Micronesia
+FSM,2017,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Federated States of Micronesia
+FSM,2022,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Federated States of Micronesia
+GAB,2007,Protected Forests,0.21567208192590206,20.112499999999997,%,Estimated,Africa,Middle Africa,Gabonese Republic
+GAB,2012,Protected Forests,0.27883223419655784,26.002499999999998,%,Estimated,Africa,Middle Africa,Gabonese Republic
+GAB,2017,Protected Forests,0.32180580129751757,30.009999999999998,%,Food and Agriculture Organization (FAO),Africa,Middle Africa,Gabonese Republic
+GAB,2022,Protected Forests,0.32180580129751757,30.009999999999998,%,Estimated,Africa,Middle Africa,Gabonese Republic
+GBR,2007,Protected Forests,0.28151305560023593,26.252499999999998,%,Estimated,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2012,Protected Forests,0.34472682429896523,32.1475,%,Estimated,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2017,Protected Forests,0.36721891587582434,34.245,%,Food and Agriculture Organization (FAO),Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2022,Protected Forests,0.36721891587582434,34.245,%,Estimated,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GEO,2007,Protected Forests,0.08693903812128036,8.1075,%,Estimated,Asia,Western Asia,Georgia
+GEO,2012,Protected Forests,0.08693903812128036,8.1075,%,Estimated,Asia,Western Asia,Georgia
+GEO,2017,Protected Forests,0.08693903812128036,8.1075,%,Estimated,Asia,Western Asia,Georgia
+GEO,2022,Protected Forests,0.08693903812128036,8.1075,%,Estimated,Asia,Western Asia,Georgia
+GHA,2007,Protected Forests,0.21435847943809985,19.990000000000002,%,Estimated,Africa,Western Africa,Republic of Ghana
+GHA,2012,Protected Forests,0.24478580236984615,22.8275,%,Estimated,Africa,Western Africa,Republic of Ghana
+GHA,2017,Protected Forests,0.2328025306954051,21.71,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Republic of Ghana
+GHA,2022,Protected Forests,0.2328025306954051,21.71,%,Estimated,Africa,Western Africa,Republic of Ghana
+GIB,2007,Protected Forests,0.33640734187621757,31.37166666666667,%,Estimated,Europe,Southern Europe,Gibraltar
+GIB,2012,Protected Forests,0.3370060586563723,31.4275,%,Estimated,Europe,Southern Europe,Gibraltar
+GIB,2017,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Gibraltar
+GIB,2022,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Gibraltar
+GIN,2007,Protected Forests,0.2725859203259879,25.419999999999998,%,Estimated,Africa,Western Africa,Republic of Guinea
+GIN,2012,Protected Forests,0.2725859203259879,25.419999999999998,%,Estimated,Africa,Western Africa,Republic of Guinea
+GIN,2017,Protected Forests,0.2725859203259879,25.419999999999998,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Republic of Guinea
+GIN,2022,Protected Forests,0.2725859203259879,25.419999999999998,%,Estimated,Africa,Western Africa,Republic of Guinea
+GMB,2007,Protected Forests,0.2302289421478741,21.47,%,Estimated,Africa,Western Africa,Republic of the Gambia
+GMB,2012,Protected Forests,0.2302289421478741,21.47,%,Estimated,Africa,Western Africa,Republic of the Gambia
+GMB,2017,Protected Forests,0.2302289421478741,21.47,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Republic of the Gambia
+GMB,2022,Protected Forests,0.2302289421478741,21.47,%,Estimated,Africa,Western Africa,Republic of the Gambia
+GNB,2007,Protected Forests,0.014369202723714548,1.34,%,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNB,2012,Protected Forests,0.014369202723714548,1.34,%,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNB,2017,Protected Forests,0.01383303844297893,1.29,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Republic of Guinea-Bissau
+GNB,2022,Protected Forests,0.01383303844297893,1.29,%,Estimated,Africa,Western Africa,Republic of Guinea-Bissau
+GNQ,2007,Protected Forests,0.15874752024020158,14.803999999999998,%,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GNQ,2012,Protected Forests,0.19599485282290494,18.2775,%,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GNQ,2017,Protected Forests,0.22336603935445823,20.830000000000002,%,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GNQ,2022,Protected Forests,0.22336603935445823,20.830000000000002,%,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
+GRC,2007,Protected Forests,0.33640734187621757,31.37166666666667,%,Estimated,Europe,Southern Europe,Hellenic Republic
+GRC,2012,Protected Forests,0.3370060586563723,31.4275,%,Estimated,Europe,Southern Europe,Hellenic Republic
+GRC,2017,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Hellenic Republic
+GRC,2022,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Hellenic Republic
+GRD,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Grenada
+GRD,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Grenada
+GRD,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Grenada
+GRD,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Grenada
+GRL,2007,Protected Forests,0.0,0.0,%,Estimated,America,Northern America,Greenland
+GRL,2012,Protected Forests,0.0,0.0,%,Estimated,America,Northern America,Greenland
+GRL,2017,Protected Forests,0.0,0.0,%,Food and Agriculture Organization (FAO),America,Northern America,Greenland
+GRL,2022,Protected Forests,0.0,0.0,%,Estimated,America,Northern America,Greenland
+GTM,2007,Protected Forests,0.30832126963701684,28.7525,%,Estimated,America,Central America,Republic of Guatemala
+GTM,2012,Protected Forests,0.28684789019355533,26.75,%,Estimated,America,Central America,Republic of Guatemala
+GTM,2017,Protected Forests,0.2849713152109807,26.575000000000003,%,Food and Agriculture Organization (FAO),America,Central America,Republic of Guatemala
+GTM,2022,Protected Forests,0.2849713152109807,26.575000000000003,%,Estimated,America,Central America,Republic of Guatemala
+GUM,2007,Protected Forests,0.25837550471618353,24.094807692307693,%,Estimated,Oceania,Micronesia,Guam
+GUM,2012,Protected Forests,0.25969116937429626,24.217499999999998,%,Estimated,Oceania,Micronesia,Guam
+GUM,2017,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Guam
+GUM,2022,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Guam
+GUY,2007,Protected Forests,0.48262827730416596,45.00749999999999,%,Estimated,America,South America,Co-operative Republic of Guyana
+GUY,2012,Protected Forests,0.48362018122352685,45.099999999999994,%,Estimated,America,South America,Co-operative Republic of Guyana
+GUY,2017,Protected Forests,0.4816899898128787,44.92,%,Food and Agriculture Organization (FAO),America,South America,Co-operative Republic of Guyana
+GUY,2022,Protected Forests,0.4816899898128787,44.92,%,Estimated,America,South America,Co-operative Republic of Guyana
+HKG,2007,Protected Forests,0.47888853144603505,44.65875,%,Estimated,Asia,Eastern Asia,Hong Kong SAR
+HKG,2012,Protected Forests,0.4945311243364967,46.1175,%,Estimated,Asia,Eastern Asia,Hong Kong SAR
+HKG,2017,Protected Forests,0.5004825478526621,46.6725,%,Estimated,Asia,Eastern Asia,Hong Kong SAR
+HKG,2022,Protected Forests,0.5004825478526621,46.6725,%,Estimated,Asia,Eastern Asia,Hong Kong SAR
+HND,2007,Protected Forests,0.23097957214090398,21.54,%,Estimated,America,Central America,Republic of Honduras
+HND,2012,Protected Forests,0.23097957214090398,21.54,%,Estimated,America,Central America,Republic of Honduras
+HND,2017,Protected Forests,0.23097957214090398,21.54,%,Food and Agriculture Organization (FAO),America,Central America,Republic of Honduras
+HND,2022,Protected Forests,0.23097957214090398,21.54,%,Estimated,America,Central America,Republic of Honduras
+HRV,2007,Protected Forests,0.4127124550962415,38.4875,%,Estimated,Europe,Southern Europe,Republic of Croatia
+HRV,2012,Protected Forests,0.4442925312315694,41.432500000000005,%,Estimated,Europe,Southern Europe,Republic of Croatia
+HRV,2017,Protected Forests,0.4976140689507265,46.405,%,Food and Agriculture Organization (FAO),Europe,Southern Europe,Republic of Croatia
+HRV,2022,Protected Forests,0.4976140689507265,46.405,%,Estimated,Europe,Southern Europe,Republic of Croatia
+HTI,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Republic of Haiti
+HTI,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Republic of Haiti
+HTI,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Republic of Haiti
+HTI,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Republic of Haiti
+HUN,2007,Protected Forests,0.6188140046110128,57.707499999999996,%,Estimated,Europe,Eastern Europe,Republic of Hungary
+HUN,2012,Protected Forests,0.6526727789394671,60.864999999999995,%,Estimated,Europe,Eastern Europe,Republic of Hungary
+HUN,2017,Protected Forests,0.6546565867781888,61.05,%,Food and Agriculture Organization (FAO),Europe,Eastern Europe,Republic of Hungary
+HUN,2022,Protected Forests,0.6546565867781888,61.05,%,Estimated,Europe,Eastern Europe,Republic of Hungary
+IDN,2007,Protected Forests,0.39252586992654553,36.605000000000004,%,Estimated,Asia,South-eastern Asia,Republic of Indonesia
+IDN,2012,Protected Forests,0.4166800707736851,38.8575,%,Estimated,Asia,South-eastern Asia,Republic of Indonesia
+IDN,2017,Protected Forests,0.4168677282719425,38.875,%,Food and Agriculture Organization (FAO),Asia,South-eastern Asia,Republic of Indonesia
+IDN,2022,Protected Forests,0.4168677282719425,38.875,%,Estimated,Asia,South-eastern Asia,Republic of Indonesia
+IMN,2007,Protected Forests,0.4271567208192591,39.834500000000006,%,Estimated,Europe,Northern Europe,Isle of Man
+IMN,2012,Protected Forests,0.45818990938823656,42.7285,%,Estimated,Europe,Northern Europe,Isle of Man
+IMN,2017,Protected Forests,0.4803120476113881,44.7915,%,Estimated,Europe,Northern Europe,Isle of Man
+IMN,2022,Protected Forests,0.4803120476113881,44.7915,%,Estimated,Europe,Northern Europe,Isle of Man
+IND,2007,Protected Forests,0.49691705538577025,46.34,%,Estimated,Asia,Southern Asia,Republic of India
+IND,2012,Protected Forests,0.50624631387057,47.21,%,Estimated,Asia,Southern Asia,Republic of India
+IND,2017,Protected Forests,0.5067824781513056,47.260000000000005,%,Food and Agriculture Organization (FAO),Asia,Southern Asia,Republic of India
+IND,2022,Protected Forests,0.5067824781513056,47.260000000000005,%,Estimated,Asia,Southern Asia,Republic of India
+IRL,2007,Protected Forests,0.47855342877057533,44.6275,%,Estimated,Europe,Northern Europe,Ireland
+IRL,2012,Protected Forests,0.47855342877057533,44.6275,%,Estimated,Europe,Northern Europe,Ireland
+IRL,2017,Protected Forests,0.4888209747466624,45.585,%,Food and Agriculture Organization (FAO),Europe,Northern Europe,Ireland
+IRL,2022,Protected Forests,0.4888209747466624,45.585,%,Estimated,Europe,Northern Europe,Ireland
+IRN,2007,Protected Forests,0.20856790520615517,19.45,%,Estimated,Asia,Southern Asia,Islamic Republic of Iran
+IRN,2012,Protected Forests,0.20856790520615517,19.45,%,Estimated,Asia,Southern Asia,Islamic Republic of Iran
+IRN,2017,Protected Forests,0.23114042142512467,21.555,%,Food and Agriculture Organization (FAO),Asia,Southern Asia,Islamic Republic of Iran
+IRN,2022,Protected Forests,0.23114042142512467,21.555,%,Estimated,Asia,Southern Asia,Islamic Republic of Iran
+IRQ,2007,Protected Forests,0.0,0.0,%,Estimated,Asia,Western Asia,Republic of Iraq
+IRQ,2012,Protected Forests,0.0,0.0,%,Estimated,Asia,Western Asia,Republic of Iraq
+IRQ,2017,Protected Forests,0.0,0.0,%,Food and Agriculture Organization (FAO),Asia,Western Asia,Republic of Iraq
+IRQ,2022,Protected Forests,0.0,0.0,%,Estimated,Asia,Western Asia,Republic of Iraq
+ISL,2007,Protected Forests,0.322610047718621,30.085,%,Estimated,Europe,Northern Europe,Republic of Iceland
+ISL,2012,Protected Forests,0.42252426143370325,39.402499999999996,%,Estimated,Europe,Northern Europe,Republic of Iceland
+ISL,2017,Protected Forests,0.4534877486461852,42.29,%,Food and Agriculture Organization (FAO),Europe,Northern Europe,Republic of Iceland
+ISL,2022,Protected Forests,0.4534877486461852,42.29,%,Estimated,Europe,Northern Europe,Republic of Iceland
+ISR,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,State of Israel
+ISR,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,State of Israel
+ISR,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,State of Israel
+ISR,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,State of Israel
+ITA,2007,Protected Forests,0.33640734187621757,31.37166666666667,%,Estimated,Europe,Southern Europe,Italian Republic
+ITA,2012,Protected Forests,0.3370060586563723,31.4275,%,Estimated,Europe,Southern Europe,Italian Republic
+ITA,2017,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Italian Republic
+ITA,2022,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Italian Republic
+JAM,2007,Protected Forests,0.21588654763819637,20.1325,%,Estimated,America,Caribbean,Jamaica
+JAM,2012,Protected Forests,0.22181116294032496,20.685000000000002,%,Estimated,America,Caribbean,Jamaica
+JAM,2017,Protected Forests,0.22320519007023754,20.815,%,Food and Agriculture Organization (FAO),America,Caribbean,Jamaica
+JAM,2022,Protected Forests,0.22320519007023754,20.815,%,Estimated,America,Caribbean,Jamaica
+JOR,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JOR,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JOR,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JOR,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Hashemite Kingdom of Jordan
+JPN,2007,Protected Forests,0.6317355637767412,58.9125,%,Estimated,Asia,Eastern Asia,Japan
+JPN,2012,Protected Forests,0.6317355637767412,58.9125,%,Estimated,Asia,Eastern Asia,Japan
+JPN,2017,Protected Forests,0.6333708648329849,59.065,%,Food and Agriculture Organization (FAO),Asia,Eastern Asia,Japan
+JPN,2022,Protected Forests,0.6333708648329849,59.065,%,Estimated,Asia,Eastern Asia,Japan
+KAZ,2007,Protected Forests,0.5930245027076296,55.302499999999995,%,Estimated,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2012,Protected Forests,0.6817864993834111,63.58,%,Estimated,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2017,Protected Forests,0.7111146855396494,66.315,%,Food and Agriculture Organization (FAO),Asia,Central Asia,Republic of Kazakhstan
+KAZ,2022,Protected Forests,0.7111146855396494,66.315,%,Estimated,Asia,Central Asia,Republic of Kazakhstan
+KEN,2007,Protected Forests,0.19813950994584742,18.4775,%,Estimated,Africa,Eastern Africa,Republic of Kenya
+KEN,2012,Protected Forests,0.19974800278805424,18.627499999999998,%,Estimated,Africa,Eastern Africa,Republic of Kenya
+KEN,2017,Protected Forests,0.20240201597769558,18.875,%,Food and Agriculture Organization (FAO),Africa,Eastern Africa,Republic of Kenya
+KEN,2022,Protected Forests,0.20240201597769558,18.875,%,Estimated,Africa,Eastern Africa,Republic of Kenya
+KGZ,2007,Protected Forests,0.3976998552356442,37.0875,%,Estimated,Asia,Central Asia,Kyrgyz Republic
+KGZ,2012,Protected Forests,0.4278322878129859,39.897499999999994,%,Estimated,Asia,Central Asia,Kyrgyz Republic
+KGZ,2017,Protected Forests,0.4774006755669937,44.519999999999996,%,Food and Agriculture Organization (FAO),Asia,Central Asia,Kyrgyz Republic
+KGZ,2022,Protected Forests,0.4774006755669937,44.519999999999996,%,Estimated,Asia,Central Asia,Kyrgyz Republic
+KHM,2007,Protected Forests,0.3541686772827195,33.028000000000006,%,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
+KHM,2012,Protected Forests,0.3833252908691223,35.747,%,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
+KHM,2017,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
+KHM,2022,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
+KIR,2007,Protected Forests,0.25837550471618353,24.094807692307693,%,Estimated,Oceania,Micronesia,Republic of Kiribati
+KIR,2012,Protected Forests,0.25969116937429626,24.217499999999998,%,Estimated,Oceania,Micronesia,Republic of Kiribati
+KIR,2017,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Republic of Kiribati
+KIR,2022,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Republic of Kiribati
+KNA,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Saint Kitts and Nevis
+KNA,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Saint Kitts and Nevis
+KNA,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Saint Kitts and Nevis
+KNA,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Saint Kitts and Nevis
+KOR,2007,Protected Forests,0.32427215698890144,30.240000000000002,%,Estimated,Asia,Eastern Asia,Republic of Korea
+KOR,2012,Protected Forests,0.30928636534234094,28.8425,%,Estimated,Asia,Eastern Asia,Republic of Korea
+KOR,2017,Protected Forests,0.27655353600343147,25.79,%,Food and Agriculture Organization (FAO),Asia,Eastern Asia,Republic of Korea
+KOR,2022,Protected Forests,0.27655353600343147,25.79,%,Estimated,Asia,Eastern Asia,Republic of Korea
+KWT,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,State of Kuwait
+KWT,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,State of Kuwait
+KWT,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,State of Kuwait
+KWT,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,State of Kuwait
+LAO,2007,Protected Forests,0.3541686772827195,33.028000000000006,%,Estimated,Asia,South-eastern Asia,Lao People's Democratic Republic
+LAO,2012,Protected Forests,0.3833252908691223,35.747,%,Estimated,Asia,South-eastern Asia,Lao People's Democratic Republic
+LAO,2017,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,Lao People's Democratic Republic
+LAO,2022,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,Lao People's Democratic Republic
+LBN,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,Lebanese Republic
+LBN,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,Lebanese Republic
+LBN,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Lebanese Republic
+LBN,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Lebanese Republic
+LBR,2007,Protected Forests,0.26442178806663286,24.658653846153847,%,Estimated,Africa,Western Africa,Republic of Liberia
+LBR,2012,Protected Forests,0.26590036417927687,24.796538461538464,%,Estimated,Africa,Western Africa,Republic of Liberia
+LBR,2017,Protected Forests,0.2699793370534886,25.176923076923078,%,Estimated,Africa,Western Africa,Republic of Liberia
+LBR,2022,Protected Forests,0.2699793370534886,25.176923076923078,%,Estimated,Africa,Western Africa,Republic of Liberia
+LBY,2007,Protected Forests,0.22715940164066276,21.183750000000003,%,Estimated,Africa,Northern Africa,State of Libya
+LBY,2012,Protected Forests,0.26411452469036517,24.630000000000003,%,Estimated,Africa,Northern Africa,State of Libya
+LBY,2017,Protected Forests,0.28141922685110715,26.24375,%,Estimated,Africa,Northern Africa,State of Libya
+LBY,2022,Protected Forests,0.28141922685110715,26.24375,%,Estimated,Africa,Northern Africa,State of Libya
+LCA,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Saint Lucia
+LCA,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Saint Lucia
+LCA,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Saint Lucia
+LCA,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Saint Lucia
+LIE,2007,Protected Forests,0.4722481368291244,44.0395,%,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LIE,2012,Protected Forests,0.4979089593051312,46.432500000000005,%,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LIE,2017,Protected Forests,0.5128518578092328,47.826,%,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LIE,2022,Protected Forests,0.5128518578092328,47.826,%,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LKA,2007,Protected Forests,0.352415420084714,32.8645,%,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LKA,2012,Protected Forests,0.35682269047236076,33.2755,%,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LKA,2017,Protected Forests,0.3659321216020589,34.125,%,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LKA,2022,Protected Forests,0.3659321216020589,34.125,%,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
+LSO,2007,Protected Forests,0.1552731757010348,14.48,%,Estimated,Africa,Southern Africa,Kingdom of Lesotho
+LSO,2012,Protected Forests,0.1552731757010348,14.48,%,Estimated,Africa,Southern Africa,Kingdom of Lesotho
+LSO,2017,Protected Forests,0.1552731757010348,14.48,%,Food and Agriculture Organization (FAO),Africa,Southern Africa,Kingdom of Lesotho
+LSO,2022,Protected Forests,0.1552731757010348,14.48,%,Estimated,Africa,Southern Africa,Kingdom of Lesotho
+LTU,2007,Protected Forests,0.6176612514074313,57.6,%,Estimated,Europe,Northern Europe,Republic of Lithuania
+LTU,2012,Protected Forests,0.6461047665004558,60.2525,%,Estimated,Europe,Northern Europe,Republic of Lithuania
+LTU,2017,Protected Forests,0.7023752077636588,65.5,%,Food and Agriculture Organization (FAO),Europe,Northern Europe,Republic of Lithuania
+LTU,2022,Protected Forests,0.7023752077636588,65.5,%,Estimated,Europe,Northern Europe,Republic of Lithuania
+LUX,2007,Protected Forests,0.4722481368291244,44.0395,%,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2012,Protected Forests,0.4979089593051312,46.432500000000005,%,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2017,Protected Forests,0.5128518578092328,47.826,%,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2022,Protected Forests,0.5128518578092328,47.826,%,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LVA,2007,Protected Forests,0.6091630475577717,56.807500000000005,%,Estimated,Europe,Northern Europe,Republic of Latvia
+LVA,2012,Protected Forests,0.6198327167444105,57.8025,%,Estimated,Europe,Northern Europe,Republic of Latvia
+LVA,2017,Protected Forests,0.6246850034850678,58.255,%,Food and Agriculture Organization (FAO),Europe,Northern Europe,Republic of Latvia
+LVA,2022,Protected Forests,0.6246850034850678,58.255,%,Estimated,Europe,Northern Europe,Republic of Latvia
+MAC,2007,Protected Forests,0.47888853144603505,44.65875,%,Estimated,Asia,Eastern Asia,Macau SAR
+MAC,2012,Protected Forests,0.4945311243364967,46.1175,%,Estimated,Asia,Eastern Asia,Macau SAR
+MAC,2017,Protected Forests,0.5004825478526621,46.6725,%,Estimated,Asia,Eastern Asia,Macau SAR
+MAC,2022,Protected Forests,0.5004825478526621,46.6725,%,Estimated,Asia,Eastern Asia,Macau SAR
+MAF,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Saint-Martin (French part)
+MAF,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Saint-Martin (French part)
+MAF,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Saint-Martin (French part)
+MAF,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Saint-Martin (French part)
+MAR,2007,Protected Forests,0.19537826390005897,18.22,%,Estimated,Africa,Northern Africa,Kingdom of Morocco
+MAR,2012,Protected Forests,0.2804139188247279,26.15,%,Estimated,Africa,Northern Africa,Kingdom of Morocco
+MAR,2017,Protected Forests,0.32673851268028525,30.47,%,Food and Agriculture Organization (FAO),Africa,Northern Africa,Kingdom of Morocco
+MAR,2022,Protected Forests,0.32673851268028525,30.47,%,Estimated,Africa,Northern Africa,Kingdom of Morocco
+MCO,2007,Protected Forests,0.4722481368291244,44.0395,%,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2012,Protected Forests,0.4979089593051312,46.432500000000005,%,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2017,Protected Forests,0.5128518578092328,47.826,%,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2022,Protected Forests,0.5128518578092328,47.826,%,Estimated,Europe,Western Europe,Principality of Monaco
+MDA,2007,Protected Forests,0.4943970832663129,46.105000000000004,%,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDA,2012,Protected Forests,0.5220631601522707,48.685,%,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDA,2017,Protected Forests,0.5363251300198381,50.015,%,Food and Agriculture Organization (FAO),Europe,Eastern Europe,Republic of Moldova
+MDA,2022,Protected Forests,0.5363251300198381,50.015,%,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDG,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,Republic of Madagascar
+MDG,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,Republic of Madagascar
+MDG,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Madagascar
+MDG,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Madagascar
+MDV,2007,Protected Forests,0.352415420084714,32.8645,%,Estimated,Asia,Southern Asia,Republic of Maldives
+MDV,2012,Protected Forests,0.35682269047236076,33.2755,%,Estimated,Asia,Southern Asia,Republic of Maldives
+MDV,2017,Protected Forests,0.3659321216020589,34.125,%,Estimated,Asia,Southern Asia,Republic of Maldives
+MDV,2022,Protected Forests,0.3659321216020589,34.125,%,Estimated,Asia,Southern Asia,Republic of Maldives
+MEX,2007,Protected Forests,0.0784676424856576,7.3175,%,Estimated,America,Central America,United Mexican States
+MEX,2012,Protected Forests,0.10825156828052114,10.094999999999999,%,Estimated,America,Central America,United Mexican States
+MEX,2017,Protected Forests,0.10508819902418103,9.8,%,Food and Agriculture Organization (FAO),America,Central America,United Mexican States
+MEX,2022,Protected Forests,0.10508819902418103,9.8,%,Estimated,America,Central America,United Mexican States
+MHL,2007,Protected Forests,0.25837550471618353,24.094807692307693,%,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
+MHL,2012,Protected Forests,0.25969116937429626,24.217499999999998,%,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
+MHL,2017,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
+MHL,2022,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
+MKD,2007,Protected Forests,0.33640734187621757,31.37166666666667,%,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MKD,2012,Protected Forests,0.3370060586563723,31.4275,%,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MKD,2017,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MKD,2022,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MLI,2007,Protected Forests,0.26442178806663286,24.658653846153847,%,Estimated,Africa,Western Africa,Republic of Mali
+MLI,2012,Protected Forests,0.26590036417927687,24.796538461538464,%,Estimated,Africa,Western Africa,Republic of Mali
+MLI,2017,Protected Forests,0.2699793370534886,25.176923076923078,%,Estimated,Africa,Western Africa,Republic of Mali
+MLI,2022,Protected Forests,0.2699793370534886,25.176923076923078,%,Estimated,Africa,Western Africa,Republic of Mali
+MLT,2007,Protected Forests,0.12256715457616214,11.43,%,Estimated,Europe,Southern Europe,Republic of Malta
+MLT,2012,Protected Forests,0.12256715457616214,11.43,%,Estimated,Europe,Southern Europe,Republic of Malta
+MLT,2017,Protected Forests,0.12256715457616214,11.43,%,Food and Agriculture Organization (FAO),Europe,Southern Europe,Republic of Malta
+MLT,2022,Protected Forests,0.12256715457616214,11.43,%,Estimated,Europe,Southern Europe,Republic of Malta
+MMR,2007,Protected Forests,0.5232159133558523,48.792500000000004,%,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MMR,2012,Protected Forests,0.586483298482655,54.692499999999995,%,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MMR,2017,Protected Forests,0.5923542973567101,55.239999999999995,%,Food and Agriculture Organization (FAO),Asia,South-eastern Asia,Republic of the Union of Myanmar
+MMR,2022,Protected Forests,0.5923542973567101,55.239999999999995,%,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
+MNE,2007,Protected Forests,0.25146104766500454,23.45,%,Estimated,Europe,Southern Europe,Montenegro
+MNE,2012,Protected Forests,0.25146104766500454,23.45,%,Estimated,Europe,Southern Europe,Montenegro
+MNE,2017,Protected Forests,0.25146104766500454,23.45,%,Food and Agriculture Organization (FAO),Europe,Southern Europe,Montenegro
+MNE,2022,Protected Forests,0.25146104766500454,23.45,%,Estimated,Europe,Southern Europe,Montenegro
+MNG,2007,Protected Forests,0.6259449895447966,58.3725,%,Estimated,Asia,Eastern Asia,Mongolia
+MNG,2012,Protected Forests,0.6379014530052008,59.4875,%,Estimated,Asia,Eastern Asia,Mongolia
+MNG,2017,Protected Forests,0.6485979304058764,60.485,%,Food and Agriculture Organization (FAO),Asia,Eastern Asia,Mongolia
+MNG,2022,Protected Forests,0.6485979304058764,60.485,%,Estimated,Asia,Eastern Asia,Mongolia
+MNP,2007,Protected Forests,0.25837550471618353,24.094807692307693,%,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MNP,2012,Protected Forests,0.25969116937429626,24.217499999999998,%,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MNP,2017,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MNP,2022,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Northern Mariana Islands
+MOZ,2007,Protected Forests,0.2707629617714868,25.25,%,Estimated,Africa,Eastern Africa,Republic of Mozambique
+MOZ,2012,Protected Forests,0.3556913838400086,33.17,%,Estimated,Africa,Eastern Africa,Republic of Mozambique
+MOZ,2017,Protected Forests,0.46892927993137096,43.73,%,Food and Agriculture Organization (FAO),Africa,Eastern Africa,Republic of Mozambique
+MOZ,2022,Protected Forests,0.46892927993137096,43.73,%,Estimated,Africa,Eastern Africa,Republic of Mozambique
+MRT,2007,Protected Forests,0.0807195324647472,7.5275,%,Estimated,Africa,Western Africa,Islamic Republic of Mauritania
+MRT,2012,Protected Forests,0.0807195324647472,7.5275,%,Estimated,Africa,Western Africa,Islamic Republic of Mauritania
+MRT,2017,Protected Forests,0.07881614926813575,7.35,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Islamic Republic of Mauritania
+MRT,2022,Protected Forests,0.07881614926813575,7.35,%,Estimated,Africa,Western Africa,Islamic Republic of Mauritania
+MUS,2007,Protected Forests,0.31807945954640504,29.6625,%,Estimated,Africa,Eastern Africa,Republic of Mauritius
+MUS,2012,Protected Forests,0.32309259557128306,30.130000000000003,%,Estimated,Africa,Eastern Africa,Republic of Mauritius
+MUS,2017,Protected Forests,0.3233606777116509,30.155,%,Food and Agriculture Organization (FAO),Africa,Eastern Africa,Republic of Mauritius
+MUS,2022,Protected Forests,0.3233606777116509,30.155,%,Estimated,Africa,Eastern Africa,Republic of Mauritius
+MWI,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,Republic of Malawi
+MWI,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,Republic of Malawi
+MWI,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Malawi
+MWI,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Malawi
+MYS,2007,Protected Forests,0.30309366789984454,28.265,%,Estimated,Asia,South-eastern Asia,Malaysia
+MYS,2012,Protected Forests,0.34134898933033087,31.832500000000003,%,Estimated,Asia,South-eastern Asia,Malaysia
+MYS,2017,Protected Forests,0.3776741193501689,35.22,%,Food and Agriculture Organization (FAO),Asia,South-eastern Asia,Malaysia
+MYS,2022,Protected Forests,0.3776741193501689,35.22,%,Estimated,Asia,South-eastern Asia,Malaysia
+NAM,2007,Protected Forests,0.14200310975282826,13.2425,%,Estimated,Africa,Southern Africa,Republic of Namibia
+NAM,2012,Protected Forests,0.14538094472146265,13.5575,%,Estimated,Africa,Southern Africa,Republic of Namibia
+NAM,2017,Protected Forests,0.14653369792504423,13.665,%,Food and Agriculture Organization (FAO),Africa,Southern Africa,Republic of Namibia
+NAM,2022,Protected Forests,0.14653369792504423,13.665,%,Estimated,Africa,Southern Africa,Republic of Namibia
+NCL,2007,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,New Caledonia
+NCL,2012,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,New Caledonia
+NCL,2017,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,New Caledonia
+NCL,2022,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,New Caledonia
+NER,2007,Protected Forests,0.20663771379550694,19.27,%,Estimated,Africa,Western Africa,Republic of Niger
+NER,2012,Protected Forests,0.20663771379550694,19.27,%,Estimated,Africa,Western Africa,Republic of Niger
+NER,2017,Protected Forests,0.20663771379550694,19.27,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Republic of Niger
+NER,2022,Protected Forests,0.20663771379550694,19.27,%,Estimated,Africa,Western Africa,Republic of Niger
+NGA,2007,Protected Forests,0.24312369309956572,22.6725,%,Estimated,Africa,Western Africa,Federal Republic of Nigeria
+NGA,2012,Protected Forests,0.19540507211409577,18.2225,%,Estimated,Africa,Western Africa,Federal Republic of Nigeria
+NGA,2017,Protected Forests,0.15752506568012442,14.690000000000001,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Federal Republic of Nigeria
+NGA,2022,Protected Forests,0.15752506568012442,14.690000000000001,%,Estimated,Africa,Western Africa,Federal Republic of Nigeria
+NIC,2007,Protected Forests,0.26087073079191464,24.3275,%,Estimated,America,Central America,Republic of Nicaragua
+NIC,2012,Protected Forests,0.2202562865261916,20.54,%,Estimated,America,Central America,Republic of Nicaragua
+NIC,2017,Protected Forests,0.2022411666934749,18.86,%,Food and Agriculture Organization (FAO),America,Central America,Republic of Nicaragua
+NIC,2022,Protected Forests,0.2022411666934749,18.86,%,Estimated,America,Central America,Republic of Nicaragua
+NLD,2007,Protected Forests,0.6445230818722857,60.105,%,Estimated,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2012,Protected Forests,0.7442228298750738,69.4025,%,Estimated,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2017,Protected Forests,0.7401211731274463,69.02,%,Food and Agriculture Organization (FAO),Europe,Western Europe,Kingdom of the Netherlands
+NLD,2022,Protected Forests,0.7401211731274463,69.02,%,Estimated,Europe,Western Europe,Kingdom of the Netherlands
+NOR,2007,Protected Forests,0.19797866066162673,18.4625,%,Estimated,Europe,Northern Europe,Kingdom of Norway
+NOR,2012,Protected Forests,0.22593962790198918,21.07,%,Estimated,Europe,Northern Europe,Kingdom of Norway
+NOR,2017,Protected Forests,0.29676692938716426,27.675,%,Food and Agriculture Organization (FAO),Europe,Northern Europe,Kingdom of Norway
+NOR,2022,Protected Forests,0.29676692938716426,27.675,%,Estimated,Europe,Northern Europe,Kingdom of Norway
+NPL,2007,Protected Forests,0.5365664039461692,50.0375,%,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NPL,2012,Protected Forests,0.5361642807356174,50.0,%,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NPL,2017,Protected Forests,0.5361642807356174,50.0,%,Food and Agriculture Organization (FAO),Asia,Southern Asia,Federal Democratic Republic of Nepal
+NPL,2022,Protected Forests,0.5361642807356174,50.0,%,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
+NRU,2007,Protected Forests,0.16009865422765535,14.93,%,Estimated,Oceania,Polynesia,Republic of Nauru
+NRU,2012,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Republic of Nauru
+NRU,2017,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Republic of Nauru
+NRU,2022,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Republic of Nauru
+NZL,2007,Protected Forests,0.5858399013457724,54.6325,%,Estimated,Oceania,Australia and New Zealand,New Zealand
+NZL,2012,Protected Forests,0.5990831590799421,55.8675,%,Estimated,Oceania,Australia and New Zealand,New Zealand
+NZL,2017,Protected Forests,0.5950351187603883,55.49,%,Food and Agriculture Organization (FAO),Oceania,Australia and New Zealand,New Zealand
+NZL,2022,Protected Forests,0.5950351187603883,55.49,%,Estimated,Oceania,Australia and New Zealand,New Zealand
+OMN,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,Sultanate of Oman
+OMN,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,Sultanate of Oman
+OMN,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Sultanate of Oman
+OMN,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Sultanate of Oman
+PAK,2007,Protected Forests,0.352415420084714,32.8645,%,Estimated,Asia,Southern Asia,Islamic Republic of Pakistan
+PAK,2012,Protected Forests,0.35682269047236076,33.2755,%,Estimated,Asia,Southern Asia,Islamic Republic of Pakistan
+PAK,2017,Protected Forests,0.3659321216020589,34.125,%,Estimated,Asia,Southern Asia,Islamic Republic of Pakistan
+PAK,2022,Protected Forests,0.3659321216020589,34.125,%,Estimated,Asia,Southern Asia,Islamic Republic of Pakistan
+PAN,2007,Protected Forests,0.22047522027415867,20.560416666666665,%,Estimated,America,Central America,Republic of Panama
+PAN,2012,Protected Forests,0.2150912372884385,20.058333333333334,%,Estimated,America,Central America,Republic of Panama
+PAN,2017,Protected Forests,0.21124872660983326,19.7,%,Estimated,America,Central America,Republic of Panama
+PAN,2022,Protected Forests,0.21124872660983326,19.7,%,Estimated,America,Central America,Republic of Panama
+PER,2007,Protected Forests,0.18956088145407757,17.677500000000002,%,Estimated,America,South America,Republic of Peru
+PER,2012,Protected Forests,0.18956088145407757,17.677500000000002,%,Estimated,America,South America,Republic of Peru
+PER,2017,Protected Forests,0.19709398959841296,18.38,%,Food and Agriculture Organization (FAO),America,South America,Republic of Peru
+PER,2022,Protected Forests,0.19709398959841296,18.38,%,Estimated,America,South America,Republic of Peru
+PHL,2007,Protected Forests,0.24371347380837488,22.7275,%,Estimated,Asia,South-eastern Asia,Republic of the Philippines
+PHL,2012,Protected Forests,0.24197093989598412,22.564999999999998,%,Estimated,Asia,South-eastern Asia,Republic of the Philippines
+PHL,2017,Protected Forests,0.2480295962682966,23.13,%,Food and Agriculture Organization (FAO),Asia,South-eastern Asia,Republic of the Philippines
+PHL,2022,Protected Forests,0.2480295962682966,23.13,%,Estimated,Asia,South-eastern Asia,Republic of the Philippines
+PLW,2007,Protected Forests,0.25837550471618353,24.094807692307693,%,Estimated,Oceania,Micronesia,Republic of Palau
+PLW,2012,Protected Forests,0.25969116937429626,24.217499999999998,%,Estimated,Oceania,Micronesia,Republic of Palau
+PLW,2017,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Republic of Palau
+PLW,2022,Protected Forests,0.26197192973773314,24.430192307692305,%,Estimated,Oceania,Micronesia,Republic of Palau
+PNG,2007,Protected Forests,0.09522277625864566,8.88,%,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
+PNG,2012,Protected Forests,0.09522277625864566,8.88,%,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
+PNG,2017,Protected Forests,0.09522277625864566,8.88,%,Food and Agriculture Organization (FAO),Oceania,Melanesia,Independent State of Papua New Guinea
+PNG,2022,Protected Forests,0.09522277625864566,8.88,%,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
+POL,2007,Protected Forests,0.5029757117580828,46.905,%,Estimated,Europe,Eastern Europe,Republic of Poland
+POL,2012,Protected Forests,0.5960806391078227,55.587500000000006,%,Estimated,Europe,Eastern Europe,Republic of Poland
+POL,2017,Protected Forests,0.6918127714331672,64.515,%,Food and Agriculture Organization (FAO),Europe,Eastern Europe,Republic of Poland
+POL,2022,Protected Forests,0.6918127714331672,64.515,%,Estimated,Europe,Eastern Europe,Republic of Poland
+PRI,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Puerto Rico
+PRI,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Puerto Rico
+PRI,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Puerto Rico
+PRI,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Puerto Rico
+PRK,2007,Protected Forests,0.47888853144603505,44.65875,%,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRK,2012,Protected Forests,0.4945311243364967,46.1175,%,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRK,2017,Protected Forests,0.5004825478526621,46.6725,%,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRK,2022,Protected Forests,0.5004825478526621,46.6725,%,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
+PRT,2007,Protected Forests,0.22811109323896844,21.2725,%,Estimated,Europe,Southern Europe,Portuguese Republic
+PRT,2012,Protected Forests,0.22811109323896844,21.2725,%,Estimated,Europe,Southern Europe,Portuguese Republic
+PRT,2017,Protected Forests,0.22811109323896844,21.2725,%,Estimated,Europe,Southern Europe,Portuguese Republic
+PRT,2022,Protected Forests,0.22811109323896844,21.2725,%,Estimated,Europe,Southern Europe,Portuguese Republic
+PRY,2007,Protected Forests,0.2901345772344647,27.0565,%,Estimated,America,South America,Republic of Paraguay
+PRY,2012,Protected Forests,0.30576912766071523,28.514499999999998,%,Estimated,America,South America,Republic of Paraguay
+PRY,2017,Protected Forests,0.3149268135756796,29.3685,%,Estimated,America,South America,Republic of Paraguay
+PRY,2022,Protected Forests,0.3149268135756796,29.3685,%,Estimated,America,South America,Republic of Paraguay
+PSE,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,State of Palestine
+PSE,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,State of Palestine
+PSE,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,State of Palestine
+PSE,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,State of Palestine
+PYF,2007,Protected Forests,0.16009865422765535,14.93,%,Estimated,Oceania,Polynesia,French Polynesia
+PYF,2012,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,French Polynesia
+PYF,2017,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,French Polynesia
+PYF,2022,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,French Polynesia
+QAT,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,State of Qatar
+QAT,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,State of Qatar
+QAT,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,State of Qatar
+QAT,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,State of Qatar
+ROU,2007,Protected Forests,0.5258431183314567,49.037499999999994,%,Estimated,Europe,Eastern Europe,Romania
+ROU,2012,Protected Forests,0.6057315961610638,56.4875,%,Estimated,Europe,Eastern Europe,Romania
+ROU,2017,Protected Forests,0.6365878505173985,59.364999999999995,%,Food and Agriculture Organization (FAO),Europe,Eastern Europe,Romania
+ROU,2022,Protected Forests,0.6365878505173985,59.364999999999995,%,Estimated,Europe,Eastern Europe,Romania
+RUS,2007,Protected Forests,0.5454399227923435,50.864999999999995,%,Estimated,Europe,Eastern Europe,Russian Federation
+RUS,2012,Protected Forests,0.5478794702696906,51.0925,%,Estimated,Europe,Eastern Europe,Russian Federation
+RUS,2017,Protected Forests,0.5483888263363895,51.14,%,Food and Agriculture Organization (FAO),Europe,Eastern Europe,Russian Federation
+RUS,2022,Protected Forests,0.5483888263363895,51.14,%,Estimated,Europe,Eastern Europe,Russian Federation
+RWA,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,Republic of Rwanda
+RWA,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,Republic of Rwanda
+RWA,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Rwanda
+RWA,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Rwanda
+SAU,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,Kingdom of Saudi Arabia
+SAU,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,Kingdom of Saudi Arabia
+SAU,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Kingdom of Saudi Arabia
+SAU,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Kingdom of Saudi Arabia
+SDN,2007,Protected Forests,0.22655621682483515,21.1275,%,Estimated,Africa,Northern Africa,Republic of the Sudan
+SDN,2012,Protected Forests,0.26907404428716963,25.0925,%,Estimated,Africa,Northern Africa,Republic of the Sudan
+SDN,2017,Protected Forests,0.26958340035386846,25.14,%,Food and Agriculture Organization (FAO),Africa,Northern Africa,Republic of the Sudan
+SDN,2022,Protected Forests,0.26958340035386846,25.14,%,Estimated,Africa,Northern Africa,Republic of the Sudan
+SEN,2007,Protected Forests,0.6148731971476061,57.34,%,Estimated,Africa,Western Africa,Republic of Senegal
+SEN,2012,Protected Forests,0.7045198648866013,65.7,%,Estimated,Africa,Western Africa,Republic of Senegal
+SEN,2017,Protected Forests,0.8254785266205567,76.98,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Republic of Senegal
+SEN,2022,Protected Forests,0.8254785266205567,76.98,%,Estimated,Africa,Western Africa,Republic of Senegal
+SGP,2007,Protected Forests,0.3541686772827195,33.028000000000006,%,Estimated,Asia,South-eastern Asia,Republic of Singapore
+SGP,2012,Protected Forests,0.3833252908691223,35.747,%,Estimated,Asia,South-eastern Asia,Republic of Singapore
+SGP,2017,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,Republic of Singapore
+SGP,2022,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,Republic of Singapore
+SLB,2007,Protected Forests,0.5347166371776312,49.864999999999995,%,Estimated,Oceania,Melanesia,Solomon Islands
+SLB,2012,Protected Forests,0.5347166371776312,49.864999999999995,%,Estimated,Oceania,Melanesia,Solomon Islands
+SLB,2017,Protected Forests,0.5347166371776312,49.864999999999995,%,Food and Agriculture Organization (FAO),Oceania,Melanesia,Solomon Islands
+SLB,2022,Protected Forests,0.5347166371776312,49.864999999999995,%,Estimated,Oceania,Melanesia,Solomon Islands
+SLE,2007,Protected Forests,0.06385716583561203,5.955,%,Estimated,Africa,Western Africa,Republic of Sierra Leone
+SLE,2012,Protected Forests,0.06385716583561203,5.955,%,Estimated,Africa,Western Africa,Republic of Sierra Leone
+SLE,2017,Protected Forests,0.06385716583561203,5.955,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Republic of Sierra Leone
+SLE,2022,Protected Forests,0.06385716583561203,5.955,%,Estimated,Africa,Western Africa,Republic of Sierra Leone
+SLV,2007,Protected Forests,0.015280682000965095,1.4249999999999998,%,Estimated,America,Central America,Republic of El Salvador
+SLV,2012,Protected Forests,0.015280682000965095,1.4249999999999998,%,Estimated,America,Central America,Republic of El Salvador
+SLV,2017,Protected Forests,0.015280682000965095,1.4249999999999998,%,Food and Agriculture Organization (FAO),America,Central America,Republic of El Salvador
+SLV,2022,Protected Forests,0.015280682000965095,1.4249999999999998,%,Estimated,America,Central America,Republic of El Salvador
+SMR,2007,Protected Forests,0.33640734187621757,31.37166666666667,%,Estimated,Europe,Southern Europe,Republic of San Marino
+SMR,2012,Protected Forests,0.3370060586563723,31.4275,%,Estimated,Europe,Southern Europe,Republic of San Marino
+SMR,2017,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Republic of San Marino
+SMR,2022,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Republic of San Marino
+SOM,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
+SOM,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
+SOM,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
+SOM,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
+SRB,2007,Protected Forests,0.3916680070773686,36.525000000000006,%,Estimated,Europe,Southern Europe,Republic of Serbia
+SRB,2012,Protected Forests,0.33456651117902525,31.2,%,Estimated,Europe,Southern Europe,Republic of Serbia
+SRB,2017,Protected Forests,0.3244330062731221,30.255000000000003,%,Food and Agriculture Organization (FAO),Europe,Southern Europe,Republic of Serbia
+SRB,2022,Protected Forests,0.3244330062731221,30.255000000000003,%,Estimated,Europe,Southern Europe,Republic of Serbia
+SSD,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,Republic of South Sudan
+SSD,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,Republic of South Sudan
+SSD,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of South Sudan
+SSD,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of South Sudan
+STP,2007,Protected Forests,0.15874752024020158,14.803999999999998,%,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+STP,2012,Protected Forests,0.19599485282290494,18.2775,%,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+STP,2017,Protected Forests,0.22336603935445823,20.830000000000002,%,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+STP,2022,Protected Forests,0.22336603935445823,20.830000000000002,%,Estimated,Africa,Middle Africa,Democratic Republic of São Tomé and Príncipe
+SUR,2007,Protected Forests,0.2125891373116723,19.825,%,Estimated,America,South America,Republic of Suriname
+SUR,2012,Protected Forests,0.22213286150876632,20.715000000000003,%,Estimated,America,South America,Republic of Suriname
+SUR,2017,Protected Forests,0.20497560452522656,19.115000000000002,%,Food and Agriculture Organization (FAO),America,South America,Republic of Suriname
+SUR,2022,Protected Forests,0.20497560452522656,19.115000000000002,%,Estimated,America,South America,Republic of Suriname
+SVK,2007,Protected Forests,0.6160527585652245,57.45,%,Estimated,Europe,Eastern Europe,Slovak Republic
+SVK,2012,Protected Forests,0.6878183475416868,64.1425,%,Estimated,Europe,Eastern Europe,Slovak Republic
+SVK,2017,Protected Forests,0.6957267706825371,64.88,%,Food and Agriculture Organization (FAO),Europe,Eastern Europe,Slovak Republic
+SVK,2022,Protected Forests,0.6957267706825371,64.88,%,Estimated,Europe,Eastern Europe,Slovak Republic
+SVN,2007,Protected Forests,0.6119242936035602,57.065,%,Estimated,Europe,Southern Europe,Republic of Slovenia
+SVN,2012,Protected Forests,0.6410380140475042,59.78,%,Estimated,Europe,Southern Europe,Republic of Slovenia
+SVN,2017,Protected Forests,0.6394295212052974,59.63,%,Food and Agriculture Organization (FAO),Europe,Southern Europe,Republic of Slovenia
+SVN,2022,Protected Forests,0.6394295212052974,59.63,%,Estimated,Europe,Southern Europe,Republic of Slovenia
+SWE,2007,Protected Forests,0.5106964774006756,47.625,%,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWE,2012,Protected Forests,0.47469304594927886,44.2675,%,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWE,2017,Protected Forests,0.47611388129322824,44.4,%,Food and Agriculture Organization (FAO),Europe,Northern Europe,Kingdom of Sweden
+SWE,2022,Protected Forests,0.47611388129322824,44.4,%,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWZ,2007,Protected Forests,0.00895394348828481,0.835,%,Estimated,Africa,Southern Africa,Kingdom of Eswatini
+SWZ,2012,Protected Forests,0.00895394348828481,0.835,%,Estimated,Africa,Southern Africa,Kingdom of Eswatini
+SWZ,2017,Protected Forests,0.017693421264275373,1.65,%,Food and Agriculture Organization (FAO),Africa,Southern Africa,Kingdom of Eswatini
+SWZ,2022,Protected Forests,0.017693421264275373,1.65,%,Estimated,Africa,Southern Africa,Kingdom of Eswatini
+SXM,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SXM,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SXM,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SXM,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Sint Maarten (Dutch part)
+SYC,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYC,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYC,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYC,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Seychelles
+SYR,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,Syrian Arab Republic
+SYR,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,Syrian Arab Republic
+SYR,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Syrian Arab Republic
+SYR,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Syrian Arab Republic
+TCA,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Turks and Caicos Islands
+TCA,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Turks and Caicos Islands
+TCA,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Turks and Caicos Islands
+TCA,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Turks and Caicos Islands
+TCD,2007,Protected Forests,0.15874752024020158,14.803999999999998,%,Estimated,Africa,Middle Africa,Republic of Chad
+TCD,2012,Protected Forests,0.19599485282290494,18.2775,%,Estimated,Africa,Middle Africa,Republic of Chad
+TCD,2017,Protected Forests,0.22336603935445823,20.830000000000002,%,Estimated,Africa,Middle Africa,Republic of Chad
+TCD,2022,Protected Forests,0.22336603935445823,20.830000000000002,%,Estimated,Africa,Middle Africa,Republic of Chad
+TGO,2007,Protected Forests,0.12433649670258969,11.595,%,Estimated,Africa,Western Africa,Togolese Republic
+TGO,2012,Protected Forests,0.12433649670258969,11.595,%,Estimated,Africa,Western Africa,Togolese Republic
+TGO,2017,Protected Forests,0.12433649670258969,11.595,%,Food and Agriculture Organization (FAO),Africa,Western Africa,Togolese Republic
+TGO,2022,Protected Forests,0.12433649670258969,11.595,%,Estimated,Africa,Western Africa,Togolese Republic
+THA,2007,Protected Forests,0.3541686772827195,33.028000000000006,%,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
+THA,2012,Protected Forests,0.3833252908691223,35.747,%,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
+THA,2017,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
+THA,2022,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
+TJK,2007,Protected Forests,0.5649384304684288,52.68333333333333,%,Estimated,Asia,Central Asia,Republic of Tajikistan
+TJK,2012,Protected Forests,0.6513502403803192,60.74166666666667,%,Estimated,Asia,Central Asia,Republic of Tajikistan
+TJK,2017,Protected Forests,0.7295051203688809,68.02999999999999,%,Estimated,Asia,Central Asia,Republic of Tajikistan
+TJK,2022,Protected Forests,0.7295051203688809,68.02999999999999,%,Estimated,Asia,Central Asia,Republic of Tajikistan
+TKM,2007,Protected Forests,0.5649384304684288,52.68333333333333,%,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2012,Protected Forests,0.6513502403803192,60.74166666666667,%,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2017,Protected Forests,0.7295051203688809,68.02999999999999,%,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2022,Protected Forests,0.7295051203688809,68.02999999999999,%,Estimated,Asia,Central Asia,Turkmenistan
+TLS,2007,Protected Forests,0.3541686772827195,33.028000000000006,%,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TLS,2012,Protected Forests,0.3833252908691223,35.747,%,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TLS,2017,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TLS,2022,Protected Forests,0.3960538308937859,36.934,%,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
+TON,2007,Protected Forests,0.16009865422765535,14.93,%,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TON,2012,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TON,2017,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TON,2022,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Kingdom of Tonga
+TTO,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TTO,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TTO,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TTO,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Republic of Trinidad and Tobago
+TUN,2007,Protected Forests,0.4124443729558738,38.462500000000006,%,Estimated,Africa,Northern Africa,Republic of Tunisia
+TUN,2012,Protected Forests,0.4327113827676801,40.352500000000006,%,Estimated,Africa,Northern Africa,Republic of Tunisia
+TUN,2017,Protected Forests,0.43316712240630534,40.395,%,Food and Agriculture Organization (FAO),Africa,Northern Africa,Republic of Tunisia
+TUN,2022,Protected Forests,0.43316712240630534,40.395,%,Estimated,Africa,Northern Africa,Republic of Tunisia
+TUR,2007,Protected Forests,0.6797758833306525,63.3925,%,Estimated,Asia,Western Asia,Republic of Türkiye
+TUR,2012,Protected Forests,0.704064125247976,65.6575,%,Estimated,Asia,Western Asia,Republic of Türkiye
+TUR,2017,Protected Forests,0.7164763283470056,66.815,%,Food and Agriculture Organization (FAO),Asia,Western Asia,Republic of Türkiye
+TUR,2022,Protected Forests,0.7164763283470056,66.815,%,Estimated,Asia,Western Asia,Republic of Türkiye
+TUV,2007,Protected Forests,0.16009865422765535,14.93,%,Estimated,Oceania,Polynesia,Tuvalu
+TUV,2012,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Tuvalu
+TUV,2017,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Tuvalu
+TUV,2022,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Tuvalu
+TZA,2007,Protected Forests,0.34159026325666186,31.855,%,Estimated,Africa,Eastern Africa,United Republic of Tanzania
+TZA,2012,Protected Forests,0.34159026325666186,31.855,%,Estimated,Africa,Eastern Africa,United Republic of Tanzania
+TZA,2017,Protected Forests,0.34159026325666186,31.855,%,Food and Agriculture Organization (FAO),Africa,Eastern Africa,United Republic of Tanzania
+TZA,2022,Protected Forests,0.34159026325666186,31.855,%,Estimated,Africa,Eastern Africa,United Republic of Tanzania
+UGA,2007,Protected Forests,0.28466110587712645,26.546071428571427,%,Estimated,Africa,Eastern Africa,Republic of Uganda
+UGA,2012,Protected Forests,0.303859616872324,28.33642857142857,%,Estimated,Africa,Eastern Africa,Republic of Uganda
+UGA,2017,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Uganda
+UGA,2022,Protected Forests,0.3266083013549637,30.45785714285714,%,Estimated,Africa,Eastern Africa,Republic of Uganda
+UKR,2007,Protected Forests,0.5514985791646559,51.42999999999999,%,Estimated,Europe,Eastern Europe,Ukraine
+UKR,2012,Protected Forests,0.5514985791646559,51.42999999999999,%,Estimated,Europe,Eastern Europe,Ukraine
+UKR,2017,Protected Forests,0.5514985791646559,51.42999999999999,%,Estimated,Europe,Eastern Europe,Ukraine
+UKR,2022,Protected Forests,0.5514985791646559,51.42999999999999,%,Estimated,Europe,Eastern Europe,Ukraine
+URY,2007,Protected Forests,0.2786177684842636,25.9825,%,Estimated,America,South America,Oriental Republic of Uruguay
+URY,2012,Protected Forests,0.2786177684842636,25.9825,%,Estimated,America,South America,Oriental Republic of Uruguay
+URY,2017,Protected Forests,0.3111361321108788,29.015,%,Food and Agriculture Organization (FAO),America,South America,Oriental Republic of Uruguay
+URY,2022,Protected Forests,0.3111361321108788,29.015,%,Estimated,America,South America,Oriental Republic of Uruguay
+USA,2007,Protected Forests,0.3940807463406788,36.75,%,Estimated,America,Northern America,United States of America
+USA,2012,Protected Forests,0.41525923542973564,38.724999999999994,%,Estimated,America,Northern America,United States of America
+USA,2017,Protected Forests,0.4168677282719425,38.875,%,Food and Agriculture Organization (FAO),America,Northern America,United States of America
+USA,2022,Protected Forests,0.4168677282719425,38.875,%,Estimated,America,Northern America,United States of America
+UZB,2007,Protected Forests,0.7040909334620128,65.66,%,Estimated,Asia,Central Asia,Republic of Uzbekistan
+UZB,2012,Protected Forests,0.8444319339445607,78.7475,%,Estimated,Asia,Central Asia,Republic of Uzbekistan
+UZB,2017,Protected Forests,1.0,93.255,%,Food and Agriculture Organization (FAO),Asia,Central Asia,Republic of Uzbekistan
+UZB,2022,Protected Forests,1.0,93.255,%,Estimated,Asia,Central Asia,Republic of Uzbekistan
+VCT,2007,Protected Forests,0.33177845691920005,30.939999999999998,%,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VCT,2012,Protected Forests,0.33177845691920005,30.939999999999998,%,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VCT,2017,Protected Forests,0.33177845691920005,30.939999999999998,%,Food and Agriculture Organization (FAO),America,Caribbean,Saint Vincent and the Grenadines
+VCT,2022,Protected Forests,0.33177845691920005,30.939999999999998,%,Estimated,America,Caribbean,Saint Vincent and the Grenadines
+VEN,2007,Protected Forests,0.6781941987024824,63.245,%,Estimated,America,South America,Bolivarian Republic of Venezuela
+VEN,2012,Protected Forests,0.6746018980215538,62.91,%,Estimated,America,South America,Bolivarian Republic of Venezuela
+VEN,2017,Protected Forests,0.6710095973406252,62.574999999999996,%,Food and Agriculture Organization (FAO),America,South America,Bolivarian Republic of Venezuela
+VEN,2022,Protected Forests,0.6710095973406252,62.574999999999996,%,Estimated,America,South America,Bolivarian Republic of Venezuela
+VGB,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,British Virgin Islands
+VGB,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,British Virgin Islands
+VGB,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,British Virgin Islands
+VGB,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,British Virgin Islands
+VIR,2007,Protected Forests,0.3405554661948421,31.758499999999998,%,Estimated,America,Caribbean,Virgin Islands of the United States
+VIR,2012,Protected Forests,0.41057852125891375,38.2885,%,Estimated,America,Caribbean,Virgin Islands of the United States
+VIR,2017,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Virgin Islands of the United States
+VIR,2022,Protected Forests,0.4166210927028042,38.852000000000004,%,Estimated,America,Caribbean,Virgin Islands of the United States
+VNM,2007,Protected Forests,0.30829446142298,28.75,%,Estimated,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VNM,2012,Protected Forests,0.33014315586295645,30.7875,%,Estimated,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VNM,2017,Protected Forests,0.34534341322181117,32.205,%,Food and Agriculture Organization (FAO),Asia,South-eastern Asia,Socialist Republic of Vietnam
+VNM,2022,Protected Forests,0.34534341322181117,32.205,%,Estimated,Asia,South-eastern Asia,Socialist Republic of Vietnam
+VUT,2007,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,Republic of Vanuatu
+VUT,2012,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,Republic of Vanuatu
+VUT,2017,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,Republic of Vanuatu
+VUT,2022,Protected Forests,0.31496970671813845,29.3725,%,Estimated,Oceania,Melanesia,Republic of Vanuatu
+WSM,2007,Protected Forests,0.16009865422765535,14.93,%,Estimated,Oceania,Polynesia,Independent State of Samoa
+WSM,2012,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Independent State of Samoa
+WSM,2017,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Independent State of Samoa
+WSM,2022,Protected Forests,0.1607420513645381,14.99,%,Estimated,Oceania,Polynesia,Independent State of Samoa
+XKX,2007,Protected Forests,0.33640734187621757,31.37166666666667,%,Estimated,Europe,Southern Europe,Republic of Kosovo
+XKX,2012,Protected Forests,0.3370060586563723,31.4275,%,Estimated,Europe,Southern Europe,Republic of Kosovo
+XKX,2017,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Republic of Kosovo
+XKX,2022,Protected Forests,0.3439359819848801,32.07375,%,Estimated,Europe,Southern Europe,Republic of Kosovo
+YEM,2007,Protected Forests,0.28623130127070934,26.6925,%,Estimated,Asia,Western Asia,Republic of Yemen
+YEM,2012,Protected Forests,0.29393866280628383,27.41125,%,Estimated,Asia,Western Asia,Republic of Yemen
+YEM,2017,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Republic of Yemen
+YEM,2022,Protected Forests,0.30287250013404104,28.244374999999998,%,Estimated,Asia,Western Asia,Republic of Yemen
+ZAF,2007,Protected Forests,0.10553723660929709,9.841875,%,Estimated,Africa,Southern Africa,Republic of South Africa
+ZAF,2012,Protected Forests,0.10638169535145568,9.920625,%,Estimated,Africa,Southern Africa,Republic of South Africa
+ZAF,2017,Protected Forests,0.10885475309634872,10.15125,%,Estimated,Africa,Southern Africa,Republic of South Africa
+ZAF,2022,Protected Forests,0.10885475309634872,10.15125,%,Estimated,Africa,Southern Africa,Republic of South Africa
+ZMB,2007,Protected Forests,0.746018980215538,69.57,%,Estimated,Africa,Eastern Africa,Republic of Zambia
+ZMB,2012,Protected Forests,0.746018980215538,69.57,%,Estimated,Africa,Eastern Africa,Republic of Zambia
+ZMB,2017,Protected Forests,0.746018980215538,69.57,%,Food and Agriculture Organization (FAO),Africa,Eastern Africa,Republic of Zambia
+ZMB,2022,Protected Forests,0.746018980215538,69.57,%,Estimated,Africa,Eastern Africa,Republic of Zambia
+ZWE,2007,Protected Forests,0.11803656640394618,11.0075,%,Estimated,Africa,Eastern Africa,Republic of Zimbabwe
+ZWE,2012,Protected Forests,0.11779529247761514,10.985,%,Estimated,Africa,Eastern Africa,Republic of Zimbabwe
+ZWE,2017,Protected Forests,0.11779529247761514,10.985,%,Food and Agriculture Organization (FAO),Africa,Eastern Africa,Republic of Zimbabwe
+ZWE,2022,Protected Forests,0.11779529247761514,10.985,%,Estimated,Africa,Eastern Africa,Republic of Zimbabwe

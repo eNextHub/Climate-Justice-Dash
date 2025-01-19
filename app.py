@@ -13,6 +13,7 @@ from EJ_indicator import read_dims, calc_EJ_index, DIMS
 import io
 import numpy as np
 import json
+import plotly.graph_objects as go
 
 
 
@@ -21,15 +22,15 @@ DESCRIPTIONS = {
     "Red List Index": """
     The ** Red List Index ** measures trends in species' extinction risk on a scale from 0 to 1, where 1 means no species are at risk, and 0 means all species are extinct. It includes mammals, birds, cycads, amphibians, and corals, with regional and national indices weighted by species' distribution. Linked to SDG Goal 15, specifically Target 15.5, it tracks progress in halting biodiversity loss, reducing habitat degradation, and preventing species extinction, aligning with efforts to protect and restore ecosystems.
 """,
-    "Mortality": """
+    "Air Pollution Morality": """
 SDG Indicator 3.9.1 measures the age-standardized **mortality** rate (per 100,000 population) caused by household and **ambient air pollution**. It highlights the health impact of air quality, tracking deaths linked to exposure to harmful pollutants. This indicator supports SDG Goal 3 by monitoring progress in reducing preventable deaths from environmental health risks, emphasizing the need for clean air initiatives to improve public health. 
 
 *Note: Due to data limitations, values for 2007 are approximated using 2010 data, and values for 2022 are approximated using 2019 data*.
 """,
-    "Educational Index": """
+    "Education Index": """
 The **education component of the Human Development Index (HDI)** measures the average and expected years of schooling to assess both current achievements and future potential in education. Average years of schooling reflect the education level of adults aged 25 and older, while expected years of schooling estimate the total education a child entering school is likely to receive based on current enrollment rates. This indicator provides a comprehensive view of educational attainment and its contribution to human development.
 """,
-    "GHG Emission per capita": """
+    "Citizen Carbon Footprint": """
 The **per capita consumption-based CO₂ emissions** measures the CO₂ emissions tied to the goods and services consumed by the average person in a country, rather than where those goods are produced. It adjusts production-based emissions by subtracting emissions from exports and adding those from imports, providing a clear picture of a citizen's carbon impact. This excludes emissions from land use, deforestation, and international aviation or shipping, focusing on consumption-related emissions.
 """,
     "Waste Management": """
@@ -43,20 +44,20 @@ The **per capita consumption-based CO₂ emissions** measures the CO₂ emission
     "Climate Disaster": """
 **Climate disaster damages** measures the economic impact of climate-related disasters, including climatological, hydrological, and meteorological events. It aggregates the total damages in adjusted thousands of US dollars, focusing on events since 2000. The indicator also tracks trends using a 5-year moving average, offering insights into the financial burden of these disasters over time at both country and regional levels.
 """,
-    "Protected Areas": """
+    "Protected Forests": """
 **Forest coverage and management sustainability index** measures the combined progress in forest area preservation and sustainable forest management practices, providing a holistic view of forest health. It averages the proportion of land covered by forests and a composite measure of sustainable management practices. 
 
 *Note: Data for 2007 and 2012 were interpolated using values from 2005 and 2010, and 2010 and 2015, respectively, while 2022 values rely on data from 2020 due to limited availability.*
 """,
-    "Fossil Subsidies": """
+    "Fossil Fuel Subsidies": """
 **Total fossil fuel subsidies as a percentage of GDP** measures the level of government support for fossil fuels, including both direct subsidies and implicit subsidies such as underpricing of environmental externalities like pollution and climate change impacts. By expressing these subsidies as a percentage of GDP, this indicator highlights the economic scale of fossil fuel support and its implications for sustainability and energy policy. Note: Due to data limitations, values for 2007 and 2012 were assumed to be the same as 2015 in the absence of older data.
 """,
 "EJ Index": """
 ** Environmental Justice Index** is a synthetic index aims at measuring the relative enviromental justice across the world. The indicator is calcuated as a weighted average of indicators for three dimensions:
 
-- **Human Rights**:  measured as an average of *"Mortality","Educational Index", and "Protected Areas"*
+- **Human Rights**:  measured as an average of *"Air Pollution Morality","Education Index", and "Protected Forests"*
 - **Common Goods**:  measured as an average of *"Red List Index","EJ Events", and "Climate Disaster"*
-- **Sustainability**: measured as an average of *"GHG Emission per capita","Waste Management", and "Fossil Subsidies"*
+- **Sustainability**: measured as an average of *"Citizen Carbon Footprint","Waste Management", and "Fossil Fuel Subsidies"*
 """
 }
 
@@ -85,8 +86,8 @@ def build_hover(df,metadata):
 
     for row,vals in df.iterrows():
         indicator = vals.Indicator
-        country = vals.name_official
-        region = vals.UNregion
+        country = vals.Official_Name
+        region = vals.UN_Region
         macro_category = metadata[indicator]["dimension"]
         normalized_value = round(vals.Normalized,3)
         unit = metadata[indicator]["unit"]
@@ -108,8 +109,8 @@ def build_ej_hover(df,dims):
     
     hover_text = []
     for row,vals in df.iterrows():
-        country = vals.name_official
-        region = vals.UNregion
+        country = vals.Official_Name
+        region = vals.UN_Region
         normalized_value = round(vals.Normalized,3)
         common_goods = dims["Common goods"].loc[row,"Normalized"]
         human_right = dims["Human rights"].loc[row,"Normalized"]
@@ -132,7 +133,7 @@ def build_ej_hover(df,dims):
 
 MARKS = np.arange(0, 1.1, 0.1).tolist()
 
-HOVER_COLS = ["name_official", "Year", "Value"]
+HOVER_COLS = ["Official_Name", "Year", "Value"]
 
 
 def load_all_data():
@@ -160,9 +161,9 @@ except Exception as e:
             "Year",
             "Indicator",
             "Value",
-            "continent",
-            "UNregion",
-            "name_official",
+            "Continent",
+            "UN_Region",
+            "Official_Name",
             "Normalized",
         ]
     )
@@ -170,7 +171,7 @@ except Exception as e:
 df["hover_text"] = build_hover(df,metadata)
 
 REGIONS = [{"label": "World", "value": "World"}]
-for val in df.continent.unique():
+for val in df.Continent.unique():
     REGIONS.append({"label": val, "value": val})
 
 # %%
@@ -329,8 +330,9 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
         )
 
         filtered_df["Country"] = filtered_df.apply(
-            lambda row: f"{row['name_official']}", axis=1
+            lambda row: f"{row['Official_Name']}", axis=1
         )
+        
 
         filtered_df["hover_text"] = build_ej_hover(filtered_df,dims)
         HOVER_COLS = []
@@ -348,10 +350,11 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
             hover_data[col] = True
         else:
             hover_data[col] = False
-    # Generate choropleth map
+
+    estimated_data = filtered_df[filtered_df["Source"]=="Estimated"]
 
     if continent != "World":
-        filtered_df = filtered_df.loc[filtered_df.continent == continent]
+        filtered_df = filtered_df.loc[filtered_df.Continent == continent]
     fig = px.choropleth(
         filtered_df,
         locations="Region",  # ISO3 country code column
@@ -366,6 +369,23 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
             (1.0, "green"),  # Green at 1
         ],
     )
+    if not estimated_data.empty:
+            # Generate choropleth map
+        fig.add_trace(
+            go.Scattergeo(
+                locations=estimated_data["Region"],  # Country ISO3 codes
+                mode="markers",  # Use markers
+                marker=dict(
+                    size=5,  # Size of the marker
+                    color="black",  # Color of the marker
+                    symbol="x",  # Type of marker (cross shape)
+                    opacity=0.5,  # Full opacity for markers
+                ),
+                hovertext=estimated_data["hover_text"],  # Hover text for markers
+                hoverinfo="text",  # Show hover text
+                name="Estimated Data Markers",  # Name for the trace
+            )
+        )
     # Lock color bar range from 0 to 1 (fixed color scale)
     fig.update_layout(
         coloraxis_colorbar=dict(

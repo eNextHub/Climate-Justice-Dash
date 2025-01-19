@@ -4,8 +4,8 @@ import plotly.express as px
 
 DIMS = {
     "Common goods": ["Red List Index","EJ Events","Climate Disaster"],
-    "Human rights": ["Mortality","Educational Index","Protected Areas"],
-    "Sustainability": ["GHG Emission per capita","Waste Management","Fossil Subsidies"],
+    "Human rights": ["Air Pollution Morality","Education Index","Protected Forests"],
+    "Sustainability": ["Citizen Carbon Footprint","Waste Management","Fossil Fuel Subsidies"],
 }
 dfs = {}
 
@@ -34,6 +34,7 @@ def calc_EJ_index(dfs,weights = DEFAULT_WEIGHTS):
 
     df["Normalized"] = sum(indicator["Normalized"]*weights[dim] for dim,indicator in dfs.items())
     df["Indicator"] = "EJ Index"
+    df["Source"] = "Calcualted"
 
     # df.to_csv("data/EJ index.csv")
     return df
@@ -43,7 +44,7 @@ def plot(data):
         data,
         locations="Region",          # ISO3 country codes
         color="Normalized",               # Data column for color scale
-        hover_name="name_official",         # Hover information
+        hover_name="Official",         # Hover information
         animation_frame="Year",      # Column used for animation (dropdown-like behavior)
         color_continuous_scale="BrBG",
         projection="natural earth"
@@ -69,7 +70,7 @@ def plot(data):
 
 if __name__ == "__main__":
     dfs = read_dims()
-    data = calc_EJ_index(dfs)
-    plot(data)
+    # data = calc_EJ_index(dfs)
+    # plot(data)
 
 # %%
