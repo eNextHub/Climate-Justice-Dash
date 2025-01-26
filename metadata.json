@@ -8,9 +8,9 @@
       "link": "https://ourworldindata.org/grapher/red-list-index",
       "dimension": "Common goods"
     },
-    "Air Pollution Morality": {
+    "Air Pollution Mortality": {
       "indicator_code": "MORTALITY",
-      "short_name": "Air pollution morality",
+      "short_name": "Air pollution mortality",
       "long_name": "Ambient and household air pollution attributable death rate",
       "unit": "number of deaths per 100'000 people per year",
       "source": "World Health Organization (WHO)",

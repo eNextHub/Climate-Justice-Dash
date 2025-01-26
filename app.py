@@ -14,6 +14,7 @@ import io
 import numpy as np
 import json
 import plotly.graph_objects as go
+import math
 
 
 
@@ -22,7 +23,7 @@ DESCRIPTIONS = {
     "Red List Index": """
     The ** Red List Index ** measures trends in species' extinction risk on a scale from 0 to 1, where 1 means no species are at risk, and 0 means all species are extinct. It includes mammals, birds, cycads, amphibians, and corals, with regional and national indices weighted by species' distribution. Linked to SDG Goal 15, specifically Target 15.5, it tracks progress in halting biodiversity loss, reducing habitat degradation, and preventing species extinction, aligning with efforts to protect and restore ecosystems.
 """,
-    "Air Pollution Morality": """
+    "Air Pollution Mortality": """
 SDG Indicator 3.9.1 measures the age-standardized **mortality** rate (per 100,000 population) caused by household and **ambient air pollution**. It highlights the health impact of air quality, tracking deaths linked to exposure to harmful pollutants. This indicator supports SDG Goal 3 by monitoring progress in reducing preventable deaths from environmental health risks, emphasizing the need for clean air initiatives to improve public health. 
 
 *Note: Due to data limitations, values for 2007 are approximated using 2010 data, and values for 2022 are approximated using 2019 data*.
@@ -42,7 +43,7 @@ The **per capita consumption-based CO₂ emissions** measures the CO₂ emission
 **Cumulative unresolved Environmental Justice events** measures the share of unresolved environmental justice events by country, based on cumulative data filtered to exclude stopped projects and events with known end dates. It highlights the distribution of verified environmental justice conflicts from historical records up to 2022, ranking countries by their share of the total unresolved cases. This indicator sheds light on the ten most affected countries, emphasizing persistent socio-environmental injustices globally.
 """,
     "Climate Disaster": """
-**Climate disaster damages** measures the economic impact of climate-related disasters, including climatological, hydrological, and meteorological events. It aggregates the total damages in adjusted thousands of US dollars, focusing on events since 2000. The indicator also tracks trends using a 5-year moving average, offering insights into the financial burden of these disasters over time at both country and regional levels.
+**Climate disaster damages** measures the economic impact of climate-related disasters, including climatological, hydrological, and meteorological events. It aggregates the total damages in % of country GDP, focusing on events since 2000. The indicator also tracks trends using a 5-year moving average, offering insights into the financial burden of these disasters over time at both country and regional levels.
 """,
     "Protected Forests": """
 **Forest coverage and management sustainability index** measures the combined progress in forest area preservation and sustainable forest management practices, providing a holistic view of forest health. It averages the proportion of land covered by forests and a composite measure of sustainable management practices. 
@@ -55,7 +56,7 @@ The **per capita consumption-based CO₂ emissions** measures the CO₂ emission
 "EJ Index": """
 ** Environmental Justice Index** is a synthetic index aims at measuring the relative enviromental justice across the world. The indicator is calcuated as a weighted average of indicators for three dimensions:
 
-- **Human Rights**:  measured as an average of *"Air Pollution Morality","Education Index", and "Protected Forests"*
+- **Human Rights**:  measured as an average of *"Air Pollution Moratlity","Education Index", and "Protected Forests"*
 - **Common Goods**:  measured as an average of *"Red List Index","EJ Events", and "Climate Disaster"*
 - **Sustainability**: measured as an average of *"Citizen Carbon Footprint","Waste Management", and "Fossil Fuel Subsidies"*
 """
@@ -352,6 +353,8 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
             hover_data[col] = False
 
     estimated_data = filtered_df[filtered_df["Source"]=="Estimated"]
+    
+    share_of_estimation = len(estimated_data)/len(filtered_df)*100
 
     if continent != "World":
         filtered_df = filtered_df.loc[filtered_df.Continent == continent]
@@ -369,23 +372,7 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
             (1.0, "green"),  # Green at 1
         ],
     )
-    if not estimated_data.empty:
-            # Generate choropleth map
-        fig.add_trace(
-            go.Scattergeo(
-                locations=estimated_data["Region"],  # Country ISO3 codes
-                mode="markers",  # Use markers
-                marker=dict(
-                    size=5,  # Size of the marker
-                    color="black",  # Color of the marker
-                    symbol="x",  # Type of marker (cross shape)
-                    opacity=0.5,  # Full opacity for markers
-                ),
-                hovertext=estimated_data["hover_text"],  # Hover text for markers
-                hoverinfo="text",  # Show hover text
-                name="Estimated Data Markers",  # Name for the trace
-            )
-        )
+
     # Lock color bar range from 0 to 1 (fixed color scale)
     fig.update_layout(
         coloraxis_colorbar=dict(
@@ -574,6 +561,10 @@ def update_source_links(selected_indicator):
 
     source = metadata[selected_indicator]["source"]
     link = metadata[selected_indicator]["link"]
+    filtered_df = df[df["Indicator"] == selected_indicator]
+    estimated_data = filtered_df[filtered_df["Source"]=="Estimated"]
+    
+    share_of_estimation = len(estimated_data)/len(filtered_df)*100
 
     text = f"""
 Source: *{source}*
@@ -581,6 +572,11 @@ Source: *{source}*
 Link: *{link}*
 
 """
+    if share_of_estimation != 0:
+        text += f"""
+Note: {math.ceil(share_of_estimation)}% of data is estimated
+"""
+
     return dcc.Markdown(
         text,
     )

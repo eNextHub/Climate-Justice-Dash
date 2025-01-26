@@ -7,14 +7,14 @@ AGO,2007,Basel,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Angola
 AGO,2012,Basel,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Angola
 AGO,2017,Basel,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Angola
 AGO,2022,Basel,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Angola
-ALB,2007,Basel,0.51998,51.998,,Estimated,Europe,Southern Europe,Republic of Albania
-ALB,2012,Basel,0.51998,51.998,,Estimated,Europe,Southern Europe,Republic of Albania
-ALB,2017,Basel,0.51998,51.998,,xx,Europe,Southern Europe,Republic of Albania
-ALB,2022,Basel,0.8,80.0,,xx,Europe,Southern Europe,Republic of Albania
-AND,2007,Basel,0.92,92.0,,Estimated,Europe,Southern Europe,Principality of Andorra
-AND,2012,Basel,0.92,92.0,,Estimated,Europe,Southern Europe,Principality of Andorra
-AND,2017,Basel,0.92,92.0,,xx,Europe,Southern Europe,Principality of Andorra
-AND,2022,Basel,0.8,80.0,,xx,Europe,Southern Europe,Principality of Andorra
+ALB,2007,Basel,0.8602709642149112,51.998,,Estimated,Europe,Southern Europe,Republic of Albania
+ALB,2012,Basel,0.8602709642149112,51.998,,Estimated,Europe,Southern Europe,Republic of Albania
+ALB,2017,Basel,0.8602709642149112,51.998,,xx,Europe,Southern Europe,Republic of Albania
+ALB,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Southern Europe,Republic of Albania
+AND,2007,Basel,0.9821194217167522,92.0,,Estimated,Europe,Southern Europe,Principality of Andorra
+AND,2012,Basel,0.9821194217167522,92.0,,Estimated,Europe,Southern Europe,Principality of Andorra
+AND,2017,Basel,0.9821194217167522,92.0,,xx,Europe,Southern Europe,Principality of Andorra
+AND,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Southern Europe,Principality of Andorra
 ARE,2007,Basel,0.0,0.0,,Estimated,Asia,Western Asia,United Arab Emirates
 ARE,2012,Basel,0.0,0.0,,Estimated,Asia,Western Asia,United Arab Emirates
 ARE,2017,Basel,0.0,0.0,,Estimated,Asia,Western Asia,United Arab Emirates
@@ -79,14 +79,14 @@ BHS,2007,Basel,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of the Bahamas
 BHS,2012,Basel,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of the Bahamas
 BHS,2017,Basel,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of the Bahamas
 BHS,2022,Basel,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of the Bahamas
-BIH,2007,Basel,0.62,62.0,,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
-BIH,2012,Basel,0.62,62.0,,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
-BIH,2017,Basel,0.62,62.0,,xx,Europe,Southern Europe,Bosnia and Herzegovina
-BIH,2022,Basel,0.8,80.0,,xx,Europe,Southern Europe,Bosnia and Herzegovina
-BLR,2007,Basel,0.38,38.0,,Estimated,Europe,Eastern Europe,Republic of Belarus
-BLR,2012,Basel,0.38,38.0,,Estimated,Europe,Eastern Europe,Republic of Belarus
-BLR,2017,Basel,0.38,38.0,,xx,Europe,Eastern Europe,Republic of Belarus
-BLR,2022,Basel,0.2,20.0,,xx,Europe,Eastern Europe,Republic of Belarus
+BIH,2007,Basel,0.897730560073701,62.0,,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2012,Basel,0.897730560073701,62.0,,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2017,Basel,0.897730560073701,62.0,,xx,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Southern Europe,Bosnia and Herzegovina
+BLR,2007,Basel,0.7938171132824736,38.0,,Estimated,Europe,Eastern Europe,Republic of Belarus
+BLR,2012,Basel,0.7938171132824736,38.0,,Estimated,Europe,Eastern Europe,Republic of Belarus
+BLR,2017,Basel,0.7938171132824736,38.0,,xx,Europe,Eastern Europe,Republic of Belarus
+BLR,2022,Basel,0.6596842761989657,20.0,,xx,Europe,Eastern Europe,Republic of Belarus
 BLZ,2007,Basel,0.0,0.0,,Estimated,America,Central America,Belize
 BLZ,2012,Basel,0.0,0.0,,Estimated,America,Central America,Belize
 BLZ,2017,Basel,0.0,0.0,,Estimated,America,Central America,Belize
@@ -127,9 +127,9 @@ CAN,2007,Basel,1.0,100.0,,Estimated,America,Northern America,Canada
 CAN,2012,Basel,1.0,100.0,,Estimated,America,Northern America,Canada
 CAN,2017,Basel,1.0,100.0,,xx,America,Northern America,Canada
 CAN,2022,Basel,1.0,100.0,,xx,America,Northern America,Canada
-CHE,2007,Basel,0.80002,80.002,,Estimated,Europe,Western Europe,Swiss Confederation
-CHE,2012,Basel,0.80002,80.002,,Estimated,Europe,Western Europe,Swiss Confederation
-CHE,2017,Basel,0.80002,80.002,,xx,Europe,Western Europe,Swiss Confederation
+CHE,2007,Basel,0.9521904855332703,80.002,,Estimated,Europe,Western Europe,Swiss Confederation
+CHE,2012,Basel,0.9521904855332703,80.002,,Estimated,Europe,Western Europe,Swiss Confederation
+CHE,2017,Basel,0.9521904855332703,80.002,,xx,Europe,Western Europe,Swiss Confederation
 CHE,2022,Basel,1.0,100.0,,xx,Europe,Western Europe,Swiss Confederation
 CHL,2007,Basel,0.0,0.0,,Estimated,America,South America,Republic of Chile
 CHL,2012,Basel,0.0,0.0,,Estimated,America,South America,Republic of Chile
@@ -183,10 +183,10 @@ CYM,2007,Basel,0.0,0.0,,Estimated,America,Caribbean,Cayman Islands
 CYM,2012,Basel,0.0,0.0,,Estimated,America,Caribbean,Cayman Islands
 CYM,2017,Basel,0.0,0.0,,Estimated,America,Caribbean,Cayman Islands
 CYM,2022,Basel,0.0,0.0,,Estimated,America,Caribbean,Cayman Islands
-CYP,2007,Basel,0.92,92.0,,Estimated,Asia,Western Asia,Republic of Cyprus
-CYP,2012,Basel,0.92,92.0,,Estimated,Asia,Western Asia,Republic of Cyprus
-CYP,2017,Basel,0.92,92.0,,xx,Asia,Western Asia,Republic of Cyprus
-CYP,2022,Basel,0.8,80.0,,xx,Asia,Western Asia,Republic of Cyprus
+CYP,2007,Basel,0.9821194217167522,92.0,,Estimated,Asia,Western Asia,Republic of Cyprus
+CYP,2012,Basel,0.9821194217167522,92.0,,Estimated,Asia,Western Asia,Republic of Cyprus
+CYP,2017,Basel,0.9821194217167522,92.0,,xx,Asia,Western Asia,Republic of Cyprus
+CYP,2022,Basel,0.9521851354989413,80.0,,xx,Asia,Western Asia,Republic of Cyprus
 CZE,2007,Basel,1.0,100.0,,Estimated,Europe,Eastern Europe,Czech Republic
 CZE,2012,Basel,1.0,100.0,,Estimated,Europe,Eastern Europe,Czech Republic
 CZE,2017,Basel,1.0,100.0,,xx,Europe,Eastern Europe,Czech Republic
@@ -203,10 +203,10 @@ DMA,2007,Basel,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of Dominica
 DMA,2012,Basel,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of Dominica
 DMA,2017,Basel,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of Dominica
 DMA,2022,Basel,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of Dominica
-DNK,2007,Basel,0.92,92.0,,Estimated,Europe,Northern Europe,Kingdom of Denmark
-DNK,2012,Basel,0.92,92.0,,Estimated,Europe,Northern Europe,Kingdom of Denmark
-DNK,2017,Basel,0.92,92.0,,xx,Europe,Northern Europe,Kingdom of Denmark
-DNK,2022,Basel,0.8,80.0,,xx,Europe,Northern Europe,Kingdom of Denmark
+DNK,2007,Basel,0.9821194217167522,92.0,,Estimated,Europe,Northern Europe,Kingdom of Denmark
+DNK,2012,Basel,0.9821194217167522,92.0,,Estimated,Europe,Northern Europe,Kingdom of Denmark
+DNK,2017,Basel,0.9821194217167522,92.0,,xx,Europe,Northern Europe,Kingdom of Denmark
+DNK,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Northern Europe,Kingdom of Denmark
 DOM,2007,Basel,0.0,0.0,,Estimated,America,Caribbean,Dominican Republic
 DOM,2012,Basel,0.0,0.0,,Estimated,America,Caribbean,Dominican Republic
 DOM,2017,Basel,0.0,0.0,,Estimated,America,Caribbean,Dominican Republic
@@ -227,10 +227,10 @@ ERI,2007,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,State of Eritrea
 ERI,2012,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,State of Eritrea
 ERI,2017,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,State of Eritrea
 ERI,2022,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,State of Eritrea
-ESP,2007,Basel,0.6400199999999999,64.002,,Estimated,Europe,Southern Europe,Kingdom of Spain
-ESP,2012,Basel,0.6400199999999999,64.002,,Estimated,Europe,Southern Europe,Kingdom of Spain
-ESP,2017,Basel,0.6400199999999999,64.002,,xx,Europe,Southern Europe,Kingdom of Spain
-ESP,2022,Basel,0.6,60.0,,xx,Europe,Southern Europe,Kingdom of Spain
+ESP,2007,Basel,0.9045089989351248,64.002,,Estimated,Europe,Southern Europe,Kingdom of Spain
+ESP,2012,Basel,0.9045089989351248,64.002,,Estimated,Europe,Southern Europe,Kingdom of Spain
+ESP,2017,Basel,0.9045089989351248,64.002,,xx,Europe,Southern Europe,Kingdom of Spain
+ESP,2022,Basel,0.8907403066013385,60.0,,xx,Europe,Southern Europe,Kingdom of Spain
 EST,2007,Basel,1.0,100.0,,Estimated,Europe,Northern Europe,Republic of Estonia
 EST,2012,Basel,1.0,100.0,,Estimated,Europe,Northern Europe,Republic of Estonia
 EST,2017,Basel,1.0,100.0,,xx,Europe,Northern Europe,Republic of Estonia
@@ -247,9 +247,9 @@ FJI,2007,Basel,0.0,0.0,,Estimated,Oceania,Melanesia,Republic of Fiji
 FJI,2012,Basel,0.0,0.0,,Estimated,Oceania,Melanesia,Republic of Fiji
 FJI,2017,Basel,0.0,0.0,,Estimated,Oceania,Melanesia,Republic of Fiji
 FJI,2022,Basel,0.0,0.0,,Estimated,Oceania,Melanesia,Republic of Fiji
-FRA,2007,Basel,0.7,70.0,,Estimated,Europe,Western Europe,French Republic
-FRA,2012,Basel,0.7,70.0,,Estimated,Europe,Western Europe,French Republic
-FRA,2017,Basel,0.7,70.0,,xx,Europe,Western Europe,French Republic
+FRA,2007,Basel,0.9236334915818913,70.0,,Estimated,Europe,Western Europe,French Republic
+FRA,2012,Basel,0.9236334915818913,70.0,,Estimated,Europe,Western Europe,French Republic
+FRA,2017,Basel,0.9236334915818913,70.0,,xx,Europe,Western Europe,French Republic
 FRA,2022,Basel,1.0,100.0,,xx,Europe,Western Europe,French Republic
 FRO,2007,Basel,0.0,0.0,,Estimated,Europe,Northern Europe,Faroe Islands
 FRO,2012,Basel,0.0,0.0,,Estimated,Europe,Northern Europe,Faroe Islands
@@ -267,10 +267,10 @@ GBR,2007,Basel,1.0,100.0,,Estimated,Europe,Northern Europe,United Kingdom of Gre
 GBR,2012,Basel,1.0,100.0,,Estimated,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
 GBR,2017,Basel,1.0,100.0,,xx,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
 GBR,2022,Basel,1.0,100.0,,xx,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
-GEO,2007,Basel,0.92,92.0,,Estimated,Asia,Western Asia,Georgia
-GEO,2012,Basel,0.92,92.0,,Estimated,Asia,Western Asia,Georgia
-GEO,2017,Basel,0.92,92.0,,xx,Asia,Western Asia,Georgia
-GEO,2022,Basel,0.8,80.0,,xx,Asia,Western Asia,Georgia
+GEO,2007,Basel,0.9821194217167522,92.0,,Estimated,Asia,Western Asia,Georgia
+GEO,2012,Basel,0.9821194217167522,92.0,,Estimated,Asia,Western Asia,Georgia
+GEO,2017,Basel,0.9821194217167522,92.0,,xx,Asia,Western Asia,Georgia
+GEO,2022,Basel,0.9521851354989413,80.0,,xx,Asia,Western Asia,Georgia
 GHA,2007,Basel,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Ghana
 GHA,2012,Basel,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Ghana
 GHA,2017,Basel,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Ghana
@@ -295,10 +295,10 @@ GNQ,2007,Basel,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Equatorial Gu
 GNQ,2012,Basel,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
 GNQ,2017,Basel,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
 GNQ,2022,Basel,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Equatorial Guinea
-GRC,2007,Basel,0.92,92.0,,Estimated,Europe,Southern Europe,Hellenic Republic
-GRC,2012,Basel,0.92,92.0,,Estimated,Europe,Southern Europe,Hellenic Republic
-GRC,2017,Basel,0.92,92.0,,xx,Europe,Southern Europe,Hellenic Republic
-GRC,2022,Basel,0.8,80.0,,xx,Europe,Southern Europe,Hellenic Republic
+GRC,2007,Basel,0.9821194217167522,92.0,,Estimated,Europe,Southern Europe,Hellenic Republic
+GRC,2012,Basel,0.9821194217167522,92.0,,Estimated,Europe,Southern Europe,Hellenic Republic
+GRC,2017,Basel,0.9821194217167522,92.0,,xx,Europe,Southern Europe,Hellenic Republic
+GRC,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Southern Europe,Hellenic Republic
 GRD,2007,Basel,0.0,0.0,,Estimated,America,Caribbean,Grenada
 GRD,2012,Basel,0.0,0.0,,Estimated,America,Caribbean,Grenada
 GRD,2017,Basel,0.0,0.0,,Estimated,America,Caribbean,Grenada
@@ -351,9 +351,9 @@ IND,2007,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Republic of India
 IND,2012,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Republic of India
 IND,2017,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Republic of India
 IND,2022,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Republic of India
-IRL,2007,Basel,0.89998,89.998,,Estimated,Europe,Northern Europe,Ireland
-IRL,2012,Basel,0.89998,89.998,,Estimated,Europe,Northern Europe,Ireland
-IRL,2017,Basel,0.89998,89.998,,xx,Europe,Northern Europe,Ireland
+IRL,2007,Basel,0.9774040595023762,89.998,,Estimated,Europe,Northern Europe,Ireland
+IRL,2012,Basel,0.9774040595023762,89.998,,Estimated,Europe,Northern Europe,Ireland
+IRL,2017,Basel,0.9774040595023762,89.998,,xx,Europe,Northern Europe,Ireland
 IRL,2022,Basel,1.0,100.0,,xx,Europe,Northern Europe,Ireland
 IRN,2007,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Islamic Republic of Iran
 IRN,2012,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Islamic Republic of Iran
@@ -363,17 +363,17 @@ IRQ,2007,Basel,0.0,0.0,,Estimated,Asia,Western Asia,Republic of Iraq
 IRQ,2012,Basel,0.0,0.0,,Estimated,Asia,Western Asia,Republic of Iraq
 IRQ,2017,Basel,0.0,0.0,,Estimated,Asia,Western Asia,Republic of Iraq
 IRQ,2022,Basel,0.0,0.0,,Estimated,Asia,Western Asia,Republic of Iraq
-ISL,2007,Basel,0.51998,51.998,,Estimated,Europe,Northern Europe,Republic of Iceland
-ISL,2012,Basel,0.51998,51.998,,Estimated,Europe,Northern Europe,Republic of Iceland
-ISL,2017,Basel,0.51998,51.998,,xx,Europe,Northern Europe,Republic of Iceland
-ISL,2022,Basel,0.8,80.0,,xx,Europe,Northern Europe,Republic of Iceland
-ISR,2007,Basel,0.62,62.0,,Estimated,Asia,Western Asia,State of Israel
-ISR,2012,Basel,0.62,62.0,,Estimated,Asia,Western Asia,State of Israel
-ISR,2017,Basel,0.62,62.0,,xx,Asia,Western Asia,State of Israel
-ISR,2022,Basel,0.8,80.0,,xx,Asia,Western Asia,State of Israel
-ITA,2007,Basel,0.89998,89.998,,Estimated,Europe,Southern Europe,Italian Republic
-ITA,2012,Basel,0.89998,89.998,,Estimated,Europe,Southern Europe,Italian Republic
-ITA,2017,Basel,0.89998,89.998,,xx,Europe,Southern Europe,Italian Republic
+ISL,2007,Basel,0.8602709642149112,51.998,,Estimated,Europe,Northern Europe,Republic of Iceland
+ISL,2012,Basel,0.8602709642149112,51.998,,Estimated,Europe,Northern Europe,Republic of Iceland
+ISL,2017,Basel,0.8602709642149112,51.998,,xx,Europe,Northern Europe,Republic of Iceland
+ISL,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Northern Europe,Republic of Iceland
+ISR,2007,Basel,0.897730560073701,62.0,,Estimated,Asia,Western Asia,State of Israel
+ISR,2012,Basel,0.897730560073701,62.0,,Estimated,Asia,Western Asia,State of Israel
+ISR,2017,Basel,0.897730560073701,62.0,,xx,Asia,Western Asia,State of Israel
+ISR,2022,Basel,0.9521851354989413,80.0,,xx,Asia,Western Asia,State of Israel
+ITA,2007,Basel,0.9774040595023762,89.998,,Estimated,Europe,Southern Europe,Italian Republic
+ITA,2012,Basel,0.9774040595023762,89.998,,Estimated,Europe,Southern Europe,Italian Republic
+ITA,2017,Basel,0.9774040595023762,89.998,,xx,Europe,Southern Europe,Italian Republic
 ITA,2022,Basel,1.0,100.0,,xx,Europe,Southern Europe,Italian Republic
 JAM,2007,Basel,0.0,0.0,,Estimated,America,Caribbean,Jamaica
 JAM,2012,Basel,0.0,0.0,,Estimated,America,Caribbean,Jamaica
@@ -387,10 +387,10 @@ JPN,2007,Basel,0.0,0.0,,Estimated,Asia,Eastern Asia,Japan
 JPN,2012,Basel,0.0,0.0,,Estimated,Asia,Eastern Asia,Japan
 JPN,2017,Basel,0.0,0.0,,Estimated,Asia,Eastern Asia,Japan
 JPN,2022,Basel,0.0,0.0,,Estimated,Asia,Eastern Asia,Japan
-KAZ,2007,Basel,0.43998,43.998,,Estimated,Asia,Central Asia,Republic of Kazakhstan
-KAZ,2012,Basel,0.43998,43.998,,Estimated,Asia,Central Asia,Republic of Kazakhstan
-KAZ,2017,Basel,0.43998,43.998,,xx,Asia,Central Asia,Republic of Kazakhstan
-KAZ,2022,Basel,0.6,60.0,,xx,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2007,Basel,0.8248144399365688,43.998,,Estimated,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2012,Basel,0.8248144399365688,43.998,,Estimated,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2017,Basel,0.8248144399365688,43.998,,xx,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2022,Basel,0.8907403066013385,60.0,,xx,Asia,Central Asia,Republic of Kazakhstan
 KEN,2007,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Kenya
 KEN,2012,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Kenya
 KEN,2017,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Kenya
@@ -439,10 +439,10 @@ LCA,2007,Basel,0.0,0.0,,Estimated,America,Caribbean,Saint Lucia
 LCA,2012,Basel,0.0,0.0,,Estimated,America,Caribbean,Saint Lucia
 LCA,2017,Basel,0.0,0.0,,Estimated,America,Caribbean,Saint Lucia
 LCA,2022,Basel,0.0,0.0,,Estimated,America,Caribbean,Saint Lucia
-LIE,2007,Basel,0.38,38.0,,Estimated,Europe,Western Europe,Principality of Liechtenstein
-LIE,2012,Basel,0.38,38.0,,Estimated,Europe,Western Europe,Principality of Liechtenstein
-LIE,2017,Basel,0.38,38.0,,xx,Europe,Western Europe,Principality of Liechtenstein
-LIE,2022,Basel,0.2,20.0,,xx,Europe,Western Europe,Principality of Liechtenstein
+LIE,2007,Basel,0.7938171132824736,38.0,,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LIE,2012,Basel,0.7938171132824736,38.0,,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LIE,2017,Basel,0.7938171132824736,38.0,,xx,Europe,Western Europe,Principality of Liechtenstein
+LIE,2022,Basel,0.6596842761989657,20.0,,xx,Europe,Western Europe,Principality of Liechtenstein
 LKA,2007,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
 LKA,2012,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
 LKA,2017,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
@@ -455,10 +455,10 @@ LTU,2007,Basel,1.0,100.0,,Estimated,Europe,Northern Europe,Republic of Lithuania
 LTU,2012,Basel,1.0,100.0,,Estimated,Europe,Northern Europe,Republic of Lithuania
 LTU,2017,Basel,1.0,100.0,,xx,Europe,Northern Europe,Republic of Lithuania
 LTU,2022,Basel,1.0,100.0,,xx,Europe,Northern Europe,Republic of Lithuania
-LUX,2007,Basel,0.7399800000000001,73.998,,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
-LUX,2012,Basel,0.7399800000000001,73.998,,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
-LUX,2017,Basel,0.7399800000000001,73.998,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
-LUX,2022,Basel,0.6,60.0,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2007,Basel,0.935503510852864,73.998,,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2012,Basel,0.935503510852864,73.998,,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2017,Basel,0.935503510852864,73.998,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2022,Basel,0.8907403066013385,60.0,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
 LVA,2007,Basel,1.0,100.0,,Estimated,Europe,Northern Europe,Republic of Latvia
 LVA,2012,Basel,1.0,100.0,,Estimated,Europe,Northern Europe,Republic of Latvia
 LVA,2017,Basel,1.0,100.0,,xx,Europe,Northern Europe,Republic of Latvia
@@ -475,14 +475,14 @@ MAR,2007,Basel,0.0,0.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
 MAR,2012,Basel,0.0,0.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
 MAR,2017,Basel,0.0,0.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
 MAR,2022,Basel,0.0,0.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
-MCO,2007,Basel,0.18002,18.002000000000002,,Estimated,Europe,Western Europe,Principality of Monaco
-MCO,2012,Basel,0.18002,18.002000000000002,,Estimated,Europe,Western Europe,Principality of Monaco
-MCO,2017,Basel,0.18002,18.002000000000002,,xx,Europe,Western Europe,Principality of Monaco
-MCO,2022,Basel,0.2,20.0,,xx,Europe,Western Europe,Principality of Monaco
-MDA,2007,Basel,0.35997999999999997,35.998,,Estimated,Europe,Eastern Europe,Republic of Moldova
-MDA,2012,Basel,0.35997999999999997,35.998,,Estimated,Europe,Eastern Europe,Republic of Moldova
-MDA,2017,Basel,0.35997999999999997,35.998,,xx,Europe,Eastern Europe,Republic of Moldova
-MDA,2022,Basel,0.4,40.0,,xx,Europe,Eastern Europe,Republic of Moldova
+MCO,2007,Basel,0.6380210930656044,18.002000000000002,,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2012,Basel,0.6380210930656044,18.002000000000002,,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2017,Basel,0.6380210930656044,18.002000000000002,,xx,Europe,Western Europe,Principality of Monaco
+MCO,2022,Basel,0.6596842761989657,20.0,,xx,Europe,Western Europe,Principality of Monaco
+MDA,2007,Basel,0.7823986056166072,35.998,,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDA,2012,Basel,0.7823986056166072,35.998,,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDA,2017,Basel,0.7823986056166072,35.998,,xx,Europe,Eastern Europe,Republic of Moldova
+MDA,2022,Basel,0.8046533244696281,40.0,,xx,Europe,Eastern Europe,Republic of Moldova
 MDG,2007,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Madagascar
 MDG,2012,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Madagascar
 MDG,2017,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Madagascar
@@ -499,18 +499,18 @@ MHL,2007,Basel,0.0,0.0,,Estimated,Oceania,Micronesia,Republic of the Marshall Is
 MHL,2012,Basel,0.0,0.0,,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
 MHL,2017,Basel,0.0,0.0,,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
 MHL,2022,Basel,0.0,0.0,,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
-MKD,2007,Basel,0.18002,18.002000000000002,,Estimated,Europe,Southern Europe,Republic of North Macedonia
-MKD,2012,Basel,0.18002,18.002000000000002,,Estimated,Europe,Southern Europe,Republic of North Macedonia
-MKD,2017,Basel,0.18002,18.002000000000002,,xx,Europe,Southern Europe,Republic of North Macedonia
-MKD,2022,Basel,0.2,20.0,,xx,Europe,Southern Europe,Republic of North Macedonia
+MKD,2007,Basel,0.6380210930656044,18.002000000000002,,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MKD,2012,Basel,0.6380210930656044,18.002000000000002,,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MKD,2017,Basel,0.6380210930656044,18.002000000000002,,xx,Europe,Southern Europe,Republic of North Macedonia
+MKD,2022,Basel,0.6596842761989657,20.0,,xx,Europe,Southern Europe,Republic of North Macedonia
 MLI,2007,Basel,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Mali
 MLI,2012,Basel,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Mali
 MLI,2017,Basel,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Mali
 MLI,2022,Basel,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Mali
-MLT,2007,Basel,0.92,92.0,,Estimated,Europe,Southern Europe,Republic of Malta
-MLT,2012,Basel,0.92,92.0,,Estimated,Europe,Southern Europe,Republic of Malta
-MLT,2017,Basel,0.92,92.0,,xx,Europe,Southern Europe,Republic of Malta
-MLT,2022,Basel,0.8,80.0,,xx,Europe,Southern Europe,Republic of Malta
+MLT,2007,Basel,0.9821194217167522,92.0,,Estimated,Europe,Southern Europe,Republic of Malta
+MLT,2012,Basel,0.9821194217167522,92.0,,Estimated,Europe,Southern Europe,Republic of Malta
+MLT,2017,Basel,0.9821194217167522,92.0,,xx,Europe,Southern Europe,Republic of Malta
+MLT,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Southern Europe,Republic of Malta
 MMR,2007,Basel,0.0,0.0,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
 MMR,2012,Basel,0.0,0.0,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
 MMR,2017,Basel,0.0,0.0,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
@@ -567,14 +567,14 @@ NIC,2007,Basel,0.0,0.0,,Estimated,America,Central America,Republic of Nicaragua
 NIC,2012,Basel,0.0,0.0,,Estimated,America,Central America,Republic of Nicaragua
 NIC,2017,Basel,0.0,0.0,,Estimated,America,Central America,Republic of Nicaragua
 NIC,2022,Basel,0.0,0.0,,Estimated,America,Central America,Republic of Nicaragua
-NLD,2007,Basel,0.5600200000000001,56.002,,Estimated,Europe,Western Europe,Kingdom of the Netherlands
-NLD,2012,Basel,0.5600200000000001,56.002,,Estimated,Europe,Western Europe,Kingdom of the Netherlands
-NLD,2017,Basel,0.5600200000000001,56.002,,xx,Europe,Western Europe,Kingdom of the Netherlands
-NLD,2022,Basel,0.4,40.0,,xx,Europe,Western Europe,Kingdom of the Netherlands
-NOR,2007,Basel,0.92,92.0,,Estimated,Europe,Northern Europe,Kingdom of Norway
-NOR,2012,Basel,0.92,92.0,,Estimated,Europe,Northern Europe,Kingdom of Norway
-NOR,2017,Basel,0.92,92.0,,xx,Europe,Northern Europe,Kingdom of Norway
-NOR,2022,Basel,0.8,80.0,,xx,Europe,Northern Europe,Kingdom of Norway
+NLD,2007,Basel,0.8760521724588701,56.002,,Estimated,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2012,Basel,0.8760521724588701,56.002,,Estimated,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2017,Basel,0.8760521724588701,56.002,,xx,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2022,Basel,0.8046533244696281,40.0,,xx,Europe,Western Europe,Kingdom of the Netherlands
+NOR,2007,Basel,0.9821194217167522,92.0,,Estimated,Europe,Northern Europe,Kingdom of Norway
+NOR,2012,Basel,0.9821194217167522,92.0,,Estimated,Europe,Northern Europe,Kingdom of Norway
+NOR,2017,Basel,0.9821194217167522,92.0,,xx,Europe,Northern Europe,Kingdom of Norway
+NOR,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Northern Europe,Kingdom of Norway
 NPL,2007,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
 NPL,2012,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
 NPL,2017,Basel,0.0,0.0,,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
@@ -647,14 +647,14 @@ QAT,2007,Basel,0.0,0.0,,Estimated,Asia,Western Asia,State of Qatar
 QAT,2012,Basel,0.0,0.0,,Estimated,Asia,Western Asia,State of Qatar
 QAT,2017,Basel,0.0,0.0,,Estimated,Asia,Western Asia,State of Qatar
 QAT,2022,Basel,0.0,0.0,,Estimated,Asia,Western Asia,State of Qatar
-ROU,2007,Basel,0.46,46.0,,Estimated,Europe,Eastern Europe,Romania
-ROU,2012,Basel,0.46,46.0,,Estimated,Europe,Eastern Europe,Romania
-ROU,2017,Basel,0.46,46.0,,xx,Europe,Eastern Europe,Romania
-ROU,2022,Basel,0.4,40.0,,xx,Europe,Eastern Europe,Romania
-RUS,2007,Basel,0.84,84.0,,Estimated,Europe,Eastern Europe,Russian Federation
-RUS,2012,Basel,0.84,84.0,,Estimated,Europe,Eastern Europe,Russian Federation
-RUS,2017,Basel,0.84,84.0,,xx,Europe,Eastern Europe,Russian Federation
-RUS,2022,Basel,0.6,60.0,,xx,Europe,Eastern Europe,Russian Federation
+ROU,2007,Basel,0.8342463837423744,46.0,,Estimated,Europe,Eastern Europe,Romania
+ROU,2012,Basel,0.8342463837423744,46.0,,Estimated,Europe,Eastern Europe,Romania
+ROU,2017,Basel,0.8342463837423744,46.0,,xx,Europe,Eastern Europe,Romania
+ROU,2022,Basel,0.8046533244696281,40.0,,xx,Europe,Eastern Europe,Romania
+RUS,2007,Basel,0.9626295218680472,84.0,,Estimated,Europe,Eastern Europe,Russian Federation
+RUS,2012,Basel,0.9626295218680472,84.0,,Estimated,Europe,Eastern Europe,Russian Federation
+RUS,2017,Basel,0.9626295218680472,84.0,,xx,Europe,Eastern Europe,Russian Federation
+RUS,2022,Basel,0.8907403066013385,60.0,,xx,Europe,Eastern Europe,Russian Federation
 RWA,2007,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Rwanda
 RWA,2012,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Rwanda
 RWA,2017,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Rwanda
@@ -695,10 +695,10 @@ SOM,2007,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Republic of Soma
 SOM,2012,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
 SOM,2017,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
 SOM,2022,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
-SRB,2007,Basel,0.92,92.0,,Estimated,Europe,Southern Europe,Republic of Serbia
-SRB,2012,Basel,0.92,92.0,,Estimated,Europe,Southern Europe,Republic of Serbia
-SRB,2017,Basel,0.92,92.0,,xx,Europe,Southern Europe,Republic of Serbia
-SRB,2022,Basel,0.8,80.0,,xx,Europe,Southern Europe,Republic of Serbia
+SRB,2007,Basel,0.9821194217167522,92.0,,Estimated,Europe,Southern Europe,Republic of Serbia
+SRB,2012,Basel,0.9821194217167522,92.0,,Estimated,Europe,Southern Europe,Republic of Serbia
+SRB,2017,Basel,0.9821194217167522,92.0,,xx,Europe,Southern Europe,Republic of Serbia
+SRB,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Southern Europe,Republic of Serbia
 SSD,2007,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of South Sudan
 SSD,2012,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of South Sudan
 SSD,2017,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of South Sudan
@@ -715,14 +715,14 @@ SVK,2007,Basel,1.0,100.0,,Estimated,Europe,Eastern Europe,Slovak Republic
 SVK,2012,Basel,1.0,100.0,,Estimated,Europe,Eastern Europe,Slovak Republic
 SVK,2017,Basel,1.0,100.0,,xx,Europe,Eastern Europe,Slovak Republic
 SVK,2022,Basel,1.0,100.0,,xx,Europe,Eastern Europe,Slovak Republic
-SVN,2007,Basel,0.92,92.0,,Estimated,Europe,Southern Europe,Republic of Slovenia
-SVN,2012,Basel,0.92,92.0,,Estimated,Europe,Southern Europe,Republic of Slovenia
-SVN,2017,Basel,0.92,92.0,,xx,Europe,Southern Europe,Republic of Slovenia
-SVN,2022,Basel,0.8,80.0,,xx,Europe,Southern Europe,Republic of Slovenia
-SWE,2007,Basel,0.92,92.0,,Estimated,Europe,Northern Europe,Kingdom of Sweden
-SWE,2012,Basel,0.92,92.0,,Estimated,Europe,Northern Europe,Kingdom of Sweden
-SWE,2017,Basel,0.92,92.0,,xx,Europe,Northern Europe,Kingdom of Sweden
-SWE,2022,Basel,0.8,80.0,,xx,Europe,Northern Europe,Kingdom of Sweden
+SVN,2007,Basel,0.9821194217167522,92.0,,Estimated,Europe,Southern Europe,Republic of Slovenia
+SVN,2012,Basel,0.9821194217167522,92.0,,Estimated,Europe,Southern Europe,Republic of Slovenia
+SVN,2017,Basel,0.9821194217167522,92.0,,xx,Europe,Southern Europe,Republic of Slovenia
+SVN,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Southern Europe,Republic of Slovenia
+SWE,2007,Basel,0.9821194217167522,92.0,,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWE,2012,Basel,0.9821194217167522,92.0,,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWE,2017,Basel,0.9821194217167522,92.0,,xx,Europe,Northern Europe,Kingdom of Sweden
+SWE,2022,Basel,0.9521851354989413,80.0,,xx,Europe,Northern Europe,Kingdom of Sweden
 SWZ,2007,Basel,0.0,0.0,,Estimated,Africa,Southern Africa,Kingdom of Eswatini
 SWZ,2012,Basel,0.0,0.0,,Estimated,Africa,Southern Africa,Kingdom of Eswatini
 SWZ,2017,Basel,0.0,0.0,,Estimated,Africa,Southern Africa,Kingdom of Eswatini
@@ -755,14 +755,14 @@ THA,2007,Basel,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
 THA,2012,Basel,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
 THA,2017,Basel,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
 THA,2022,Basel,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
-TJK,2007,Basel,0.18002,18.002000000000002,,Estimated,Asia,Central Asia,Republic of Tajikistan
-TJK,2012,Basel,0.18002,18.002000000000002,,Estimated,Asia,Central Asia,Republic of Tajikistan
-TJK,2017,Basel,0.18002,18.002000000000002,,xx,Asia,Central Asia,Republic of Tajikistan
-TJK,2022,Basel,0.2,20.0,,xx,Asia,Central Asia,Republic of Tajikistan
-TKM,2007,Basel,0.18002,18.002000000000002,,Estimated,Asia,Central Asia,Turkmenistan
-TKM,2012,Basel,0.18002,18.002000000000002,,Estimated,Asia,Central Asia,Turkmenistan
-TKM,2017,Basel,0.18002,18.002000000000002,,xx,Asia,Central Asia,Turkmenistan
-TKM,2022,Basel,0.2,20.0,,xx,Asia,Central Asia,Turkmenistan
+TJK,2007,Basel,0.6380210930656044,18.002000000000002,,Estimated,Asia,Central Asia,Republic of Tajikistan
+TJK,2012,Basel,0.6380210930656044,18.002000000000002,,Estimated,Asia,Central Asia,Republic of Tajikistan
+TJK,2017,Basel,0.6380210930656044,18.002000000000002,,xx,Asia,Central Asia,Republic of Tajikistan
+TJK,2022,Basel,0.6596842761989657,20.0,,xx,Asia,Central Asia,Republic of Tajikistan
+TKM,2007,Basel,0.6380210930656044,18.002000000000002,,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2012,Basel,0.6380210930656044,18.002000000000002,,Estimated,Asia,Central Asia,Turkmenistan
+TKM,2017,Basel,0.6380210930656044,18.002000000000002,,xx,Asia,Central Asia,Turkmenistan
+TKM,2022,Basel,0.6596842761989657,20.0,,xx,Asia,Central Asia,Turkmenistan
 TLS,2007,Basel,0.0,0.0,,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
 TLS,2012,Basel,0.0,0.0,,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
 TLS,2017,Basel,0.0,0.0,,Estimated,Asia,South-eastern Asia,Democratic Republic of Timor-Leste
@@ -779,9 +779,9 @@ TUN,2007,Basel,0.0,0.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
 TUN,2012,Basel,0.0,0.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
 TUN,2017,Basel,0.0,0.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
 TUN,2022,Basel,0.0,0.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
-TUR,2007,Basel,0.7,70.0,,Estimated,Asia,Western Asia,Republic of Türkiye
-TUR,2012,Basel,0.7,70.0,,Estimated,Asia,Western Asia,Republic of Türkiye
-TUR,2017,Basel,0.7,70.0,,xx,Asia,Western Asia,Republic of Türkiye
+TUR,2007,Basel,0.9236334915818913,70.0,,Estimated,Asia,Western Asia,Republic of Türkiye
+TUR,2012,Basel,0.9236334915818913,70.0,,Estimated,Asia,Western Asia,Republic of Türkiye
+TUR,2017,Basel,0.9236334915818913,70.0,,xx,Asia,Western Asia,Republic of Türkiye
 TUR,2022,Basel,1.0,100.0,,xx,Asia,Western Asia,Republic of Türkiye
 TUV,2007,Basel,0.0,0.0,,Estimated,Oceania,Polynesia,Tuvalu
 TUV,2012,Basel,0.0,0.0,,Estimated,Oceania,Polynesia,Tuvalu
@@ -795,22 +795,22 @@ UGA,2007,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Uganda
 UGA,2012,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Uganda
 UGA,2017,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Uganda
 UGA,2022,Basel,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Uganda
-UKR,2007,Basel,0.5600200000000001,56.002,,Estimated,Europe,Eastern Europe,Ukraine
-UKR,2012,Basel,0.5600200000000001,56.002,,Estimated,Europe,Eastern Europe,Ukraine
-UKR,2017,Basel,0.5600200000000001,56.002,,xx,Europe,Eastern Europe,Ukraine
-UKR,2022,Basel,0.4,40.0,,xx,Europe,Eastern Europe,Ukraine
+UKR,2007,Basel,0.8760521724588701,56.002,,Estimated,Europe,Eastern Europe,Ukraine
+UKR,2012,Basel,0.8760521724588701,56.002,,Estimated,Europe,Eastern Europe,Ukraine
+UKR,2017,Basel,0.8760521724588701,56.002,,xx,Europe,Eastern Europe,Ukraine
+UKR,2022,Basel,0.8046533244696281,40.0,,xx,Europe,Eastern Europe,Ukraine
 URY,2007,Basel,0.0,0.0,,Estimated,America,South America,Oriental Republic of Uruguay
 URY,2012,Basel,0.0,0.0,,Estimated,America,South America,Oriental Republic of Uruguay
 URY,2017,Basel,0.0,0.0,,Estimated,America,South America,Oriental Republic of Uruguay
 URY,2022,Basel,0.0,0.0,,Estimated,America,South America,Oriental Republic of Uruguay
-USA,2007,Basel,0.16670000000000001,16.67,,Estimated,America,Northern America,United States of America
-USA,2012,Basel,0.16670000000000001,16.67,,Estimated,America,Northern America,United States of America
-USA,2017,Basel,0.16670000000000001,16.67,,xx,America,Northern America,United States of America
-USA,2022,Basel,0.16670000000000001,16.67,,xx,America,Northern America,United States of America
-UZB,2007,Basel,0.48002,48.002,,Estimated,Asia,Central Asia,Republic of Uzbekistan
-UZB,2012,Basel,0.48002,48.002,,Estimated,Asia,Central Asia,Republic of Uzbekistan
-UZB,2017,Basel,0.48002,48.002,,xx,Asia,Central Asia,Republic of Uzbekistan
-UZB,2022,Basel,0.2,20.0,,xx,Asia,Central Asia,Republic of Uzbekistan
+USA,2007,Basel,0.6222737360490872,16.67,,Estimated,America,Northern America,United States of America
+USA,2012,Basel,0.6222737360490872,16.67,,Estimated,America,Northern America,United States of America
+USA,2017,Basel,0.6222737360490872,16.67,,xx,America,Northern America,United States of America
+USA,2022,Basel,0.6222737360490872,16.67,,xx,America,Northern America,United States of America
+UZB,2007,Basel,0.8432848285114581,48.002,,Estimated,Asia,Central Asia,Republic of Uzbekistan
+UZB,2012,Basel,0.8432848285114581,48.002,,Estimated,Asia,Central Asia,Republic of Uzbekistan
+UZB,2017,Basel,0.8432848285114581,48.002,,xx,Asia,Central Asia,Republic of Uzbekistan
+UZB,2022,Basel,0.6596842761989657,20.0,,xx,Asia,Central Asia,Republic of Uzbekistan
 VCT,2007,Basel,0.0,0.0,,Estimated,America,Caribbean,Saint Vincent and the Grenadines
 VCT,2012,Basel,0.0,0.0,,Estimated,America,Caribbean,Saint Vincent and the Grenadines
 VCT,2017,Basel,0.0,0.0,,Estimated,America,Caribbean,Saint Vincent and the Grenadines

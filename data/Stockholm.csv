@@ -7,10 +7,10 @@ AGO,2007,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Angola
 AGO,2012,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Angola
 AGO,2017,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Angola
 AGO,2022,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Republic of Angola
-ALB,2007,Stockholm,0.6,60.0,,Estimated,Europe,Southern Europe,Republic of Albania
-ALB,2012,Stockholm,0.6,60.0,,Estimated,Europe,Southern Europe,Republic of Albania
-ALB,2017,Stockholm,0.6,60.0,,xx,Europe,Southern Europe,Republic of Albania
-ALB,2022,Stockholm,0.75,75.0,,xx,Europe,Southern Europe,Republic of Albania
+ALB,2007,Stockholm,0.8907403066013385,60.0,,Estimated,Europe,Southern Europe,Republic of Albania
+ALB,2012,Stockholm,0.8907403066013385,60.0,,Estimated,Europe,Southern Europe,Republic of Albania
+ALB,2017,Stockholm,0.8907403066013385,60.0,,xx,Europe,Southern Europe,Republic of Albania
+ALB,2022,Stockholm,0.9383792523906672,75.0,,xx,Europe,Southern Europe,Republic of Albania
 AND,2007,Stockholm,0.0,0.0,,Estimated,Europe,Southern Europe,Principality of Andorra
 AND,2012,Stockholm,0.0,0.0,,Estimated,Europe,Southern Europe,Principality of Andorra
 AND,2017,Stockholm,0.0,0.0,,Estimated,Europe,Southern Europe,Principality of Andorra
@@ -23,10 +23,10 @@ ARG,2007,Stockholm,0.0,0.0,,Estimated,America,South America,Argentine Republic
 ARG,2012,Stockholm,0.0,0.0,,Estimated,America,South America,Argentine Republic
 ARG,2017,Stockholm,0.0,0.0,,Estimated,America,South America,Argentine Republic
 ARG,2022,Stockholm,0.0,0.0,,Estimated,America,South America,Argentine Republic
-ARM,2007,Stockholm,0.6500199999999999,65.002,,Estimated,Asia,Western Asia,Republic of Armenia
-ARM,2012,Stockholm,0.6500199999999999,65.002,,Estimated,Asia,Western Asia,Republic of Armenia
-ARM,2017,Stockholm,0.6500199999999999,65.002,,xx,Asia,Western Asia,Republic of Armenia
-ARM,2022,Stockholm,0.625,62.5,,xx,Asia,Western Asia,Republic of Armenia
+ARM,2007,Stockholm,0.9078170395136635,65.002,,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2012,Stockholm,0.9078170395136635,65.002,,Estimated,Asia,Western Asia,Republic of Armenia
+ARM,2017,Stockholm,0.9078170395136635,65.002,,xx,Asia,Western Asia,Republic of Armenia
+ARM,2022,Stockholm,0.899443446980612,62.5,,xx,Asia,Western Asia,Republic of Armenia
 ASM,2007,Stockholm,0.0,0.0,,Estimated,Oceania,Polynesia,American Samoa
 ASM,2012,Stockholm,0.0,0.0,,Estimated,Oceania,Polynesia,American Samoa
 ASM,2017,Stockholm,0.0,0.0,,Estimated,Oceania,Polynesia,American Samoa
@@ -39,22 +39,22 @@ AUS,2007,Stockholm,0.0,0.0,,Estimated,Oceania,Australia and New Zealand,Commonwe
 AUS,2012,Stockholm,0.0,0.0,,Estimated,Oceania,Australia and New Zealand,Commonwealth of Australia
 AUS,2017,Stockholm,0.0,0.0,,Estimated,Oceania,Australia and New Zealand,Commonwealth of Australia
 AUS,2022,Stockholm,0.0,0.0,,Estimated,Oceania,Australia and New Zealand,Commonwealth of Australia
-AUT,2007,Stockholm,0.8,80.0,,Estimated,Europe,Western Europe,Republic of Austria
-AUT,2012,Stockholm,0.8,80.0,,Estimated,Europe,Western Europe,Republic of Austria
-AUT,2017,Stockholm,0.8,80.0,,xx,Europe,Western Europe,Republic of Austria
-AUT,2022,Stockholm,0.5,50.0,,xx,Europe,Western Europe,Republic of Austria
-AZE,2007,Stockholm,0.45,45.0,,Estimated,Asia,Western Asia,Republic of Azerbaijan
-AZE,2012,Stockholm,0.45,45.0,,Estimated,Asia,Western Asia,Republic of Azerbaijan
-AZE,2017,Stockholm,0.45,45.0,,xx,Asia,Western Asia,Republic of Azerbaijan
-AZE,2022,Stockholm,0.375,37.5,,xx,Asia,Western Asia,Republic of Azerbaijan
+AUT,2007,Stockholm,0.9521851354989413,80.0,,Estimated,Europe,Western Europe,Republic of Austria
+AUT,2012,Stockholm,0.9521851354989413,80.0,,Estimated,Europe,Western Europe,Republic of Austria
+AUT,2017,Stockholm,0.9521851354989413,80.0,,xx,Europe,Western Europe,Republic of Austria
+AUT,2022,Stockholm,0.8519443031609923,50.0,,xx,Europe,Western Europe,Republic of Austria
+AZE,2007,Stockholm,0.8295864392961818,45.0,,Estimated,Asia,Western Asia,Republic of Azerbaijan
+AZE,2012,Stockholm,0.8295864392961818,45.0,,Estimated,Asia,Western Asia,Republic of Azerbaijan
+AZE,2017,Stockholm,0.8295864392961818,45.0,,xx,Asia,Western Asia,Republic of Azerbaijan
+AZE,2022,Stockholm,0.7910212155829831,37.5,,xx,Asia,Western Asia,Republic of Azerbaijan
 BDI,2007,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Burundi
 BDI,2012,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Burundi
 BDI,2017,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Burundi
 BDI,2022,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Burundi
-BEL,2007,Stockholm,0.95,95.0,,Estimated,Europe,Western Europe,Kingdom of Belgium
-BEL,2012,Stockholm,0.95,95.0,,Estimated,Europe,Western Europe,Kingdom of Belgium
-BEL,2017,Stockholm,0.95,95.0,,xx,Europe,Western Europe,Kingdom of Belgium
-BEL,2022,Stockholm,0.875,87.5,,xx,Europe,Western Europe,Kingdom of Belgium
+BEL,2007,Stockholm,0.9889986999931751,95.0,,Estimated,Europe,Western Europe,Kingdom of Belgium
+BEL,2012,Stockholm,0.9889986999931751,95.0,,Estimated,Europe,Western Europe,Kingdom of Belgium
+BEL,2017,Stockholm,0.9889986999931751,95.0,,xx,Europe,Western Europe,Kingdom of Belgium
+BEL,2022,Stockholm,0.9713728028671714,87.5,,xx,Europe,Western Europe,Kingdom of Belgium
 BEN,2007,Stockholm,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Benin
 BEN,2012,Stockholm,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Benin
 BEN,2017,Stockholm,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Benin
@@ -67,10 +67,10 @@ BGD,2007,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,People's Republic of Ba
 BGD,2012,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,People's Republic of Bangladesh
 BGD,2017,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,People's Republic of Bangladesh
 BGD,2022,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,People's Republic of Bangladesh
-BGR,2007,Stockholm,0.85,85.0,,Estimated,Europe,Eastern Europe,Republic of Bulgaria
-BGR,2012,Stockholm,0.85,85.0,,Estimated,Europe,Eastern Europe,Republic of Bulgaria
-BGR,2017,Stockholm,0.85,85.0,,xx,Europe,Eastern Europe,Republic of Bulgaria
-BGR,2022,Stockholm,0.625,62.5,,xx,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2007,Stockholm,0.9651638088320625,85.0,,Estimated,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2012,Stockholm,0.9651638088320625,85.0,,Estimated,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2017,Stockholm,0.9651638088320625,85.0,,xx,Europe,Eastern Europe,Republic of Bulgaria
+BGR,2022,Stockholm,0.899443446980612,62.5,,xx,Europe,Eastern Europe,Republic of Bulgaria
 BHR,2007,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,Kingdom of Bahrain
 BHR,2012,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,Kingdom of Bahrain
 BHR,2017,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,Kingdom of Bahrain
@@ -79,14 +79,14 @@ BHS,2007,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of the Baha
 BHS,2012,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of the Bahamas
 BHS,2017,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of the Bahamas
 BHS,2022,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of the Bahamas
-BIH,2007,Stockholm,0.44998,44.998,,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
-BIH,2012,Stockholm,0.44998,44.998,,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
-BIH,2017,Stockholm,0.44998,44.998,,xx,Europe,Southern Europe,Bosnia and Herzegovina
-BIH,2022,Stockholm,0.625,62.5,,xx,Europe,Southern Europe,Bosnia and Herzegovina
-BLR,2007,Stockholm,0.50002,50.002,,Estimated,Europe,Eastern Europe,Republic of Belarus
-BLR,2012,Stockholm,0.50002,50.002,,Estimated,Europe,Eastern Europe,Republic of Belarus
-BLR,2017,Stockholm,0.50002,50.002,,xx,Europe,Eastern Europe,Republic of Belarus
-BLR,2022,Stockholm,0.25,25.0,,xx,Europe,Eastern Europe,Republic of Belarus
+BIH,2007,Stockholm,0.8295770182624476,44.998,,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2012,Stockholm,0.8295770182624476,44.998,,Estimated,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2017,Stockholm,0.8295770182624476,44.998,,xx,Europe,Southern Europe,Bosnia and Herzegovina
+BIH,2022,Stockholm,0.899443446980612,62.5,,xx,Europe,Southern Europe,Bosnia and Herzegovina
+BLR,2007,Stockholm,0.851952800212633,50.002,,Estimated,Europe,Eastern Europe,Republic of Belarus
+BLR,2012,Stockholm,0.851952800212633,50.002,,Estimated,Europe,Eastern Europe,Republic of Belarus
+BLR,2017,Stockholm,0.851952800212633,50.002,,xx,Europe,Eastern Europe,Republic of Belarus
+BLR,2022,Stockholm,0.7059613126314263,25.0,,xx,Europe,Eastern Europe,Republic of Belarus
 BLZ,2007,Stockholm,0.0,0.0,,Estimated,America,Central America,Belize
 BLZ,2012,Stockholm,0.0,0.0,,Estimated,America,Central America,Belize
 BLZ,2017,Stockholm,0.0,0.0,,Estimated,America,Central America,Belize
@@ -123,14 +123,14 @@ CAF,2007,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Central African Repub
 CAF,2012,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Central African Republic
 CAF,2017,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Central African Republic
 CAF,2022,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Central African Republic
-CAN,2007,Stockholm,0.89998,89.998,,Estimated,America,Northern America,Canada
-CAN,2012,Stockholm,0.89998,89.998,,Estimated,America,Northern America,Canada
-CAN,2017,Stockholm,0.89998,89.998,,xx,America,Northern America,Canada
+CAN,2007,Stockholm,0.9774040595023762,89.998,,Estimated,America,Northern America,Canada
+CAN,2012,Stockholm,0.9774040595023762,89.998,,Estimated,America,Northern America,Canada
+CAN,2017,Stockholm,0.9774040595023762,89.998,,xx,America,Northern America,Canada
 CAN,2022,Stockholm,1.0,100.0,,xx,America,Northern America,Canada
-CHE,2007,Stockholm,0.8,80.0,,Estimated,Europe,Western Europe,Swiss Confederation
-CHE,2012,Stockholm,0.8,80.0,,Estimated,Europe,Western Europe,Swiss Confederation
-CHE,2017,Stockholm,0.8,80.0,,xx,Europe,Western Europe,Swiss Confederation
-CHE,2022,Stockholm,0.5,50.0,,xx,Europe,Western Europe,Swiss Confederation
+CHE,2007,Stockholm,0.9521851354989413,80.0,,Estimated,Europe,Western Europe,Swiss Confederation
+CHE,2012,Stockholm,0.9521851354989413,80.0,,Estimated,Europe,Western Europe,Swiss Confederation
+CHE,2017,Stockholm,0.9521851354989413,80.0,,xx,Europe,Western Europe,Swiss Confederation
+CHE,2022,Stockholm,0.8519443031609923,50.0,,xx,Europe,Western Europe,Swiss Confederation
 CHL,2007,Stockholm,0.0,0.0,,Estimated,America,South America,Republic of Chile
 CHL,2012,Stockholm,0.0,0.0,,Estimated,America,South America,Republic of Chile
 CHL,2017,Stockholm,0.0,0.0,,Estimated,America,South America,Republic of Chile
@@ -187,14 +187,14 @@ CYP,2007,Stockholm,1.0,100.0,,Estimated,Asia,Western Asia,Republic of Cyprus
 CYP,2012,Stockholm,1.0,100.0,,Estimated,Asia,Western Asia,Republic of Cyprus
 CYP,2017,Stockholm,1.0,100.0,,xx,Asia,Western Asia,Republic of Cyprus
 CYP,2022,Stockholm,1.0,100.0,,xx,Asia,Western Asia,Republic of Cyprus
-CZE,2007,Stockholm,0.7500199999999999,75.002,,Estimated,Europe,Eastern Europe,Czech Republic
-CZE,2012,Stockholm,0.7500199999999999,75.002,,Estimated,Europe,Eastern Europe,Czech Republic
-CZE,2017,Stockholm,0.7500199999999999,75.002,,xx,Europe,Eastern Europe,Czech Republic
-CZE,2022,Stockholm,0.875,87.5,,xx,Europe,Eastern Europe,Czech Republic
-DEU,2007,Stockholm,0.9,90.0,,Estimated,Europe,Western Europe,Federal Republic of Germany
-DEU,2012,Stockholm,0.9,90.0,,Estimated,Europe,Western Europe,Federal Republic of Germany
-DEU,2017,Stockholm,0.9,90.0,,xx,Europe,Western Europe,Federal Republic of Germany
-DEU,2022,Stockholm,0.75,75.0,,xx,Europe,Western Europe,Federal Republic of Germany
+CZE,2007,Stockholm,0.9383849543963079,75.002,,Estimated,Europe,Eastern Europe,Czech Republic
+CZE,2012,Stockholm,0.9383849543963079,75.002,,Estimated,Europe,Eastern Europe,Czech Republic
+CZE,2017,Stockholm,0.9383849543963079,75.002,,xx,Europe,Eastern Europe,Czech Republic
+CZE,2022,Stockholm,0.9713728028671714,87.5,,xx,Europe,Eastern Europe,Czech Republic
+DEU,2007,Stockholm,0.9774088217319686,90.0,,Estimated,Europe,Western Europe,Federal Republic of Germany
+DEU,2012,Stockholm,0.9774088217319686,90.0,,Estimated,Europe,Western Europe,Federal Republic of Germany
+DEU,2017,Stockholm,0.9774088217319686,90.0,,xx,Europe,Western Europe,Federal Republic of Germany
+DEU,2022,Stockholm,0.9383792523906672,75.0,,xx,Europe,Western Europe,Federal Republic of Germany
 DJI,2007,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Djibouti
 DJI,2012,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Djibouti
 DJI,2017,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Djibouti
@@ -203,9 +203,9 @@ DMA,2007,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of Dominica
 DMA,2012,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of Dominica
 DMA,2017,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of Dominica
 DMA,2022,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Commonwealth of Dominica
-DNK,2007,Stockholm,0.89998,89.998,,Estimated,Europe,Northern Europe,Kingdom of Denmark
-DNK,2012,Stockholm,0.89998,89.998,,Estimated,Europe,Northern Europe,Kingdom of Denmark
-DNK,2017,Stockholm,0.89998,89.998,,xx,Europe,Northern Europe,Kingdom of Denmark
+DNK,2007,Stockholm,0.9774040595023762,89.998,,Estimated,Europe,Northern Europe,Kingdom of Denmark
+DNK,2012,Stockholm,0.9774040595023762,89.998,,Estimated,Europe,Northern Europe,Kingdom of Denmark
+DNK,2017,Stockholm,0.9774040595023762,89.998,,xx,Europe,Northern Europe,Kingdom of Denmark
 DNK,2022,Stockholm,1.0,100.0,,xx,Europe,Northern Europe,Kingdom of Denmark
 DOM,2007,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Dominican Republic
 DOM,2012,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Dominican Republic
@@ -231,26 +231,26 @@ ESP,2007,Stockholm,1.0,100.0,,Estimated,Europe,Southern Europe,Kingdom of Spain
 ESP,2012,Stockholm,1.0,100.0,,Estimated,Europe,Southern Europe,Kingdom of Spain
 ESP,2017,Stockholm,1.0,100.0,,xx,Europe,Southern Europe,Kingdom of Spain
 ESP,2022,Stockholm,1.0,100.0,,xx,Europe,Southern Europe,Kingdom of Spain
-EST,2007,Stockholm,0.8499800000000001,84.998,,Estimated,Europe,Northern Europe,Republic of Estonia
-EST,2012,Stockholm,0.8499800000000001,84.998,,Estimated,Europe,Northern Europe,Republic of Estonia
-EST,2017,Stockholm,0.8499800000000001,84.998,,xx,Europe,Northern Europe,Republic of Estonia
-EST,2022,Stockholm,0.875,87.5,,xx,Europe,Northern Europe,Republic of Estonia
+EST,2007,Stockholm,0.9651587697254371,84.998,,Estimated,Europe,Northern Europe,Republic of Estonia
+EST,2012,Stockholm,0.9651587697254371,84.998,,Estimated,Europe,Northern Europe,Republic of Estonia
+EST,2017,Stockholm,0.9651587697254371,84.998,,xx,Europe,Northern Europe,Republic of Estonia
+EST,2022,Stockholm,0.9713728028671714,87.5,,xx,Europe,Northern Europe,Republic of Estonia
 ETH,2007,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
 ETH,2012,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
 ETH,2017,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
 ETH,2022,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Democratic Republic of Ethiopia
-FIN,2007,Stockholm,0.85,85.0,,Estimated,Europe,Northern Europe,Republic of Finland
-FIN,2012,Stockholm,0.85,85.0,,Estimated,Europe,Northern Europe,Republic of Finland
-FIN,2017,Stockholm,0.85,85.0,,xx,Europe,Northern Europe,Republic of Finland
-FIN,2022,Stockholm,0.625,62.5,,xx,Europe,Northern Europe,Republic of Finland
+FIN,2007,Stockholm,0.9651638088320625,85.0,,Estimated,Europe,Northern Europe,Republic of Finland
+FIN,2012,Stockholm,0.9651638088320625,85.0,,Estimated,Europe,Northern Europe,Republic of Finland
+FIN,2017,Stockholm,0.9651638088320625,85.0,,xx,Europe,Northern Europe,Republic of Finland
+FIN,2022,Stockholm,0.899443446980612,62.5,,xx,Europe,Northern Europe,Republic of Finland
 FJI,2007,Stockholm,0.0,0.0,,Estimated,Oceania,Melanesia,Republic of Fiji
 FJI,2012,Stockholm,0.0,0.0,,Estimated,Oceania,Melanesia,Republic of Fiji
 FJI,2017,Stockholm,0.0,0.0,,Estimated,Oceania,Melanesia,Republic of Fiji
 FJI,2022,Stockholm,0.0,0.0,,Estimated,Oceania,Melanesia,Republic of Fiji
-FRA,2007,Stockholm,0.8,80.0,,Estimated,Europe,Western Europe,French Republic
-FRA,2012,Stockholm,0.8,80.0,,Estimated,Europe,Western Europe,French Republic
-FRA,2017,Stockholm,0.8,80.0,,xx,Europe,Western Europe,French Republic
-FRA,2022,Stockholm,0.5,50.0,,xx,Europe,Western Europe,French Republic
+FRA,2007,Stockholm,0.9521851354989413,80.0,,Estimated,Europe,Western Europe,French Republic
+FRA,2012,Stockholm,0.9521851354989413,80.0,,Estimated,Europe,Western Europe,French Republic
+FRA,2017,Stockholm,0.9521851354989413,80.0,,xx,Europe,Western Europe,French Republic
+FRA,2022,Stockholm,0.8519443031609923,50.0,,xx,Europe,Western Europe,French Republic
 FRO,2007,Stockholm,0.0,0.0,,Estimated,Europe,Northern Europe,Faroe Islands
 FRO,2012,Stockholm,0.0,0.0,,Estimated,Europe,Northern Europe,Faroe Islands
 FRO,2017,Stockholm,0.0,0.0,,Estimated,Europe,Northern Europe,Faroe Islands
@@ -263,14 +263,14 @@ GAB,2007,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Gabonese Republic
 GAB,2012,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Gabonese Republic
 GAB,2017,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Gabonese Republic
 GAB,2022,Stockholm,0.0,0.0,,Estimated,Africa,Middle Africa,Gabonese Republic
-GBR,2007,Stockholm,0.95,95.0,,Estimated,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
-GBR,2012,Stockholm,0.95,95.0,,Estimated,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
-GBR,2017,Stockholm,0.95,95.0,,xx,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
-GBR,2022,Stockholm,0.875,87.5,,xx,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
-GEO,2007,Stockholm,0.70002,70.002,,Estimated,Asia,Western Asia,Georgia
-GEO,2012,Stockholm,0.70002,70.002,,Estimated,Asia,Western Asia,Georgia
-GEO,2017,Stockholm,0.70002,70.002,,xx,Asia,Western Asia,Georgia
-GEO,2022,Stockholm,0.75,75.0,,xx,Asia,Western Asia,Georgia
+GBR,2007,Stockholm,0.9889986999931751,95.0,,Estimated,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2012,Stockholm,0.9889986999931751,95.0,,Estimated,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2017,Stockholm,0.9889986999931751,95.0,,xx,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GBR,2022,Stockholm,0.9713728028671714,87.5,,xx,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland
+GEO,2007,Stockholm,0.9236395951315695,70.002,,Estimated,Asia,Western Asia,Georgia
+GEO,2012,Stockholm,0.9236395951315695,70.002,,Estimated,Asia,Western Asia,Georgia
+GEO,2017,Stockholm,0.9236395951315695,70.002,,xx,Asia,Western Asia,Georgia
+GEO,2022,Stockholm,0.9383792523906672,75.0,,xx,Asia,Western Asia,Georgia
 GHA,2007,Stockholm,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Ghana
 GHA,2012,Stockholm,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Ghana
 GHA,2017,Stockholm,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Ghana
@@ -327,18 +327,18 @@ HND,2007,Stockholm,0.0,0.0,,Estimated,America,Central America,Republic of Hondur
 HND,2012,Stockholm,0.0,0.0,,Estimated,America,Central America,Republic of Honduras
 HND,2017,Stockholm,0.0,0.0,,Estimated,America,Central America,Republic of Honduras
 HND,2022,Stockholm,0.0,0.0,,Estimated,America,Central America,Republic of Honduras
-HRV,2007,Stockholm,0.70002,70.002,,Estimated,Europe,Southern Europe,Republic of Croatia
-HRV,2012,Stockholm,0.70002,70.002,,Estimated,Europe,Southern Europe,Republic of Croatia
-HRV,2017,Stockholm,0.70002,70.002,,xx,Europe,Southern Europe,Republic of Croatia
-HRV,2022,Stockholm,0.75,75.0,,xx,Europe,Southern Europe,Republic of Croatia
+HRV,2007,Stockholm,0.9236395951315695,70.002,,Estimated,Europe,Southern Europe,Republic of Croatia
+HRV,2012,Stockholm,0.9236395951315695,70.002,,Estimated,Europe,Southern Europe,Republic of Croatia
+HRV,2017,Stockholm,0.9236395951315695,70.002,,xx,Europe,Southern Europe,Republic of Croatia
+HRV,2022,Stockholm,0.9383792523906672,75.0,,xx,Europe,Southern Europe,Republic of Croatia
 HTI,2007,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Republic of Haiti
 HTI,2012,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Republic of Haiti
 HTI,2017,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Republic of Haiti
 HTI,2022,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Republic of Haiti
-HUN,2007,Stockholm,0.39998,39.998,,Estimated,Europe,Eastern Europe,Republic of Hungary
-HUN,2012,Stockholm,0.39998,39.998,,Estimated,Europe,Eastern Europe,Republic of Hungary
-HUN,2017,Stockholm,0.39998,39.998,,xx,Europe,Eastern Europe,Republic of Hungary
-HUN,2022,Stockholm,0.5,50.0,,xx,Europe,Eastern Europe,Republic of Hungary
+HUN,2007,Stockholm,0.8046427545013177,39.998,,Estimated,Europe,Eastern Europe,Republic of Hungary
+HUN,2012,Stockholm,0.8046427545013177,39.998,,Estimated,Europe,Eastern Europe,Republic of Hungary
+HUN,2017,Stockholm,0.8046427545013177,39.998,,xx,Europe,Eastern Europe,Republic of Hungary
+HUN,2022,Stockholm,0.8519443031609923,50.0,,xx,Europe,Eastern Europe,Republic of Hungary
 IDN,2007,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Republic of Indonesia
 IDN,2012,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Republic of Indonesia
 IDN,2017,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Republic of Indonesia
@@ -351,10 +351,10 @@ IND,2007,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Republic of India
 IND,2012,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Republic of India
 IND,2017,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Republic of India
 IND,2022,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Republic of India
-IRL,2007,Stockholm,0.8499800000000001,84.998,,Estimated,Europe,Northern Europe,Ireland
-IRL,2012,Stockholm,0.8499800000000001,84.998,,Estimated,Europe,Northern Europe,Ireland
-IRL,2017,Stockholm,0.8499800000000001,84.998,,xx,Europe,Northern Europe,Ireland
-IRL,2022,Stockholm,0.875,87.5,,xx,Europe,Northern Europe,Ireland
+IRL,2007,Stockholm,0.9651587697254371,84.998,,Estimated,Europe,Northern Europe,Ireland
+IRL,2012,Stockholm,0.9651587697254371,84.998,,Estimated,Europe,Northern Europe,Ireland
+IRL,2017,Stockholm,0.9651587697254371,84.998,,xx,Europe,Northern Europe,Ireland
+IRL,2022,Stockholm,0.9713728028671714,87.5,,xx,Europe,Northern Europe,Ireland
 IRN,2007,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Islamic Republic of Iran
 IRN,2012,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Islamic Republic of Iran
 IRN,2017,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Islamic Republic of Iran
@@ -363,18 +363,18 @@ IRQ,2007,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,Republic of Iraq
 IRQ,2012,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,Republic of Iraq
 IRQ,2017,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,Republic of Iraq
 IRQ,2022,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,Republic of Iraq
-ISL,2007,Stockholm,0.6,60.0,,Estimated,Europe,Northern Europe,Republic of Iceland
-ISL,2012,Stockholm,0.6,60.0,,Estimated,Europe,Northern Europe,Republic of Iceland
-ISL,2017,Stockholm,0.6,60.0,,xx,Europe,Northern Europe,Republic of Iceland
-ISL,2022,Stockholm,0.75,75.0,,xx,Europe,Northern Europe,Republic of Iceland
-ISR,2007,Stockholm,0.6667000000000001,66.67,,Estimated,Asia,Western Asia,State of Israel
-ISR,2012,Stockholm,0.6667000000000001,66.67,,Estimated,Asia,Western Asia,State of Israel
-ISR,2017,Stockholm,0.6667000000000001,66.67,,xx,Asia,Western Asia,State of Israel
-ISR,2022,Stockholm,0.6667000000000001,66.67,,xx,Asia,Western Asia,State of Israel
-ITA,2007,Stockholm,0.6667000000000001,66.67,,Estimated,Europe,Southern Europe,Italian Republic
-ITA,2012,Stockholm,0.6667000000000001,66.67,,Estimated,Europe,Southern Europe,Italian Republic
-ITA,2017,Stockholm,0.6667000000000001,66.67,,xx,Europe,Southern Europe,Italian Republic
-ITA,2022,Stockholm,0.6667000000000001,66.67,,xx,Europe,Southern Europe,Italian Republic
+ISL,2007,Stockholm,0.8907403066013385,60.0,,Estimated,Europe,Northern Europe,Republic of Iceland
+ISL,2012,Stockholm,0.8907403066013385,60.0,,Estimated,Europe,Northern Europe,Republic of Iceland
+ISL,2017,Stockholm,0.8907403066013385,60.0,,xx,Europe,Northern Europe,Republic of Iceland
+ISL,2022,Stockholm,0.9383792523906672,75.0,,xx,Europe,Northern Europe,Republic of Iceland
+ISR,2007,Stockholm,0.9132248951818868,66.67,,Estimated,Asia,Western Asia,State of Israel
+ISR,2012,Stockholm,0.9132248951818868,66.67,,Estimated,Asia,Western Asia,State of Israel
+ISR,2017,Stockholm,0.9132248951818868,66.67,,xx,Asia,Western Asia,State of Israel
+ISR,2022,Stockholm,0.9132248951818868,66.67,,xx,Asia,Western Asia,State of Israel
+ITA,2007,Stockholm,0.9132248951818868,66.67,,Estimated,Europe,Southern Europe,Italian Republic
+ITA,2012,Stockholm,0.9132248951818868,66.67,,Estimated,Europe,Southern Europe,Italian Republic
+ITA,2017,Stockholm,0.9132248951818868,66.67,,xx,Europe,Southern Europe,Italian Republic
+ITA,2022,Stockholm,0.9132248951818868,66.67,,xx,Europe,Southern Europe,Italian Republic
 JAM,2007,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Jamaica
 JAM,2012,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Jamaica
 JAM,2017,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Jamaica
@@ -387,18 +387,18 @@ JPN,2007,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Japan
 JPN,2012,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Japan
 JPN,2017,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Japan
 JPN,2022,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Japan
-KAZ,2007,Stockholm,0.5,50.0,,Estimated,Asia,Central Asia,Republic of Kazakhstan
-KAZ,2012,Stockholm,0.5,50.0,,Estimated,Asia,Central Asia,Republic of Kazakhstan
-KAZ,2017,Stockholm,0.5,50.0,,xx,Asia,Central Asia,Republic of Kazakhstan
-KAZ,2022,Stockholm,0.5,50.0,,xx,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2007,Stockholm,0.8519443031609923,50.0,,Estimated,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2012,Stockholm,0.8519443031609923,50.0,,Estimated,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2017,Stockholm,0.8519443031609923,50.0,,xx,Asia,Central Asia,Republic of Kazakhstan
+KAZ,2022,Stockholm,0.8519443031609923,50.0,,xx,Asia,Central Asia,Republic of Kazakhstan
 KEN,2007,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Kenya
 KEN,2012,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Kenya
 KEN,2017,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Kenya
 KEN,2022,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Kenya
-KGZ,2007,Stockholm,0.45,45.0,,Estimated,Asia,Central Asia,Kyrgyz Republic
-KGZ,2012,Stockholm,0.45,45.0,,Estimated,Asia,Central Asia,Kyrgyz Republic
-KGZ,2017,Stockholm,0.45,45.0,,xx,Asia,Central Asia,Kyrgyz Republic
-KGZ,2022,Stockholm,0.375,37.5,,xx,Asia,Central Asia,Kyrgyz Republic
+KGZ,2007,Stockholm,0.8295864392961818,45.0,,Estimated,Asia,Central Asia,Kyrgyz Republic
+KGZ,2012,Stockholm,0.8295864392961818,45.0,,Estimated,Asia,Central Asia,Kyrgyz Republic
+KGZ,2017,Stockholm,0.8295864392961818,45.0,,xx,Asia,Central Asia,Kyrgyz Republic
+KGZ,2022,Stockholm,0.7910212155829831,37.5,,xx,Asia,Central Asia,Kyrgyz Republic
 KHM,2007,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
 KHM,2012,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
 KHM,2017,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Cambodia
@@ -439,10 +439,10 @@ LCA,2007,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Saint Lucia
 LCA,2012,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Saint Lucia
 LCA,2017,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Saint Lucia
 LCA,2022,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Saint Lucia
-LIE,2007,Stockholm,0.4,40.0,,Estimated,Europe,Western Europe,Principality of Liechtenstein
-LIE,2012,Stockholm,0.4,40.0,,Estimated,Europe,Western Europe,Principality of Liechtenstein
-LIE,2017,Stockholm,0.4,40.0,,xx,Europe,Western Europe,Principality of Liechtenstein
-LIE,2022,Stockholm,0.25,25.0,,xx,Europe,Western Europe,Principality of Liechtenstein
+LIE,2007,Stockholm,0.8046533244696281,40.0,,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LIE,2012,Stockholm,0.8046533244696281,40.0,,Estimated,Europe,Western Europe,Principality of Liechtenstein
+LIE,2017,Stockholm,0.8046533244696281,40.0,,xx,Europe,Western Europe,Principality of Liechtenstein
+LIE,2022,Stockholm,0.7059613126314263,25.0,,xx,Europe,Western Europe,Principality of Liechtenstein
 LKA,2007,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
 LKA,2012,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
 LKA,2017,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Democratic Socialist Republic of Sri Lanka
@@ -451,18 +451,18 @@ LSO,2007,Stockholm,0.0,0.0,,Estimated,Africa,Southern Africa,Kingdom of Lesotho
 LSO,2012,Stockholm,0.0,0.0,,Estimated,Africa,Southern Africa,Kingdom of Lesotho
 LSO,2017,Stockholm,0.0,0.0,,Estimated,Africa,Southern Africa,Kingdom of Lesotho
 LSO,2022,Stockholm,0.0,0.0,,Estimated,Africa,Southern Africa,Kingdom of Lesotho
-LTU,2007,Stockholm,0.70002,70.002,,Estimated,Europe,Northern Europe,Republic of Lithuania
-LTU,2012,Stockholm,0.70002,70.002,,Estimated,Europe,Northern Europe,Republic of Lithuania
-LTU,2017,Stockholm,0.70002,70.002,,xx,Europe,Northern Europe,Republic of Lithuania
-LTU,2022,Stockholm,0.75,75.0,,xx,Europe,Northern Europe,Republic of Lithuania
-LUX,2007,Stockholm,0.29997999999999997,29.997999999999998,,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
-LUX,2012,Stockholm,0.29997999999999997,29.997999999999998,,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
-LUX,2017,Stockholm,0.29997999999999997,29.997999999999998,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
-LUX,2022,Stockholm,0.25,25.0,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
-LVA,2007,Stockholm,0.5500200000000001,55.002,,Estimated,Europe,Northern Europe,Republic of Latvia
-LVA,2012,Stockholm,0.5500200000000001,55.002,,Estimated,Europe,Northern Europe,Republic of Latvia
-LVA,2017,Stockholm,0.5500200000000001,55.002,,xx,Europe,Northern Europe,Republic of Latvia
-LVA,2022,Stockholm,0.375,37.5,,xx,Europe,Northern Europe,Republic of Latvia
+LTU,2007,Stockholm,0.9236395951315695,70.002,,Estimated,Europe,Northern Europe,Republic of Lithuania
+LTU,2012,Stockholm,0.9236395951315695,70.002,,Estimated,Europe,Northern Europe,Republic of Lithuania
+LTU,2017,Stockholm,0.9236395951315695,70.002,,xx,Europe,Northern Europe,Republic of Lithuania
+LTU,2022,Stockholm,0.9383792523906672,75.0,,xx,Europe,Northern Europe,Republic of Lithuania
+LUX,2007,Stockholm,0.7440591580965146,29.997999999999998,,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2012,Stockholm,0.7440591580965146,29.997999999999998,,Estimated,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2017,Stockholm,0.7440591580965146,29.997999999999998,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
+LUX,2022,Stockholm,0.7059613126314263,25.0,,xx,Europe,Western Europe,Grand Duchy of Luxembourg
+LVA,2007,Stockholm,0.872217180395157,55.002,,Estimated,Europe,Northern Europe,Republic of Latvia
+LVA,2012,Stockholm,0.872217180395157,55.002,,Estimated,Europe,Northern Europe,Republic of Latvia
+LVA,2017,Stockholm,0.872217180395157,55.002,,xx,Europe,Northern Europe,Republic of Latvia
+LVA,2022,Stockholm,0.7910212155829831,37.5,,xx,Europe,Northern Europe,Republic of Latvia
 MAC,2007,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Macau SAR
 MAC,2012,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Macau SAR
 MAC,2017,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Macau SAR
@@ -475,14 +475,14 @@ MAR,2007,Stockholm,0.0,0.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
 MAR,2012,Stockholm,0.0,0.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
 MAR,2017,Stockholm,0.0,0.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
 MAR,2022,Stockholm,0.0,0.0,,Estimated,Africa,Northern Africa,Kingdom of Morocco
-MCO,2007,Stockholm,0.5500200000000001,55.002,,Estimated,Europe,Western Europe,Principality of Monaco
-MCO,2012,Stockholm,0.5500200000000001,55.002,,Estimated,Europe,Western Europe,Principality of Monaco
-MCO,2017,Stockholm,0.5500200000000001,55.002,,xx,Europe,Western Europe,Principality of Monaco
-MCO,2022,Stockholm,0.375,37.5,,xx,Europe,Western Europe,Principality of Monaco
-MDA,2007,Stockholm,0.5,50.0,,Estimated,Europe,Eastern Europe,Republic of Moldova
-MDA,2012,Stockholm,0.5,50.0,,Estimated,Europe,Eastern Europe,Republic of Moldova
-MDA,2017,Stockholm,0.5,50.0,,xx,Europe,Eastern Europe,Republic of Moldova
-MDA,2022,Stockholm,0.5,50.0,,xx,Europe,Eastern Europe,Republic of Moldova
+MCO,2007,Stockholm,0.872217180395157,55.002,,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2012,Stockholm,0.872217180395157,55.002,,Estimated,Europe,Western Europe,Principality of Monaco
+MCO,2017,Stockholm,0.872217180395157,55.002,,xx,Europe,Western Europe,Principality of Monaco
+MCO,2022,Stockholm,0.7910212155829831,37.5,,xx,Europe,Western Europe,Principality of Monaco
+MDA,2007,Stockholm,0.8519443031609923,50.0,,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDA,2012,Stockholm,0.8519443031609923,50.0,,Estimated,Europe,Eastern Europe,Republic of Moldova
+MDA,2017,Stockholm,0.8519443031609923,50.0,,xx,Europe,Eastern Europe,Republic of Moldova
+MDA,2022,Stockholm,0.8519443031609923,50.0,,xx,Europe,Eastern Europe,Republic of Moldova
 MDG,2007,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Madagascar
 MDG,2012,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Madagascar
 MDG,2017,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Madagascar
@@ -499,26 +499,26 @@ MHL,2007,Stockholm,0.0,0.0,,Estimated,Oceania,Micronesia,Republic of the Marshal
 MHL,2012,Stockholm,0.0,0.0,,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
 MHL,2017,Stockholm,0.0,0.0,,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
 MHL,2022,Stockholm,0.0,0.0,,Estimated,Oceania,Micronesia,Republic of the Marshall Islands
-MKD,2007,Stockholm,0.55,55.0,,Estimated,Europe,Southern Europe,Republic of North Macedonia
-MKD,2012,Stockholm,0.55,55.0,,Estimated,Europe,Southern Europe,Republic of North Macedonia
-MKD,2017,Stockholm,0.55,55.0,,xx,Europe,Southern Europe,Republic of North Macedonia
-MKD,2022,Stockholm,0.625,62.5,,xx,Europe,Southern Europe,Republic of North Macedonia
+MKD,2007,Stockholm,0.8722094419952944,55.0,,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MKD,2012,Stockholm,0.8722094419952944,55.0,,Estimated,Europe,Southern Europe,Republic of North Macedonia
+MKD,2017,Stockholm,0.8722094419952944,55.0,,xx,Europe,Southern Europe,Republic of North Macedonia
+MKD,2022,Stockholm,0.899443446980612,62.5,,xx,Europe,Southern Europe,Republic of North Macedonia
 MLI,2007,Stockholm,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Mali
 MLI,2012,Stockholm,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Mali
 MLI,2017,Stockholm,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Mali
 MLI,2022,Stockholm,0.0,0.0,,Estimated,Africa,Western Africa,Republic of Mali
-MLT,2007,Stockholm,0.19997999999999996,19.997999999999998,,Estimated,Europe,Southern Europe,Republic of Malta
-MLT,2012,Stockholm,0.19997999999999996,19.997999999999998,,Estimated,Europe,Southern Europe,Republic of Malta
-MLT,2017,Stockholm,0.19997999999999996,19.997999999999998,,xx,Europe,Southern Europe,Republic of Malta
+MLT,2007,Stockholm,0.6596636391147712,19.997999999999998,,Estimated,Europe,Southern Europe,Republic of Malta
+MLT,2012,Stockholm,0.6596636391147712,19.997999999999998,,Estimated,Europe,Southern Europe,Republic of Malta
+MLT,2017,Stockholm,0.6596636391147712,19.997999999999998,,xx,Europe,Southern Europe,Republic of Malta
 MLT,2022,Stockholm,0.0,0.0,,xx,Europe,Southern Europe,Republic of Malta
 MMR,2007,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
 MMR,2012,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
 MMR,2017,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
 MMR,2022,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Republic of the Union of Myanmar
-MNE,2007,Stockholm,0.5,50.0,,Estimated,Europe,Southern Europe,Montenegro
-MNE,2012,Stockholm,0.5,50.0,,Estimated,Europe,Southern Europe,Montenegro
-MNE,2017,Stockholm,0.5,50.0,,xx,Europe,Southern Europe,Montenegro
-MNE,2022,Stockholm,0.5,50.0,,xx,Europe,Southern Europe,Montenegro
+MNE,2007,Stockholm,0.8519443031609923,50.0,,Estimated,Europe,Southern Europe,Montenegro
+MNE,2012,Stockholm,0.8519443031609923,50.0,,Estimated,Europe,Southern Europe,Montenegro
+MNE,2017,Stockholm,0.8519443031609923,50.0,,xx,Europe,Southern Europe,Montenegro
+MNE,2022,Stockholm,0.8519443031609923,50.0,,xx,Europe,Southern Europe,Montenegro
 MNG,2007,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Mongolia
 MNG,2012,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Mongolia
 MNG,2017,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Mongolia
@@ -567,14 +567,14 @@ NIC,2007,Stockholm,0.0,0.0,,Estimated,America,Central America,Republic of Nicara
 NIC,2012,Stockholm,0.0,0.0,,Estimated,America,Central America,Republic of Nicaragua
 NIC,2017,Stockholm,0.0,0.0,,Estimated,America,Central America,Republic of Nicaragua
 NIC,2022,Stockholm,0.0,0.0,,Estimated,America,Central America,Republic of Nicaragua
-NLD,2007,Stockholm,0.69998,69.998,,Estimated,Europe,Western Europe,Kingdom of the Netherlands
-NLD,2012,Stockholm,0.69998,69.998,,Estimated,Europe,Western Europe,Kingdom of the Netherlands
-NLD,2017,Stockholm,0.69998,69.998,,xx,Europe,Western Europe,Kingdom of the Netherlands
-NLD,2022,Stockholm,0.5,50.0,,xx,Europe,Western Europe,Kingdom of the Netherlands
-NOR,2007,Stockholm,0.95,95.0,,Estimated,Europe,Northern Europe,Kingdom of Norway
-NOR,2012,Stockholm,0.95,95.0,,Estimated,Europe,Northern Europe,Kingdom of Norway
-NOR,2017,Stockholm,0.95,95.0,,xx,Europe,Northern Europe,Kingdom of Norway
-NOR,2022,Stockholm,0.875,87.5,,xx,Europe,Northern Europe,Kingdom of Norway
+NLD,2007,Stockholm,0.9236273878602798,69.998,,Estimated,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2012,Stockholm,0.9236273878602798,69.998,,Estimated,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2017,Stockholm,0.9236273878602798,69.998,,xx,Europe,Western Europe,Kingdom of the Netherlands
+NLD,2022,Stockholm,0.8519443031609923,50.0,,xx,Europe,Western Europe,Kingdom of the Netherlands
+NOR,2007,Stockholm,0.9889986999931751,95.0,,Estimated,Europe,Northern Europe,Kingdom of Norway
+NOR,2012,Stockholm,0.9889986999931751,95.0,,Estimated,Europe,Northern Europe,Kingdom of Norway
+NOR,2017,Stockholm,0.9889986999931751,95.0,,xx,Europe,Northern Europe,Kingdom of Norway
+NOR,2022,Stockholm,0.9713728028671714,87.5,,xx,Europe,Northern Europe,Kingdom of Norway
 NPL,2007,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
 NPL,2012,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
 NPL,2017,Stockholm,0.0,0.0,,Estimated,Asia,Southern Asia,Federal Democratic Republic of Nepal
@@ -615,10 +615,10 @@ PNG,2007,Stockholm,0.0,0.0,,Estimated,Oceania,Melanesia,Independent State of Pap
 PNG,2012,Stockholm,0.0,0.0,,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
 PNG,2017,Stockholm,0.0,0.0,,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
 PNG,2022,Stockholm,0.0,0.0,,Estimated,Oceania,Melanesia,Independent State of Papua New Guinea
-POL,2007,Stockholm,0.95,95.0,,Estimated,Europe,Eastern Europe,Republic of Poland
-POL,2012,Stockholm,0.95,95.0,,Estimated,Europe,Eastern Europe,Republic of Poland
-POL,2017,Stockholm,0.95,95.0,,xx,Europe,Eastern Europe,Republic of Poland
-POL,2022,Stockholm,0.875,87.5,,xx,Europe,Eastern Europe,Republic of Poland
+POL,2007,Stockholm,0.9889986999931751,95.0,,Estimated,Europe,Eastern Europe,Republic of Poland
+POL,2012,Stockholm,0.9889986999931751,95.0,,Estimated,Europe,Eastern Europe,Republic of Poland
+POL,2017,Stockholm,0.9889986999931751,95.0,,xx,Europe,Eastern Europe,Republic of Poland
+POL,2022,Stockholm,0.9713728028671714,87.5,,xx,Europe,Eastern Europe,Republic of Poland
 PRI,2007,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Puerto Rico
 PRI,2012,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Puerto Rico
 PRI,2017,Stockholm,0.0,0.0,,Estimated,America,Caribbean,Puerto Rico
@@ -627,10 +627,10 @@ PRK,2007,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Democratic People's Repu
 PRK,2012,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
 PRK,2017,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
 PRK,2022,Stockholm,0.0,0.0,,Estimated,Asia,Eastern Asia,Democratic People's Republic of Korea
-PRT,2007,Stockholm,0.4,40.0,,Estimated,Europe,Southern Europe,Portuguese Republic
-PRT,2012,Stockholm,0.4,40.0,,Estimated,Europe,Southern Europe,Portuguese Republic
-PRT,2017,Stockholm,0.4,40.0,,xx,Europe,Southern Europe,Portuguese Republic
-PRT,2022,Stockholm,0.25,25.0,,xx,Europe,Southern Europe,Portuguese Republic
+PRT,2007,Stockholm,0.8046533244696281,40.0,,Estimated,Europe,Southern Europe,Portuguese Republic
+PRT,2012,Stockholm,0.8046533244696281,40.0,,Estimated,Europe,Southern Europe,Portuguese Republic
+PRT,2017,Stockholm,0.8046533244696281,40.0,,xx,Europe,Southern Europe,Portuguese Republic
+PRT,2022,Stockholm,0.7059613126314263,25.0,,xx,Europe,Southern Europe,Portuguese Republic
 PRY,2007,Stockholm,0.0,0.0,,Estimated,America,South America,Republic of Paraguay
 PRY,2012,Stockholm,0.0,0.0,,Estimated,America,South America,Republic of Paraguay
 PRY,2017,Stockholm,0.0,0.0,,Estimated,America,South America,Republic of Paraguay
@@ -647,13 +647,13 @@ QAT,2007,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,State of Qatar
 QAT,2012,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,State of Qatar
 QAT,2017,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,State of Qatar
 QAT,2022,Stockholm,0.0,0.0,,Estimated,Asia,Western Asia,State of Qatar
-ROU,2007,Stockholm,0.85,85.0,,Estimated,Europe,Eastern Europe,Romania
-ROU,2012,Stockholm,0.85,85.0,,Estimated,Europe,Eastern Europe,Romania
-ROU,2017,Stockholm,0.85,85.0,,xx,Europe,Eastern Europe,Romania
-ROU,2022,Stockholm,0.625,62.5,,xx,Europe,Eastern Europe,Romania
-RUS,2007,Stockholm,0.80002,80.002,,Estimated,Europe,Eastern Europe,Russian Federation
-RUS,2012,Stockholm,0.80002,80.002,,Estimated,Europe,Eastern Europe,Russian Federation
-RUS,2017,Stockholm,0.80002,80.002,,xx,Europe,Eastern Europe,Russian Federation
+ROU,2007,Stockholm,0.9651638088320625,85.0,,Estimated,Europe,Eastern Europe,Romania
+ROU,2012,Stockholm,0.9651638088320625,85.0,,Estimated,Europe,Eastern Europe,Romania
+ROU,2017,Stockholm,0.9651638088320625,85.0,,xx,Europe,Eastern Europe,Romania
+ROU,2022,Stockholm,0.899443446980612,62.5,,xx,Europe,Eastern Europe,Romania
+RUS,2007,Stockholm,0.9521904855332703,80.002,,Estimated,Europe,Eastern Europe,Russian Federation
+RUS,2012,Stockholm,0.9521904855332703,80.002,,Estimated,Europe,Eastern Europe,Russian Federation
+RUS,2017,Stockholm,0.9521904855332703,80.002,,xx,Europe,Eastern Europe,Russian Federation
 RUS,2022,Stockholm,1.0,100.0,,xx,Europe,Eastern Europe,Russian Federation
 RWA,2007,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Rwanda
 RWA,2012,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Rwanda
@@ -695,10 +695,10 @@ SOM,2007,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Republic of 
 SOM,2012,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
 SOM,2017,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
 SOM,2022,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Federal Republic of Somalia
-SRB,2007,Stockholm,0.5500200000000001,55.002,,Estimated,Europe,Southern Europe,Republic of Serbia
-SRB,2012,Stockholm,0.5500200000000001,55.002,,Estimated,Europe,Southern Europe,Republic of Serbia
-SRB,2017,Stockholm,0.5500200000000001,55.002,,xx,Europe,Southern Europe,Republic of Serbia
-SRB,2022,Stockholm,0.375,37.5,,xx,Europe,Southern Europe,Republic of Serbia
+SRB,2007,Stockholm,0.872217180395157,55.002,,Estimated,Europe,Southern Europe,Republic of Serbia
+SRB,2012,Stockholm,0.872217180395157,55.002,,Estimated,Europe,Southern Europe,Republic of Serbia
+SRB,2017,Stockholm,0.872217180395157,55.002,,xx,Europe,Southern Europe,Republic of Serbia
+SRB,2022,Stockholm,0.7910212155829831,37.5,,xx,Europe,Southern Europe,Republic of Serbia
 SSD,2007,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of South Sudan
 SSD,2012,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of South Sudan
 SSD,2017,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of South Sudan
@@ -711,18 +711,18 @@ SUR,2007,Stockholm,0.0,0.0,,Estimated,America,South America,Republic of Suriname
 SUR,2012,Stockholm,0.0,0.0,,Estimated,America,South America,Republic of Suriname
 SUR,2017,Stockholm,0.0,0.0,,Estimated,America,South America,Republic of Suriname
 SUR,2022,Stockholm,0.0,0.0,,Estimated,America,South America,Republic of Suriname
-SVK,2007,Stockholm,0.59998,59.998,,Estimated,Europe,Eastern Europe,Slovak Republic
-SVK,2012,Stockholm,0.59998,59.998,,Estimated,Europe,Eastern Europe,Slovak Republic
-SVK,2017,Stockholm,0.59998,59.998,,xx,Europe,Eastern Europe,Slovak Republic
-SVK,2022,Stockholm,0.25,25.0,,xx,Europe,Eastern Europe,Slovak Republic
+SVK,2007,Stockholm,0.8907332022532228,59.998,,Estimated,Europe,Eastern Europe,Slovak Republic
+SVK,2012,Stockholm,0.8907332022532228,59.998,,Estimated,Europe,Eastern Europe,Slovak Republic
+SVK,2017,Stockholm,0.8907332022532228,59.998,,xx,Europe,Eastern Europe,Slovak Republic
+SVK,2022,Stockholm,0.7059613126314263,25.0,,xx,Europe,Eastern Europe,Slovak Republic
 SVN,2007,Stockholm,1.0,100.0,,Estimated,Europe,Southern Europe,Republic of Slovenia
 SVN,2012,Stockholm,1.0,100.0,,Estimated,Europe,Southern Europe,Republic of Slovenia
 SVN,2017,Stockholm,1.0,100.0,,xx,Europe,Southern Europe,Republic of Slovenia
 SVN,2022,Stockholm,1.0,100.0,,xx,Europe,Southern Europe,Republic of Slovenia
-SWE,2007,Stockholm,0.95,95.0,,Estimated,Europe,Northern Europe,Kingdom of Sweden
-SWE,2012,Stockholm,0.95,95.0,,Estimated,Europe,Northern Europe,Kingdom of Sweden
-SWE,2017,Stockholm,0.95,95.0,,xx,Europe,Northern Europe,Kingdom of Sweden
-SWE,2022,Stockholm,0.875,87.5,,xx,Europe,Northern Europe,Kingdom of Sweden
+SWE,2007,Stockholm,0.9889986999931751,95.0,,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWE,2012,Stockholm,0.9889986999931751,95.0,,Estimated,Europe,Northern Europe,Kingdom of Sweden
+SWE,2017,Stockholm,0.9889986999931751,95.0,,xx,Europe,Northern Europe,Kingdom of Sweden
+SWE,2022,Stockholm,0.9713728028671714,87.5,,xx,Europe,Northern Europe,Kingdom of Sweden
 SWZ,2007,Stockholm,0.0,0.0,,Estimated,Africa,Southern Africa,Kingdom of Eswatini
 SWZ,2012,Stockholm,0.0,0.0,,Estimated,Africa,Southern Africa,Kingdom of Eswatini
 SWZ,2017,Stockholm,0.0,0.0,,Estimated,Africa,Southern Africa,Kingdom of Eswatini
@@ -755,10 +755,10 @@ THA,2007,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailan
 THA,2012,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
 THA,2017,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
 THA,2022,Stockholm,0.0,0.0,,Estimated,Asia,South-eastern Asia,Kingdom of Thailand
-TJK,2007,Stockholm,0.45,45.0,,Estimated,Asia,Central Asia,Republic of Tajikistan
-TJK,2012,Stockholm,0.45,45.0,,Estimated,Asia,Central Asia,Republic of Tajikistan
-TJK,2017,Stockholm,0.45,45.0,,xx,Asia,Central Asia,Republic of Tajikistan
-TJK,2022,Stockholm,0.375,37.5,,xx,Asia,Central Asia,Republic of Tajikistan
+TJK,2007,Stockholm,0.8295864392961818,45.0,,Estimated,Asia,Central Asia,Republic of Tajikistan
+TJK,2012,Stockholm,0.8295864392961818,45.0,,Estimated,Asia,Central Asia,Republic of Tajikistan
+TJK,2017,Stockholm,0.8295864392961818,45.0,,xx,Asia,Central Asia,Republic of Tajikistan
+TJK,2022,Stockholm,0.7910212155829831,37.5,,xx,Asia,Central Asia,Republic of Tajikistan
 TKM,2007,Stockholm,0.0,0.0,,Estimated,Asia,Central Asia,Turkmenistan
 TKM,2012,Stockholm,0.0,0.0,,Estimated,Asia,Central Asia,Turkmenistan
 TKM,2017,Stockholm,0.0,0.0,,Estimated,Asia,Central Asia,Turkmenistan
@@ -779,10 +779,10 @@ TUN,2007,Stockholm,0.0,0.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
 TUN,2012,Stockholm,0.0,0.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
 TUN,2017,Stockholm,0.0,0.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
 TUN,2022,Stockholm,0.0,0.0,,Estimated,Africa,Northern Africa,Republic of Tunisia
-TUR,2007,Stockholm,0.6,60.0,,Estimated,Asia,Western Asia,Republic of Türkiye
-TUR,2012,Stockholm,0.6,60.0,,Estimated,Asia,Western Asia,Republic of Türkiye
-TUR,2017,Stockholm,0.6,60.0,,xx,Asia,Western Asia,Republic of Türkiye
-TUR,2022,Stockholm,0.75,75.0,,xx,Asia,Western Asia,Republic of Türkiye
+TUR,2007,Stockholm,0.8907403066013385,60.0,,Estimated,Asia,Western Asia,Republic of Türkiye
+TUR,2012,Stockholm,0.8907403066013385,60.0,,Estimated,Asia,Western Asia,Republic of Türkiye
+TUR,2017,Stockholm,0.8907403066013385,60.0,,xx,Asia,Western Asia,Republic of Türkiye
+TUR,2022,Stockholm,0.9383792523906672,75.0,,xx,Asia,Western Asia,Republic of Türkiye
 TUV,2007,Stockholm,0.0,0.0,,Estimated,Oceania,Polynesia,Tuvalu
 TUV,2012,Stockholm,0.0,0.0,,Estimated,Oceania,Polynesia,Tuvalu
 TUV,2017,Stockholm,0.0,0.0,,Estimated,Oceania,Polynesia,Tuvalu
@@ -795,18 +795,18 @@ UGA,2007,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Uganda
 UGA,2012,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Uganda
 UGA,2017,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Uganda
 UGA,2022,Stockholm,0.0,0.0,,Estimated,Africa,Eastern Africa,Republic of Uganda
-UKR,2007,Stockholm,0.5500200000000001,55.002,,Estimated,Europe,Eastern Europe,Ukraine
-UKR,2012,Stockholm,0.5500200000000001,55.002,,Estimated,Europe,Eastern Europe,Ukraine
-UKR,2017,Stockholm,0.5500200000000001,55.002,,xx,Europe,Eastern Europe,Ukraine
-UKR,2022,Stockholm,0.375,37.5,,xx,Europe,Eastern Europe,Ukraine
+UKR,2007,Stockholm,0.872217180395157,55.002,,Estimated,Europe,Eastern Europe,Ukraine
+UKR,2012,Stockholm,0.872217180395157,55.002,,Estimated,Europe,Eastern Europe,Ukraine
+UKR,2017,Stockholm,0.872217180395157,55.002,,xx,Europe,Eastern Europe,Ukraine
+UKR,2022,Stockholm,0.7910212155829831,37.5,,xx,Europe,Eastern Europe,Ukraine
 URY,2007,Stockholm,0.0,0.0,,Estimated,America,South America,Oriental Republic of Uruguay
 URY,2012,Stockholm,0.0,0.0,,Estimated,America,South America,Oriental Republic of Uruguay
 URY,2017,Stockholm,0.0,0.0,,Estimated,America,South America,Oriental Republic of Uruguay
 URY,2022,Stockholm,0.0,0.0,,Estimated,America,South America,Oriental Republic of Uruguay
-USA,2007,Stockholm,0.6667000000000001,66.67,,Estimated,America,Northern America,United States of America
-USA,2012,Stockholm,0.6667000000000001,66.67,,Estimated,America,Northern America,United States of America
-USA,2017,Stockholm,0.6667000000000001,66.67,,xx,America,Northern America,United States of America
-USA,2022,Stockholm,0.6667000000000001,66.67,,xx,America,Northern America,United States of America
+USA,2007,Stockholm,0.9132248951818868,66.67,,Estimated,America,Northern America,United States of America
+USA,2012,Stockholm,0.9132248951818868,66.67,,Estimated,America,Northern America,United States of America
+USA,2017,Stockholm,0.9132248951818868,66.67,,xx,America,Northern America,United States of America
+USA,2022,Stockholm,0.9132248951818868,66.67,,xx,America,Northern America,United States of America
 UZB,2007,Stockholm,0.0,0.0,,Estimated,Asia,Central Asia,Republic of Uzbekistan
 UZB,2012,Stockholm,0.0,0.0,,Estimated,Asia,Central Asia,Republic of Uzbekistan
 UZB,2017,Stockholm,0.0,0.0,,Estimated,Asia,Central Asia,Republic of Uzbekistan

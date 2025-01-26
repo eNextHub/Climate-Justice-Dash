@@ -4,7 +4,7 @@ import plotly.express as px
 
 DIMS = {
     "Common goods": ["Red List Index","EJ Events","Climate Disaster"],
-    "Human rights": ["Air Pollution Morality","Education Index","Protected Forests"],
+    "Human rights": ["Air Pollution Mortality","Education Index","Protected Forests"],
     "Sustainability": ["Citizen Carbon Footprint","Waste Management","Fossil Fuel Subsidies"],
 }
 dfs = {}
