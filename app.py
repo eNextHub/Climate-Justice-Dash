@@ -330,10 +330,6 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
             },
         )
 
-        filtered_df["Country"] = filtered_df.apply(
-            lambda row: f"{row['Official_Name']}", axis=1
-        )
-        
 
         filtered_df["hover_text"] = build_ej_hover(filtered_df,dims)
         HOVER_COLS = []

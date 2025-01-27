@@ -1,6 +1,7 @@
 #%%
 import pandas as pd
 import plotly.express as px
+import numpy as np
 
 DIMS = {
     "Common goods": ["Red List Index","EJ Events","Climate Disaster"],
@@ -8,6 +9,17 @@ DIMS = {
     "Sustainability": ["Citizen Carbon Footprint","Waste Management","Fossil Fuel Subsidies"],
 }
 dfs = {}
+
+def normalize(data):
+
+
+    min_val = data["Value"].min()
+    max_val = data["Value"].max()
+
+
+    data["Normalized"] = [(np.log(x + 1) - np.log(min_val + 1)) / (np.log(max_val + 1) - np.log(min_val + 1)) for x in data["Value"]]
+
+    return data
 
 def read_dims():
     for dim,indicators in DIMS.items():
@@ -32,9 +44,10 @@ def calc_EJ_index(dfs,weights = DEFAULT_WEIGHTS):
 
     df = dfs["Common goods"].copy()
 
-    df["Normalized"] = sum(indicator["Normalized"]*weights[dim] for dim,indicator in dfs.items())
+    df["Value"] = sum(indicator["Normalized"]*weights[dim] for dim,indicator in dfs.items())
     df["Indicator"] = "EJ Index"
     df["Source"] = "Calcualted"
+    df = normalize(df)
 
     # df.to_csv("data/EJ index.csv")
     return df
