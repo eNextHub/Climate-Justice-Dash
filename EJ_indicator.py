@@ -1,4 +1,4 @@
-#%%
+
 import pandas as pd
 import plotly.express as px
 import numpy as np
@@ -6,7 +6,7 @@ import numpy as np
 DIMS = {
     "Common goods": ["Red List Index","EJ Events","Climate Disaster"],
     "Human rights": ["Air Pollution Mortality","Education Index","Protected Forests"],
-    "Sustainability": ["Citizen Carbon Footprint","Waste Management","Fossil Fuel Subsidies"],
+    "Sustainability": ["Citizen Carbon Footprint","Waste Management","Sustainable Energy Investment"],
 }
 dfs = {}
 
@@ -81,9 +81,4 @@ def plot(data):
 
 
 
-if __name__ == "__main__":
-    dfs = read_dims()
-    # data = calc_EJ_index(dfs)
-    # plot(data)
 
-# %%

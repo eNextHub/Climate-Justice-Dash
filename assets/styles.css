@@ -1,215 +1,442 @@
-/* assets/styles.css */
-
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;700&display=swap');
 
-body{
-  margin: 0px;
-  padding: 0px;
-  background-color: #F3F4F9;
-  font-family: 'Roboto';
-  color: #000000;
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F3F4F9;
+    font-family: "Barlow", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    color: #000000;
 }
 
+/* Responsive text */
 .bold-text strong {
-    font-size: 17px; /* Only increases size of bold text in Markdown */
-    color: black;    /* Optional: Change color */
+    font-size: 17px; 
+    color: black;
 }
 
-.bold-text  {
+.bold-text {
     text-align: justify;
-    line-height: 1.6;   
+    line-height: 1.6;
 }
 
+/* Responsive map holder */
 .map-holder {
     display: flex;
-    flex-direction: column; /* Align children vertically */
-    align-items: center;    /* Center elements horizontally */
-    justify-content: start; /* Align elements to the top */
-    gap: 40px;              /* Add 30px spacing between elements */
-    padding: 30px;          /* Optional: Add some padding around the container */
-    margin: 20px auto;      /* Center the container and add outer spacing */
-    width: 90%;             /* Optional: Set a width */
-    max-width: 600px;       /* Optional: Limit the max width */
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    gap: 30px;
+    padding: 20px;
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
 }
 
-
+/* Responsive banner */
 .study-browser-banner {
-background: #68d388;
-color: white;
-font-size: 10px;
-padding: 12px;
-padding-left: 48px;
-padding-bottom: 20px;
-margin-bottom: 40px;
-height: 50px;
-display: flex;                /* Enables flexbox */
-justify-content: center;      /* Centers content horizontally */
-align-items: center;          /* Centers content vertically */
-
+    background: #F3F4F9;
+    color: black;
+    font-size: clamp(10px, 1.5vw, 14px);
+    padding: 12px 48px;
+    margin-bottom: 40px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
+/* .study-browser-banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: #004466;
+    color: white;
+} */
+
+
+
+.header-logo {
+    height: 50px;
+    margin-right: 15px;
+}
+
+/* Responsive title */
 .h2-title {
-    text-align: center;           /* Center text horizontally inside the h1 */
-
+    text-align: center;
+    font-size: clamp(1.2rem, 2vw, 2rem);
 }
 
+/* Box shadow */
 .box-shadow {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
-    border-radius: 8px; /* Rounded corners */
+    border-radius: 8px;
 }
 
-.inline-elemnts {
+/* Inline elements container */
+.inline-elements {
     display: flex;
-    justify-content: space-between; /* Ensures the children are spread out */
-    align-items: center; /* Vertically aligns items */
-    gap: 10px; /* Adds spacing between items */
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; /* Ensures wrapping on smaller screens */
+    gap: 10px;
 }
-.user-control{
-    padding-top: 24px;
-    padding-bottom: 24px;
-  }
 
+/* User control section */
+.user-control {
+    padding: 24px 0;
+}
+
+/* Responsive dropdown */
 .dropdown {
-    min-width: 400px; /* Set a minimum width for the dropdown */
-    white-space: nowrap; /* Prevent text wrapping */
-    flex-grow: 1; /* Optional: Allow it to grow if there's extra space */
+    min-width: 200px;
+    width: 50%;
+    max-width: 400px;
+    white-space: nowrap;
+    flex-grow: 1;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+/* Responsive indicator browser */
 .indicator-browser {
     background-color: white;
-    padding: 24px 32px;
-    height: 280px;
+    padding: 24px;
+    height: auto;
     margin-top: 40px;
-    height: 240px
 }
 
+/* Explanation box */
 .indicator-explanation {
-padding: 10px;
-color: #000;
-/* height: max-content; */
+    padding: 10px;
+    color: #000;
 }
-/* Style for the sliders container */
+
+/* Responsive sliders container */
 .sliders-container {
-    width: 15%; /* Reduced width */
-    padding: 40px; /* Padding for content spacing */
-    background-color: white; /* Light background */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    border: 1px solid #ddd; /* Subtle border for contrast */
-    margin-bottom: 20px; /* Space below the sliders */
-    margin-top: 30px;
+    width: 20%;
+    min-width: 200px;
+    max-width: 300px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    margin: 30px auto;
 }
 
-
-
+/* Slider label */
 .slider-label {
     font-weight: bold;
     margin-bottom: 5px;
-    display: block;
-    font-size: 0.85rem; /* Slightly smaller font */
+    font-size: 0.85rem;
 }
 
+/* Slider */
 .slider {
-    height: 6px; /* Slimmer slider */
+    height: 6px;
     margin-top: 3px;
 }
 
-/* Style dropdown for consistency */
-.dropdown {
-    width: 50%;
-    margin: 0 auto; /* Center dropdown */
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-}
-
-/* Style for the map container */
+/* Map container */
 .map-container {
-    width: 95vw; /* Take up most of the viewport width */
-    height: 90vh; /* Occupy 90% of viewport height */
-    margin: 0 auto; /* Center horizontally */
-    padding: 0; /* Remove padding for better fit */
-    border: 2px solid #ddd; /* Subtle border */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
-    background-color: #fff; /* White background */
-    overflow: hidden; /* Prevent content overflow */
-    box-sizing: border-box; /* Include borders in dimensions */
+    width: 95vw;
+    height: 85vh;
+    margin: 20px auto;
+    padding: 0;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    overflow: hidden;
+    box-sizing: border-box;
 }
 
-/* Minimal button style */
-.minimal-button {
-    background-color: #ffffff; /* White background */
-    border: 1px solid #ddd;   /* Subtle border */
-    border-radius: 5px;       /* Slightly rounded corners */
-    /* padding: 8px 15px;        Spacing for the button */
-    font-size: 0.9rem;        /* Slightly smaller text size */
-    font-weight: 500;         /* Medium weight font */
-    color: #333;              /* Neutral text color */
-    cursor: pointer;          /* Pointer cursor on hover */
-    transition: all 0.2s ease-in-out; /* Smooth hover effect */
-    justify-content: center;
-}
-
-.minimal-button:hover {
-    background-color: #f7f7f7; /* Light gray background on hover */
-    border-color: #ccc;        /* Darker border on hover */
-    color: #000;               /* Slightly darker text */
-}
-
-.minimal-button:active {
-    background-color: #eaeaea; /* Slightly darker gray when clicked */
-    border-color: #bbb;        /* Subtle border change when clicked */
-}
-
-
-/* Apply the font family globally
-body, html, * {
-    font-family: "Barlow", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-} */
-
-/* Style for the header */
+/* App header */
 .app-header {
-    background-color: #4CAF50; /* Green background */
-    color: white; /* White text */
-    text-align: center; /* Center align text */
-    padding: 20px; /* Add padding */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add subtle shadow */
+    background-color: #22732C;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Style for the header title */
+/* Header title - keeps a stable size */
 .app-header-title {
-    margin: 0; /* Remove default margin */
-    font-size: 2.5rem; /* Make the title larger */
-    font-weight: 600; /* Bold font weight */
-    font-family: "Barlow", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    font-size: clamp(2.2rem, 2.5vw, 3rem); /* Prevents excessive shrinking */
+    font-weight: 600;
 }
 
-.sliders-container {
-    width: 20%; /* Reduced width */
-    margin: 20px auto; /* Center the container and adjust spacing */
-    padding: 10px; /* Padding for content spacing */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    margin-bottom: 30px; /* Increased space below sliders */
-    border: 2px solid #ddd; /* Subtle border */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
-    background-color: #fff; /* White background */
+/* Responsive adjustments */
+@media screen and (max-width: 1024px) {
+    .sliders-container {
+        width: 40%;
+    }
+
+    .dropdown {
+        width: 70%;
+    }
 }
 
-/* Add spacing for map-container */
+@media screen and (max-width: 768px) {
+    .map-holder {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .dropdown {
+        width: 80%;
+        min-width: unset;
+    }
+
+    .sliders-container {
+        width: 60%;
+    }
+
+    .map-container {
+        width: 100%;
+        height: 75vh;
+    }
+
+    .app-header-title {
+        font-size: 2.2rem; /* Prevents shrinking below this value */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .inline-elements {
+        flex-direction: column;
+    }
+
+    .dropdown {
+        width: 90%;
+    }
+
+    .study-browser-banner {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    .map-container {
+        width: 100%;
+        height: 65vh;
+    }
+
+    .sliders-container {
+        width: 80%;
+    }
+
+    .app-header-title {
+        font-size: 2rem; /* Ensures readability on small screens */
+    }
+}
+
+
+/* General Button Styling */
+.button {
+    border: 1px solid transparent;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    background-color: #22732C;
+    color: #fff;
+    position: relative;
+    transition: color 0.4s ease, background-color 0.4s ease, border-color 0.4s ease, box-shadow 0.4s ease;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    padding: 8px 15px;        /*Spacing for the button */
+}
+
+
+/* Button Sizes */
+.button-xs {
+    padding: 0.344rem 1rem;
+    font-size: 0.75rem;
+    line-height: 1.65;
+    border-radius: 0 40px 40px 40px;
+}
+
+.button-sm {
+    padding: 0.625rem 1.5rem;
+    font-size: 0.6125rem;
+    line-height: 1.6;
+    border-radius: 0 40px 40px 40px;
+}
+
+.button-md {
+    padding: 0.875rem 2.125rem;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    border-radius: 0 40px 40px 40px;
+}
+
+/* Hover Effects */
+.button:hover {
+    background-color: #7ad03a;
+    color:#fff;
+}
+
+.button:hover .icon-right {
+    transform: translateX(3px);
+}
+
+.button:hover .icon-left {
+    transform: translateX(-3px);
+}
+
+/* Icon Styling */
+.button .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1;
+    transition: transform 0.4s ease;
+}
+
+.button .icon-left {
+    order: -1;
+}
+
+.button .button-text {
+    order: 2;
+}
+
+.button .icon-right {
+    order: 3;
+}
+
+
+/* Wrapper for the dropdown and download button */
+.inline-elements {
+    display: flex;
+    justify-content: space-between;  /* Adds space between elements */
+    align-items: center;  /* Aligns the items vertically */
+    gap: 10px;  /* Adds a small gap between the dropdown and the button */
+    flex-wrap: wrap;  /* Allows wrapping when the window is too small */
+}
+
+/* Specific styling for the download button container */
+.download-button-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adds space between the button and the dropdown */
+}
+
+/* Optional: Adjust the dropdown button's size if needed */
+.button-sm {
+    padding: 10px 20px;  /* Adjusts the padding to match the desired button size */
+    font-size: 14px;  /* Adjust the font size */
+}
+  
+
+/* Makes the dropdown fit its content */
+.dropdown {
+    width: auto !important;  /* Ensures the dropdown fits the width of its content */
+    min-width: 200px;  /* Ensures a minimum width */
+    }
+    
+/* For smaller screens, ensure the dropdown and button stack properly */
+@media (max-width: 768px) {
+.inline-elements {
+    flex-direction: column;  /* Stack elements vertically on small screens */
+    align-items: flex-start;  /* Align items to the left */
+    width: 100%;  /* Full width on smaller screens */
+}
+.download-button-container {
+    margin-top: 10px;  /* Adds space above the button */
+}
+}
+.map-holder {
+    width: 100%;  /* Ensure the map-holder takes full width */
+    min-height: 800px;  /* Prevent shrinking too much */
+    display: flex;
+    flex-direction: column;
+    align-items: center;  /* Horizontally center all elements */
+    justify-content: flex-start;  /* Align contents at the top of the container */
+}
+
 .map-container {
-    width: 95vw; /* Keep as is */
-    height: 90vh; /* Keep as is */
-    margin: 20px auto; /* Add vertical spacing between map and sliders */
-    padding: 0; /* Remove padding for better fit */
-    border: 2px solid #ddd; /* Subtle border */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
-    background-color: #fff; /* White background */
-    overflow: hidden; /* Prevent content overflow */
-    box-sizing: border-box; /* Include borders in dimensions */
+    width: 100%;  /* Ensure the map container takes full width */
+    height: 100%;  /* Ensure the map takes full height of its parent */
+    margin-top: 20px;
+    max-height: 800px;  /* Optionally limit max height */
+    min-height: 500px;  /* Prevent shrinking too small */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+#choropleth-map {
+    width: 100% !important;  /* Ensure the plot takes the full width */
+    height: 100% !important;  /* Ensure the plot takes the full height */
+    min-width: 1200px;
 
+}
+
+#drop_continent {
+    width: 100%;  /* Ensure the dropdown takes full width */
+}
+
+.study-browser-banner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f8f8;
+    padding: 10px 0;
+}
+
+/* Flex container */
+.banner-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  /* Logo on left, title in center */
+    width: 90%;
+    max-width: 1200px;  /* Prevents title from moving too much */
+}
+
+/* LOGO (Left) */
+.banner-logo {
+    height: 50px;
+    width: auto;
+}
+
+/* TITLE (Centered) */
+.banner-title {
+    margin: 0;
+    font-size: 1.8em;
+    font-weight: bold;
+    text-align: center;
+    flex: 1;  /* Helps keep it centered */
+}
+
+/* Empty div to balance layout */
+.banner-space {
+    width: 50px;
+}
+
+/* 📌 RESPONSIVE: Stack items vertically on small screens */
+@media (max-width: 600px) {
+    .banner-content {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .banner-title {
+        margin-top: 5px;
+    }
+
+    .banner-space {
+        display: none;  /* Remove extra spacing on small screens */
+    }
+}
 

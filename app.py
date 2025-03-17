@@ -1,10 +1,4 @@
-# %%
 
-LOREM_IPSUM = """
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum, ligula quis efficitur tincidunt, nisl urna fermentum felis, quis maximus urna lorem quis augue. Curabitur ultrices viverra metus, a facilisis nulla tempor ac. Curabitur metus mi, eleifend ut volutpat vel, iaculis vitae nibh. Nullam convallis vulputate eleifend. Suspendisse congue purus a eleifend hendrerit. Vestibulum congue, purus vel mollis ornare, 
-"""
-
-# %%
 import dash
 from dash import dcc, html, Input, Output, State
 import pandas as pd
@@ -50,8 +44,12 @@ The **per capita consumption-based CO₂ emissions** measures the CO₂ emission
 
 *Note: Data for 2007 and 2012 were interpolated using values from 2005 and 2010, and 2010 and 2015, respectively, while 2022 values rely on data from 2020 due to limited availability.*
 """,
-    "Fossil Fuel Subsidies": """
-**Total fossil fuel subsidies as a percentage of GDP** measures the level of government support for fossil fuels, including both direct subsidies and implicit subsidies such as underpricing of environmental externalities like pollution and climate change impacts. By expressing these subsidies as a percentage of GDP, this indicator highlights the economic scale of fossil fuel support and its implications for sustainability and energy policy. Note: Due to data limitations, values for 2007 and 2012 were assumed to be the same as 2015 in the absence of older data.
+    "Sustainable Energy Investment": """
+The Index of **Sustainable Energy Investment** (IIES) assesses a country's commitment to sustainable energy by analyzing the contribution to investment in renewable technologies and fossil fuel subsidies, relative to gross domestic product (GDP). 
+
+This indicator is calculated by aggregating and normalizing investment in renewable technologies (using IRENA data) against GDP. Similarly, Fossil Fuel Subsidies (taken from IMF), which include both direct financial support and implicit subsidies such as underestimation of environmental externalities, are calculated and normalized. IIES is obtained by subtracting normalized fossil fuel subsidies from normalized renewable investments, providing a net value that reflects the nation's actual financial orientation toward sustainable energy.
+
+*Note: Due to data limitations in Fossil Fuels Subsidies, values for 2007 and 2012 were assumed to be the same as 2015 in the absence of older data.*
 """,
 "EJ Index": """
 ** Environmental Justice Index** is a synthetic index aims at measuring the relative enviromental justice across the world. The indicator is calcuated as a weighted average of indicators for three dimensions:
@@ -188,20 +186,43 @@ app = dash.Dash(
 indicators = df["Indicator"].unique().tolist() if not df.empty else []
 indicators.insert(0, "EJ Index")
 
-EXPLANATIONS = {k: LOREM_IPSUM for k in indicators}
 
 
 # App layout
 app.layout = html.Div(
     [
 
-        # Top Banner
+# Top Banner
+html.Div(
+    className="study-browser-banner",
+    children=[
         html.Div(
-            className="study-browser-banner",
+            className="banner-content",
             children=[
-                html.H2(className="h2-title", children="Environmental Justice Index"),
+                # Logo on the left
+                html.A(
+                    href="https://www.manitese.it/",
+                    children=html.Img(
+                        src="https://manitese.it/wp-content/themes/manitese/assets/images/manitese.svg",
+                        className="banner-logo",
+                    ),
+                ),
+
+                # Title (Centered)
+                html.H2(
+                    "Environmental Justice Index",
+                    className="banner-title",
+                ),
+
+                # Empty div for spacing (balances layout)
+                html.Div(className="banner-space"),
             ],
         ),
+    ],
+),
+
+
+
         html.Div(
             id="error-popup",
             children="Error: The sum of X and Y values cannot exceed 1.",
@@ -218,43 +239,44 @@ app.layout = html.Div(
                 "box-shadow": "0 4px 8px rgba(0,0,0,0.2)",
             },
         ),
-        # Dropdown for selecting the indicator
+      html.Div(
+    className="indicator-browser user-box box-shadow",
+    children=[
         html.Div(
-            className="indicator-browser user-box box-shadow",
+            className="inline-elements",
             children=[
-                html.Div(
-                    className="inline-elemnts",
-                    children=[
-                        html.Label("Select Indicator:", style={"font-weight": "bold"}),
-                        dcc.Dropdown(
-                            id="indicator-dropdown",
-                            options=[
-                                {"label": ind, "value": ind} for ind in indicators
-                            ],
-                            value=(
-                                indicators[0] if len(indicators) > 0 else None
-                            ),  # Default value
-                            clearable=False,
-                            className="dropdown",
-                        ),
-                        # Download button
-                        html.Div(
-                            [
-                                html.Button(
-                                    "Download Data",
-                                    id="download-button",
-                                    n_clicks=0,
-                                    className="minimal-button",
-                                ),
-                                dcc.Download(id="download-data"),
-                            ],
-                        ),
+                html.Label("Select Indicator:", style={"font-weight": "bold"}),
+                dcc.Dropdown(
+                    id="indicator-dropdown",
+                    options=[
+                        {"label": ind, "value": ind} for ind in indicators
                     ],
+                    value=(
+                        indicators[0] if len(indicators) > 0 else None
+                    ),  # Default value
+                    clearable=False,
+                    className="dropdown",
                 ),
-                html.Div(id="indicator-explanation", className="indicator-explanation"),
+                # Download button
+                html.Div(
+                    [
+                        html.Button(
+                            "Download Data",
+                            id="download-button",
+                            n_clicks=0,
+                            className="button button-sm",
+                        ),
+                        dcc.Download(id="download-data"),
+                    ],
+                    className="download-button-container",  # Added a wrapper class here
+                ),
             ],
-            style={"width": "50%", "margin": "auto"},
         ),
+        html.Div(id="indicator-explanation", className="indicator-explanation"),
+    ],
+    style={"width": "50%", "margin": "auto"},
+),
+
         html.Br(),
         # Store initial values for sliders
         dcc.Store(id="x-value-store", data=0.33),  # Default value for x-slider
@@ -297,6 +319,7 @@ app.layout = html.Div(
                 ),  # Initially hidden
                 
             ],
+
         ),
     ]
 )
@@ -389,9 +412,10 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
     fig.update_layout(
         autosize=True,
         margin=dict(l=1, r=1, b=1, t=1, pad=4, autoexpand=True),
-        width=1300,
-        height=800,
+        # width=1200,
+        # height=800,
     )
+
 
     fig.update_layout(
     sliders=[
@@ -562,12 +586,24 @@ def update_source_links(selected_indicator):
     
     share_of_estimation = len(estimated_data)/len(filtered_df)*100
 
-    text = f"""
-Source: *{source}*
-
-Link: *{link}*
-
+    if isinstance(source, str):
+        text = f"""
+Source: [{source}]({link})
 """
+    else:
+        text = "Source:\n"
+        for s, l in zip(source, link):
+            text += f"- [{s}]({l})\n"
+
+
+
+
+#     text = f"""
+# Source: *{source}*
+
+# Link: *{link}*
+
+# """
     if share_of_estimation != 0:
         text += f"""
 Note: {math.ceil(share_of_estimation)}% of data is estimated

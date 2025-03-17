@@ -50,7 +50,7 @@
       "long_name": "Cumulative unresolved Environmental Justice events",
       "unit": "%",
       "source": "EJ Atlas",
-      "link": "Ej Atlas",
+      "link": "https://ejatlas.org/",
       "dimension": "Common goods"
     },
     "Climate Disaster": {
@@ -80,6 +80,15 @@
         "source": "International Monetary Fund (IMF)",
         "link": "https://www.imf.org/en/Topics/climate-change/energy-subsidies",
         "dimension": "Sustainability"
-    }
+    },
+    "Sustainable Energy Investment": {
+      "indicator_code": "ENERGYFUTURE",
+      "short_name": "Total fossil fuel subsidies as a percentage of GDP",
+      "long_name": "Total fossil fuel subsidies as a percentage of GDP",
+      "unit": "",
+      "source": ["International Monetary Fund (IMF)","IRENA"],
+      "link": ["https://www.imf.org/en/Topics/climate-change/energy-subsidies","https://pxweb.irena.org/pxweb/en/IRENASTAT/IRENASTAT__Finance/PUBFIN_2024_H1.px/"],
+      "dimension": "Sustainability"
+  }
   }
   
