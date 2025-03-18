@@ -44,8 +44,8 @@ The **per capita consumption-based CO₂ emissions** measures the CO₂ emission
 
 *Note: Data for 2007 and 2012 were interpolated using values from 2005 and 2010, and 2010 and 2015, respectively, while 2022 values rely on data from 2020 due to limited availability.*
 """,
-    "Sustainable Energy Investment": """
-The Index of **Sustainable Energy Investment** (IIES) assesses a country's commitment to sustainable energy by analyzing the contribution to investment in renewable technologies and fossil fuel subsidies, relative to gross domestic product (GDP). 
+    "Energy Perspective": """
+The Index of **Energy Perspective** (IIES) assesses a country's commitment to sustainable energy by analyzing the contribution to investment in renewable technologies and fossil fuel subsidies, relative to gross domestic product (GDP). 
 
 This indicator is calculated by aggregating and normalizing investment in renewable technologies (using IRENA data) against GDP. Similarly, Fossil Fuel Subsidies (taken from IMF), which include both direct financial support and implicit subsidies such as underestimation of environmental externalities, are calculated and normalized. IIES is obtained by subtracting normalized fossil fuel subsidies from normalized renewable investments, providing a net value that reflects the nation's actual financial orientation toward sustainable energy.
 
@@ -56,7 +56,7 @@ This indicator is calculated by aggregating and normalizing investment in renewa
 
 - **Human Rights**:  measured as an average of *"Air Pollution Moratlity","Education Index", and "Protected Forests"*
 - **Common Goods**:  measured as an average of *"Red List Index","EJ Events", and "Climate Disaster"*
-- **Sustainability**: measured as an average of *"Citizen Carbon Footprint","Waste Management", and "Fossil Fuel Subsidies"*
+- **Sustainability**: measured as an average of *"Citizen Carbon Footprint","Waste Management", and "Energy Perspective"*
 """
 }
 
@@ -386,9 +386,9 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
         hover_data=hover_data,
         hover_name="hover_text",
         color_continuous_scale=[
-            (0.0, "red"),  # Red at 0
-            (0.5, "yellow"),  # Yellow at 0.5
-            (1.0, "green"),  # Green at 1
+            (0.0, "#B02A2A"),  # Red at 0
+            (0.5, "#C2D201"),  # Yellow at 0.5
+            (1.0, "#22835A"),  # Green at 1
         ],
     )
 

@@ -115,6 +115,7 @@ body {
 .indicator-explanation {
     padding: 10px;
     color: #000;
+    font-family: "Barlow", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
 }
 
 /* Responsive sliders container */

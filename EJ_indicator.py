@@ -6,7 +6,7 @@ import numpy as np
 DIMS = {
     "Common goods": ["Red List Index","EJ Events","Climate Disaster"],
     "Human rights": ["Air Pollution Mortality","Education Index","Protected Forests"],
-    "Sustainability": ["Citizen Carbon Footprint","Waste Management","Sustainable Energy Investment"],
+    "Sustainability": ["Citizen Carbon Footprint","Waste Management","Energy Perspective"],
 }
 dfs = {}
 
