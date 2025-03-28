@@ -216,7 +216,7 @@ indicators.insert(0, "EJ Index")
 app.layout = html.Div(
     [
 
-dcc.Store(id="window-size", data={"width": 800, "height": 600}),
+# dcc.Store(id="window-size", data={"width": 800, "height": 600}),
 
 # Top Banner
 html.Div(
@@ -343,7 +343,7 @@ html.Div(
         ],className="result-container",
         ),
          # Add the resize interval to update the window size
-    dcc.Interval(id="resize-interval", interval=500, n_intervals=0),
+    # dcc.Interval(id="resize-interval", interval=500, n_intervals=0),
     ]
 )
 
@@ -356,11 +356,10 @@ html.Div(
         Input("y-value-store", "data"),
         Input("z-value-store", "data"),
         Input("drop_continent", "value"),
-        Input("window-size", "data"),  # NEW: Listen for window size changes
-        Input("choropleth-map", "relayoutData")  # Track zoom/relayout events
+
     ],
 )
-def update_choropleth(selected_indicator, x_value, y_value, z_value, continent, window_size,relayoutData):
+def update_choropleth(selected_indicator, x_value, y_value, z_value, continent,):
     if not selected_indicator:
         return px.choropleth()  # Return an empty figure if no indicator is selected
 
@@ -415,12 +414,6 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent, 
         "World": {"center": {"lat": 0.0, "lon": 0.0}, "zoom": 1}  # World view as default
     }
 
-    # Dynamically adjust figure size based on window size
-    map_width = window_size["width"] * 0.8  # 80% of the window width
-    map_height = window_size["height"] * 0.7  # 70% of the window height
-    
-    # Adjust color bar length dynamically based on window size
-    colorbar_length = 0.4 * map_width  # Color bar length relative to map width for better responsiveness
 
     # Set the center and zoom based on the continent
     if continent in continent_zoom:
@@ -431,18 +424,7 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent, 
         zoom = continent_zoom["World"]["zoom"]
 
     # Check if the relayoutData has the keys we're interested in for zoom
-    if relayoutData:
-        keys_to_check = ['geo.projection.rotation.lon', 'geo.center.lon', 'geo.center.lat', 'geo.projection.scale']
-        
-        # If all keys are found in the relayoutData, zoom into those coordinates
-        if all(key in relayoutData for key in keys_to_check):
-            center_lon = relayoutData['geo.center.lon']
-            center_lat = relayoutData['geo.center.lat']
-            scale = relayoutData['geo.projection.scale']
-            
-            # Use the values from relayoutData to adjust zoom and center
-            center = {'lat': center_lat, 'lon': center_lon}
-            zoom = scale  # Use the scale from the relayoutData for zoom
+
 
     fig.update_layout(
         autosize=True,
@@ -457,35 +439,21 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent, 
         ),
     )
 
-    # Adjust the color bar depending on the window width (responsive behavior)
-    if window_size["width"] <= 850:
-        # For small screens (mobile devices, etc.)
-        fig.update_layout(
-            coloraxis_colorbar=dict(
-            title="",  # Title for the color bar
-            tickvals=[0,  1],  # Intervals for ticks
-            ticktext=["0",  "1"],  # Corresponding labels
-            tickmode="array",  # Use `tickvals` and `ticktext` for ticks
-            lenmode="pixels",  # Set the color bar length in pixels
-            len=colorbar_length*0.8,  # Size of the color bar,
-             thickness=10,  # Thickness of the color bar
-            ),
-
-        )
 
 
-    else:
-        # For larger screens (desktop, etc.)
-        fig.update_layout(
-            coloraxis_colorbar=dict(
-            title="Normalized Value",  # Title for the color bar
-            tickvals=[0, 0.25, 0.5, 0.75, 1],  # Intervals for ticks
-            ticktext=["0", "0.25", "0.5", "0.75", "1"],  # Corresponding labels
-            tickmode="array",  # Use `tickvals` and `ticktext` for ticks
-            lenmode="pixels",  # Set the color bar length in pixels
-            len=colorbar_length,  # Size of the color bar
-            ),
-        )
+    # For larger screens (desktop, etc.)
+    fig.update_layout(
+        coloraxis_colorbar=dict(
+        title="Normalized",  # Title for the color bar
+        tickvals=[0, 0.25, 0.5, 0.75, 1],  # Intervals for ticks
+        ticktext=["0", "0.25", "0.5", "0.75", "1"],  # Corresponding labels
+        tickmode="array",  # Use `tickvals` and `ticktext` for ticks
+        lenmode="fraction",  # Set the color bar length in pixels,
+        thicknessmode = "fraction",
+        len=0.5,  # Size of the color bar
+        thickness = 0.05
+        ),
+    )
 
 
     return fig
