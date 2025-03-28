@@ -40,8 +40,8 @@
       "short_name": "Waste management",
       "long_name": "Stockholm convention",
       "unit": "",
-      "source": "United Nations Economic Commission for Europe (UNECE)",
-      "link": "https://w3.unece.org/SDG/en/Indicator?id=58",
+      "source": ["United Nations Economic Commission for Europe (UNECE)","United Nations Environment Programme, United Nations Statistics Division and the United Nations Institute for Training and Research – processed by Our World in Data"],
+      "link": ["https://w3.unece.org/SDG/en/Indicator?id=58","https://ourworldindata.org/grapher/municipal-waste-recycled?time=2022"],
       "dimension": "Sustainability"
     },
     "EJ Events": {
@@ -68,7 +68,7 @@
       "long_name": "Forest coverage and management sustainability index",
       "unit": "%",
       "source": "Food and Agriculture Organization (FAO)",
-      "link": "https://de-public-statsuite.fao.org/vis?df[ds]=ds-release&df[id]=DF_AG_LND_FRSTPRCT_1521&df[ag]=FAO&df[vs]=1.0&dq=A...........&pd=2000%2C2020&to[TIME_PERIOD]=false&ly[cl]=TIME_PERIOD&ly[rw]=REF_AREA&vw=tb",
+      "link": "https://de-public-statsuite.fao.org/vis?tm=forest%20management&pg=0&hc[SDG%20Series]=&hc[Domain]=&snb=2&df[ds]=ds-release&df[id]=DF_SDG_15_2_1&df[ag]=FAO&df[vs]=1.0&dq=A...........&pd=2017%2C2023&to[TIME_PERIOD]=false",
       "dimension": "Common goods"
     },
 

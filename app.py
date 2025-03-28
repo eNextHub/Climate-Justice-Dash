@@ -35,6 +35,9 @@ The **per capita consumption-based CO₂ emissions** measures the CO₂ emission
 """,
     "EJ Events": """
 **Cumulative unresolved Environmental Justice events** measures the share of unresolved environmental justice events by country, based on cumulative data filtered to exclude stopped projects and events with known end dates. It highlights the distribution of verified environmental justice conflicts from historical records up to 2022, ranking countries by their share of the total unresolved cases. This indicator sheds light on the ten most affected countries, emphasizing persistent socio-environmental injustices globally.
+
+
+*DISCLAIMER: Please consider that the indicator has been produced using original data from the Environmental Justice Atlas (see publication at https://doi.org/10.2458/v22i1.21108). The original data set cannot be considered globally representative or its coverage complete. The EJAtlas data are a crowd-sourced convenience sample of environmental conflicts globally that updates and expands continuously. The absence of cases in the EJAtlas does not necessarily indicate an absence of environmental conflicts, but also areas for which the EJAtlas team has limited access to data; finally, EJAtlas data can be out of date, and at all effects consider the Data Set as an archive of cases describing environmental conflict until their specific day of publication or updating.*
 """,
     "Climate Disaster": """
 **Climate disaster damages** measures the economic impact of climate-related disasters, including climatological, hydrological, and meteorological events. It aggregates the total damages in % of country GDP, focusing on events since 2000. The indicator also tracks trends using a 5-year moving average, offering insights into the financial burden of these disasters over time at both country and regional levels.
@@ -45,9 +48,9 @@ The **per capita consumption-based CO₂ emissions** measures the CO₂ emission
 *Note: Data for 2007 and 2012 were interpolated using values from 2005 and 2010, and 2010 and 2015, respectively, while 2022 values rely on data from 2020 due to limited availability.*
 """,
     "Energy Perspective": """
-The Index of **Energy Perspective** (IIES) assesses a country's commitment to sustainable energy by analyzing the contribution to investment in renewable technologies and fossil fuel subsidies, relative to gross domestic product (GDP). 
+The Index of **Energy Perspective**  assesses a country's commitment to sustainable energy by analyzing the contribution to investment in renewable technologies and fossil fuel subsidies, relative to gross domestic product (GDP). 
 
-This indicator is calculated by aggregating and normalizing investment in renewable technologies (using IRENA data) against GDP. Similarly, Fossil Fuel Subsidies (taken from IMF), which include both direct financial support and implicit subsidies such as underestimation of environmental externalities, are calculated and normalized. IIES is obtained by subtracting normalized fossil fuel subsidies from normalized renewable investments, providing a net value that reflects the nation's actual financial orientation toward sustainable energy.
+This indicator is calculated by aggregating and normalizing investment in renewable technologies (using IRENA data) against GDP. Similarly, Fossil Fuel Subsidies (taken from IMF), which include both direct financial support and implicit subsidies such as underestimation of environmental externalities, are calculated and normalized. The Index of Energy Perspective is obtained by subtracting normalized fossil fuel subsidies from normalized renewable investments, providing a net value that reflects the nation's actual financial orientation toward sustainable energy.
 
 *Note: Due to data limitations in Fossil Fuels Subsidies, values for 2007 and 2012 were assumed to be the same as 2015 in the absence of older data.*
 """,
@@ -59,6 +62,9 @@ This indicator is calculated by aggregating and normalizing investment in renewa
 - **Sustainability**: measured as an average of *"Citizen Carbon Footprint","Waste Management", and "Energy Perspective"*
 """
 }
+
+dcc.Store(id="window-size", data={"width": 800, "height": 600}),
+dcc.Interval(id="resize-interval", interval=500, n_intervals=0),  # Checks window size
 
 
 # Load JSON file into a dictionary
@@ -91,13 +97,21 @@ def build_hover(df,metadata):
         normalized_value = round(vals.Normalized,3)
         unit = metadata[indicator]["unit"]
         absolute_value = round(vals.Value,3)
-        text = f"""
-    - {macro_category} <br>
-    - {country} ({region}) <br>
-    - Normalized value: {normalized_value} <br>
-    - Absolute value: {absolute_value} [{unit}]
-    """
 
+        if unit == "":
+            text = f"""
+        {macro_category} <br>
+        {country} ({region}) <br>
+        - Normalized value: {normalized_value} <br>
+        - Absolute value: {absolute_value}
+        """
+        else:
+            text = f"""
+        {macro_category} <br>
+        {country} ({region}) <br>
+        - Normalized value: {normalized_value} <br>
+        - Absolute value: {absolute_value} [{unit}]
+        """
 
         hover_text.append(text)
 
@@ -118,8 +132,8 @@ def build_ej_hover(df,dims):
         # y = round(y*normalized_value,3)
         # z = round(z*normalized_value,3)
         text = f"""
-    - {country} ({region}) <br>
-    - Normalized value: {normalized_value} <br><br>
+    {country} ({region}) <br>
+    Normalized value: {normalized_value} <br><br>
     <b>Dimensions</b><br>
     - Common goods ({round(common_goods,3)}) <br>
     - Human rights ({round(human_right,3)}) <br>
@@ -182,6 +196,16 @@ app = dash.Dash(
 )
 
 
+app.clientside_callback(
+    """
+    function(n) {
+        return {'width': window.innerWidth, 'height': window.innerHeight};
+    }
+    """,
+    Output("window-size", "data"),
+    Input("resize-interval", "n_intervals"),
+)
+
 # Extract unique indicators and years for dropdown
 indicators = df["Indicator"].unique().tolist() if not df.empty else []
 indicators.insert(0, "EJ Index")
@@ -191,6 +215,8 @@ indicators.insert(0, "EJ Index")
 # App layout
 app.layout = html.Div(
     [
+
+dcc.Store(id="window-size", data={"width": 800, "height": 600}),
 
 # Top Banner
 html.Div(
@@ -282,50 +308,46 @@ html.Div(
         dcc.Store(id="x-value-store", data=0.33),  # Default value for x-slider
         dcc.Store(id="y-value-store", data=0.33),  # Default value for y-slider
         dcc.Store(id="z-value-store", data=0.34),  # Default value for z-slider
-        html.Div(
-            className="map-holder",
-            children=[
-                html.Div(
-                    children=[
-                        dcc.Dropdown(
-                            id="drop_continent",
-                            clearable=False,
-                            searchable=False,
-                            options=REGIONS,
-                            value="World",
-                        ),
-                        html.Div(
-                            dcc.Graph(id="choropleth-map"),
-                            className="map-container",  # Use CSS for styling
-                            style={
-                                "width": "100%",
-                                "height": "100%",
-                                "margin-top": "20px",
-                            },  # Dynamic size
-                        ),
-                        html.Div(id="soure-box", className="indicator-explanation"),
-                    ],
-                ),
-                # Sliders in a styled container
-                html.Div(
-                    id="sliders-container",
-                    className="sliders-container",
-                    children=[
-                        html.Div(id="x-slider-container", className="slider-container"),
-                        html.Div(id="y-slider-container", className="slider-container"),
-                        html.Div(id="z-slider-container", className="slider-container"),
-                    ],
-                    style={"display": "none"},
-                ),  # Initially hidden
-                
-            ],
 
+        html.Div([
+            dcc.Dropdown(
+            id="drop_continent",
+            className="continent-filter",
+            clearable=False,
+            searchable=False,
+            options=REGIONS,
+            value="World",
         ),
+
+    html.Div(
+    dcc.Graph(
+        id="choropleth-map",
+        config={"responsive": True},  # Important for responsiveness
+        style={"width": "10%", "height": "10%","margin-top":"20px"}  # Allow full use of container
+    ),
+    className="map-container",
+
+),
+        html.Div(id="soure-box", className="indicator-explanation"),
+        # Sliders in a styled container
+        html.Div(
+            id="sliders-container",
+            className="sliders-container",
+            children=[
+                html.Div(id="x-slider-container", className="slider-container"),
+                html.Div(id="y-slider-container", className="slider-container"),
+                html.Div(id="z-slider-container", className="slider-container"),
+            ],
+            style={"display": "none"},
+        ),  # Initially hidden
+        ],className="result-container",
+        ),
+         # Add the resize interval to update the window size
+    dcc.Interval(id="resize-interval", interval=500, n_intervals=0),
     ]
 )
 
 
-# Callback to update choropleth map
 @app.callback(
     Output("choropleth-map", "figure"),
     [
@@ -334,15 +356,16 @@ html.Div(
         Input("y-value-store", "data"),
         Input("z-value-store", "data"),
         Input("drop_continent", "value"),
+        Input("window-size", "data"),  # NEW: Listen for window size changes
     ],
 )
-def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
+def update_choropleth(selected_indicator, x_value, y_value, z_value, continent, window_size):
     if not selected_indicator:
         return px.choropleth()  # Return an empty figure if no indicator is selected
 
     x_value, y_value, z_value = calc_slider_vals(x_value, y_value, z_value)
-    # Filter data based on the selected indicator
 
+    # Filter data based on the selected indicator
     if selected_indicator == "EJ Index":
         filtered_df = calc_EJ_index(
             dims,
@@ -352,11 +375,8 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
                 "Sustainability": z_value,
             },
         )
-
-
-        filtered_df["hover_text"] = build_ej_hover(filtered_df,dims)
+        filtered_df["hover_text"] = build_ej_hover(filtered_df, dims)
         HOVER_COLS = []
-
     else:
         filtered_df = df[df["Indicator"] == selected_indicator]
         HOVER_COLS = []
@@ -364,67 +384,72 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent):
     if filtered_df.empty:
         return px.choropleth()  # Return an empty figure if no data matches
 
-    hover_data = {}
-    for col in filtered_df.columns:
-        if col in HOVER_COLS:
-            hover_data[col] = True
-        else:
-            hover_data[col] = False
-
-    estimated_data = filtered_df[filtered_df["Source"]=="Estimated"]
-    
-    share_of_estimation = len(estimated_data)/len(filtered_df)*100
+    hover_data = {col: col in HOVER_COLS for col in filtered_df.columns}
 
     if continent != "World":
         filtered_df = filtered_df.loc[filtered_df.Continent == continent]
+
     fig = px.choropleth(
         filtered_df,
-        locations="Region",  # ISO3 country code column
-        color="Normalized",  # Data to color map by
-        animation_frame="Year",  # Animation by year
+        locations="Region",
+        color="Normalized",
+        animation_frame="Year",
         projection="natural earth",
         hover_data=hover_data,
         hover_name="hover_text",
         color_continuous_scale=[
-            (0.0, "#B02A2A"),  # Red at 0
-            (0.5, "#C2D201"),  # Yellow at 0.5
-            (1.0, "#22835A"),  # Green at 1
+            (0.0, "#B02A2A"),
+            (0.5, "#C2D201"),
+            (1.0, "#22835A"),
         ],
     )
 
-    # Lock color bar range from 0 to 1 (fixed color scale)
+    # Dynamically adjust figure size based on window size
+    map_width = window_size["width"] * 0.8  # 80% of the window width
+    map_height = window_size["height"] * 0.7  # 70% of the window height
+    
+    # Adjust color bar length dynamically based on window size
+    colorbar_length = 0.4 * map_width  # Color bar length relative to map width for better responsiveness
+
+    # Update layout for the choropleth map
     fig.update_layout(
-        coloraxis_colorbar=dict(
+        autosize=True,
+        # width=map_width,
+        # height=map_height,
+        # margin=dict(l=1, r=1, b=1, t=1),
+        coloraxis=dict(cmin=0, cmax=1),
+        hovermode="x unified",
+    )
+
+    # Adjust the color bar depending on the window width (responsive behavior)
+    if window_size["width"] <= 850:
+        # For small screens (mobile devices, etc.)
+        fig.update_layout(
+            coloraxis_colorbar=dict(
+            title="",  # Title for the color bar
+            tickvals=[0,  1],  # Intervals for ticks
+            ticktext=["0",  "1"],  # Corresponding labels
+            tickmode="array",  # Use `tickvals` and `ticktext` for ticks
+            lenmode="pixels",  # Set the color bar length in pixels
+            len=colorbar_length*0.8,  # Size of the color bar,
+             thickness=10,  # Thickness of the color bar
+            ),
+
+        )
+
+
+    else:
+        # For larger screens (desktop, etc.)
+        fig.update_layout(
+            coloraxis_colorbar=dict(
             title="Normalized Value",  # Title for the color bar
             tickvals=[0, 0.25, 0.5, 0.75, 1],  # Intervals for ticks
             ticktext=["0", "0.25", "0.5", "0.75", "1"],  # Corresponding labels
             tickmode="array",  # Use `tickvals` and `ticktext` for ticks
             lenmode="pixels",  # Set the color bar length in pixels
-            len=300,  # Length of the color bar
-        ),
-        coloraxis=dict(
-            cmin=0,  # Set fixed minimum value for color scale
-            cmax=1,  # Set fixed maximum value for color scale
-        ),
-        hovermode="x unified",
-    )
-
-    fig.update_layout(
-        autosize=True,
-        margin=dict(l=1, r=1, b=1, t=1, pad=4, autoexpand=True),
-        # width=1200,
-        # height=800,
-    )
-
-
-    fig.update_layout(
-    sliders=[
-        {
-            "active": 3,  # Index for 2022 (adjust based on your actual data)
-            "currentvalue": {"prefix": "Year: "},
-        }
-    ]
-)
+            len=colorbar_length,  # Size of the color bar
+            ),
+        )
 
     return fig
 

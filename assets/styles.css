@@ -21,18 +21,6 @@ body {
     line-height: 1.6;
 }
 
-/* Responsive map holder */
-.map-holder {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: start;
-    gap: 30px;
-    padding: 20px;
-    width: 90%;
-    max-width: 800px;
-    margin: auto;
-}
 
 /* Responsive banner */
 .study-browser-banner {
@@ -56,7 +44,9 @@ body {
     background-color: #004466;
     color: white;
 } */
-
+.plot{
+    color: red;
+}
 
 
 .header-logo {
@@ -144,19 +134,8 @@ body {
     margin-top: 3px;
 }
 
-/* Map container */
-.map-container {
-    width: 95vw;
-    height: 85vh;
-    margin: 20px auto;
-    padding: 0;
-    border: 2px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    background-color: #fff;
-    overflow: hidden;
-    box-sizing: border-box;
-}
+
+
 
 /* App header */
 .app-header {
@@ -355,6 +334,7 @@ body {
     margin-top: 10px;  /* Adds space above the button */
 }
 }
+
 .map-holder {
     width: 100%;  /* Ensure the map-holder takes full width */
     min-height: 800px;  /* Prevent shrinking too much */
@@ -362,25 +342,12 @@ body {
     flex-direction: column;
     align-items: center;  /* Horizontally center all elements */
     justify-content: flex-start;  /* Align contents at the top of the container */
+    color: rgb(5, 5, 5);
 }
 
-.map-container {
-    width: 100%;  /* Ensure the map container takes full width */
-    height: 100%;  /* Ensure the map takes full height of its parent */
-    margin-top: 20px;
-    max-height: 800px;  /* Optionally limit max height */
-    min-height: 500px;  /* Prevent shrinking too small */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
-#choropleth-map {
-    width: 100% !important;  /* Ensure the plot takes the full width */
-    height: 100% !important;  /* Ensure the plot takes the full height */
-    min-width: 1200px;
 
-}
+
 
 #drop_continent {
     width: 100%;  /* Ensure the dropdown takes full width */
@@ -440,4 +407,56 @@ body {
         display: none;  /* Remove extra spacing on small screens */
     }
 }
+
+.result-container {
+    width: 80%;
+    max-width: 100%;
+    margin: auto;
+}
+
+.continent-filter {
+    width: 100%;
+}
+
+/* Adjustments for smaller screens */
+@media (max-width: 1024px) {
+    .map-container {
+        width: 90vw;
+        height: 70vh;
+    }
+}
+
+@media (max-width: 768px) {
+    .map-container {
+        width: 100vw;
+        height: 60vh;
+    }
+}
+/* Flexbox layout for map container */
+.map-container {
+    display: flex;               /* Flexbox layout */
+    justify-content: center;     /* Center horizontally */
+    align-items: center;         /* Center vertically */
+    width: 100%;                 /* Set width to 80% of the viewport width */
+    height: 80vh;                /* Set height to 80% of the viewport height */
+    margin: 20px auto;           /* Center container horizontally */
+    padding: 0;                  /* Remove padding */
+    border: 2px solid #ddd;      /* Border around map */
+    border-radius: 8px;          /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Box shadow for styling */
+    background-color: #fff;      /* White background */
+    overflow: hidden;            /* Prevent overflow */
+    box-sizing: border-box;      /* Include padding and borders in width/height calculation */
+}
+
+/* Ensure choropleth map fills its container */
+#choropleth-map {
+    width: 100% !important;                 /* Full width */
+    height: 100% !important;                /* Full height */
+}
+
+
+
+
+
 
