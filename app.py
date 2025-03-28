@@ -357,9 +357,10 @@ html.Div(
         Input("z-value-store", "data"),
         Input("drop_continent", "value"),
         Input("window-size", "data"),  # NEW: Listen for window size changes
+        Input("choropleth-map", "relayoutData")  # Track zoom/relayout events
     ],
 )
-def update_choropleth(selected_indicator, x_value, y_value, z_value, continent, window_size):
+def update_choropleth(selected_indicator, x_value, y_value, z_value, continent, window_size,relayoutData):
     if not selected_indicator:
         return px.choropleth()  # Return an empty figure if no indicator is selected
 
@@ -404,6 +405,16 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent, 
         ],
     )
 
+     # Predefined centers and zoom levels for each continent
+    continent_zoom = {
+        "Africa": {"center": {"lat": 1.0, "lon": 20.0}, "zoom": 1.5},
+        "Asia": {"center": {"lat": 34.0, "lon": 100.0}, "zoom": 1.5},
+        "Europe": {"center": {"lat": 50.0, "lon": 10.0}, "zoom": 1.5},
+        "America": {"center": {"lat": 37.0, "lon": -90.0}, "zoom": 1.0},  # Adjusted zoom level to 2.5
+        "Oceania": {"center": {"lat": -25.0, "lon": 140.0}, "zoom": 1.5},
+        "World": {"center": {"lat": 0.0, "lon": 0.0}, "zoom": 1}  # World view as default
+    }
+
     # Dynamically adjust figure size based on window size
     map_width = window_size["width"] * 0.8  # 80% of the window width
     map_height = window_size["height"] * 0.7  # 70% of the window height
@@ -411,14 +422,39 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent, 
     # Adjust color bar length dynamically based on window size
     colorbar_length = 0.4 * map_width  # Color bar length relative to map width for better responsiveness
 
-    # Update layout for the choropleth map
+    # Set the center and zoom based on the continent
+    if continent in continent_zoom:
+        center = continent_zoom[continent]["center"]
+        zoom = continent_zoom[continent]["zoom"]
+    else:
+        center = continent_zoom["World"]["center"]
+        zoom = continent_zoom["World"]["zoom"]
+
+    # Check if the relayoutData has the keys we're interested in for zoom
+    if relayoutData:
+        keys_to_check = ['geo.projection.rotation.lon', 'geo.center.lon', 'geo.center.lat', 'geo.projection.scale']
+        
+        # If all keys are found in the relayoutData, zoom into those coordinates
+        if all(key in relayoutData for key in keys_to_check):
+            center_lon = relayoutData['geo.center.lon']
+            center_lat = relayoutData['geo.center.lat']
+            scale = relayoutData['geo.projection.scale']
+            
+            # Use the values from relayoutData to adjust zoom and center
+            center = {'lat': center_lat, 'lon': center_lon}
+            zoom = scale  # Use the scale from the relayoutData for zoom
+
     fig.update_layout(
         autosize=True,
         # width=map_width,
         # height=map_height,
-        # margin=dict(l=1, r=1, b=1, t=1),
         coloraxis=dict(cmin=0, cmax=1),
         hovermode="x unified",
+        geo=dict(
+            projection_type="natural earth",  # Set projection to "natural earth"
+            center=center,  # Set center to the continent's center
+            projection_scale=zoom,  # Set zoom level
+        ),
     )
 
     # Adjust the color bar depending on the window width (responsive behavior)
@@ -450,6 +486,7 @@ def update_choropleth(selected_indicator, x_value, y_value, z_value, continent, 
             len=colorbar_length,  # Size of the color bar
             ),
         )
+
 
     return fig
 
