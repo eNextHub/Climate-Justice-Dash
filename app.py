@@ -63,6 +63,46 @@ This indicator is calculated by aggregating and normalizing investment in renewa
 """
 }
 
+WELCOME = """
+
+Created by **Mani Tese** in partnership with the **University of Milan**, **Politecnico di Milano**, and **eNextGen**, and funded by **Fondazione Cariplo**, the **EJI** weaves together **twelve open-source indicators** – spanning *Human Rights*, *Common Goods*, and *Sustainability* – to reveal which countries contribute most to environmental and social degradation and which suffer its greatest impacts.
+
+Each indicator is normalized to a **0–1 scale**, and the three dimensions are **equally weighted by default** (⅓ each, but fully adjustable) to deliver a single, transparent score for every country across four benchmark years: **2007, 2012, 2017, and 2022**.
+
+
+** Environmental Justice Index Report**
+
+The full scientific method, data sources, and policy implications are detailed in the **Environmental Justice Index Report** *(click the cover image to open)*.
+
+- [Download PDF – Italian](#)  
+- [Download PDF – English](#)
+
+
+** How to Use the Platform in Three Quick Steps**
+
+1.**Explore the map**  
+   Select a year in the top-right menu, then hover or tap on any country to view its overall score and the breakdown by dimension.
+
+2.**Dive into specific indicators**  
+   Use the drop-down list to visualize a single metric – such as per-capita carbon footprint, mortality from air pollution, or unresolved environmental-justice conflicts.
+
+3.**Adjust the perspective**  
+   Move the sliders below the map to change the weights of the three dimensions and watch colors and rankings update instantly. When you’re ready for deeper analysis, click **Download data** to obtain the raw and normalized datasets.
+
+
+** Questions? **
+
+Consult the **Methodology** section or write to [xxx@manitese.it](mailto:xxx@manitese.it).  
+
+**Enjoy exploring – and thank you for advancing environmental justice!**
+
+"""
+
+COPYRIGHT = """
+© 2025 [Environmental Justice Index](https://ejindex.manitese.it/). All rights reserved.  
+Visit our partner: [Mani Tese](https://www.manitese.it)
+"""
+
 dcc.Store(id="window-size", data={"width": 800, "height": 600}),
 dcc.Interval(id="resize-interval", interval=500, n_intervals=0),  # Checks window size
 
@@ -193,6 +233,8 @@ app = dash.Dash(
     __name__,
     external_stylesheets=["https://codepen.io/chriddyp/pen/bWLwgP.css"],
     suppress_callback_exceptions=True,
+    show_undo_redo=False,
+
 )
 
 
@@ -265,6 +307,12 @@ html.Div(
                 "box-shadow": "0 4px 8px rgba(0,0,0,0.2)",
             },
         ),
+        html.Div(
+            [html.H1("Welcome to the Environmental Justice Index (EJI) Dashboard",style={'textAlign': 'center','fontSize': '24px' }),
+            dcc.Markdown(WELCOME),],
+            className="user-box box-shadow indicator-explanation indicator-browser",
+            style={"width": "70%", "margin": "auto","margin-bottom":"20px"},
+            ),
       html.Div(
     className="indicator-browser user-box box-shadow",
     children=[
@@ -340,6 +388,7 @@ html.Div(
             ],
             style={"display": "none"},
         ),  # Initially hidden
+        html.Div(dcc.Markdown(COPYRIGHT),className="indicator-explanation"),
         ],className="result-container",
         ),
          # Add the resize interval to update the window size
@@ -646,4 +695,4 @@ Note: {math.ceil(share_of_estimation)}% of data is estimated
 
 # Run the app
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(debug=False)
