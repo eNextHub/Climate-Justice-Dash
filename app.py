@@ -72,9 +72,9 @@ Each indicator is normalized to a **0–1 scale**, and the three dimensions are 
 
 ** Environmental Justice Index Report**
 
-The full scientific method, data sources, and policy implications are detailed in the **Environmental Justice Index Report** *(click the cover image to open)*.
+The full scientific method, data sources, and policy implications are detailed in the **Environmental Justice Index Report** (click here for more info: [Environmental Justice Index - Mani Tese](https://www.manitese.it/iniziative/environmental-justice-index/)).
 
-- [Download PDF – Italian](#)  
+- [Download PDF – Italian](https://www.manitese.it/wp-content/uploads/2025/04/Environmental_Justice_Index_bassa.pdf)  
 - [Download PDF – English](#)
 
 
@@ -92,15 +92,14 @@ The full scientific method, data sources, and policy implications are detailed i
 
 ** Questions? **
 
-Consult the **Methodology** section or write to [xxx@manitese.it](mailto:xxx@manitese.it).  
+Consult the **Methodology** section or write to [lenhard@manitese.it](mailto:lenhard@manitese.it).  
 
 **Enjoy exploring – and thank you for advancing environmental justice!**
 
 """
 
 COPYRIGHT = """
-© 2025 [Environmental Justice Index](https://ejindex.manitese.it/). All rights reserved.  
-Visit our partner: [Mani Tese](https://www.manitese.it)
+© 2025 [Environmental Justice Index](https://ejindex.manitese.it/). All rights reserved ([Mani Tese](https://www.manitese.it)).
 """
 
 dcc.Store(id="window-size", data={"width": 800, "height": 600}),
@@ -309,7 +308,7 @@ html.Div(
         ),
         html.Div(
             [html.H1("Welcome to the Environmental Justice Index (EJI) Dashboard",style={'textAlign': 'center','fontSize': '24px' }),
-            dcc.Markdown(WELCOME),],
+            dcc.Markdown(WELCOME,style={"text-align": "justify"}),],
             className="user-box box-shadow indicator-explanation indicator-browser",
             style={"width": "70%", "margin": "auto","margin-bottom":"20px"},
             ),
